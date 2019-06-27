@@ -1,0 +1,26 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Cloud type,,0,,Clear,,,Operational
+Cloud type,,1,,Cumulonimbus,,,Operational
+Cloud type,,2,,Stratus,,,Operational
+Cloud type,,3,,Stratocumulus,,,Operational
+Cloud type,,4,,Cumulus,,,Operational
+Cloud type,,5,,Altostratus,,,Operational
+Cloud type,,6,,Nimbostratus,,,Operational
+Cloud type,,7,,Altocumulus,,,Operational
+Cloud type,,8,,Cirrostratus,,,Operational
+Cloud type,,9,,Cirrocumulus,,,Operational
+Cloud type,,10,,Cirrus,,,Operational
+Cloud type,,11,,Cumulonimbus - ground-based fog beneath the lowest layer,,,Operational
+Cloud type,,12,,Stratus - ground-based fog beneath the lowest layer,,,Operational
+Cloud type,,13,,Stratocumulus - ground-based fog beneath the lowest layer,,,Operational
+Cloud type,,14,,Cumulus - ground-based fog beneath the lowest layer,,,Operational
+Cloud type,,15,,Altostratus - ground-based fog beneath the lowest layer,,,Operational
+Cloud type,,16,,Nimbostratus - ground-based fog beneath the lowest layer,,,Operational
+Cloud type,,17,,Altocumulus - ground-based fog beneath the lowest layer,,,Operational
+Cloud type,,18,,Cirrostratus - ground-based fog beneath the lowest layer,,,Operational
+Cloud type,,19,,Cirrocumulus - ground-based fog beneath the lowest layer,,,Operational
+Cloud type,,20,,Cirrus - ground-based fog beneath the lowest layer,,,Operational
+Cloud type,,21-190,,Reserved,,,Operational
+Cloud type,,191,,Unknown,,,Operational
+Cloud type,,192-254,,Reserved for local use,,,Operational
+Cloud type,,255,,Missing,,,Operational

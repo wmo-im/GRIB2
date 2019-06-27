@@ -1,0 +1,44 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Grid definition template number,,0,,Latitude/longitude,,"Also called equidistant cylindrical, or Plate Carrée",Operational
+Grid definition template number,,1,,Rotated latitude/longitude,,,Operational
+Grid definition template number,,2,,Stretched latitude/longitude,,,Operational
+Grid definition template number,,3,,Stretched and rotated latitude/longitude,,,Operational
+Grid definition template number,,4,,Variable resolution latitude/longitude,,,Operational
+Grid definition template number,,5,,Variable resolution rotated latitude/longitude,,,Operational
+Grid definition template number,,6-9,,Reserved,,,Operational
+Grid definition template number,,10,,Mercator,,,Operational
+Grid definition template number,,11-19,,Reserved,,,Operational
+Grid definition template number,,20,,Polar stereographic projection,,Can be south or north,Operational
+Grid definition template number,,21-29,,Reserved,,,Operational
+Grid definition template number,,30,,Lambert conformal,,"Can be secant or tangent, conical or bipolar",Operational
+Grid definition template number,,31,,Albers equal area,,,Operational
+Grid definition template number,,32-39,,Reserved,,,Operational
+Grid definition template number,,40,,Gaussian latitude/longitude,,,Operational
+Grid definition template number,,41,,Rotated Gaussian latitude/longitude,,,Operational
+Grid definition template number,,42,,Stretched Gaussian latitude/longitude,,,Operational
+Grid definition template number,,43,,Stretched and rotated Gaussian latitude/longitude,,,Operational
+Grid definition template number,,44-49,,Reserved,,,Operational
+Grid definition template number,,50,,Spherical harmonic coefficients,,,Operational
+Grid definition template number,,51,,Rotated spherical harmonic coefficients,,,Operational
+Grid definition template number,,52,,Stretched spherical harmonic coefficients,,,Operational
+Grid definition template number,,53,,Stretched and rotated spherical harmonic coefficients,,,Operational
+Grid definition template number,,54-89,,Reserved,,,Operational
+Grid definition template number,,90,,Space view perspective or orthographic,,,Operational
+Grid definition template number,,91-99,,Reserved,,,Operational
+Grid definition template number,,100,,Triangular grid based on an icosahedron,,,Operational
+Grid definition template number,,101,,General unstructured grid,,,Operational
+Grid definition template number,,102-109,,Reserved,,,Operational
+Grid definition template number,,110,,Equatorial azimuthal equidistant projection,,,Operational
+Grid definition template number,,111-119,,Reserved,,,Operational
+Grid definition template number,,120,,Azimuth-range projection,,,Operational
+Grid definition template number,,121-139,,Reserved,,,Operational
+Grid definition template number,,140,,Lambert azimuthal equal area projection,,,Operational
+Grid definition template number,,141-999,,Reserved,,,Operational
+Grid definition template number,,1000,,Cross-section grid with points equally spaced on the horizontal,,,Experimental
+Grid definition template number,,1001-1099,,Reserved,,,Operational
+Grid definition template number,,1100,,Hovmöller diagram grid with points equally spaced on the horizontal,,,Experimental
+Grid definition template number,,1101-1199,,Reserved,,,Operational
+Grid definition template number,,1200,,Time section grid,,,Experimental
+Grid definition template number,,1201-32767,,Reserved,,,Operational
+Grid definition template number,,32768-65534,,Reserved for local use,,,Operational
+Grid definition template number,,65535,,Missing,,,Operational

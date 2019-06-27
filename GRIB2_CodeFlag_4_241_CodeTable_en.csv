@@ -1,0 +1,9 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Coverage attributes,,0,,Undefined,,,Operational
+Coverage attributes,,1,,Unmodified,,,Operational
+Coverage attributes,,2,,Snow covered,,,Operational
+Coverage attributes,,3,,Flooded,,,Operational
+Coverage attributes,,4,,Ice covered,,,Operational
+Coverage attributes,,5-191,,Reserved,,,Operational
+Coverage attributes,,192-254,,Reserved for local use,,,Operational
+Coverage attributes,,255,,Missing value,,,Operational

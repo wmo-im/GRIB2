@@ -1,0 +1,5 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Bit map indicator,,0,,A bit map applies to this product and is specified in this Section,,,Operational
+Bit map indicator,,1-253,,A bit map predetermined by the originating/generating centre applies to this product and is not specified in this Section,,,Operational
+Bit map indicator,,254,,"A bit map defined previously in the same ""GRIB"" message applies to this product",,,Operational
+Bit map indicator,,255,,A bit map does not apply to this product,,,Operational

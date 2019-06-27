@@ -1,0 +1,4 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+Grid point data - complex packing and spatial differencing,12-47,Same as data representation template 5.2,,Operational
+Grid point data - complex packing and spatial differencing,48,Order of spatial differencing,(see Code table 5.6),Operational
+Grid point data - complex packing and spatial differencing,49,Number of octets required in the data section to specify extra descriptors needed for spatial differencing (octets 6-ww in data template 7.3),,Operational

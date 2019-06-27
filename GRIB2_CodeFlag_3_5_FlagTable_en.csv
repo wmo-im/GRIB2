@@ -1,0 +1,5 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Projection centre,,1,0,North Pole is on the projection plane,,,Operational
+Projection centre,,1,1,South Pole is on the projection plane,,,Operational
+Projection centre,,2,0,Only one projection centre is used,,,Operational
+Projection centre,,2,1,Projection is bipolar and symmetric,,,Operational

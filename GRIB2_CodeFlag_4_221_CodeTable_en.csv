@@ -1,0 +1,6 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Treatment of missing data,,0,,Not included,,,Operational
+Treatment of missing data,,1,,Extrapolated,,,Operational
+Treatment of missing data,,2-191,,Reserved,,,Operational
+Treatment of missing data,,192-254,,Reserved for local use,,,Operational
+Treatment of missing data,,255,,Missing,,,Operational

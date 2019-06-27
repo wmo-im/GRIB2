@@ -1,0 +1,3 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+Spherical harmonics - complex packing,6-(5+IxTS),Data values from the unpacked subset (IEEE floating-point values on I octets),,Operational
+Spherical harmonics - complex packing,(6+IxTS)-nn,"Binary data values - binary string, with each (scaled) data value out of the unpacked subset",,Operational

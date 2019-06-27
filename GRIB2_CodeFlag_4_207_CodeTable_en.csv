@@ -1,0 +1,10 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Icing,,0,,None,,,Operational
+Icing,,1,,Light,,,Operational
+Icing,,2,,Moderate,,,Operational
+Icing,,3,,Severe,,,Operational
+Icing,,4,,Trace,,,Operational
+Icing,,5,,Heavy,,,Operational
+Icing,,6-191,,Reserved,,,Operational
+Icing,,192-254,,Reserved for local use,,,Operational
+Icing,,255,,Missing,,,Operational

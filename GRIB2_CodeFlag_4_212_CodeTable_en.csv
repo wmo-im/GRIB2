@@ -1,0 +1,18 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Land use,,0,,Reserved,,,Operational
+Land use,,1,,Urban land,,,Operational
+Land use,,2,,Agriculture,,,Operational
+Land use,,3,,Range land,,,Operational
+Land use,,4,,Deciduous forest,,,Operational
+Land use,,5,,Coniferous forest,,,Operational
+Land use,,6,,Forest/wetland,,,Operational
+Land use,,7,,Water,,,Operational
+Land use,,8,,Wetlands,,,Operational
+Land use,,9,,Desert,,,Operational
+Land use,,10,,Tundra,,,Operational
+Land use,,11,,Ice,,,Operational
+Land use,,12,,Tropical forest,,,Operational
+Land use,,13,,Savannah,,,Operational
+Land use,,14-191,,Reserved,,,Operational
+Land use,,192-254,,Reserved for local use,,,Operational
+Land use,,255,,Missing,,,Operational

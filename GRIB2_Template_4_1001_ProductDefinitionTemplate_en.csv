@@ -1,0 +1,17 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,10,Parameter category,(see Code table 4.1),Experimental
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,11,Parameter number,(see Code table 4.2),Experimental
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,12,Type of generating process,(see Code table 4.3),Experimental
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,13,Background generating process identifier (defined by originating centre),,Experimental
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,14,Analysis or forecast generating process identifier (defined by originating centre),,Experimental
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,15-16,Hours of observational data cut-off after reference time,(see Note 1),Experimental
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,17,Minutes of observational data cut-off after reference time,,Experimental
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,18,Indicator of unit of time range,(see Code table 4.4),Experimental
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,19-22,Forecast time in units defined by octet 18,,Experimental
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,23-26,Total number of data values missing in the statistical process,,Experimental
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,27,Statistical process used to calculate the processed field from the field at each time increment during the time range,(see Code table 4.10),Experimental
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,28,Type of time increment between successive fields used in the statistical processing,(see Code table 4.11),Experimental
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,29,Indicator of unit of time for time range over which statistical processing is done,(see Code table 4.4),Experimental
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,30-33,"Length of the time range over which statistical processing is done, in units defined by the previous octet",,Experimental
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,34,Indicator of unit of time for the increment between the successive fields used,(see Code table 4.4),Experimental
+cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,35-38,"Time increment between successive fields, in units defined by the previous octet",(see Note 2),Experimental

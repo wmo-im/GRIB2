@@ -1,0 +1,22 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,10,Parameter category,(see Code table 4.1),Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,11,Parameter number,(see Code table 4.2),Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,12,Tile classification,(see Code table 4.242),Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,13,Total number (NT) of tile/attribute pairs,(see Notes 1 and 2),Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,14,Number of used spatial tiles (NUT),(see Notes 1 and 2),Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,15,"Tile index (ITN = {1,…, NUT})",(see Note 1),Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,16,Number of used tile attributes (NAT) for tile ITN,(see Note 1),Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,17,"Attribute of tile (A = {A(1),…, A(NAT(ITN))})",(see Code table 4.241 and Note 1),Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,18,Type of generating process,(see Code table 4.3),Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,19,Background generating process identifier (defined by originating centre),,Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,20,Analysis or forecast generating process identifier (defined by originating centre),,Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,21-22,Hours of observational data cut-off after reference time,(see Note 3),Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,23,Minutes of observational data cut-off after reference time,,Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,24,Indicator of unit of time range,(see Code table 4.4),Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,25-28,Forecast time in units defined by octet 24,,Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,29,Type of first fixed surface,(see Code table 4.5),Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,30,Scale factor of first fixed surface,,Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,31-34,Scaled value of first fixed surface,,Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,35,Type of second fixed surface,(see Code table 4.5),Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,36,Scale factor of second fixed surface,,Operational
+spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,37-40,Scaled value of second fixed surface,,Operational

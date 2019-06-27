@@ -1,0 +1,6 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+spherical harmonic coefficients,15-18,J - pentagonal resolution parameter,,Operational
+spherical harmonic coefficients,19-22,K - pentagonal resolution parameter,,Operational
+spherical harmonic coefficients,23-26,M - pentagonal resolution parameter,,Operational
+spherical harmonic coefficients,27,Representation type indicating the method used to define the norm,(see Code table 3.6),Operational
+spherical harmonic coefficients,28,Representation mode indicating the order of the coefficients,(see Code table 3.7),Operational

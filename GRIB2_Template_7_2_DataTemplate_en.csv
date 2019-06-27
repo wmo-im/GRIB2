@@ -1,0 +1,5 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+Grid point data - complex packing,6-xx,"NG group reference values (X1 in the decoding formula), each of which is encoded using the number of bits specified in octet 20 of data representation template 5.0. Bits set to zero shall be appended as necessary to ensure this sequence of numbers ends on",,Operational
+Grid point data - complex packing,[xx+1]-yy,"NG group widths, each of which is encoded using the number of bits specified in octet 37 of data representation template 5.2. Bits set to zero shall be appended as necessary to ensure this sequence of numbers ends on an octet boundary",,Operational
+Grid point data - complex packing,[yy+1]-zz,"NG scaled group lengths, each of which is encoded using the number of bits specified in octet 47 of data representation template 5.2. Bits set to zero shall be appended as necessary to ensure this sequence of numbers ends on an octet boundary",(see Note 14 of data representation template 5.2),Operational
+Grid point data - complex packing,[zz+1]-nn,"Packed values (X2 in the decoding formula), where each value is a deviation from its respective group reference value",,Operational

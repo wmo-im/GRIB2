@@ -1,0 +1,9 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Icing scenario (weather/cloud classification),,0,,None,,,Operational
+Icing scenario (weather/cloud classification),,1,,General,,,Operational
+Icing scenario (weather/cloud classification),,2,,Convective,,,Operational
+Icing scenario (weather/cloud classification),,3,,Stratiform,,,Operational
+Icing scenario (weather/cloud classification),,4,,Freezing,,,Operational
+Icing scenario (weather/cloud classification),,5-191,,Reserved,,,Operational
+Icing scenario (weather/cloud classification),,192-254,,Reserved for local use,,,Operational
+Icing scenario (weather/cloud classification),,255,,Missing value,,,Operational

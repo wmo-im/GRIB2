@@ -1,0 +1,8 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,1,,Coarse,,,Operational
+Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,2,,Medium,,,Operational
+Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,3,,Medium-fine,,,Operational
+Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,4,,Fine,,,Operational
+Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,5,,Very-fine,,,Operational
+Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,6,,Organic,,,Operational
+Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,7,,Tropical-organic,,,Operational

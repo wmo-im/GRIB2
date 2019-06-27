@@ -1,0 +1,9 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",15-72,Same as grid definition template 3.0,(see Note 1),Operational
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",73-76,Latitude of the southern pole of projection,,Operational
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",77-80,Longitude of the southern pole of projection,,Operational
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",81-84,Angle of rotation of projection,,Operational
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",85-88,Latitude of the pole of stretching,,Operational
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",89-92,Longitude of the pole of stretching,,Operational
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",93-96,Stretching factor,,Operational
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",97-nn,List of number of points along each meridian or parallel.,(These octets are only present for quasi-regular grids as described in Note 4),Operational

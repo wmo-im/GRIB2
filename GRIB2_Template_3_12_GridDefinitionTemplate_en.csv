@@ -1,0 +1,23 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+transverse Mercator,15,Shape of the Earth,(see Code table 3.2),Operational
+transverse Mercator,16,Scale factor of radius of spherical Earth,,Operational
+transverse Mercator,17-20,Scaled value of radius of spherical Earth,,Operational
+transverse Mercator,21,Scale factor of major axis of oblate spheroid Earth,,Operational
+transverse Mercator,22-25,Scaled value of major axis of oblate spheroid Earth,,Operational
+transverse Mercator,26,Scale factor of minor axis of oblate spheroid Earth,,Operational
+transverse Mercator,27-30,Scaled value of minor axis of oblate spheroid Earth,,Operational
+transverse Mercator,31-34,Ni - number of points along i-axis,,Operational
+transverse Mercator,35-38,Nj - number of points along j-axis,,Operational
+transverse Mercator,39-42,LaR - geographic latitude of reference point,,Operational
+transverse Mercator,43-46,LoR - geographic longitude of reference point,,Operational
+transverse Mercator,47,Resolution and component flags,(see Flag table 3.3),Operational
+transverse Mercator,48-51,m - scale factor at reference point ratio of distance on map to distance on spheroid (IEEE 32-bit floating-point values),,Operational
+transverse Mercator,52-55,"XR - false easting, i-direction coordinate of reference point in units of 10-2 m",,Operational
+transverse Mercator,56-59,"YR - false northing, j-direction coordinate of reference point in units of 10-2 m",,Operational
+transverse Mercator,60,Scanning mode,(flags - see Flag table 3.4),Operational
+transverse Mercator,61-64,Di - i-direction increment length in units of  10-2 m,,Operational
+transverse Mercator,65-68,Dj - j-direction increment length in units of 10-2 m,,Operational
+transverse Mercator,69-72,x1 - i-direction coordinate of the first grid point in units of 10-2 m,,Operational
+transverse Mercator,73-76,y1 - j-direction coordinate of the first grid point in units of 10-2 m,,Operational
+transverse Mercator,77-80,x2 - i-direction coordinate of the last grid point in units of 10-2 m,,Operational
+transverse Mercator,81-84,y2 - j-direction coordinate of the last grid point in units of 10-2 m,,Operational

@@ -1,0 +1,6 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+Grid point data - simple packing with logarithm pre-processing,12-15,Reference value (R) (IEEE 32-bit floating-point value),,Experimental
+Grid point data - simple packing with logarithm pre-processing,16-17,Binary scale factor (E),,Experimental
+Grid point data - simple packing with logarithm pre-processing,18-19,Decimal scale factor (D),,Experimental
+Grid point data - simple packing with logarithm pre-processing,20,Number of bits used for each packed value,,Experimental
+Grid point data - simple packing with logarithm pre-processing,21-24,Pre-processing parameter (B) (IEEE 32-bit floating-point value),,Experimental

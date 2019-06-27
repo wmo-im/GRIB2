@@ -1,0 +1,13 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Probability type,,0,,Probability of event below lower limit,,,Operational
+Probability type,,1,,Probability of event above upper limit,,,Operational
+Probability type,,2,,Probability of event between lower and upper limits (the range includes the lower limit but not the upper limit),,,Operational
+Probability type,,3,,Probability of event above lower limit,,,Operational
+Probability type,,4,,Probability of event below upper limit,,,Operational
+Probability type,,5,,Probability of event equal to lower limit,,,Operational
+Probability type,,6,,Probability of event in above normal category,(see Notes 1 and 2),,Operational
+Probability type,,7,,Probability of event in near normal category,(see Notes 1 and 2),,Operational
+Probability type,,8,,Probability of event in below normal category,(see Notes 1 and 2),,Operational
+Probability type,,9-191,,Reserved,,,Operational
+Probability type,,192-254,,Reserved for local use,,,Operational
+Probability type,,255,,Missing,,,Operational

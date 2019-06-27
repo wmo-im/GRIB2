@@ -1,0 +1,16 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",10,Parameter category,(see Code table 4.1),Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",11,Parameter number,(see Code table 4.2),Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",12,Type of generating process,(see Code table 4.3),Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",13,Background generating process identifier (defined by originating centre),,Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",14,Analysis or forecast generating process identifier (defined by originating centre),,Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",15-16,Hours of observational data cut-off after reference time,(see Note),Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",17,Minutes of observational data cut-off after reference time,,Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",18,Indicator of unit of time range,(see Code table 4.4),Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",19-22,Forecast time in units defined by octet 18,,Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",23,Horizontal dimension processed,(see Code table 4.220),Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",24,Treatment of missing data (e.g. below ground),(see Code table 4.221),Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",25,Type of statistical processing,(see Code table 4.10),Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",26-29,Start of range,,Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",30-33,End of range,,Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",34-35,Number of values,,Experimental

@@ -1,0 +1,6 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Clutter filter indicator,,0,,No clutter filter used,,,Operational
+Clutter filter indicator,,1,,Clutter filter used,,,Operational
+Clutter filter indicator,,2-191,,Reserved,,,Operational
+Clutter filter indicator,,192-254,,Reserved for local use,,,Operational
+Clutter filter indicator,,255,,Missing,,,Operational

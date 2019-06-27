@@ -1,0 +1,6 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Categorical result,,0,,No,,,Operational
+Categorical result,,1,,Yes,,,Operational
+Categorical result,,2-191,,Reserved,,,Operational
+Categorical result,,192-254,,Reserved for local use,,,Operational
+Categorical result,,255,,Missing,,,Operational

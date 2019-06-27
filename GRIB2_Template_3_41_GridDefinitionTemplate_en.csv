@@ -1,0 +1,6 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+rotated Gaussian latitude/longitude,15-72,Same as grid definition template 3.40,(see Note 1),Operational
+rotated Gaussian latitude/longitude,73-76,Latitude of the southern pole of projection,,Operational
+rotated Gaussian latitude/longitude,77-80,Longitude of the southern pole of projection,,Operational
+rotated Gaussian latitude/longitude,81-84,Angle of rotation of projection,,Operational
+rotated Gaussian latitude/longitude,85-nn,List of number of points along each meridian or parallel.,(These octets are only present for quasi-regular grids as described in Note 4),Operational

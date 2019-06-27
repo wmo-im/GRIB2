@@ -1,0 +1,6 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Volcanic ash,,0,,Not present,,,Operational
+Volcanic ash,,1,,Present,,,Operational
+Volcanic ash,,2-191,,Reserved,,,Operational
+Volcanic ash,,192-254,,Reserved for local use,,,Operational
+Volcanic ash,,255,,Missing,,,Operational

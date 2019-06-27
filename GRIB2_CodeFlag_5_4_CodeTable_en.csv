@@ -1,0 +1,6 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Group splitting method,,0,,Row by row splitting,,,Operational
+Group splitting method,,1,,General group splitting,,,Operational
+Group splitting method,,2-191,,Reserved,,,Operational
+Group splitting method,,192-254,,Reserved for local use,,,Operational
+Group splitting method,,255,,Missing,,,Operational

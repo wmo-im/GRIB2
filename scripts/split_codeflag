@@ -1,0 +1,63 @@
+#!/usr/bin/env python
+
+import sys
+import string
+import csv
+import re
+from os.path import basename
+from os.path import splitext
+
+class REMatcher(object):
+    def __init__(self, matchstring):
+        self.matchstring = matchstring
+
+    def match(self,regexp):
+        self.rematch = re.match(regexp, self.matchstring)
+        return bool(self.rematch)
+
+    def group(self,i):
+        return self.rematch.group(i)
+
+def getNumberAndType(tableName):
+    number=-1
+    m = REMatcher(tableName)
+    (type,number,name) = ("unknown","unknown",tableName)
+    if m.match(r"(Code table) (\d*.\d*) - (.*)") or m.match(r"(Flag table) (\d*.\d*) - (.*)"):
+        type = m.group(1).replace(' ','').replace('t','T')
+        number = m.group(2).replace('.', '_')
+        name = m.group(3)
+
+    return (number,type,name)
+
+
+infilename = sys.argv[1]
+
+with open(infilename, encoding = 'utf-8') as csvFile:
+    csvReader = csv.reader(csvFile, delimiter = ',', quotechar='"')
+    lineCount = 0
+    tableNumber = "--"
+    for row in csvReader:
+        if lineCount == 0:
+            columnNames=row
+            lineCount += 1
+        else:
+            (number,type,name) = getNumberAndType(row[1])
+            row[1] = name
+            print(number,type,name)
+            if tableNumber != number:
+                try:
+                    outfile.close()
+                except:
+                    print('')
+                tableNumber = number
+                print('tableNumber='+tableNumber)
+                outfilename = "GRIB2_CodeFlag_"+tableNumber+"_"+type+"_en.csv"
+                outfile = open(outfilename, 'w', encoding='utf-8', newline='')
+                outfilewriter = csv.writer(outfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+                outfilewriter.writerow(columnNames[1:])
+
+            outfilewriter.writerow(row[1:])
+            lineCount += 1
+
+    outfile.close()
+    print(f'Processed {lineCount} lines.')

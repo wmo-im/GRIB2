@@ -1,0 +1,23 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+Albers equal area,15,Shape of the Earth,(see Code table 3.2),Operational
+Albers equal area,16,Scale factor of radius of spherical Earth,,Operational
+Albers equal area,17-20,Scaled value of radius of spherical Earth,,Operational
+Albers equal area,21,Scale factor of major axis of oblate spheroid Earth,,Operational
+Albers equal area,22-25,Scaled value of major axis of oblate spheroid Earth,,Operational
+Albers equal area,26,Scale factor of minor axis of oblate spheroid Earth,,Operational
+Albers equal area,27-30,Scaled value of minor axis of oblate spheroid Earth,,Operational
+Albers equal area,31-34,Nx - number of points along the x-axis,,Operational
+Albers equal area,35-38,Ny - number of points along the y-axis,,Operational
+Albers equal area,39-42,La1 - latitude of first grid point,,Operational
+Albers equal area,43-46,Lo1 - longitude of first grid point,,Operational
+Albers equal area,47,Resolution and component flags,(see Flag table 3.3),Operational
+Albers equal area,48-51,LaD - latitude where Dx and Dy are specified,,Operational
+Albers equal area,52-55,LoV - longitude of meridian parallel to y-axis along which latitude increases as the y-coordinate increases,,Operational
+Albers equal area,56-59,Dx - x-direction grid length,(see Note 1),Operational
+Albers equal area,60-63,Dy - y-direction grid length,(see Note 1),Operational
+Albers equal area,64,Projection centre flag,(see Flag table 3.5),Operational
+Albers equal area,65,Scanning mode,(see Flag table 3.4),Operational
+Albers equal area,66-69,Latin 1 - first latitude from the pole at which the secant cone cuts the sphere,,Operational
+Albers equal area,70-73,Latin 2 - second latitude from the pole at which the secant cone cuts the sphere,,Operational
+Albers equal area,74-77,Latitude of the southern pole of projection,,Operational
+Albers equal area,78-81,Longitude of the southern pole of projection,,Operational

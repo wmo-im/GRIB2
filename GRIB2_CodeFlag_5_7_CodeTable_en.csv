@@ -1,0 +1,7 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Precision of floating-point numbers,,0,,Reserved,,,Operational
+Precision of floating-point numbers,,1,,IEEE 32-bit (I=4 in section 7),,,Operational
+Precision of floating-point numbers,,2,,IEEE 64-bit (I=8 in section 7),,,Operational
+Precision of floating-point numbers,,3,,IEEE 128-bit (I=16 in section 7),,,Operational
+Precision of floating-point numbers,,4-254,,Reserved,,,Operational
+Precision of floating-point numbers,,255,,Missing,,,Operational

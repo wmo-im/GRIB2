@@ -1,0 +1,21 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,1,,"Crops, mixed farming",,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,2,,Short grass,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,3,,Evergreen needleleaf trees,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,4,,Deciduous needleleaf trees,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,5,,Deciduous broadleaf trees,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,6,,Evergreen broadleaf trees,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,7,,Tall grass,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,8,,Desert,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,9,,Tundra,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,10,,Irrigated crops,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,11,,Semidesert,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,12,,Ice caps and glaciers,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,13,,Bogs and marshes,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,14,,Inland water,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,15,,Ocean,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,16,,Evergreen shrubs,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,17,,Deciduous shrubs,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,18,,Mixed forest,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,19,,Interrupted forest,,,Operational
+Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,20,,Water and land mixtures,,,Operational

@@ -1,0 +1,7 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Matrix coordinate parameter,,1,,Direction degrees true,,,Operational
+Matrix coordinate parameter,,2,,Frequency (s-1),,,Operational
+Matrix coordinate parameter,,3,,Radial number (2pi/lambda) (m-1),,,Operational
+Matrix coordinate parameter,,4-191,,Reserved,,,Operational
+Matrix coordinate parameter,,192-254,,Reserved for local use,,,Operational
+Matrix coordinate parameter,,255,,Missing,,,Operational

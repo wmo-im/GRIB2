@@ -1,0 +1,5 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+general unstructured grid,15,Shape of the Earth,(see Code table 3.2),Operational
+general unstructured grid,16-18,Number of grid used (defined by originating centre),,Operational
+general unstructured grid,19,Number of grid in reference (to allow annotating for Arakawa C-grid on arbitrary grid),(see Note),Operational
+general unstructured grid,20-35,Universally Unique Identifier of horizontal grid,,Operational

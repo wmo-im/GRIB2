@@ -1,0 +1,7 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Operating mode,,0,,Maintenance mode,,,Operational
+Operating mode,,1,,Clear air,,,Operational
+Operating mode,,2,,Precipitation,,,Operational
+Operating mode,,3-191,,Reserved,,,Operational
+Operating mode,,192-254,,Reserved for local use,,,Operational
+Operating mode,,255,,Missing,,,Operational

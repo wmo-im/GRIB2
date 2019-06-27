@@ -1,0 +1,16 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time,10,Parameter category,(see Code table 4.1),Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time,11,Parameter number,(see Code table 4.2),Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time,12,Type of generating process,(see Code table 4.3),Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time,13,Background generating process identifier (defined by originating centre),,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time,14,Analysis or forecast generating process identifier (defined by originating centre),,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time,15-16,Hours of observational data cut-off after reference time,(see Note),Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time,17,Minutes of observational data cut-off after reference time,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time,18,Indicator of unit of time range,(see Code table 4.4),Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time,19-22,Forecast time in units defined by octet 18,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time,23,Type of first fixed surface,(see Code table 4.5),Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time,24,Scale factor of first fixed surface,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time,25-28,Scaled value of first fixed surface,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time,29,Type of second fixed surface,(see Code table 4.5),Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time,30,Scale factor of second fixed surface,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time,31-34,Scaled value of second fixed surface,,Operational

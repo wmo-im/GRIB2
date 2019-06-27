@@ -1,0 +1,18 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+Lambert azimuthal equal area projection,15,Shape of the Earth,(see Code table 3.2),Operational
+Lambert azimuthal equal area projection,16,Scale factor of radius of spherical Earth,,Operational
+Lambert azimuthal equal area projection,17-20,Scaled value of radius of spherical Earth,,Operational
+Lambert azimuthal equal area projection,21,Scale factor of major axis of oblate spheroid Earth,,Operational
+Lambert azimuthal equal area projection,22-25,Scaled value of major axis of oblate spheroid Earth,,Operational
+Lambert azimuthal equal area projection,26,Scale factor of minor axis of oblate spheroid Earth,,Operational
+Lambert azimuthal equal area projection,27-30,Scaled value of minor axis of oblate spheroid Earth,,Operational
+Lambert azimuthal equal area projection,31-34,Nx - number of points along the x-axis,,Operational
+Lambert azimuthal equal area projection,35-38,Ny - number of points along the y-axis,,Operational
+Lambert azimuthal equal area projection,39-42,La1 - latitude of first grid point,,Operational
+Lambert azimuthal equal area projection,43-46,Lo1 - longitude of first grid point,,Operational
+Lambert azimuthal equal area projection,47-50,Standard parallel,,Operational
+Lambert azimuthal equal area projection,51-54,Central longitude,,Operational
+Lambert azimuthal equal area projection,55,Resolution and component flags,(see Flag table 3.3),Operational
+Lambert azimuthal equal area projection,56-59,Dx - x-direction grid length,(see Note),Operational
+Lambert azimuthal equal area projection,60-63,Dy - y-direction grid length,(see Note),Operational
+Lambert azimuthal equal area projection,64,Scanning mode,(see Flag table 3.4),Operational

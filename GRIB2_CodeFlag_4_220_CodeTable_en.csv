@@ -1,0 +1,6 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Horizontal dimension processed,,0,,Latitude,,,Operational
+Horizontal dimension processed,,1,,Longitude,,,Operational
+Horizontal dimension processed,,2-191,,Reserved,,,Operational
+Horizontal dimension processed,,192-254,,Reserved for local use,,,Operational
+Horizontal dimension processed,,255,,Missing,,,Operational

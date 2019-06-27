@@ -1,0 +1,7 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Contrail engine type,,0,,Low bypass,,,Operational
+Contrail engine type,,1,,High bypass,,,Operational
+Contrail engine type,,2,,Non-bypass,,,Operational
+Contrail engine type,,3-191,,Reserved,,,Operational
+Contrail engine type,,192-254,,Reserved for local use,,,Operational
+Contrail engine type,,255,,Missing,,,Operational

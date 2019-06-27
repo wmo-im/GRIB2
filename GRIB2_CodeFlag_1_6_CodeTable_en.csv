@@ -1,0 +1,8 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Type of calendar,,0,,Gregorian,,,Operational
+Type of calendar,,1,,360-day,,,Operational
+Type of calendar,,2,,365-day,,,Operational
+Type of calendar,,3,,Proleptic Gregorian,,,Operational
+Type of calendar,,4-191,,Reserved,,,Operational
+Type of calendar,,192-254,,Reserved for local use,,,Operational
+Type of calendar,,255,,Missing,,,Operational
