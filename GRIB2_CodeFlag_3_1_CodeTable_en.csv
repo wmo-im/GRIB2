@@ -7,12 +7,18 @@ Grid definition template number,,4,,Variable resolution latitude/longitude,,,Ope
 Grid definition template number,,5,,Variable resolution rotated latitude/longitude,,,Operational
 Grid definition template number,,6-9,,Reserved,,,Operational
 Grid definition template number,,10,,Mercator,,,Operational
-Grid definition template number,,11-19,,Reserved,,,Operational
+Grid definition template number,,11-12,,Reserved,,,Operational
+Grid definition template number,,13,,Mercator with modelling subdomains definition,,,Operational
+Grid definition template number,,14-19,,Reserved,,,Operational
 Grid definition template number,,20,,Polar stereographic projection,,Can be south or north,Operational
-Grid definition template number,,21-29,,Reserved,,,Operational
+Grid definition template number,,21-22,,Reserved,,,Operational
+Grid definition template number,,23,,Polar stereographic with modelling subdomains definition,,,Operational
+Grid definition template number,,24-29,,Reserved,,,Operational
 Grid definition template number,,30,,Lambert conformal,,"Can be secant or tangent, conical or bipolar",Operational
 Grid definition template number,,31,,Albers equal area,,,Operational
-Grid definition template number,,32-39,,Reserved,,,Operational
+Grid definition template number,,32,,Reserved,,,Operational
+Grid definition template number,,33,,Lambert conformal with modelling subdomains definition,,,Operational
+Grid definition template number,,34-39,,Reserved,,,Operational
 Grid definition template number,,40,,Gaussian latitude/longitude,,,Operational
 Grid definition template number,,41,,Rotated Gaussian latitude/longitude,,,Operational
 Grid definition template number,,42,,Stretched Gaussian latitude/longitude,,,Operational
@@ -22,7 +28,11 @@ Grid definition template number,,50,,Spherical harmonic coefficients,,,Operation
 Grid definition template number,,51,,Rotated spherical harmonic coefficients,,,Operational
 Grid definition template number,,52,,Stretched spherical harmonic coefficients,,,Operational
 Grid definition template number,,53,,Stretched and rotated spherical harmonic coefficients,,,Operational
-Grid definition template number,,54-89,,Reserved,,,Operational
+Grid definition template number,,54-60,,Reserved,,,Operational
+Grid definition template number,,61,,Spectral Mercator with modelling subdomains definition,,,Operational
+Grid definition template number,,62,,Spectral polar stereographic with modelling subdomains definition,,,Operational
+Grid definition template number,,63,,Spectral Lambert conformal with modelling subdomains definition,,,Operational
+Grid definition template number,,64-89,,Reserved,,,Operational
 Grid definition template number,,90,,Space view perspective or orthographic,,,Operational
 Grid definition template number,,91-99,,Reserved,,,Operational
 Grid definition template number,,100,,Triangular grid based on an icosahedron,,,Operational

@@ -29,14 +29,14 @@ Pixel scene type,,97,,Snow/ice on land,,,Operational
 Pixel scene type,,98,,Snow/ice on water,,,Operational
 Pixel scene type,,99,,Sun-glint,,,Operational
 Pixel scene type,,100,,General cloud,,,Operational
-Pixel scene type,,101,,Low cloud/fog/Stratus,,,Operational
-Pixel scene type,,102,,Low cloud/Stratocumulus,,,Operational
+Pixel scene type,,101,,Low cloud/fog/stratus,,,Operational
+Pixel scene type,,102,,Low cloud/stratocumulus,,,Operational
 Pixel scene type,,103,,Low cloud/unknown type,,,Operational
-Pixel scene type,,104,,Medium cloud/Nimbostratus,,,Operational
-Pixel scene type,,105,,Medium cloud/Altostratus,,,Operational
+Pixel scene type,,104,,Medium cloud/nimbostratus,,,Operational
+Pixel scene type,,105,,Medium cloud/altostratus,,,Operational
 Pixel scene type,,106,,Medium cloud/unknown type,,,Operational
-Pixel scene type,,107,,High cloud/Cumulus,,,Operational
-Pixel scene type,,108,,High cloud/Cirrus,,,Operational
+Pixel scene type,,107,,High cloud/cumulus,,,Operational
+Pixel scene type,,108,,High cloud/cirrus,,,Operational
 Pixel scene type,,109,,High cloud/unknown,,,Operational
 Pixel scene type,,110,,Unknown cloud type,,,Operational
 Pixel scene type,,111,,Single layer water cloud,,,Operational

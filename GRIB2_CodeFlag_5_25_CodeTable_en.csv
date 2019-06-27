@@ -1,0 +1,9 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+type of bi-Fourier subtruncation,,0-76,,Reserved,,,Operational
+type of bi-Fourier subtruncation,,77,,Rectangular,,,Operational
+type of bi-Fourier subtruncation,,78-87,,Reserved,,,Operational
+type of bi-Fourier subtruncation,,88,,Elliptic,,,Operational
+type of bi-Fourier subtruncation,,89-98,,Reserved,,,Operational
+type of bi-Fourier subtruncation,,99,,Diamond,,,Operational
+type of bi-Fourier subtruncation,,100-254,,Reserved,,,Operational
+type of bi-Fourier subtruncation,,255,,Missing,,,Operational

@@ -1,0 +1,6 @@
+Title_en,OctetNo,Contents_en,Note_en,Status
+Mercator with modelling subdomains definition,15-nn,Same as grid definition template 3.10,,Operational
+Mercator with modelling subdomains definition,[nn+1]-[nn+4],Nux - size of model forecast subdomain in x-direction (number of grid points),,Operational
+Mercator with modelling subdomains definition,[nn+5]-[nn+8],Ncx - width of coupling area within forecast domain in x-direction (number of grid points),,Operational
+Mercator with modelling subdomains definition,[nn+9]-[nn+12],Nuy - size of model forecast subdomain in y-direction (number of grid points),,Operational
+Mercator with modelling subdomains definition,[nn+13]-[nn+16],Ncy - width of coupling area within forecast domain in y-direction (number of grid points),,Operational

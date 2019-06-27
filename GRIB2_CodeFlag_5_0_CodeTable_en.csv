@@ -11,7 +11,9 @@ Data representation template number,,42,,Grid point and spectral data - CCSDS re
 Data representation template number,,43-49,,Reserved,,,Operational
 Data representation template number,,50,,Spectral data - simple packing,,,Operational
 Data representation template number,,51,,Spherical harmonics data - complex packing,,,Operational
-Data representation template number,,52-60,,Reserved,,,Operational
+Data representation template number,,52,,Reserved,,,Operational
+Data representation template number,,53,,Spectral data for limited area models - complex packing,,,Operational
+Data representation template number,,54-60,,Reserved,,,Operational
 Data representation template number,,61,,Grid point data - simple packing with logarithm pre-processing,,,Experimental
 Data representation template number,,62-199,,Reserved,,,Operational
 Data representation template number,,200,,Run length packing with level values,,,Operational
