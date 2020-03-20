@@ -18,7 +18,7 @@ Product definition template number,,15,,"Average, accumulation, extreme values, 
 Product definition template number,,16-19,,Reserved,,,Operational
 Product definition template number,,20,,Radar product,,,Operational
 Product definition template number,,21-29,,Reserved,,,Operational
-Product definition template number,,30,,Satellite product (deprecated),,,Operational
+Product definition template number,,30,,Satellite product (deprecated),,,Deprecated
 Product definition template number,,31,,Satellite product,,,Operational
 Product definition template number,,32,,Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,,,Operational
 Product definition template number,,33,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data",,,Operational
@@ -47,7 +47,9 @@ Product definition template number,,58,,"Individual ensemble forecast, control a
 Product definition template number,,59,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for spatio-temporal changing tile parameters (corrected version of template 4.56)",,,Operational
 Product definition template number,,60,,"Individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,,Operational
 Product definition template number,,61,,"Individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval",,,Operational
-Product definition template number,,62-66,,Reserved,,,Operational
+Product definition template number,,62,,"Average, accumulation and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time",,,Operational
+Product definition template number,,63,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for spatio-temporal changing tiles",,,Operational
+Product definition template number,,64-66,,Reserved,,,Operational
 Product definition template number,,67,,"Average, accumulation and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents based on a distribution function",,,Operational
 Product definition template number,,68,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents based on a distribution function",,,Operational
 Product definition template number,,69,,Reserved,,,Operational
@@ -55,7 +57,16 @@ Product definition template number,,70,,Post-processing analysis or forecast at 
 Product definition template number,,71,,"Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,,Operational
 Product definition template number,,72,,"Post-processing average, accumulation, extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,Operational
 Product definition template number,,73,,"Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval",,,Operational
-Product definition template number,,74-90,,Reserved,,,Operational
+Product definition template number,,74-75,,Reserved,,,Operational
+Product definition template number,,76,,Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents,,,Operational
+Product definition template number,,77,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents",,,Operational
+Product definition template number,,78,,"Average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents",,,Operational
+Product definition template number,,79,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents",,,Operational
+Product definition template number,,80,,Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,,,Operational
+Product definition template number,,81,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol",,,Operational
+Product definition template number,,82,,"Average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol",,,Operational
+Product definition template number,,83,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol",,,Operational
+Product definition template number,,84-90,,Reserved,,,Operational
 Product definition template number,,91,,Categorical forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,,Operational
 Product definition template number,,92-253,,Reserved,,,Operational
 Product definition template number,,254,,CCITT IA5 character string,,,Operational

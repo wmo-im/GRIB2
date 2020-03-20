@@ -57,7 +57,7 @@ with open(infilename, encoding = 'utf-8') as csvFile:
                 print('tableNumber='+tableNumber)
                 outfilename = "GRIB2_Template_"+tableNumber+"_"+type+"_en.csv"
                 outfile = open(outfilename, 'w', encoding='utf-8', newline='')
-                outfilewriter = csv.writer(outfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+                outfilewriter = csv.writer(outfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL,lineterminator='\n')
                 outfilewriter.writerow(columnNames[1:])
 
             outfilewriter.writerow(row[1:])

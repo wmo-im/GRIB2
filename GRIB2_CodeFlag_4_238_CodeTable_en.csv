@@ -1,0 +1,16 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Source or sink,,0,,Reserved,,,Operational
+Source or sink,,1,,Aviation,,,Operational
+Source or sink,,2,,Lightning,,,Operational
+Source or sink,,3,,Biogenic sources,,,Operational
+Source or sink,,4,,Anthropogenic sources,,,Operational
+Source or sink,,5,,Wild fires,,,Operational
+Source or sink,,6,,Natural sources,,,Operational
+Source or sink,,7,,Volcanoes,,,Operational
+Source or sink,,8,,Bio-fuel,,,Operational
+Source or sink,,9,,Fossil-fuel,,,Operational
+Source or sink,,10,,Wetlands,,,Operational
+Source or sink,,11,,Oceans,,,Operational
+Source or sink,,12-191,,Reserved,,,Operational
+Source or sink,,192-254,,Reserved for local use,,,Operational
+Source or sink,,255,,Missing,,,Operational

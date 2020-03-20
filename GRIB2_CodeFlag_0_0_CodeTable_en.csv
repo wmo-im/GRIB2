@@ -2,8 +2,9 @@ Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitC
 "Discipline of processed data in the GRIB message, number of GRIB Master table",,0,,Meteorological products,,,Operational
 "Discipline of processed data in the GRIB message, number of GRIB Master table",,1,,Hydrological products,,,Operational
 "Discipline of processed data in the GRIB message, number of GRIB Master table",,2,,Land surface products,,,Operational
-"Discipline of processed data in the GRIB message, number of GRIB Master table",,3,,Space products,,,Operational
-"Discipline of processed data in the GRIB message, number of GRIB Master table",,4-9,,Reserved,,,Operational
+"Discipline of processed data in the GRIB message, number of GRIB Master table",,3,,"Satellite remote sensing products (formerly ""Space products"")",,,Operational
+"Discipline of processed data in the GRIB message, number of GRIB Master table",,4,,Space weather products,,,Operational
+"Discipline of processed data in the GRIB message, number of GRIB Master table",,5-9,,Reserved,,,Operational
 "Discipline of processed data in the GRIB message, number of GRIB Master table",,10,,Oceanographic products,,,Operational
 "Discipline of processed data in the GRIB message, number of GRIB Master table",,11-191,,Reserved,,,Operational
 "Discipline of processed data in the GRIB message, number of GRIB Master table",,192-254,,Reserved for local use,,,Operational
