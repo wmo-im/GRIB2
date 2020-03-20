@@ -36,19 +36,20 @@ Parameter category by product discipline,Product discipline 2 - Land surface pro
 Parameter category by product discipline,Product discipline 2 - Land surface products,2,,Transportation-related products,,,Operational
 Parameter category by product discipline,Product discipline 2 - Land surface products,3,,Soil products,,,Operational
 Parameter category by product discipline,Product discipline 2 - Land surface products,4,,Fire weather products,,,Operational
-Parameter category by product discipline,Product discipline 2 - Land surface products,5-191,,Reserved,,,Operational
+Parameter category by product discipline,Product discipline 2 - Land surface products,5,,Glaciers and inland ice,,,Operational
+Parameter category by product discipline,Product discipline 2 - Land surface products,6-191,,Reserved,,,Operational
 Parameter category by product discipline,Product discipline 2 - Land surface products,192-254,,Reserved for local use,,,Operational
 Parameter category by product discipline,Product discipline 2 - Land surface products,255,,Missing,,,Operational
-Parameter category by product discipline,Product discipline 3 - Space products,0,,Image format products,(see Note 1),,Operational
-Parameter category by product discipline,Product discipline 3 - Space products,1,,Quantitative products,(see Note 2),,Operational
-Parameter category by product discipline,Product discipline 3 - Space products,2,,Cloud properties,,,Operational
-Parameter category by product discipline,Product discipline 3 - Space products,3,,Flight rule conditions,,,Operational
-Parameter category by product discipline,Product discipline 3 - Space products,4,,Volcanic ash,,,Operational
-Parameter category by product discipline,Product discipline 3 - Space products,5,,Sea-surface temperature,,,Operational
-Parameter category by product discipline,Product discipline 3 - Space products,6,,Solar radiation,,,Operational
-Parameter category by product discipline,Product discipline 3 - Space products,7-191,,Reserved,,,Operational
-Parameter category by product discipline,Product discipline 3 - Space products,192-254,,Reserved for local use,,,Operational
-Parameter category by product discipline,Product discipline 3 - Space products,255,,Missing,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",0,,Image format products,(see Note 1),,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",1,,Quantitative products,(see Note 2),,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",2,,Cloud properties,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",3,,Flight rule conditions,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",4,,Volcanic ash,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",5,,Sea-surface temperature,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",6,,Solar radiation,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",7-191,,Reserved,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",192-254,,Reserved for local use,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",255,,Missing,,,Operational
 Parameter category by product discipline,Product discipline 10 - Oceanographic products,0,,Waves,,,Operational
 Parameter category by product discipline,Product discipline 10 - Oceanographic products,1,,Currents,,,Operational
 Parameter category by product discipline,Product discipline 10 - Oceanographic products,2,,Ice,,,Operational
