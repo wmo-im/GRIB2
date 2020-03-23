@@ -1,0 +1,56 @@
+EXPLANATORY NOTES (2 May 2012):
+
+
+1. Tables included in the zip files are;
+
+	GRIB edition 2 version 9(.0.0)
+		Templates
+		Code and Flag tables
+
+	BUFR tables version 18(.0.0)
+		Table A
+		Table B (common in BUFR/CREX)
+		Table C (for BUFR editions 3 and 4)
+		Table D
+		Code and Flag tables (common in BUFR/CREX)
+
+	CREX tables version 18(.0.0)
+		Table A
+		Table C (for CREX editions 1 and 2)
+		Table D
+
+	Common Code tables effective as of 2 May 2012
+		C-1
+		C-2
+		C-3
+		C-4
+		C-5
+		C-7
+		C-8
+		C-11
+		C-12
+		C-13
+		C-14
+
+
+2. Changes from the previous versions (GRIB2_8.0.0 (2 Nov 2011), BUFR/CREX_17.0.0 (2 Nov 2011), Common Code tables (3 Nov 2011)) are;
+
+	a. new entries approved by fast-track (2 May 2012)
+
+	b. editorial changes
+
+
+3. Character set employed is UTF-8.
+
+
+4. Units in the GRIB2 code tables and the BUFR/CREX Table B are represented by those in "Abbreviation in IA5/ASCII" column of the Common Code table C-6.
+
+
+5. Notes to entries are available in doc and pdf files on the WMO server at;
+     http://www.wmo.int/pages/prog/www/WMOCodes/TDCFtables.html#TDCFtables
+
+
+6. In BUFR/CREX Tables D, "ElementName_en", which derives from BUFR/CREX Table B, is included along with "ExisitingElementName_en".
+
+
+7. Sorting by "No" column might be necessary in files of text and xml forms.
