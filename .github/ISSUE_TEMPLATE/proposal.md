@@ -1,9 +1,10 @@
 ---
 name: Proposal
-about: Use to propose changes to the WMO GRIB2 tables
+about: Use to propose changes to the WMO GRIB2 tables or templates
 title: ''
-labels: Submitted
+labels: ''
 assignees: ''
+
 ---
 
 # Summary and purpose
