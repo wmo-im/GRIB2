@@ -23,14 +23,7 @@ Fixed surface types and units,,22,,Highest level where mass density exceeds the 
 Fixed surface types and units,,23,,Lowest level where air concentration exceeds the specified value (base for a given threshold of air concentration),,Bq m-3,Operational
 Fixed surface types and units,,24,,Highest level where air concentration exceeds the specified value (top for a given threshold of air concentration),,Bq m-3,Operational
 Fixed surface types and units,,25,,Highest level where radar reflectivity exceeds the specified value (echo top for a given threshold of reflectivity),,dBZ,Operational
-Fixed surface types and units,,26-29,,Reserved,,,Operational
-Fixed surface types and units,,30,,Specified radius from the center of the Sun,,m,Operational
-Fixed surface types and units,,31,,Solar photosphere,,,Operational
-Fixed surface types and units,,32,,Ionospheric D-region level,,,Operational
-Fixed surface types and units,,33,,Ionospheric E-region level,,,Operational
-Fixed surface types and units,,34,,Ionospheric F1-region level,,,Operational
-Fixed surface types and units,,35,,Ionospheric F2-region level,,,Operational
-Fixed surface types and units,,36-99,,Reserved,,,Operational
+Fixed surface types and units,,26-99,,Reserved,,,Operational
 Fixed surface types and units,,100,,Isobaric surface,,Pa,Operational
 Fixed surface types and units,,101,,Mean sea level,,,Operational
 Fixed surface types and units,,102,,Specific altitude above mean sea level,,m,Operational
@@ -54,8 +47,7 @@ Fixed surface types and units,,119,,Hybrid pressure level,,-,Operational
 Fixed surface types and units,,120-149,,Reserved,,,Operational
 Fixed surface types and units,,150,,Generalized vertical height coordinate,(see Note 5),,Operational
 Fixed surface types and units,,151,,Soil level,(see Note 6),Numeric,Operational
-Fixed surface types and units,,152,,Sea ice level,(see Note 8),Numeric,Operational
-Fixed surface types and units,,153-159,,Reserved,,,Operational
+Fixed surface types and units,,152-159,,Reserved,,,Operational
 Fixed surface types and units,,160,,Depth below sea level,,m,Operational
 Fixed surface types and units,,161,,Depth below water surface,,m,Operational
 Fixed surface types and units,,162,,Lake or river bottom,,-,Operational
