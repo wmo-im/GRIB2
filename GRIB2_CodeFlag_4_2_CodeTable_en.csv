@@ -466,8 +466,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",34,,Visibility through ice fog,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",35,,Visibility through blowing snow,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",36,,Presence of snow squalls,,(Code table 4.222),Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",37,,Icing severity,,(Code table 4.228),Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",38-191,,Reserved,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",37-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",255,,Missing,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",0,,Mass density (concentration),,kg m-3,Operational
@@ -655,8 +654,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",25,,Snow depth at elevation bands,,kg m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",26,,Soil heat flux,,W m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",27,,Soil depth,,m,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",28,,Snow temperature,,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",29-191,,Reserved,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",28-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",255,,Missing,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",0,,Fire outlook,,Code table 4.224,Operational
@@ -664,21 +662,17 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",2,,Haines index,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",3,,Fire burned area,,%,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",4,,Fosberg index,*,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",5,,Forest Fire Weather Index (as defined by the Canadian Forest Service),,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",6,,Fine Fuel Moisture Code (as defined by the Canadian Forest Service),,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",7,,Duff Moisture Code (as defined by the Canadian Forest Service),,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",8,,Drought Code (as defined by the Canadian Forest Service),,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",9,,Initial Fire Spread Index (as defined by the Canadian Forest Service),,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",10,,Fire Buildup Index (as defined by the Canadian Forest Service),,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",11,,Fire Daily Severity Rating (as defined by the Canadian Forest Service),,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",5,,Forest Fire Weather Index (Canadian Forest Service),,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",6,,Fine Fuel Moisture Code (Canadian Forest Service),,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",7,,Duff Moisture Code (Canadian Forest Service),,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",8,,Drought Code (Canadian Forest Service),,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",9,,Initial Fire Spread Index (Canadian Forest Service),,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",10,,Fire Buildup Index (Canadian Forest Service),,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",11,,Fire Daily Severity Rating (Canadian Forest Service),,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",12-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",255,,Missing,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",0,,Glacier cover,(see Note),Proportion,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",1,,Glacier temperature,,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",2-191,,Reserved,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",192-254,,Reserved for local use,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",255,,Missing,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",0,,Scaled radiance,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",1,,Scaled albedo,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",2,,Scaled brightness temperature,,Numeric,Operational
@@ -773,112 +767,6 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 6: solar radiation",3,,Direct solar exposure,(see Note 4),J m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 6: solar radiation",4,,Diffuse solar irradiance,(see Note 5),W m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 6: solar radiation",5,,Diffuse solar exposure,(see Note 6),J m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",0,,Temperature,,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",1,,Electron temperature,,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",2,,Proton temperature,,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",3,,Ion temperature,,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",4,,Parallel temperature,,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",5,,Perpendicular temperature,,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",6-191,,Reserved,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",192-254,,Reserved for local use,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",255,,Missing,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 1: momentum",0,,Velocity magnitude (speed),,m s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 1: momentum",1,,1st vector component of velocity (coordinate system dependent),,m s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 1: momentum",2,,2nd vector component of velocity (coordinate system dependent),,m s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 1: momentum",3,,3rd vector component of velocity (coordinate system dependent),,m s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 1: momentum",4-191,,Reserved,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 1: momentum",192-254,,Reserved for local use,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 1: momentum",255,,Missing,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",0,,Particle number density,,m-3,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",1,,Electron density,,m-3,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",2,,Proton density,,m-3,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",3,,Ion density,,m-3,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",4,,Vertical total electron content,,TECU,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",5,,HF absorption frequency,,Hz,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",6,,HF absorption,,dB,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",7,,Spread F,,m,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",8,,h’,,m,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",9,,Critical frequency,,Hz,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",10,,Maximal usable frequency (MUF),,Hz,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",11,,Peak height (hm),,m,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",12,,Peak density (Nm),,m-3,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",13,,Equivalent slab thickness (tau),,km,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",14-191,,Reserved,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",192-254,,Reserved for local use,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",255,,Missing,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",0,,Magnetic field magnitude,,T,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",1,,1st vector component of magnetic field,,T,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",2,,2nd vector component of magnetic field,,T,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",3,,3rd vector component of magnetic field,,T,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",4,,Electric field magnitude,,V m-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",5,,1st vector component of electric field,,V m-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",6,,2nd vector component of electric field,,V m-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",7,,3rd vector component of electric field,,V m-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",8-191,,Reserved,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",192-254,,Reserved for local use,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",255,,Missing,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",0,,Proton flux (differential),,(m2 s sr eV)-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",1,,Proton flux (integral),,(m2 s sr )-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",2,,Electron flux (differential),,(m2 s sr eV)-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",3,,Electron flux (integral),,(m2 s sr)-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",4,,Heavy ion flux (differential),,(m2 s sr eV/nuc)-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",5,,Heavy ion flux (integral),,(m2 s sr)-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",6,,Cosmic ray neutron flux,,/h,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",7-191,,Reserved,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",192-254,,Reserved for local use,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",255,,Missing,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 5: waves",0,,Amplitude,,dB,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 5: waves",1,,Phase,,rad,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 5: waves",2,,Frequency,,Hz,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 5: waves",3,,Wave length,,m,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 5: waves",4-191,,Reserved,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 5: waves",192-254,,Reserved for local use,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 5: waves",255,,Missing,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",0,,Integrated solar irradiance,,W m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",1,,Solar X-ray flux (XRS long),,W m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",2,,Solar X-ray flux (XRS short),,W m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",3,,Solar EUV irradiance,,W m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",4,,Solar spectral irradiance ,,W m-2 nm-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",5,,F10.7,,W m-2 Hz-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",6,,Solar radio emissions,,W m-2 Hz-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",7-191,,Reserved,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",192-254,,Reserved for local use,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",255,,Missing,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 7: terrestrial electromagnetic emissions",0,,Limb intensity,,J m-2 s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 7: terrestrial electromagnetic emissions",1,,Disk intensity,,J m-2 s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 7: terrestrial electromagnetic emissions",2,,Disk intensity day,,J m-2 s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 7: terrestrial electromagnetic emissions",3,,Disk intensity night,,J m-2 s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 7: terrestrial electromagnetic emissions",4-191,,Reserved,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 7: terrestrial electromagnetic emissions",192-254,,Reserved for local use,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 7: terrestrial electromagnetic emissions",255,,Missing,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",0,,X-ray radiance,,W sr-1 m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",1,,EUV radiance,,W sr-1 m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",2,,H-alpha radiance,,W sr-1 m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",3,,White light radiance,,W sr-1 m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",4,,CaII-K radiance,,W sr-1 m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",5,,White light coronagraph radiance,,W sr-1 m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",6,,Heliospheric radiance,,W sr-1 m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",7,,Thematic mask,,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",8-191,,Reserved,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",192-254,,Reserved for local use,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",255,,Missing,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 9: ion-neutral coupling",0,,Pedersen conductivity,,S m-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 9: ion-neutral coupling",1,,Hall conductivity,,S m-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 9: ion-neutral coupling",2,,Parallel conductivity,,S m-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 9: ion-neutral coupling",3-191,,Reserved,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 9: ion-neutral coupling",192-254,,Reserved for local use,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 9: ion-neutral coupling",255,,Missing,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",0,,Scintillation index (sigma phi),,rad,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",1,,Scintillation index S4,,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",2,,Rate of Change of TEC Index (ROTI),,TECU/min,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",3,,Disturbance Ionosphere Index Spatial Gradient (DIXSG),,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",4,,Along Arc TEC Rate (AATR),,TECU/min,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",5,,Kp,,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",6,,Equatorial disturbance storm time index (Dst),,nT,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",7,,Auroral Electrojet (AE),,nT,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",8-191,,Reserved,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",192-254,,Reserved for local use,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",255,,Missing,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",0,,Wave spectra (1),,-,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",1,,Wave spectra (2),,-,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",2,,Wave spectra (3),,-,Operational
@@ -1008,25 +896,3 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 191: miscellaneous",4-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 191: miscellaneous",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 191: miscellaneous",255,,Missing,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",0,,Universal thermal climate index,,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",1,,Mean radiant temperature,,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",2-191,,Reserved,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",192-254,,Reserved for local use,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",255,,Missing,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 1: epidemiology",0,,Malaria cases,,Fraction,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 1: epidemiology",1,,Malaria circumsporozoite protein rate,,Fraction,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 1: epidemiology",2,,Plasmodium falciparum entomological inoculation rate,,Bites per day per person,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 1: epidemiology",3,,Human bite rate by anopheles vectors ,,Bites per day per person,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 1: epidemiology",4,,Malaria immunity ,,Fraction,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 1: epidemiology",5,,Falciparum parasite rates ,,Fraction,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 1: epidemiology",6,,Detectable falciparum parasite ratio (after day 10),,Fraction,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 1: epidemiology",7,,Anopheles vector to host ratio,,Fraction,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 1: epidemiology",8,,Anopheles vector number,,Number m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 1: epidemiology",9,,Fraction of malarial vector reproductive habitat,,Fraction,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 1: epidemiology",10-191,,Reserved,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 1: epidemiology",192-254,,Reserved for local use,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 1: epidemiology",255,,Missing,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 2: socioeconomic indicators",0,,Population density,,Person m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 2: socioeconomic indicators",1-191,,Reserved,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 2: socioeconomic indicators",192-254,,Reserved for local use,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 2: socioeconomic indicators",255,,Missing,,,Operational
