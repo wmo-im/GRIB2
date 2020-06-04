@@ -154,7 +154,13 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",119,,Unbalanced component of specific cloud liquid water content,,kg kg-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",120,,Unbalanced component of specific cloud ice water content,,kg kg-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",121,,Fraction of snow cover,,Proportion,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",122-128,,Reserved,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",122,,Precipitation intensity index,,Code table 4.247 proposed new table,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",123,,Dominant precipitation type,,Code table 4.201 proposed modified table,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",124,,Presence of showers,,See Table 4.222,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",125,,Presence of blowing snow,,See Table 4.222,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",126,,Presence of blizzard,,See Table 4.222,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",127,,Ice pellets (non water equivalent) precipitation rate,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",128,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",129,,Effective radius of cloud water,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",130,,Effective radius of rain,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",131,,Effective radius of cloud ice,,m,Operational
