@@ -66,7 +66,9 @@ Product definition template number,,80,,Analysis or forecast at a horizontal lev
 Product definition template number,,81,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol",,,Operational
 Product definition template number,,82,,"Average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol",,,Operational
 Product definition template number,,83,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol",,,Operational
-Product definition template number,,84-90,,Reserved,,,Operational
+Product definition template number,,84,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink",,,Operational
+Product definition template number,,85,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol",,,Operational
+Product definition template number,,86-90,,Reserved,,,Operational
 Product definition template number,,91,,Categorical forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,,Operational
 Product definition template number,,92-253,,Reserved,,,Operational
 Product definition template number,,254,,CCITT IA5 character string,,,Operational
