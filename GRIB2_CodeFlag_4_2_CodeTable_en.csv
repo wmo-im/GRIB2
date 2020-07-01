@@ -73,7 +73,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",38,,Horizontal moisture divergence,,kg kg-1 s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",39,,Per cent frozen precipitation,,%,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",40,,Potential evaporation,,kg m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",41,,Potential evaporation rate,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",41,,Potential evaporation rate,"The listed units for this parameter appear not to be appropriate for potential evaporation rate. Instead, it is recommended to use parameter 143.",W m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",42,,Snow cover,,%,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",43,,Rain fraction of total cloud water,,Proportion,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",44,,Rime factor,,Numeric,Operational
@@ -154,7 +154,13 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",119,,Unbalanced component of specific cloud liquid water content,,kg kg-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",120,,Unbalanced component of specific cloud ice water content,,kg kg-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",121,,Fraction of snow cover,,Proportion,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",122-128,,Reserved,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",122,,Precipitation intensity index,,Code table 4.247 proposed new table,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",123,,Dominant precipitation type,,Code table 4.201 proposed modified table,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",124,,Presence of showers,,See Table 4.222,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",125,,Presence of blowing snow,,See Table 4.222,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",126,,Presence of blizzard,,See Table 4.222,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",127,,Ice pellets (non water equivalent) precipitation rate,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",128,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",129,,Effective radius of cloud water,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",130,,Effective radius of rain,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",131,,Effective radius of cloud ice,,m,Operational
@@ -169,7 +175,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",140,,Effective aspect ratio of graupel,,-,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",141,,Effective aspect ratio of hail,,-,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",142,,Effective aspect ratio of subgrid ice clouds,,-,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",143-191,,Reserved,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",143,,Potential evaporation rate,,kg m–2 s–1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",144-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",255,,Missing,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",0,,Wind direction (from which blowing),,degree true,Operational
@@ -360,7 +367,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",17,,Gradient Richardson number,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",18,,Flux Richardson number,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",19,,Convective available potential energy - shear,,m2 s-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",20-191,,Reserved,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",20,,Thunderstorm intensity index,,Code table 4.246 proposed new table,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",21-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",255,,Missing,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 13: aerosols",0,,Aerosol type,,(Code table 4.205),Operational
@@ -469,7 +477,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",37,,Icing severity,,(Code table 4.228),Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",38,,Sky transparency index,,(Code Table 4.214),Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",39,,Seeing index,,(Code Table 4.214),Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",40-191,,Reserved,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",40,,Snow level,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",41-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",255,,Missing,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",0,,Mass density (concentration),,kg m-3,Operational
