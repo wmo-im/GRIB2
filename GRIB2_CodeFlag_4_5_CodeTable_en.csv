@@ -16,7 +16,9 @@ Fixed surface types and units,,13,,Lowest level where vertically integrated clou
 Fixed surface types and units,,14,,Level of free convection (LFC),,-,Operational
 Fixed surface types and units,,15,,Convective condensation level (CCL),,-,Operational
 Fixed surface types and units,,16,,Level of neutral buoyancy or equilibrium level (LNB),,-,Operational
-Fixed surface types and units,,17-19,,Reserved,,,Operational
+Fixed surface types and units,,17,,Departure level of the most unstable parcel of air (MUDL),,-,Operational
+Fixed surface types and units,,18,,Departure level of a mixed layer parcel of air with specified layer depth,,Pa,Operational
+Fixed surface types and units,,19,,Reserved,,,Operational
 Fixed surface types and units,,20,,Isothermal level,,K,Operational
 Fixed surface types and units,,21,,Lowest level where mass density exceeds the specified value (base for a given threshold of mass density),,kg m-3,Operational
 Fixed surface types and units,,22,,Highest level where mass density exceeds the specified value (top for a given threshold of mass density),,kg m-3,Operational
