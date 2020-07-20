@@ -5,6 +5,6 @@ Quality value associated with parameter,,2,,Correlation of product with used cal
 Quality value associated with parameter,,3,,Standard deviation,(see Note 5),,Operational
 Quality value associated with parameter,,4,,Random error,(see Note 5),,Operational
 Quality value associated with parameter,,5,,Probability,,,Operational
-Quality value associated with parameter,,5-191,,Reserved,,,Operational
+Quality value associated with parameter,,6-191,,Reserved,,,Operational
 Quality value associated with parameter,,192-254,,Reserved for local use,,,Operational
 Quality value associated with parameter,,255,,Missing,,,Operational
