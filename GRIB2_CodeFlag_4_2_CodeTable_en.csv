@@ -289,7 +289,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",52,,"Downward short-wave radiation flux, clear sky",,W m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",53,,"Upward short-wave radiation flux, clear sky",,W m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",54,,Direct normal short-wave radiation flux,,W m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",54-191,,Reserved,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",55-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",255,,Missing,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",0,,Net long-wave radiation flux (surface),*,W m-2,Deprecated
