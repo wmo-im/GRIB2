@@ -1,5 +1,5 @@
 Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Source or sink,,0,,Reserved,,,Operational
+Source or sink,,0,,Other,,,Operational
 Source or sink,,1,,Aviation,,,Operational
 Source or sink,,2,,Lightning,,,Operational
 Source or sink,,3,,Biogenic sources,,,Operational
@@ -11,6 +11,22 @@ Source or sink,,8,,Bio-fuel,,,Operational
 Source or sink,,9,,Fossil-fuel,,,Operational
 Source or sink,,10,,Wetlands,,,Operational
 Source or sink,,11,,Oceans,,,Operational
-Source or sink,,12-191,,Reserved,,,Operational
+Source or sink,,12,,Elevated anthropogenic sources,,,Operational
+Source or sink,,13,,Surface anthropogenic sources,,,Operational
+Source or sink,,14,,Agriculture livestock,,,Operational
+Source or sink,,15,,Agriculture soils,,,Operational
+Source or sink,,16,,Agriculture waste burning,,,Operational
+Source or sink,,17,,Agriculture (all),,,Operational
+Source or sink,,18,,"Residential, commercial and other combustion",,,Operational
+Source or sink,,19,,Power generation,,,Operational
+Source or sink,,20,,Super power stations,,,Operational
+Source or sink,,21,,Fugitives,,,Operational
+Source or sink,,22,,Industrial process,,,Operational
+Source or sink,,23,,Solvents,,,Operational
+Source or sink,,24,,Ships,,,Operational
+Source or sink,,25,,Wastes (solid and water),,,Operational
+Source or sink,,26,,Road transportation,,,Operational
+Source or sink,,27,,Off-road transportation,,,Operational
+Source or sink,,28-191,,Reserved,,,Operational
 Source or sink,,192-254,,Reserved for local use,,,Operational
 Source or sink,,255,,Missing,,,Operational
