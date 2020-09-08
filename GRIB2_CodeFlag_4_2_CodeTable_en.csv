@@ -53,7 +53,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",16,,Snow melt,,kg m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",17,,Snow age,,d,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",18,,Absolute humidity,,kg m-3,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",19,,Precipitation type,,(Code table 4.201),Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",19,,Precipitation type,,(
+4.201),Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",20,,Integrated liquid water,,kg m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",21,,Condensate,,kg/kg,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",22,,Cloud mixing ratio,,kg/kg,Operational
@@ -122,7 +123,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",85,,Specific rainwater content,,kg/kg,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",86,,Specific snow water content,,kg/kg,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",87,,Stratiform precipitation rate,,kg m-2 s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",88,,Categorical convective precipitation,,Code table 4.222,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",88,,Categorical convective precipitation,,(Code table 4.222),Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",89,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",90,,Total kinematic moisture flux,,kg kg-1 m s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",91,,u-component (zonal) kinematic moisture flux,,kg kg-1 m s-1,Operational
@@ -373,7 +374,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",17,,Gradient Richardson number,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",18,,Flux Richardson number,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",19,,Convective available potential energy - shear,,m2 s-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",20,,Thunderstorm intensity index,,Code table 4.246 proposed new table,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",20,,Thunderstorm intensity index,,(Code table 4.246),Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",21-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",255,,Missing,,,Operational
@@ -636,7 +637,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",32,,Root depth of vegetation,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",33,,Water runoff and drainage,****,kg m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",34,,Surface water runoff,****,kg m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",35,,Tile class,,Code table 4.243,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",35,,Tile class,,(Code table 4.243),Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",36,,Tile fraction,,Proportion,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",37,,Tile percentage,,%,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",38,,Soil volumetric ice content (water equivalent),(see Note 2),m3 m-3,Operational
@@ -676,8 +677,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",29-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",255,,Missing,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",0,,Fire outlook,,Code table 4.224,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",1,,Fire outlook due to dry thunderstorm,,Code table 4.224,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",0,,Fire outlook,,(Code table 4.224),Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",1,,Fire outlook due to dry thunderstorm,,(Code table 4.224),Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",2,,Haines index,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",3,,Fire burned area,,%,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",4,,Fosberg index,*,Numeric,Operational
@@ -711,16 +712,16 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",4,,Scaled lifted index,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",5,,Scaled cloud top pressure,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",6,,Scaled skin temperature,,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",7,,Cloud mask,,Code table 4.217,Operational
-Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",8,,Pixel scene type,,Code table 4.218,Operational
-Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",9,,Fire detection indicator,,Code table 4.223,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",7,,Cloud mask,,(Code table 4.217),Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",8,,Pixel scene type,,(Code table 4.218),Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",9,,Fire detection indicator,,(Code table 4.223),Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",10-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",255,,Missing,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",0,,Estimated precipitation,,kg m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",1,,Instantaneous rain rate,,kg m-2 s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",2,,Cloud top height,,m,Operational
-Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",3,,Cloud top height quality indicator,,Code table 4.219,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",3,,Cloud top height quality indicator,,(Code table 4.219),Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",4,,Estimated u-component of wind,,m/s,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",5,,Estimated v-component of wind,,m/s,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",6,,Number of pixel used,,Numeric,Operational
@@ -754,8 +755,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",0,,Clear sky probability,,%,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",1,,Cloud top temperature,,K,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",2,,Cloud top pressure,,Pa,Operational
-Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",3,,Cloud type,,Code table 4.218,Operational
-Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",4,,Cloud phase,,Code table 4.218,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",3,,Cloud type,,(Code table 4.218),Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",4,,Cloud phase,,(Code table 4.218),Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",5,,Cloud optical depth,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",6,,Cloud particle effective radius,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",7,,Cloud liquid water path,,kg m-2,Operational
