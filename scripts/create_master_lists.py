@@ -35,7 +35,7 @@ class CSVWriter:
     
 class XMLWriter:
 
-    xmlheader = '<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="###ITEM_NAME###.xsd" generated="{}">'.format( datetime.now().isoformat() )
+    xmlheader = '<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="{}">'.format( datetime.now().isoformat() )
 
 
     def __init__(self,outfile,elements,item_name):
@@ -69,7 +69,7 @@ class XMLWriter:
 
   
     
-def process_files(files,pattern,writers):
+def process_files(files,pattern,writers,title_prefix):
     
     for f in files:
         #print(f)
@@ -80,7 +80,7 @@ def process_files(files,pattern,writers):
             
         major_nr = m.group(1)
         minor_nr = m.group(2)
-        nr = "Code Table {}.{}".format(major_nr,minor_nr)
+        nr = "{} {}.{}".format(title_prefix,major_nr,minor_nr)
         
         csvfile = open(f,encoding="utf8")
         csvreader = csv.DictReader(csvfile, delimiter=',', quotechar='"',)
@@ -114,10 +114,10 @@ if __name__ == "__main__":
     csv_writer = CSVWriter("csv/CodeFlag.txt",fieldnames)
     
     xml_elements=["Title_en","CodeFlag","MeaningParameterDescription_en","Status"]
-    xml_writer = XMLWriter("xml/CodeFlag.xml",xml_elements,"GRIB2_25_0_0_CodeFlag_en")
+    xml_writer = XMLWriter("xml/CodeFlag.xml",xml_elements,"GRIB2_CodeFlag_en")
 
     writers = [csv_writer,xml_writer]
-    process_files(files,"GRIB2_CodeFlag",writers)
+    process_files(files,"GRIB2_CodeFlag",writers,"Code Table")
             
     # Template tables
     template_files = load_files("GRIB2_Template",basedir=".")
@@ -126,9 +126,9 @@ if __name__ == "__main__":
     csv_writer = CSVWriter("csv/Template.txt",fieldnames)
     
     xml_elements=["Title_en","OctetNo","Contents_en","Note_en","Status"]
-    xml_writer = XMLWriter("xml/Template.xml",xml_elements,"GRIB2_25_0_0_Template_en")
+    xml_writer = XMLWriter("xml/Template.xml",xml_elements,"GRIB2_Template_en")
 
     writers = [csv_writer,xml_writer]
-    process_files(template_files,"GRIB2_Template",writers)
+    process_files(template_files,"GRIB2_Template",writers,"Identification template")
 
 
