@@ -73,14 +73,28 @@ def process_files(files,pattern,writers,title_prefix):
     
     for f in files:
         #print(f)
-        m=re.match(r"{}_(\d+)_(\d+)_.*\.csv".format(pattern),f)
+        m=re.match(r"{}_(\d+)_(\d+)_(.*)_en\.csv".format(pattern),f)
         if not m:
             print("WARNING: filename",f,"not correct")
             continue
             
         major_nr = m.group(1)
         minor_nr = m.group(2)
-        nr = "{} {}.{}".format(title_prefix,major_nr,minor_nr)
+        title_prefix = m.group(3)
+        
+        # 
+        r = re.findall('[A-Z]',title_prefix)
+        idxs = [ title_prefix.find(c) for c in r ] + [len(title_prefix),]
+            
+        parts = []
+        prev_idx = 0
+        for i in range(1,len(idxs)):
+            parts.append(title_prefix[prev_idx:idxs[i]])
+            prev_idx=idxs[i]
+        
+        parts = [parts[0],] + [p.lower() for p in parts[1:] ]
+        
+        nr = "{} {}.{}".format(" ".join(parts),major_nr,minor_nr)
         
         csvfile = open(f,encoding="utf8")
         csvreader = csv.DictReader(csvfile, delimiter=',', quotechar='"',)
