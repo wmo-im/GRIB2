@@ -56,7 +56,7 @@ Fixed surface types and units,,119,,Hybrid pressure level,,-,Operational
 Fixed surface types and units,,120-149,,Reserved,,,Operational
 Fixed surface types and units,,150,,Generalized vertical height coordinate,(see Note 5),,Operational
 Fixed surface types and units,,151,,Soil level,(see Note 6),Numeric,Operational
-Fixed surface types and units,,152,,Sea ice level,(see Note 8),Numeric,Operational
+Fixed surface types and units,,152,,Sea-ice level,(see Note 8),Numeric,Operational
 Fixed surface types and units,,153-159,,Reserved,,,Operational
 Fixed surface types and units,,160,,Depth below sea level,,m,Operational
 Fixed surface types and units,,161,,Depth below water surface,,m,Operational
