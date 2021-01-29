@@ -68,6 +68,8 @@ Product definition template number,,82,,"Average, accumulation, and/or extreme v
 Product definition template number,,83,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink",,,Operational
 Product definition template number,,84,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink",,,Operational
 Product definition template number,,85,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol",,,Operational
+Product definition template number,,86,,"Quantile forecasts at a horizontal level or in a horizontal layer at a point in time,,,Operational
+Product definition template number,,87,,"Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,,Operational
 Product definition template number,,88,,Analysis or forecast at a horizontal level or in a horizontal layer at a specified local time,,,Operational
 Product definition template number,,89-90,,Reserved,,,Operational
 Product definition template number,,91,,Categorical forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,,Operational
