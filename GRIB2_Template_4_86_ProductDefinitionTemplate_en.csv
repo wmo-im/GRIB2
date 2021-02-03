@@ -14,5 +14,5 @@ quantile forecasts at a horizontal level or in a horizontal layer at a point in 
 quantile forecasts at a horizontal level or in a horizontal layer at a point in time,29,Type of second fixed surface,(see Code table 4.5),Operational
 quantile forecasts at a horizontal level or in a horizontal layer at a point in time,30,Scale factor of second fixed surface,,Operational
 quantile forecasts at a horizontal level or in a horizontal layer at a point in time,31-34,Scaled value of second fixed surface,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer at a point in time,35-36,Total number of Quantile q,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer at a point in time,35-36,Total number of quantile q,,Operational
 quantile forecasts at a horizontal level or in a horizontal layer at a point in time,37-38,Quantile value (between 0 and q),,Operational
