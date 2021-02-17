@@ -70,13 +70,11 @@ class XMLWriter:
   
     
 def process_files(files,pattern,writers,title_prefix):
-    
+        
+    rows=[]
     for f in files:
         #print(f)
         m=re.match(r"{}_(\d+)_(\d+)_(.*)_en\.csv".format(pattern),f)
-        if not m:
-            print("WARNING: filename",f,"not correct")
-            continue
             
         major_nr = m.group(1)
         minor_nr = m.group(2)
@@ -102,8 +100,43 @@ def process_files(files,pattern,writers,title_prefix):
             #row["No"]="{:.1f}".format(i)
             row["Title_en"] =  nr + " - " + row["Title_en"] 
             
-            for writer in writers:
-                writer.write_row(row)            
+            rows.append(row)
+    
+    # sort rows here
+    decorated = []
+    
+    if pattern == 'GRIB2_CodeFlag':
+        for i,row in enumerate(rows):
+            m = re.search(r'(\d+)\.(\d+)',row['Title_en'])
+            m2 = re.search(r'discipline (\d+)',row['SubTitle_en'])
+            m3 = re.search(r'category (\d+):',row['SubTitle_en'])
+            
+            subtitle_order = int(m2.group(1)) if m2 else 0
+            subtitle_order2 = int(m3.group(1)) if m3 else 0
+            
+            if m: 
+                decorated.append((int(m.group(1)),int(m.group(2)),subtitle_order,subtitle_order2,i,row))
+            else:
+                decorated.append((0,0,0,0,i,row))
+            
+    elif pattern == 'GRIB2_Template':
+        for i,row in enumerate(rows):
+            m = re.search(r'(\d+)\.(\d+)',row['Title_en'])
+            m2 = re.search(r'(\d+)-?(\d+)?',row["OctetNo"])
+            
+            octet_order = int(m2.group(1)) if m2 else 0
+            if m:
+                decorated.append((int(m.group(1)),int(m.group(2)),octet_order,0,i,row))
+            else:
+                decorated.append((0,0,0,0,i,row))
+            
+    decorated.sort()
+    rows = [row for *_,row in decorated]
+    
+    
+    for row in rows:
+        for writer in writers:
+            writer.write_row(row)            
                 
     for writer in writers:
         writer.close()
