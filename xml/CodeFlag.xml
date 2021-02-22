@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2021-02-17T14:56:00.574064">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2021-02-22T12:00:40.407971">
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 0.0 - Discipline of processed data in the GRIB message, number of GRIB Master table</Title_en>
 		<CodeFlag>0</CodeFlag>
@@ -3050,12 +3050,6 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>46</CodeFlag>
-		<MeaningParameterDescription_en>Total column integrated snow</MeaningParameterDescription_en>
-		<Status>Operational</Status>
-	</GRIB2_CodeFlag_en>
-	<GRIB2_CodeFlag_en>
-		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>47</CodeFlag>
 		<MeaningParameterDescription_en>Large scale water precipitation (non-convective)</MeaningParameterDescription_en>
 		<Status>Deprecated</Status>
@@ -3651,7 +3645,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>146</CodeFlag>
-		<MeaningParameterDescription_en>Cloud ice precipitation rate (See Note 1)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Cloud ice precipitation rate</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -13041,7 +13035,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 5.0 - Data representation template number</Title_en>
 		<CodeFlag>42</CodeFlag>
-		<MeaningParameterDescription_en>Grid point and spectral data - CCSDS recommended lossless compression</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Grid point data - CCSDS recommended lossless compression</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>

@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2021-02-17T14:56:00.574064">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2021-02-22T12:00:40.407971">
 	<GRIB2_Template_en>
 		<Title_en>Identification template 1.0 - calendar definition</Title_en>
 		<OctetNo>24</OctetNo>
@@ -17431,7 +17431,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Data template 7.42 - Grid point and spectral data - CCSDS recommended lossless compression</Title_en>
+		<Title_en>Data template 7.42 - Grid point data - CCSDS recommended lossless compression</Title_en>
 		<OctetNo>6-nn</OctetNo>
 		<Contents_en>CCSDS recommended standard for lossless data compression code stream</Contents_en>
 		<Note_en/>
