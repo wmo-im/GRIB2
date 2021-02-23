@@ -80,6 +80,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",43,,Rain fraction of total cloud water,,Proportion,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",44,,Rime factor,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",45,,Total column integrated rain,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",46,,Total column integrated snow,,kg m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",47,,Large scale water precipitation (non-convective),(see Note 3),kg m-2,Deprecated
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",48,,Convective water precipitation,(see Note 3),kg m-2,Deprecated
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",49,,Total water precipitation,(see Note 3),kg m-2,Deprecated
