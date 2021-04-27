@@ -11,16 +11,13 @@ Type of generating process,,8,,Observation,,,Operational
 Type of generating process,,9,,Climatological,,,Operational
 Type of generating process,,10,,Probability-weighted forecast,,,Operational
 Type of generating process,,11,,Bias-corrected ensemble forecast,,,Operational
-Type of generating process,,12,,Post-processed analysis,(1) Code figures 12 and 13 are intended in cases where code figures 0 and 2 may not be sufficient to indicate that significant post-processing has taken place on an initial analysis or forecast output.,,Operational
-Type of generating process,,13,,Post-processed forecast,(see Note 1),,Operational
+Type of generating process,,12,,Post-processed analysis,(see Note),,Operational
+Type of generating process,,13,,Post-processed forecast,(see Note),,Operational
 Type of generating process,,14,,Nowcast,,,Operational
 Type of generating process,,15,,Hindcast,,,Operational
 Type of generating process,,16,,Physical retrieval,,,Operational
 Type of generating process,,17,,Regression analysis,,,Operational
 Type of generating process,,18,,Difference between two forecasts,,,Operational
-Type of generating process,,19,,First guess,,,Operational
-Type of generating process,,20,,Analysis increment,(2) Analysis increment represents analysis minus first guess,,Operational
-Type of generating process,,21,,Initialization increment for analysis,(3) Initialized analysis increment represents initialized analysis minus analysis,,Operational
-Type of generating process,,22-191,,Reserved,,,Operational
+Type of generating process,,19-191,,Reserved,,,Operational
 Type of generating process,,192-254,,Reserved for local use,,,Operational
 Type of generating process,,255,,Missing,,,Operational

@@ -3,7 +3,6 @@ Significance of reference time,,0,,Analysis,,,Operational
 Significance of reference time,,1,,Start of forecast,,,Operational
 Significance of reference time,,2,,Verifying time of forecast,,,Operational
 Significance of reference time,,3,,Observation time,,,Operational
-Significance of reference time,,4,,Local time,,,Operational
-Significance of reference time,,5-191,,Reserved,,,Operational
+Significance of reference time,,4-191,,Reserved,,,Operational
 Significance of reference time,,192-254,,Reserved for local use,,,Operational
 Significance of reference time,,255,,Missing,,,Operational
