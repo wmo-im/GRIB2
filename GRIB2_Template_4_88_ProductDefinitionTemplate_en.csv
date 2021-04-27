@@ -19,7 +19,7 @@ analysis or forecast at a horizontal level or in a horizontal layer at a local t
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,33,Hour of the analysis or forecast used in the processing,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,34,Minute of the analysis or forecast used in the processing,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,35,Second of the analysis or forecast used in the processing,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,36,Indicator of units of forecast time,(see Code Table 4.4, set to missing if analysis),Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,36,Indicator of units of forecast time,"(see Code Table 4.4, set to missing if analysis)",Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,37-40,Forecast time (set to missing if analysis),,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,41,Number of time increments of the forecast used in the processing,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,42,Indicator of units of time for the time increments,,Operational
