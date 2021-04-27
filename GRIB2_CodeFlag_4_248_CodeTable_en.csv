@@ -1,0 +1,6 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
+Method used to derive data values for a given local time,,0,,Nearest forecast or analysis time to specified local time
+Method used to derive data values for a given local time,,1,,Interpolated to be valid at the specified local time
+Method used to derive data values for a given local time,,2-191,,Reserved,,,Operational
+Method used to derive data values for a given local time,,192-254,,Reserved for local use,,,Operational
+Method used to derive data values for a given local time,,255,,Missing,,,Operational
