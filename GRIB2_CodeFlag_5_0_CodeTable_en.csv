@@ -7,7 +7,7 @@ Data representation template number,,4,,Grid point data - IEEE floating point da
 Data representation template number,,5-39,,Reserved,,,Operational
 Data representation template number,,40,,Grid point data - JPEG 2000 code stream format,,,Operational
 Data representation template number,,41,,Grid point data - Portable Network Graphics (PNG),,,Operational
-Data representation template number,,42,,Grid point data - CCSDS recommended lossless compression,,,Operational
+Data representation template number,,42,,Grid point and spectral data - CCSDS recommended lossless compression,,,Operational
 Data representation template number,,43-49,,Reserved,,,Operational
 Data representation template number,,50,,Spectral data - simple packing,,,Operational
 Data representation template number,,51,,Spherical harmonics data - complex packing,,,Operational
