@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2021-02-23T14:47:15.879678">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2021-04-27T18:33:49.550061">
 	<GRIB2_Template_en>
 		<Title_en>Identification template 1.0 - calendar definition</Title_en>
 		<OctetNo>24</OctetNo>
@@ -15795,8 +15795,8 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.88 - analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>27</OctetNo>
-		<Contents_en>Method used to derive the data field values at the local time specified in section 1 (see code Table 2.248)</Contents_en>
-		<Note_en/>
+		<Contents_en>Method used to derive the data field values at the local time specified in section 1</Contents_en>
+		<Note_en>(see Code Table 2.248)</Note_en>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15851,8 +15851,8 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.88 - analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>36</OctetNo>
-		<Contents_en>Indicator of units of forecast time (see code Table 4.4, set to missing if analysis)</Contents_en>
-		<Note_en/>
+		<Contents_en>Indicator of units of forecast time</Contents_en>
+		<Note_en>(see Code Table 4.4, set to missing if analysis)</Note_en>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15886,7 +15886,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.88 - analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>47-nn</OctetNo>
-		<Contents_en>(n-1) repetitions of sequence of octet 29-46, describing the next analyses or forecasts used in the processing</Contents_en>
+		<Contents_en>(n-1) repetitions of sequence of octet 29-46 describing the next analyses or forecasts used in the processing</Contents_en>
 		<Note_en/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
