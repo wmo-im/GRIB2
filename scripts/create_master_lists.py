@@ -158,7 +158,7 @@ if __name__ == "__main__":
 
     # CodeFlag tables
     fieldnames=["Title_en","SubTitle_en","CodeFlag","Value","MeaningParameterDescription_en","Note_en","UnitComments_en","Status"]    
-    csv_writer = CSVWriter("csv/CodeFlag.txt",fieldnames)
+    csv_writer = CSVWriter("txt/CodeFlag.txt",fieldnames)
     
     xml_elements=["Title_en","CodeFlag","MeaningParameterDescription_en","Status"]
     xml_writer = XMLWriter("xml/CodeFlag.xml",xml_elements,"GRIB2_CodeFlag_en")
@@ -170,7 +170,7 @@ if __name__ == "__main__":
     template_files = load_files("GRIB2_Template",basedir=".")
 
     fieldnames=["Title_en","OctetNo","Contents_en","Note_en","Status"]    
-    csv_writer = CSVWriter("csv/Template.txt",fieldnames)
+    csv_writer = CSVWriter("txt/Template.txt",fieldnames)
     
     xml_elements=["Title_en","OctetNo","Contents_en","Note_en","Status"]
     xml_writer = XMLWriter("xml/Template.xml",xml_elements,"GRIB2_Template_en")
