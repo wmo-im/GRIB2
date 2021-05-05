@@ -1,2 +1,2 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-Grid point data - JPEG 2000 code stream format,6-nn,JPEG 2000 code stream as described in Part 1 of the JPEG 2000 standard (ISO/IEC 15444-1:2000),,Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Grid point data - JPEG 2000 code stream format,6-nn,JPEG 2000 code stream as described in Part 1 of the JPEG 2000 standard (ISO/IEC 15444-1:2000),,,,,Operational

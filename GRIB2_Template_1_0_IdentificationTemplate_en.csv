@@ -1,2 +1,2 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-calendar definition,24,Type of calendar,(see Code table 1.6),Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+calendar definition,24,Type of calendar,(see Code table 1.6),,1.6,,Operational

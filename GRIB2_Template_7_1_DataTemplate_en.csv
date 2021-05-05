@@ -1,2 +1,2 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-Matrix values at grid point - simple packing,6-nn,"Binary data values - binary string, with each (scaled) data value",,Experimental
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Matrix values at grid point - simple packing,6-nn,"Binary data values - binary string, with each (scaled) data value",,,,,Experimental

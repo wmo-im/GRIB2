@@ -1,6 +1,6 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-Spectral data - simple packing,12-15,Reference value (R) (IEEE 32-bit floating-point value),,Operational
-Spectral data - simple packing,16-17,Binary scale factor (E),,Operational
-Spectral data - simple packing,18-19,Decimal scale factor (D),,Operational
-Spectral data - simple packing,20,Number of bits used for each packed value (field width),,Operational
-Spectral data - simple packing,21-24,Real part of (0.0) coefficient (IEEE 32-bit floating-point value),,Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Spectral data - simple packing,12-15,Reference value (R) (IEEE 32-bit floating-point value),,,,,Operational
+Spectral data - simple packing,16-17,Binary scale factor (E),,,,,Operational
+Spectral data - simple packing,18-19,Decimal scale factor (D),,,,,Operational
+Spectral data - simple packing,20,Number of bits used for each packed value (field width),,,,,Operational
+Spectral data - simple packing,21-24,Real part of (0.0) coefficient (IEEE 32-bit floating-point value),,,,,Operational

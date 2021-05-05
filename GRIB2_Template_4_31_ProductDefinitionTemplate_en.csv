@@ -1,12 +1,12 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-satellite product,10,Parameter category,(see Code table 4.1),Operational
-satellite product,11,Parameter number,(see Code table 4.2),Operational
-satellite product,12,Type of generating process,(see Code table 4.3),Operational
-satellite product,13,Observation generating process identifier (defined by originating centres),,Operational
-satellite product,14,Number of contributing spectral bands (NB),,Operational
-satellite product,,"15-   Repeat the following 11 octets for each contributing band (nb = 1, NB)",,Operational
-satellite product,(15+11(nb-1))-(16+11(nb-1)),Satellite series of band nb (code table defined by originating/generating centre),,Operational
-satellite product,(17+11(nb-1))-(18+11(nb-1)),Satellite numbers of band nb (code table defined by originating/generating centre),,Operational
-satellite product,(19+11(nb-1))-(20+11(nb-1)),Instrument types of band nb (code table defined by originating/generating centre),,Operational
-satellite product,(21+11(nb-1)),Scale factor of central wave number of band nb,,Operational
-satellite product,(22+11(nb-1))-(25+11(nb-1)),Scaled value of central wave number of band nb (units: m-1),,Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+satellite product,10,Parameter category,(see Code table 4.1),,4.1,,Operational
+satellite product,11,Parameter number,(see Code table 4.2),,4.2,,Operational
+satellite product,12,Type of generating process,(see Code table 4.3),,4.3,,Operational
+satellite product,13,Observation generating process identifier (defined by originating centres),,,,,Operational
+satellite product,14,Number of contributing spectral bands (NB),,,,,Operational
+satellite product,,"15-   Repeat the following 11 octets for each contributing band (nb = 1, NB)",,,,,Operational
+satellite product,(15+11(nb-1))-(16+11(nb-1)),Satellite series of band nb (code table defined by originating/generating centre),,,,,Operational
+satellite product,(17+11(nb-1))-(18+11(nb-1)),Satellite numbers of band nb (code table defined by originating/generating centre),,,,,Operational
+satellite product,(19+11(nb-1))-(20+11(nb-1)),Instrument types of band nb (code table defined by originating/generating centre),,,,,Operational
+satellite product,(21+11(nb-1)),Scale factor of central wave number of band nb,,,,,Operational
+satellite product,(22+11(nb-1))-(25+11(nb-1)),Scaled value of central wave number of band nb (units: m-1),,,,,Operational

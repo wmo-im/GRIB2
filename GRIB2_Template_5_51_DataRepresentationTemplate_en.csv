@@ -1,8 +1,8 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-Spherical harmonics data - complex packing,12-20,Same as data representation template 5.50,,Operational
-Spherical harmonics data - complex packing,21-24,P - Laplacian scaling factor (expressed in 10-6 units),,Operational
-Spherical harmonics data - complex packing,25-26,JS - pentagonal resolution parameter of the unpacked subset,(see Note 1),Operational
-Spherical harmonics data - complex packing,27-28,KS - pentagonal resolution parameter of the unpacked subset,(see Note 1),Operational
-Spherical harmonics data - complex packing,29-30,MS - pentagonal resolution parameter of the unpacked subset,(see Note 1),Operational
-Spherical harmonics data - complex packing,31-34,TS - total number of values in the unpacked subset,(see Note 1),Operational
-Spherical harmonics data - complex packing,35,Precision of the unpacked subset,(see Code table 5.7),Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Spherical harmonics data - complex packing,12-20,Same as data representation template 5.50,,,,,Operational
+Spherical harmonics data - complex packing,21-24,P - Laplacian scaling factor (expressed in 10-6 units),,,,,Operational
+Spherical harmonics data - complex packing,25-26,JS - pentagonal resolution parameter of the unpacked subset,(see Note 1),119,,,Operational
+Spherical harmonics data - complex packing,27-28,KS - pentagonal resolution parameter of the unpacked subset,(see Note 1),119,,,Operational
+Spherical harmonics data - complex packing,29-30,MS - pentagonal resolution parameter of the unpacked subset,(see Note 1),119,,,Operational
+Spherical harmonics data - complex packing,31-34,TS - total number of values in the unpacked subset,(see Note 1),119,,,Operational
+Spherical harmonics data - complex packing,35,Precision of the unpacked subset,(see Code table 5.7),,5.7,,Operational

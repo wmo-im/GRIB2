@@ -1,8 +1,8 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-Grid point data - JPEG 2000 code stream format,12-15,Reference value (R) (IEEE 32-bit floating-point value),,Operational
-Grid point data - JPEG 2000 code stream format,16-17,Binary scale factor (E),,Operational
-Grid point data - JPEG 2000 code stream format,18-19,Decimal scale factor (D),,Operational
-Grid point data - JPEG 2000 code stream format,20,Number of bits required to hold the resulting scaled and referenced data values (i.e. depth of the greyscale image),(see Note 2),Operational
-Grid point data - JPEG 2000 code stream format,21,Type of original field values (see Code table 5.1),,Operational
-Grid point data - JPEG 2000 code stream format,22,Type of compression used (see Code table 5.40),,Operational
-Grid point data - JPEG 2000 code stream format,23,"Target compression ratio, M:1 (with respect to the bit-depth specified in octet 20), when octet 22 indicates lossy compression. Otherwise, set to missing",(see Note 3),Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Grid point data - JPEG 2000 code stream format,12-15,Reference value (R) (IEEE 32-bit floating-point value),,,,,Operational
+Grid point data - JPEG 2000 code stream format,16-17,Binary scale factor (E),,,,,Operational
+Grid point data - JPEG 2000 code stream format,18-19,Decimal scale factor (D),,,,,Operational
+Grid point data - JPEG 2000 code stream format,20,Number of bits required to hold the resulting scaled and referenced data values (i.e. depth of the greyscale image),(see Note 2),84,,,Operational
+Grid point data - JPEG 2000 code stream format,21,Type of original field values (see Code table 5.1),,,,,Operational
+Grid point data - JPEG 2000 code stream format,22,Type of compression used (see Code table 5.40),,,,,Operational
+Grid point data - JPEG 2000 code stream format,23,"Target compression ratio, M:1 (with respect to the bit-depth specified in octet 20), when octet 22 indicates lossy compression. Otherwise, set to missing",(see Note 3),74,,,Operational
