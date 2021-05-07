@@ -1,24 +1,24 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-spectral polar stereographic with modelling subdomains definition,15,Spectral representation type,(see Code table 3.6),Operational
-spectral polar stereographic with modelling subdomains definition,16-19,N - bi-Fourier resolution parameter,,Operational
-spectral polar stereographic with modelling subdomains definition,20-23,M - bi-Fourier resolution parameter,,Operational
-spectral polar stereographic with modelling subdomains definition,24,Bi-Fourier truncation type,(see Code table 3.25),Operational
-spectral polar stereographic with modelling subdomains definition,25-32,Lx - size in metres of the domain along x-axis,,Operational
-spectral polar stereographic with modelling subdomains definition,33-40,Lux - size in metres of model forecast subdomain along x-axis,,Operational
-spectral polar stereographic with modelling subdomains definition,41-48,Lcx - width in metres of coupling area within forecast domain along x-axis,,Operational
-spectral polar stereographic with modelling subdomains definition,49-56,Ly - size in metres of the domain along y-axis,,Operational
-spectral polar stereographic with modelling subdomains definition,57-64,Luy - size in metres of model forecast subdomain along y-axis,,Operational
-spectral polar stereographic with modelling subdomains definition,65-72,Lcy - width in metres of coupling area within forecast domain along y-axis,,Operational
-spectral polar stereographic with modelling subdomains definition,73,Shape of the Earth,(see Code table 3.2),Operational
-spectral polar stereographic with modelling subdomains definition,74,Scale factor of radius of spherical Earth,,Operational
-spectral polar stereographic with modelling subdomains definition,75-78,Scaled value of radius of spherical Earth,,Operational
-spectral polar stereographic with modelling subdomains definition,79,Scale factor of major axis of oblate spheroid Earth,,Operational
-spectral polar stereographic with modelling subdomains definition,80-83,Scaled value of major axis of oblate spheroid Earth,,Operational
-spectral polar stereographic with modelling subdomains definition,84,Scale factor of minor axis of oblate spheroid Earth,,Operational
-spectral polar stereographic with modelling subdomains definition,85-88,Scaled value of minor axis of oblate spheroid Earth,,Operational
-spectral polar stereographic with modelling subdomains definition,89-92,La1 - latitude of first grid point,,Operational
-spectral polar stereographic with modelling subdomains definition,93-96,Lo1 - longitude of first grid point,,Operational
-spectral polar stereographic with modelling subdomains definition,97,Resolution and component flags,(see Flag table 3.3),Operational
-spectral polar stereographic with modelling subdomains definition,98-101,LaD - latitude where Dx and Dy are specified,,Operational
-spectral polar stereographic with modelling subdomains definition,102-105,LoV - orientation of the grid,,Operational
-spectral polar stereographic with modelling subdomains definition,106,Projection centre flag,(see Flag table 3.5),Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+spectral polar stereographic with modelling subdomains definition,15,Spectral representation type,(see Code table 3.6),,3.6,,Operational
+spectral polar stereographic with modelling subdomains definition,16-19,N - bi-Fourier resolution parameter,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,20-23,M - bi-Fourier resolution parameter,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,24,Bi-Fourier truncation type,(see Code table 3.25),,3.25,,Operational
+spectral polar stereographic with modelling subdomains definition,25-32,Lx - size in metres of the domain along x-axis,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,33-40,Lux - size in metres of model forecast subdomain along x-axis,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,41-48,Lcx - width in metres of coupling area within forecast domain along x-axis,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,49-56,Ly - size in metres of the domain along y-axis,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,57-64,Luy - size in metres of model forecast subdomain along y-axis,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,65-72,Lcy - width in metres of coupling area within forecast domain along y-axis,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,73,Shape of the Earth,(see Code table 3.2),,3.2,,Operational
+spectral polar stereographic with modelling subdomains definition,74,Scale factor of radius of spherical Earth,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,75-78,Scaled value of radius of spherical Earth,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,79,Scale factor of major axis of oblate spheroid Earth,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,80-83,Scaled value of major axis of oblate spheroid Earth,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,84,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,85-88,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,89-92,La1 - latitude of first grid point,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,93-96,Lo1 - longitude of first grid point,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,97,Resolution and component flags,(see Flag table 3.3),,,,Operational
+spectral polar stereographic with modelling subdomains definition,98-101,LaD - latitude where Dx and Dy are specified,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,102-105,LoV - orientation of the grid,,,,,Operational
+spectral polar stereographic with modelling subdomains definition,106,Projection centre flag,(see Flag table 3.5),,,,Operational

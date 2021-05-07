@@ -1,17 +1,17 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,10,Parameter category,(see Code table 4.1),Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,11,Parameter number,(see Code table 4.2),Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,12,Type of generating process,(see Code table 4.3),Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,13,Background generating process identifier (defined by originating centre),,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,14,Analysis or forecast generating process identifier,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,15-16,Hours of observational data cut-off after reference time,(see Note 2),Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,17,Minutes of observational data cut-off after reference time,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,18,Indicator of unit of time range,(see Code table 4.4),Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,19-22,Forecast time in units defined by octet 18,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,23,Number of contributing spectral bands (NB),,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,,"24-   Repeat the following 11 octets for each contributing band (nb = 1, NB)",,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,(24+11(nb-1))-(25+11(nb-1)),Satellite series of band nb (Code table defined by originating/generating centre),,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,(26+11(nb-1))-(27+11(nb-1)),Satellite number of band nb (Code table defined by originating/generating centre),,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,(28+11(nb-1))-(29+11(nb-1)),Instrument types of band nb (Code table defined by originating/generating centre),,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,(30 +11(nb-1)),Scale factor of central wave number of band nb,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,(31+11(nb-1))-(34+11(nb-1)),Scaled value of central wave number of band nb (units: m-1),,Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,10,Parameter category,(see Code table 4.1),,4.1,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,11,Parameter number,(see Code table 4.2),,4.2,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,12,Type of generating process,(see Code table 4.3),,4.3,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,13,Background generating process identifier (defined by originating centre),,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,14,Analysis or forecast generating process identifier,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,15-16,Hours of observational data cut-off after reference time,(see Note 2),33,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,17,Minutes of observational data cut-off after reference time,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,18,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,19-22,Forecast time in units defined by octet 18,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,23,Number of contributing spectral bands (NB),,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,,"24-   Repeat the following 11 octets for each contributing band (nb = 1, NB)",,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,(24+11(nb-1))-(25+11(nb-1)),Satellite series of band nb (Code table defined by originating/generating centre),,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,(26+11(nb-1))-(27+11(nb-1)),Satellite number of band nb (Code table defined by originating/generating centre),,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,(28+11(nb-1))-(29+11(nb-1)),Instrument types of band nb (Code table defined by originating/generating centre),,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,(30 +11(nb-1)),Scale factor of central wave number of band nb,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,(31+11(nb-1))-(34+11(nb-1)),Scaled value of central wave number of band nb (units: m-1),,,,,Operational

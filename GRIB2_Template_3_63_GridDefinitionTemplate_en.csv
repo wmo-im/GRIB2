@@ -1,27 +1,27 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-spectral Lambert conformal with modelling subdomains definition,15,Spectral representation type,(see Code table 3.6),Operational
-spectral Lambert conformal with modelling subdomains definition,16-19,N - bi-Fourier resolution parameter,,Operational
-spectral Lambert conformal with modelling subdomains definition,20-23,M - bi-Fourier resolution parameter,,Operational
-spectral Lambert conformal with modelling subdomains definition,24,Bi-Fourier truncation type,(see Code table 3.25),Operational
-spectral Lambert conformal with modelling subdomains definition,25-32,Lx - size in metres of the domain along x-axis,,Operational
-spectral Lambert conformal with modelling subdomains definition,33-40,Lux - size in metres of model forecast subdomain along x-axis,,Operational
-spectral Lambert conformal with modelling subdomains definition,41-48,Lcx - width in metres of coupling area within forecast domain along x-axis,,Operational
-spectral Lambert conformal with modelling subdomains definition,49-56,Ly - size in metres of the domain along y-axis,,Operational
-spectral Lambert conformal with modelling subdomains definition,57-64,Luy - size in metres of model forecast subdomain along y-axis,,Operational
-spectral Lambert conformal with modelling subdomains definition,65-72,Lcy - width in metres of coupling area within forecast domain along y-axis,,Operational
-spectral Lambert conformal with modelling subdomains definition,73,Shape of the Earth,(see Code table 3.2),Operational
-spectral Lambert conformal with modelling subdomains definition,74,Scale factor of radius of spherical Earth,,Operational
-spectral Lambert conformal with modelling subdomains definition,75-78,Scaled value of radius of spherical Earth,,Operational
-spectral Lambert conformal with modelling subdomains definition,79,Scale factor of major axis of oblate spheroid Earth,,Operational
-spectral Lambert conformal with modelling subdomains definition,80-83,Scaled value of major axis of oblate spheroid Earth,,Operational
-spectral Lambert conformal with modelling subdomains definition,84,Scale factor of minor axis of oblate spheroid Earth,,Operational
-spectral Lambert conformal with modelling subdomains definition,85-88,Scaled value of minor axis of oblate spheroid Earth,,Operational
-spectral Lambert conformal with modelling subdomains definition,89-92,La1 - latitude of first grid point,,Operational
-spectral Lambert conformal with modelling subdomains definition,93-96,Lo1 - longitude of first grid point,,Operational
-spectral Lambert conformal with modelling subdomains definition,97-100,LaD - latitude where Dx and Dy are specified,,Operational
-spectral Lambert conformal with modelling subdomains definition,101-104,LoV - longitude of meridian parallel to y-axis along which latitude increases as the y-coordinate increases,,Operational
-spectral Lambert conformal with modelling subdomains definition,105,Projection centre flag,(see Flag table 3.5),Operational
-spectral Lambert conformal with modelling subdomains definition,106-109,Latin 1 - first latitude from the pole at which the secant cone cuts the sphere,,Operational
-spectral Lambert conformal with modelling subdomains definition,110-113,Latin 2 - second latitude from the pole at which the secant cone cuts the sphere,,Operational
-spectral Lambert conformal with modelling subdomains definition,114-117,Latitude of the southern pole of projection,,Operational
-spectral Lambert conformal with modelling subdomains definition,118-121,Longitude of the southern pole of projection,,Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+spectral Lambert conformal with modelling subdomains definition,15,Spectral representation type,(see Code table 3.6),,3.6,,Operational
+spectral Lambert conformal with modelling subdomains definition,16-19,N - bi-Fourier resolution parameter,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,20-23,M - bi-Fourier resolution parameter,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,24,Bi-Fourier truncation type,(see Code table 3.25),,3.25,,Operational
+spectral Lambert conformal with modelling subdomains definition,25-32,Lx - size in metres of the domain along x-axis,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,33-40,Lux - size in metres of model forecast subdomain along x-axis,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,41-48,Lcx - width in metres of coupling area within forecast domain along x-axis,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,49-56,Ly - size in metres of the domain along y-axis,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,57-64,Luy - size in metres of model forecast subdomain along y-axis,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,65-72,Lcy - width in metres of coupling area within forecast domain along y-axis,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,73,Shape of the Earth,(see Code table 3.2),,3.2,,Operational
+spectral Lambert conformal with modelling subdomains definition,74,Scale factor of radius of spherical Earth,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,75-78,Scaled value of radius of spherical Earth,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,79,Scale factor of major axis of oblate spheroid Earth,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,80-83,Scaled value of major axis of oblate spheroid Earth,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,84,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,85-88,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,89-92,La1 - latitude of first grid point,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,93-96,Lo1 - longitude of first grid point,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,97-100,LaD - latitude where Dx and Dy are specified,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,101-104,LoV - longitude of meridian parallel to y-axis along which latitude increases as the y-coordinate increases,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,105,Projection centre flag,(see Flag table 3.5),,,,Operational
+spectral Lambert conformal with modelling subdomains definition,106-109,Latin 1 - first latitude from the pole at which the secant cone cuts the sphere,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,110-113,Latin 2 - second latitude from the pole at which the secant cone cuts the sphere,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,114-117,Latitude of the southern pole of projection,,,,,Operational
+spectral Lambert conformal with modelling subdomains definition,118-121,Longitude of the southern pole of projection,,,,,Operational

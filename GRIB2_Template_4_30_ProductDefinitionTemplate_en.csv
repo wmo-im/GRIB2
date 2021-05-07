@@ -1,12 +1,12 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-satellite product,10,Parameter category,(see Code table 4.1),Deprecated
-satellite product,11,Parameter number,(see Code table 4.2),Deprecated
-satellite product,12,Type of generating process,(see Code table 4.3),Deprecated
-satellite product,13,Observation generating process identifier (defined by originating centres),,Deprecated
-satellite product,14,Number of contributing spectral bands (NB),,Deprecated
-satellite product,,"15-   Repeat the following 10 octets for each contributing band (nb = 1, NB)",,Deprecated
-satellite product,(15+10(nb-1))-(16+10(nb-1)),Satellite series of band nb (code table defined by originating/generating centre),,Deprecated
-satellite product,(17+10(nb-1))-(18+10(nb-1)),Satellite numbers of band nb (code table defined by originating/generating centre),,Deprecated
-satellite product,(19+10(nb-1)),Instrument types of band nb (code table defined by originating/generating centre),,Deprecated
-satellite product,(20+10(nb-1)),Scale factor of central wave number of band nb,,Deprecated
-satellite product,(21+10(nb-1))-(24+10(nb-1)),Scaled value of central wave number of band nb (units: m-1),,Deprecated
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+satellite product,10,Parameter category,(see Code table 4.1),,4.1,,Deprecated
+satellite product,11,Parameter number,(see Code table 4.2),,4.2,,Deprecated
+satellite product,12,Type of generating process,(see Code table 4.3),,4.3,,Deprecated
+satellite product,13,Observation generating process identifier (defined by originating centres),,,,,Deprecated
+satellite product,14,Number of contributing spectral bands (NB),,,,,Deprecated
+satellite product,,"15-   Repeat the following 10 octets for each contributing band (nb = 1, NB)",,,,,Deprecated
+satellite product,(15+10(nb-1))-(16+10(nb-1)),Satellite series of band nb (code table defined by originating/generating centre),,,,,Deprecated
+satellite product,(17+10(nb-1))-(18+10(nb-1)),Satellite numbers of band nb (code table defined by originating/generating centre),,,,,Deprecated
+satellite product,(19+10(nb-1)),Instrument types of band nb (code table defined by originating/generating centre),,,,,Deprecated
+satellite product,(20+10(nb-1)),Scale factor of central wave number of band nb,,,,,Deprecated
+satellite product,(21+10(nb-1))-(24+10(nb-1)),Scaled value of central wave number of band nb (units: m-1),,,,,Deprecated

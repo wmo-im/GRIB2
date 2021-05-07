@@ -1,19 +1,19 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-time section grid,15-18,NT - number of time steps,,Experimental
-time section grid,19,Unit of offset from reference time,(see Code table 4.4),Experimental
-time section grid,20-23,Offset from reference of first time (negative value when first bit set),,Experimental
-time section grid,24,Type of time increment,(see Code table 4.11),Experimental
-time section grid,25,Unit of time increment,(see Code table 4.4),Experimental
-time section grid,26-29,Time increment (negative value when first bit set),,Experimental
-time section grid,,30-36   Last date/time,,Experimental
-time section grid,30-31,Year,,Experimental
-time section grid,32,Month,,Experimental
-time section grid,33,Day,,Experimental
-time section grid,34,Hour,,Experimental
-time section grid,35,Minute,,Experimental
-time section grid,36,Second,,Experimental
-time section grid,37-38,Number of vertical points,,Experimental
-time section grid,39,Physical meaning of vertical coordinate,(see Code table 3.15),Experimental
-time section grid,40,Vertical dimension coordinate values definition,(see Code table 3.21),Experimental
-time section grid,41-42,NC - number of coefficients or values used to specify vertical coordinates,,Experimental
-time section grid,43-(42+NCx4),"Coefficients to define vertical dimension coordinate values in functional form, or the explicit coordinate values (IEEE 32-bit floating-point values)",,Experimental
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+time section grid,15-18,NT - number of time steps,,,,,Experimental
+time section grid,19,Unit of offset from reference time,(see Code table 4.4),,4.4,,Experimental
+time section grid,20-23,Offset from reference of first time (negative value when first bit set),,,,,Experimental
+time section grid,24,Type of time increment,(see Code table 4.11),,4.11,,Experimental
+time section grid,25,Unit of time increment,(see Code table 4.4),,4.4,,Experimental
+time section grid,26-29,Time increment (negative value when first bit set),,,,,Experimental
+time section grid,,30-36   Last date/time,,,,,Experimental
+time section grid,30-31,Year,,,,,Experimental
+time section grid,32,Month,,,,,Experimental
+time section grid,33,Day,,,,,Experimental
+time section grid,34,Hour,,,,,Experimental
+time section grid,35,Minute,,,,,Experimental
+time section grid,36,Second,,,,,Experimental
+time section grid,37-38,Number of vertical points,,,,,Experimental
+time section grid,39,Physical meaning of vertical coordinate,(see Code table 3.15),,3.15,,Experimental
+time section grid,40,Vertical dimension coordinate values definition,(see Code table 3.21),,3.21,,Experimental
+time section grid,41-42,NC - number of coefficients or values used to specify vertical coordinates,,,,,Experimental
+time section grid,43-(42+NCx4),"Coefficients to define vertical dimension coordinate values in functional form, or the explicit coordinate values (IEEE 32-bit floating-point values)",,,,,Experimental
