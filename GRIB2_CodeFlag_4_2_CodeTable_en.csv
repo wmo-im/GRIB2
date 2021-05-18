@@ -891,7 +891,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",5,,White light coronagraph radiance,,W sr-1 m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",6,,Heliospheric radiance,,W sr-1 m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",7,,Thematic mask,,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",8-191,,Reserved,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",8,,Solar induced chlorophyll fluorescence,,W m-2 sr-1 m-1, Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",9-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",255,,Missing,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 9: ion-neutral coupling",0,,Pedersen conductivity,,S m-1,Operational
