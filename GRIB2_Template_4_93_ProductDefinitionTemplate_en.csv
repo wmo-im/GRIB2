@@ -13,7 +13,7 @@ Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",26,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",27,Scale factor of second fixed surface,,,,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",28-31,Scaled value of second fixed surface,,,,,Operational
-"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",32,Method used to derive the data field values at the local time specified in section 1,(see Code Table 2.248),,2.248,,Operational
+"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",32,Method used to derive the data field values at the local time specified in section 1,(see Code Table 4.248),,4.248,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",33,n - number of analysis or forecast used to create the composite data field at the local time specified in section 1 (n>=1),,,,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",,Octet 34-51 Specification of the analysis or forecast used in the processing (n=1),,,,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",34-35,Year of the analysis or forecast used in the processing,,,,,Operational
