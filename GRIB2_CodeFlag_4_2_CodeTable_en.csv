@@ -50,7 +50,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",13,,Water equivalent of accumulated snow depth,(see Note 3),kg m-2,Deprecated
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",14,,Convective snow,(see Note 3),kg m-2,Deprecated
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",15,,Large-scale snow,(see Note 3),kg m-2,Deprecated
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",16,,Snow melt,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",16,,Snow melt,(see Note 7),kg m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",17,,Snow age,,d,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",18,,Absolute humidity,,kg m-3,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",19,,Precipitation type,,(4.201),Operational
@@ -581,7 +581,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",12,,Floodplain storage of water,,m3,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",13,,Depth of water on soil surface,,kg m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",14,,Upstream accumulated precipitation,,kg m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",15,,Upstream accumulated snow melt,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",15,,Upstream accumulated snow melt,(see Note 4),kg m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",16,,Percolation rate,,kg m-2 s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",17-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",192-254,,Reserved for local use,,,Operational
@@ -651,7 +651,9 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",38,,Soil volumetric ice content (water equivalent),(see Note 2),m3 m-3,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",39,,Evapotranspiration rate,,kg m-2 s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",40,,Potential evapotranspiration rate,,kg m-2 s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",41-191,,Reserved,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",41,,Snow melt rate,,kg m-2 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",42,,Water runoff and drainage rate,,kg m-2 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",43-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",255,,Missing,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",0,,Soil type,,(Code table 4.213),Operational
