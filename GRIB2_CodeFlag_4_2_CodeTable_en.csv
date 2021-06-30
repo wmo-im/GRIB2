@@ -1015,7 +1015,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",11,,Meridional vector component of vertically integrated ice internal pressure,,Pa m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",12,,Compressive ice strength,,N/m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",13,,Snow temperature (over sea ice),,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",14-191,,Reserved,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",14,,Albedo,,numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",15-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",255,,Missing,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",0,,Water temperature,,K,Operational
@@ -1030,7 +1031,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",9,,Thermosteric change in sea surface height,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",10,,Halosteric change in sea surface height,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",11,,Steric change in sea surface height,,m,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",12-191,,Reserved,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",12,,Sea salt flux,,kg m-2 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",13-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",255,,Missing,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",0,,Main thermocline depth,,m,Operational
@@ -1059,7 +1061,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",25,,x-component water velocity (see Note 2),"(2) The x- and y- components of water velocity are not necessarily equivalent to the u- and v- components (eastward/northward). The x- and y- components strictly follow the defined coordinate system which may or may not follow the eastward and northward directions.",m s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",26,,y-component water velocity (see Note 2),(See Note 2),m s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",27,,Upward water velocity,,m s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",28-191,,Reserved,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",28,,Vertical eddy diffusivity,,m2 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",29-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",255,,Missing,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 191: miscellaneous",0,,Seconds prior to initial reference time (defined in Section 1),,s,Operational
