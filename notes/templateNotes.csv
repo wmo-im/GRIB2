@@ -153,3 +153,6 @@ noteID,note,Association
 151,The reference time in octets 41-47 and the forecast time together define the beginning of the overall time interval.,"[GRIB2_Template_4_97_ProductDefinitionTemplate_en, octet]"
 152,The reference time in octets 39-45 and the forecast time together define the beginning of the overall time interval.,"[GRIB2_Template_4_96_ProductDefinitionTemplate_en, octet]"
 153,The reference time in octets 36-42 and the forecast time together define the beginning of the overall time interval.,"[GRIB2_Template_4_95_ProductDefinitionTemplate_en, octet]"
+154,The reference time in octets 37-43 and the forecast time together define the beginning of the overall time interval.,"[GRIB2_Template_4_94_ProductDefinitionTemplate_en, octet]"
+155,The reference time in octets 34-40 and the forecast time together define the beginning of the overall time interval.,"[GRIB2_Template_4_93_ProductDefinitionTemplate_en, octet]"
+156,The reference time in octets 32-38 and the forecast time together define the beginning of the overall time interval.,"[GRIB2_Template_4_92_ProductDefinitionTemplate_en, octet]"
