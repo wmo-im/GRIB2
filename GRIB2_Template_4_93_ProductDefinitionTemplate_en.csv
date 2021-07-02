@@ -22,10 +22,10 @@ Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",38,Hour of the analysis or forecast used in the processing,,,,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",39,Minute of the analysis or forecast used in the processing,,,,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",40,Second of the analysis or forecast used in the processing,,,,,Operational
-"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",41,Indicator of units of forecast time,"(see Code Table 4.4, set to missing if analysis)",70,4.4,,Operational
-"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",42-45,Forecast time (set to missing if analysis),,,,,Operational
+"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",41,Indicator of units of forecast time (set to missing if analysis),(see Code Table 4.4),,4.4,,Operational
+"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",42-45,Forecast time (set to missing if analysis),(see note 4),155,,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",46,Number of time increments of the forecast used in the processing,,,,,Operational
-"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",47,Indicator of units of time for the time increments,,,,,Operational
+"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",47,Indicator of units of time for the time increments,(see Code Table 4.4),,4.4,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",48-51,Time increments between successive forecast time,,,,,Operational
-"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",,Octet 52-nn are included only if n>1 where nn=33+18*n,,,,,Operational
+"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",,Octet 52-nn are included only if n>1 where nn = 33 + 18 x n,,,,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",52-nn,(n-1) repetitions of sequence of octet 34-51 describing the next analyses or forecasts used in the processing,,,,,Operational
