@@ -97,7 +97,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",59,,Large scale snowfall rate,,m/s,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",60,,Snow depth water equivalent,,kg m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",61,,Snow density,,kg m-3,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",62,,Snow evaporation,(see Note 6),kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",62,,Snow evaporation,(see Note 8),kg m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",63,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",64,,Total column integrated water vapour,,kg m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",65,,Rain precipitation rate,,kg m-2 s-1,Operational
