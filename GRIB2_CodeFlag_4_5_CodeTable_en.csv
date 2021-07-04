@@ -25,8 +25,8 @@ Fixed surface types and units,,22,,Highest level where mass density exceeds the 
 Fixed surface types and units,,23,,Lowest level where air concentration exceeds the specified value (base for a given threshold of air concentration),,Bq m-3,Operational
 Fixed surface types and units,,24,,Highest level where air concentration exceeds the specified value (top for a given threshold of air concentration),,Bq m-3,Operational
 Fixed surface types and units,,25,,Highest level where radar reflectivity exceeds the specified value (echo top for a given threshold of reflectivity),,dBZ,Operational
-Fixed surface types and units,,26,,Convective cloud layer bottom level,,m,Operational
-Fixed surface types and units,,27,,Convective cloud layer top level,,m,Operational
+Fixed surface types and units,,26,,Convective cloud layer base,,m,Operational
+Fixed surface types and units,,27,,Convective cloud layer top,,m,Operational
 Fixed surface types and units,,28-29,,Reserved,,,Operational
 Fixed surface types and units,,30,,Specified radius from the center of the Sun,,m,Operational
 Fixed surface types and units,,31,,Solar photosphere,,,Operational
