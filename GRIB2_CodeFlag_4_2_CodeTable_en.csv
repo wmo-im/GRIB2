@@ -1018,7 +1018,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",11,,Meridional vector component of vertically integrated ice internal pressure,,Pa m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",12,,Compressive ice strength,,N/m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",13,,Snow temperature (over sea ice),,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",14,,Albedo,,numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",14,,Albedo,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",15-191,,Reserved,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",192-254,,Reserved for local use,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",255,,Missing,,,Operational
