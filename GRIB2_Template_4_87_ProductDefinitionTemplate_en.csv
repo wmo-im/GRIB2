@@ -4,7 +4,7 @@ quantile forecasts at a horizontal level or in a horizontal layer in a continuou
 quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,12,Type of generating process,(see Code table 4.3),,4.3,,Operational
 quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,13,Background generating process identifier (defined by originating centre),,,,,Operational
 quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,14,Forecast generating process identifier (defined by originating centre),,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,15-16,Hours after reference time of data cut-off (see Note 1),(1) Hours greater than 65534 will be coded as 65534.,33,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,15-16,Hours after reference time of data cut-off,(see Note 1),33,,,Operational
 quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,17,Minutes after reference time for data cut-off,,,,,Operational
 quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,18,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
 quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,19-22,Forecast time in units defined by previous octet,(see Note 2),111,,,Operational
