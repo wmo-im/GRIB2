@@ -14,7 +14,7 @@ Mercator,47,Resolution and component flags,(see Flag table 3.3),,,3.3,Operationa
 Mercator,48-51,LaD - latitude(s) at which the Mercator projection intersects the Earth (Latitude(s) where Di and Dj are specified),,,,,Operational
 Mercator,52-55,La2 - latitude of last grid point,,,,,Operational
 Mercator,56-59,Lo2 - longitude of last grid point,,,,,Operational
-Mercator,60,Scanning mode,(flags - see Flag table 3.4),,,3.4,Operational
+Mercator,60,Scanning mode,(see Flag table 3.4),,,3.4,Operational
 Mercator,61-64,"Orientation of the grid, angle between i direction on the map and the Equator",(see Note 1),,,,Operational
 Mercator,65-68,Di - longitudinal direction grid length,(see Note 2),28,,,Operational
 Mercator,69-72,Dj - latitudinal direction grid length,(see Note 2),28,,,Operational
