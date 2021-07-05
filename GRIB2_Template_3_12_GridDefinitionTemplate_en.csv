@@ -14,7 +14,7 @@ Transverse Mercator,47,Resolution and component flags,(see Flag table 3.3),,,3.3
 Transverse Mercator,48-51,m - scale factor at reference point ratio of distance on map to distance on spheroid (IEEE 32-bit floating-point values),,,,,Operational
 Transverse Mercator,52-55,"XR - false easting, i-direction coordinate of reference point in units of 10-2 m",,,,,Operational
 Transverse Mercator,56-59,"YR - false northing, j-direction coordinate of reference point in units of 10-2 m",,,,,Operational
-Transverse Mercator,60,Scanning mode,(flags - see Flag table 3.4),,,3.4,Operational
+Transverse Mercator,60,Scanning mode,(see Flag table 3.4),,,3.4,Operational
 Transverse Mercator,61-64,Di - i-direction increment length in units of  10-2 m,,,,,Operational
 Transverse Mercator,65-68,Dj - j-direction increment length in units of 10-2 m,,,,,Operational
 Transverse Mercator,69-72,x1 - i-direction coordinate of the first grid point in units of 10-2 m,,,,,Operational
