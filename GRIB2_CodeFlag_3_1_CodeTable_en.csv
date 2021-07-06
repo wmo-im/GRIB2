@@ -7,7 +7,8 @@ Grid definition template number,,4,,Variable resolution latitude/longitude,,,Ope
 Grid definition template number,,5,,Variable resolution rotated latitude/longitude,,,Operational
 Grid definition template number,,6-9,,Reserved,,,Operational
 Grid definition template number,,10,,Mercator,,,Operational
-Grid definition template number,,11-12,,Reserved,,,Operational
+Grid definition template number,,11,,Reserved,,,Operational
+Grid definition template number,,12,,Transverse Mercator,,,Operational
 Grid definition template number,,13,,Mercator with modelling subdomains definition,,,Operational
 Grid definition template number,,14-19,,Reserved,,,Operational
 Grid definition template number,,20,,Polar stereographic projection,,Can be south or north,Operational

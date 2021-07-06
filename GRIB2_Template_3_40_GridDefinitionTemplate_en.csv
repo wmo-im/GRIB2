@@ -17,5 +17,5 @@ Gaussian latitude/longitude,56-59,La2 - latitude of last grid point,(see Note 1)
 Gaussian latitude/longitude,60-63,Lo2 - longitude of last grid point,(see Note 1),9,,,Operational
 Gaussian latitude/longitude,64-67,Di - i direction increment,(see Notes 1 and 5),"9,45",,,Operational
 Gaussian latitude/longitude,68-71,N - number of parallels between a pole and the Equator,(see Note 2),87,,,Operational
-Gaussian latitude/longitude,72,Scanning mode,(flags - see Flag table 3.4),,,3.4,Operational
-Gaussian latitude/longitude,73-nn,List of number of points along each meridian or parallel.,(These octets are only present for quasi-regular grids as described in Note 4),"4,124",,,Operational
+Gaussian latitude/longitude,72,Scanning mode,(see Flag table 3.4),,,3.4,Operational
+Gaussian latitude/longitude,73-nn,List of number of points along each meridian or parallel.,(see Notes 4 and 6),"4,124",,,Operational

@@ -11,6 +11,9 @@ Type of statistical processing,,8,,Difference (value at the start of time range 
 Type of statistical processing,,9,,Ratio,(see Note 3),,Operational
 Type of statistical processing,,10,,Standardized anomaly,,,Operational
 Type of statistical processing,,11,,Summation,,,Operational
-Type of statistical processing,,12-191,,Reserved,,,Operational
+Type of statistical processing,,12-99,,Reserved,,,Operational
+Type of statistical processing,,100,,Severity,,,Operational
+Type of statistical processing,,101,,Mode,,,Operational
+Type of statistical processing,,102-191,,Reserved,,,Operational
 Type of statistical processing,,192-254,,Reserved for local use,,,Operational
 Type of statistical processing,,255,,Missing,,,Operational
