@@ -3,7 +3,7 @@ Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",11,Parameter number,(see Code table 4.2),,4.2,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",12-13,Input process identifier,(see Note 1),82,,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",14-15,Input originating centre,(see Note 2 and Common Code table C-11),81,CCT-11,,Operational
-"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",16,Type of post-processing,(see note 3),126,,,Operational
+"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",16,Type of post-processing,(see Note 3),126,,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",17,Type of generating process,(see Code table 4.3),,4.3,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",18,Background generating process identifier (defined by originating centre),,,,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",19,Analysis or forecast generating process identifier (defined by originating centre),,,,,Operational
@@ -22,8 +22,8 @@ Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",38,Hour of the analysis or forecast used in the processing,,,,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",39,Minute of the analysis or forecast used in the processing,,,,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",40,Second of the analysis or forecast used in the processing,,,,,Operational
-"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",41,Indicator of units of forecast time,(see Note 5 and Code Table 4.4),,4.4,,Operational
-"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",42-45,Forecast time,(see Notes 4 and 5),155,,,Operational
+"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",41,Indicator of units of forecast time,(see Note 5 and Code Table 4.4),70,4.4,,Operational
+"Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",42-45,Forecast time,(see Notes 4 and 5),"155,70",,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",46,Number of time increments of the forecast used in the processing,,,,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",47,Indicator of units of time for the time increments,(see Code Table 4.4),,4.4,,Operational
 "Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",48-51,Time increments between successive forecast time,,,,,Operational
