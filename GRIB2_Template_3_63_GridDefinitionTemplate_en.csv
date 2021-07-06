@@ -20,7 +20,7 @@ spectral Lambert conformal with modelling subdomains definition,89-92,La1 - lati
 spectral Lambert conformal with modelling subdomains definition,93-96,Lo1 - longitude of first grid point,,,,,Operational
 spectral Lambert conformal with modelling subdomains definition,97-100,LaD - latitude where Dx and Dy are specified,,,,,Operational
 spectral Lambert conformal with modelling subdomains definition,101-104,LoV - longitude of meridian parallel to y-axis along which latitude increases as the y-coordinate increases,,,,,Operational
-spectral Lambert conformal with modelling subdomains definition,105,Projection centre flag,(see Flag table 3.5),,,,Operational
+spectral Lambert conformal with modelling subdomains definition,105,Projection centre flag,(see Flag table 3.5),,,3.5,Operational
 spectral Lambert conformal with modelling subdomains definition,106-109,Latin 1 - first latitude from the pole at which the secant cone cuts the sphere,,,,,Operational
 spectral Lambert conformal with modelling subdomains definition,110-113,Latin 2 - second latitude from the pole at which the secant cone cuts the sphere,,,,,Operational
 spectral Lambert conformal with modelling subdomains definition,114-117,Latitude of the southern pole of projection,,,,,Operational
