@@ -17,5 +17,5 @@ Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
 "latitude/longitude (or equidistant cylindrical, or Plate Carrée)",60-63,Lo2 - longitude of last grid point,(see Note 1),9,,,Operational
 "latitude/longitude (or equidistant cylindrical, or Plate Carrée)",64-67,Di - i direction increment,(see Notes 1 and 5),"9,45",,,Operational
 "latitude/longitude (or equidistant cylindrical, or Plate Carrée)",68-71,Dj - j direction increment,(see Notes 1 and 5),"9,45",,,Operational
-"latitude/longitude (or equidistant cylindrical, or Plate Carrée)",72,Scanning mode,(flags - see Flag table 3.4),,,3.4,Operational
+"latitude/longitude (or equidistant cylindrical, or Plate Carrée)",72,Scanning mode,(see Flag table 3.4),,,3.4,Operational
 "latitude/longitude (or equidistant cylindrical, or Plate Carrée)",73-nn,List of number of points along each meridian or parallel.,"(see Notes 2, 3 and 7)","4,15,124",,,Operational
