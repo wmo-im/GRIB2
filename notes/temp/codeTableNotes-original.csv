@@ -1,0 +1,10 @@
+row #,noteID,table #,note,noteAppliesTo,noteID-PDF,note_en-GitHub,myComment
+,0,0.0,no notes,/,/,/,/
+,tbd,1.0,This code table is deprecated. See Common Code table C–0 instead.,table,no #,n/a,status is deprecated
+,0,1.1,no notes,/,/,/,/
+,0,1.2,no notes,/,/,/,/
+,0,1.3,no notes,/,/,/,/
+,tbd,1.4,An initialized analysis is considered a zero-hour forecast.,table,no #,n/a,/
+,0,1.5,no notes,/,/,/,/
+,tbd,1.6,Essentially a non-leap year,code figure 2,no #,n/a,"in a ""comments"" column in PDF"
+,tbd,1.6,Extends the Gregorian calendar indefinitely in the past,code figure 3,no #,n/a,"in a ""comments"" column in PDF"
