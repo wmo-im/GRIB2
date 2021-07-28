@@ -1,489 +1,296 @@
-row #,noteID,table #,note applies to,note,noteID PDF,GitHub,myComment
-,0,0.0,-,no notes,-,-,-
-,,1.0,table,This code table is deprecated. See Common Code table C–0 instead.,no #,n/a,status in github is deprecated
-,0,1.1,-,no notes,-,-,-
-,0,1.2,-,no notes,-,-,-
-,0,1.3,-,no notes,-,-,-
-,,1.4,table,An initialized analysis is considered a zero-hour forecast.,no #,n/a,-
-,0,1.5,-,no notes,-,-,-
-,,1.6,code figure 2,Essentially a non-leap year,comment column,n/a,
-,,1.6,code figure 3,Extends the Gregorian calendar indefinitely in the past,comment column,n/a,
-,,3.0,code figure 1,Defined by originating centre,comment column,comment column,
-,,3.1,code figure 0,"Also called equidistant cylindrical, or Plate Carrée",comment column,comment column,
-,,3.1,code figure 20,Can be south or north,comment column,comment column,
-,,3.1,code figure 30,"Can be secant or tangent, conical or bipolar",comment column,comment column,
-,,3.2,table,WGS-84 is a geodetic system that uses IAG-GRS80 as a basis.,1,na,
-,,3.2,table,"With respect to code figures 0, 1, 3, 6 and 7, coordinates can only be unambiguously interpreted, if the coordinate reference system in which they are embedded is known. Therefore, defining the shape of the Earth alone without coordinate system axis origins is ambiguous. Generally, the prime meridian defined in the geodetic system WGS-84 can be safely assumed to be the longitudinal origin. However, because these code figures do not
-specify the longitudinal origin explicitly, it is suggested to contact the originating centre if
-high precision coordinates are needed, in order to obtain the precise details of the coordinate
-system used (effective as from 16 November 2016).",2,na,"applies to code figures 0,1,3,6 and 7"
-,0,3.3,-,no notes,-,-,-
-,,3.4,table,i direction: west to east along a parallel or left to right along an x-axis.,1,na,
-,,3.4,table,"j direction: south to north along a meridian, or bottom to top along a y-axis.",2,na,
-,,3.4,table,"If bit number 4 is set, the first row scan is as defined by previous flags.",3,na,
-,,3.4,table,"La1 and Lo1 define the first row, which is an odd row.",4,na,
-,,3.4,table,"Di and Dj are assumed to be positive, with the direction of i and j being given by bits 1 and 2.",5,na,
-,,3.4,table,"Bits 5 through 8 may be used to generate staggered grids, such as Arakawa grids (see Part B, GRIB Attachment II).",6,na,
-,,3.4,table,"If any of bits 5, 6, 7 or 8 are set, Di and Dj are not optional.",7,na,
-,0,3.5,-,no notes,-,-,-
-,,3.6,code figure 1,(see separate doc or pdf file),-,(Code table 3.6),pdf has image of complex formula that can't go in CSV
-,,3.7,table,"Values of N(m) for common truncation cases:
-Triangular: M = J = K, N(m) = J
-Rhomboidal: K = J + M, N(m) = J + m
-Trapezoidal: K = J, K > M, N(m) = J",no #,,
-,,3.7,code figure 1,(see separate doc or pdf file),-,(Code table 3.7),pdf has image of complex formula that can't go in CSV
-,0,3.8,-,no notes,-,-,-
-,0,3.9,-,no notes,-,-,-
-,0,3.10,-,no notes,-,-,-
-,,3.11,na,"For entry 1, it should be noted that depending on values of extreme (first/last) coordinates,
-and regardless of bit-map, effective number of points per row may be less than the number
-of points on the current circle.",1,na,add see note 1 to entry 1?
-,,3.11,code figure 3,"The value for the constant direction increment Di (or Dx) in the accompanying grid definition
-template should be set to all ones (missing).",2,(see Note 2)	,
-,,3.15,code figure 103,"Negative values associated to this coordinate will indicate depth below ground surface.
-If values are all below surface, use of entry 106 is recommended, with positive coordinate
-values instead.",1,(see Note 1)	,
-,,3.15,code figure 111,"The Eta vertical coordinate system involves normalizing the pressure at some point on a
-specific level by the mean sea-level pressure at that point.",2,(see Note 2)	,
-,0,3.20,-,no notes,-,-,-
-,0,3.21,-,no notes,-,-,-
-,0,3.25,-,no notes,-,-,-
-,0,4.0,-,no notes,-,-,-
-,,4.1,table,"When a new category is to be added to Code table 4.1 and more than one discipline
-applies, the choice of discipline should be made based on the intended use of the product.",no id,na,note is directly under table title
-,,4.1.0,na,"Entries 9, 10, 11 and 12 are deprecated.",no id,na,update pdf and github? status = deprecated
-,0,4.1.1,-,no notes,-,-,-
-,0,4.1.2,-,no notes,-,-,-
-,,4.1.3,category 0,"Data are numeric without units, although they might be given quantitative meaning through
-a code table defined external to this document. The emphasis is on a displayable “picture” of
-some phenomenon, perhaps with certain enhanced features. Generally, each datum is an
-unsigned, one octet integer, but some image format products might have another datum
-size. The size of a datum is indicated in section 5.",1,(see Note 1),
-,,4.1.3,category 1,Data are in specified physical units.,2,(see Note 2),
-,0,4.1.4,-,no notes,-,-,-
-,0,4.1.10,-,no notes,-,-,-
-,,4.2,table,"By convention, the flux sign is positive if downwards.",1,na,note is directly under table title
-,,4.2,table,"When a new parameter is to be added to Code table 4.2 and more than one category
-applies, the choice of category should be made based on the intended use of the product. The
-discipline and category are an important part of any product definition, so it is possible to have the
-same parameter name in more than one category. For example, “water temperature” in
-discipline 10 (oceanographic products), category 4 (subsurface properties) is used for reporting
-water temperature in the ocean or open sea, and is not the same as “water temperature” in
-discipline 1 (hydrological products), category 2 (inland water and sediment properties), which is
-used for reporting water temperature in freshwater lakes and rivers.",2,na,note is directly under table title
-,,4.2.0.0,number 14,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,CHANGE TO NUMBERS
-,,4.2.0.0,number 21,"Apparent temperature is the perceived outdoor temperature, caused by a combination of
-phenomena, such as air temperature, relative humidity and wind speed.",**,**,CHANGE TO NUMBERS
-,,4.2.0.1,number 7,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,1,(see Note 1),
-,,4.2.0.1,number 8,"Statistical process 1 (Accumulation) does not change units. It is recommended to use
-another parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),
-,,4.2.0.1,number 9,"Statistical process 1 (Accumulation) does not change units. It is recommended to use
-another parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),
-,,4.2.0.1,number 10,"Statistical process 1 (Accumulation) does not change units. It is recommended to use
-another parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),
-,,4.2.0.1,number 12,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,1,(see Note 1),
-,,4.2.0.1,number 13,"Statistical process 1 (Accumulation) does not change units. It is recommended to use
-another parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),
-,,4.2.0.1,number 14,"Statistical process 1 (Accumulation) does not change units. It is recommended to use
-another parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),
-,,4.2.0.1,number 15,"Statistical process 1 (Accumulation) does not change units. It is recommended to use
-another parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),
-,,4.2.0.1,number 16,"It is recommended to use Snow melt rate instead (discipline 2, category 0, number 41).",7,(see Note 7),
-,,4.2.0.1,number 27,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,1,(see Note 1),
-,,4.2.0.1,number 28,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,1,(see Note 1),
-,,4.2.0.1,29,"Statistical process 1 (Accumulation) does not change units. It is recommended to use
-another parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),
-,,4.2.0.1,41,"The listed units for this parameter appear to be inappropriate for the potential evaporation
-rate. Instead, it is recommended to use parameter 143.",4,(see Note 4),
-,,4.2.0.1,47,"Statistical process 1 (Accumulation) does not change units. It is recommended to use
-another parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),
-,,4.2.0.1,48,"Statistical process 1 (Accumulation) does not change units. It is recommended to use
-another parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),
-,,4.2.0.1,49,"Statistical process 1 (Accumulation) does not change units. It is recommended to use
-another parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),
-,,4.2.0.1,50,"Statistical process 1 (Accumulation) does not change units. It is recommended to use
-another parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),
-,,4.2.0.1,52,"Total precipitation/snowfall rate stands for the sum of convective and large-scale
-precipitation/snowfall rate.",2,(see Note 2),
-,,4.2.0.1,53,"Total precipitation/snowfall rate stands for the sum of convective and large-scale
-precipitation/snowfall rate.",2,(see Note 2),
-,,4.2.0.1,62,It is recommended to use parameter 148.,8,(see Note 8),
-,,4.2.0.1,128,"Total solid precipitation includes the sum of all types of solid water, e.g. graupel, snow and
-hail.",5,(see Note 5),
-,,4.2.0.1,146,"Assuming a cloud containing a bi-modal ice particle distribution, “cloud ice” refers to the
-small particle mode, whereas the large mode is usually called “snow”. (“Ice pellets”, in
-contrast, may refer to the precipitation of sleet, formed from freezing raindrops or refreezing
-(partially) melted snow flakes, or the precipitation of small hail.)",6,(see Note 6),
-,,4.2.0.1,148,"Snow evaporation is the accumulated amount of water that has evaporated from snow from
-within the snow covered area of a grid-box.",9,(see Note 9),
-,,4.2.0.2,21,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,FIX NOTATION
-,,4.2.0.2,34,In relation to local coordinate axes at a cell edge.,**,**,FIX NOTATION
-,,4.2.0.2,35,In relation to local coordinate axes at a cell edge.,**,**,FIX NOTATION
-,,4.2.0.2,36,"This parameter is described in more detail by (a) Lee, S. and I.M. Held, 1993: Baroclinic
-wave packets in models and observations. J. Atmos. Sci., 50:1413–1428, (b) Chang, E.K.M.,
-1993: Downstream development of baroclinic waves as inferred from regression analysis.
-J. Atmos. Sci., 50:2038–2053, (c) Archambault, H.M., D. Keyser and L.F. Bosart, 2010:
-Relationships between large-scale regime transitions and major cool-season precipitation
-events in the northeastern United States. Mon Wea. Review, 138:3454–3473, and
-(d) Zimin, A.V., I. Szunyogh, B.R. Hung and E. Orr, 2006: Extracting envelopes of
-nonzonally propagating Rossby wave packets. Mon. Wea. Review, 134:1329–1333.",***,***,FIX NOTATION
-,,4.2.0.2,37,Statistical process 1 (Accumulation) does not change units.,****,****,FIX NOTATION
-,,4.2.0.2,38,Statistical process 1 (Accumulation) does not change units.,****,****,FIX NOTATION
-,,4.2.0.2,47,Surface roughness for heat is a measure of the surface resistance to heat transfer.,1,(see Note 1),FIX NOTATION
-,,4.2.0.2,48,Surface roughness for moisture is a measure of the surface resistance to moisture transfer.,2,(see Note 2),FIX NOTATION
-,0,4.2.0.3,-,no notes,-,-,-
-,,4.2.0.4,0,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,FIX NOTATION
-,,4.2.0.4,1,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,FIX NOTATION
-,,4.2.0.4,2,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,FIX NOTATION
-,,4.2.0.4,50,"The Global Solar UVI is formulated using the International Commission on Illumination (CIE)
-reference action spectrum for UV-induced erythema on the human skin (ISO
-17166:1999/CIE S 007/E-1998).
-It is a measure of the UV radiation that is relevant to and defined for a horizontal surface.
-The UVI is a unitless quantity defined by the formula:
-𝐼𝐼𝑈𝑈𝑈𝑈 = 𝑘𝑘𝑒𝑒𝑒𝑒 ∙ 􀶱 𝐸𝐸𝜆𝜆
-400𝑛𝑛𝑛𝑛
-250𝑛𝑛𝑚𝑚
-∙ 𝑆𝑆𝑒𝑒𝑒𝑒(𝜆𝜆)𝑑𝑑𝑑𝑑
-where 𝐸𝐸𝜆𝜆 is the solar spectral irradiance expressed in W / (m2·nanometre) at wavelength λ
-and 𝑑𝑑𝑑𝑑is the wave-length interval used in the summation. 𝑆𝑆𝑒𝑒𝑒𝑒 𝜆𝜆 is the erythema reference
-action spectrum, and 𝑘𝑘𝑒𝑒𝑒𝑒 is a constant equal to 40 m2 / W.",**,**,FIX NOTATION
-,,4.2.0.4,51,>>>paste error,**,**,FIX NOTATION
-,,4.2.0.4,54,Normal flux is on a surface lifted to be normal to sun rays.,1,(see Note 1),FIX NOTATION
-,,4.2.0.5,0,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,FIX NOTATION
-,,4.2.0.5,1,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,FIX NOTATION
-,,4.2.0.5,2,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,FIX NOTATION
-,,4.2.0.6,17,Parameter deprecated. Use another parameter in parameter category 1: moisture instead.,*,*,
-,,4.2.0.6,18,Parameter deprecated. Use another parameter in parameter category 1: moisture instead.,*,*,
-,,4.2.0.6,19,Parameter deprecated. Use another parameter in parameter category 1: moisture instead.,*,*,
-,,4.2.0.6,20,Parameter deprecated. Use another parameter in parameter category 1: moisture instead.,*,*,
-,,4.2.0.6,23,Parameter deprecated. Use another parameter in parameter category 1: moisture instead.,*,*,
-,,4.2.0.6,47,"The sum of the water and ice fractions may exceed the total due to overlap between the
-volumes containing ice and those containing liquid water.",**,**,
-,,4.2.0.6,48,"The sum of the water and ice fractions may exceed the total due to overlap between the
-volumes containing ice and those containing liquid water.",**,**,
-,,4.2.0.6,49,"The sum of the water and ice fractions may exceed the total due to overlap between the
-volumes containing ice and those containing liquid water.",**,**,
-,,4.2.0.6,50,Fog is defined as cloud cover in the lowest model level.,1,(see Note 1),
-,0,4.2.0.7,-,no notes,-,-,-
-,,4.2.0.13,table,"This category is no longer populated, please use ""Product discipline 0 – Meteorological
-products, parameter category 20: atmospheric chemical constituents.",no number,na,"under title, before table"
-,0,4.2.0.14,-,no notes,-,-,-
-,0,4.2.0.15,-,no notes,-,-,-
-,,4.2.0.16,table,"Decibel (dB) is a logarithmic measure of the relative power, or of the relative values of two
-flux densities, especially of sound intensities and radio and radar power densities. In radar
-meteorology, the logarithmic scale (dBZ) is used for measuring radar reflectivity factor
-(obtained from the American Meteorological Society Glossary of Meteorology).",no number,,assign to numbers 4 and 5?
-,,4.2.0.17,1,"Definition of LPI after Lynn et al.: Lynn, B. and Y. Yair, 2010: Prediction of lightning flash
-density with the WRF model, Adv. Geosci., 23:11–16; Yair, Y., B. Lynn, C. Price, V. Kotroni,
-K. Lagouvardos, E. Morin, A. Mugnai and M. Llasat, 2010: Predicting the potential for
-lightning activity in Mediterranean storms based on the Weather Research and Forecasting
-(WRF) model dynamic and microphysical fields, Journal of Geophysical Research, 115,
-D04205, doi:10.1029/2008JD010868.",1,(see Note 1),
-,,4.2.0.17,4,"The total lightning flash density is the sum of cloud-to-ground and cloud-to-cloud lightning
-flash densities (see Lopez, P., 2016: A lightning parameterization for the ECMWF Integrated
-Forecasting System, Monthly Weather Review, 144, 3057–3075).",2,(see Note 2),
-,,4.2.0.18,6,"Statistical process 1 (Accumulation) does not change units. It is recommended to use
-another parameter without the word “time-integrated” in its name and accumulation in PDT.",1,(see Note 1),
-,,4.2.0.18,7,"Statistical process 1 (Accumulation) does not change units. It is recommended to use
-another parameter without the word “time-integrated” in its name and accumulation in PDT.",1,(see Note 1),
-,,4.2.0.18,8,"Statistical process 1 (Accumulation) does not change units. It is recommended to use
-another parameter without the word “time-integrated” in its name and accumulation in PDT.",1,(see Note 1),
-,,4.2.0.18,10,"Conversion factor between “Specific activity concentration” (14) and “Air concentration” (10)
-is “mass density” [kg m–3].",2,(see Note 2),
-,,4.2.0.18,14,"Conversion factor between “Specific activity concentration” (14) and “Air concentration” (10)
-is “mass density” [kg m–3].",2,(see Note 2),
-,,4.2.0.18,table,"Parameters from 10 onward may be used in combination with product definition
-templates 4.40– 4.43 and Common Code table C–14 (Code table 4.230) to represent any
-type of radioisotope.",3,na,add to numbers 10 and up?
-,,4.2.0.19,17,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,1,(see Note 1),
-,,4.2.0.19,23,"Supercooled large droplets (SLD) are defined as those with a diameter greater than
-50 microns.",2,(see Note 2),
-,,4.2.0.19,30,Eddy dissipation parameter is the third root of eddy dissipation rate [m2 s–3].,3,(see Note 3),
-,,4.2.0.19,38,"In astronomy, sky transparency means the effect on the viewing experience caused by the
-scattering of light through atmospheric water vapour, aerosols or other constituents. Ideal
-transparency conditions produce a black night sky conducive to viewing faint astronomical
-objects, almost like being in outer space. In poor transparency conditions, which may occur
-even in cloud-free conditions, the deep sky background is greyish (not black), faint details
-are washed out and contrast is reduced.",4,(see Note 4),
-,,4.2.0.19,39,"Seeing means the steadiness or turbulence of the atmosphere in the context of astronomical
-observation. Turbulence causes rapid random fluctuations of the optical path through the
-atmosphere. The twinkling of stars, for example, occurs in poor seeing conditions.",5,(see Note 5),
-,,4.2.0.20,1,"FirstFixedSurface and SecondFixedSurface of Code table 4.5 (Fixed surface types and units)
-to define the vertical extent, i.e. FirstFixedSurface can be set to 1 (Ground or water surface)
-and SecondFixedSurface set to 7 (Tropopause) for a restriction to the troposphere.",1,(see Note 1),
-,,4.2.0.20,56,"FirstFixedSurface and SecondFixedSurface of Code table 4.5 (Fixed surface types and units)
-to define the vertical extent, i.e. FirstFixedSurface can be set to 1 (Ground or water surface)
-and SecondFixedSurface set to 7 (Tropopause) for a restriction to the troposphere.",1,(see Note 1),
-,,4.2.0.20,58,"FirstFixedSurface and SecondFixedSurface of Code table 4.5 (Fixed surface types and units)
-to define the vertical extent, i.e. FirstFixedSurface can be set to 1 (Ground or water surface)
-and SecondFixedSurface set to 7 (Tropopause) for a restriction to the troposphere.",1,(see Note 1),
-,,4.2.0.20,59,"The term “number density” is used as well for “number concentration” (code number 59);
-conversion factor between “number density” (59) and “specific number concentration” (60) is
-“mass density” [kg m–3].",2,(see Note 2),
-,,4.2.0.20,60,"The term “number density” is used as well for “number concentration” (code number 59);
-conversion factor between “number density” (59) and “specific number concentration” (60) is
-“mass density” [kg m–3].",2,(see Note 2),
-,,4.2.0.20,61,"""FirstFixedSurface and SecondFixedSurface of Code table 4.5 (Fixed surface types and units)
-to define the vertical extent, i.e. FirstFixedSurface can be set to 1 (Ground or water surface)
-and SecondFixedSurface set to 7 (Tropopause) for a restriction to the troposphere.""",1,(see Note 1),
-,0,4.2.0.190,-, no notes,-,-,-
-,0,4.2.0.191,-, no notes,-,-,-
-,,4.2.1.0,table,"Remotely sensed snow cover is expressed as a field of dimensionless, thematic values. The
-currently accepted values are for no-snow/no-cloud, 50, for clouds, 100, and for snow, 250
-(see Code table 4.215).",1,na,add to number 2
-,,4.2.1.0,table,"A data field representing snow coverage by elevation portrays at which elevations there is
-a snow pack. The elevation values typically range from 0 to 90 in 100-metre increments.
-A value of 253 is used to represent a no-snow/no-cloud data point. A value of 254 is used to
-represent a data point at which snow elevation could not be estimated because of clouds
-obscuring the remote sensor (when using aircraft or satellite measurements).",2,na,
-,,4.2.1.0,table,"Snow water equivalent per cent of normal is stored in per cent of normal units. For example,
-a value of 110 indicates 110 per cent of the normal snow water equivalent for a given depth
-of snow.",3,na,add to number 4?
-,,4.2.1.0,15,"It is recommended to use Snow melt rate instead (discipline 2, category 0, number 41).",4,(see Note 4),
-,0,4.2.1.1,-, no notes,-,-,-
-,0,4.2.1.2,-, no notes,-,-,-
-,,4.2.2.0,2,"Parameter deprecated. Use another parameter in parameter category 3: soil products
-instead.",***,***,
-,,4.2.2.0,3,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,
-,,4.2.2.0,6,"The listed units for this parameter appear not to be appropriate for evapotranspiration.
-Instead, it is recommended to use parameter 39 with statistical process 1 (accumulation) in
-order to report evapotranspiration in units of kg m–2.",1,(see Note 1),
-,,4.2.2.0,9,"It is recommended not to use this parameter, but another one with a more descriptive unit.",**,**,
-,,4.2.2.0,10,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,
-,,4.2.2.0,17,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,
-,,4.2.2.0,22,"Parameter deprecated. Use another parameter in parameter category 3: soil products
-instead.",***,***,
-,,4.2.2.0,23,"Parameter deprecated. Use another parameter in parameter category 3: soil products
-instead.",***,***,
-,,4.2.2.0,33,Statistical process 1 (Accumulation) does not change units.,****,****,
-,,4.2.2.0,34,Statistical process 1 (Accumulation) does not change units.,****,****,
-,,4.2.2.0,38,"For parameter 38 (Parameter category 0), ice volume is expressed as if the ice content were
-melted to liquid water and then its volume measured in the liquid state. This may be
-understood in the same manner as water equivalent snow depth.",2,(see Note 2),
-,,4.2.2.3,1,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,
-,,4.2.2.3,2,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,
-,,4.2.2.3,3,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,
-,,4.2.2.3,4,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,
-,,4.2.2.3,5,"It is recommended not to use this parameter, but another one with a more descriptive unit.",**,**,
-,,4.2.2.3,7,"It is recommended not to use this parameter, but another one with a more descriptive unit.",**,**,
-,,4.2.2.3,8,"It is recommended not to use this parameter, but another one with a more descriptive unit.",**,**,
-,,4.2.2.3,9,"It is recommended not to use this parameter, but another one with a more descriptive unit.",**,**,
-,,4.2.2.4,4,"The Fosberg index denotes the potential influence of weather on a wildland fire. It takes into
-account the combined effects of temperature, wind speed, relative humidity and
-precipitation. Higher values indicate a higher potential impact.",*,*,
-,,4.2.2.5,0,A value strictly above 0.5 is treated as glacier. A value equal or below 0.5 is treated as land without glacier.,no number,(see Note),
-,0,4.2.3.0,-,no notes,-,-,-
-,,4.2.3.1,27,"The ratio of the radiant flux reflected by a surface to that reflected into the same
-reflected-beam geometry and wavelength range by an ideal (lossless) and diffuse
-(Lambertian) standard surface, irradiated under the same conditions.",1,(see Note 1),
-,,4.2.3.1,29,"Top of atmosphere radiance observed by a sensor, multiplied by pi and divided by the
-in-band solar irradiance.",2,(see Note 2),
-,,4.2.3.2,table,Numbers 31 to 40 are deprecated.,no number,na,
-,0,4.2.3.3,-,no notes,-,-,-
-,0,4.2.3.4,-,no notes,-,-,-
-,,4.2.3.5,0,Theoretical temperature at the precise air-sea interface.,1,(see Note 1),
-,,4.2.3.5,1,"Temperature of the water across a very small depth (approximately the upper 20
-micrometers).",2,(see Note 2),
-,,4.2.3.5,2,Temperature at the base of the thermal skin layer.,3,(see Note 3),
-,,4.2.3.5,3,"Temperature of the water column free of diurnal temperature variability or equal to the SST
-sub-skin in the absence of any diurnal signal.",4,(see Note 4),
-,,4.2.3.6,0,The solar flux per unit area received from a solid angle of 2π sr on a horizontal surface.,1,(see Note 1),
-,,4.2.3.6,1,Time integral of global solar irradiance.,2,(see Note 2),
-,,4.2.3.6,2,"The solar flux per unit area received from the solid angle of the sun’s disc on a surface
-normal to the sun direction.",3,(see Note 3),
-,,4.2.3.6,3,Time integral of direct solar irradiance.,4,(see Note 4),
-,,4.2.3.6,4,"The solar flux per unit area received from a solid angle of 2π sr, except for the solid angle of
-the sun's disc, on a horizontal surface.",5,(see Note 5),
-,,4.2.3.6,5,Time integral of diffuse solar irradiance.,6,(see Note 6),
-,,4.2.4.0,-,no notes,-,-,-
-,,4.2.4.1,-,no notes,-,-,-
-,,4.2.4.2,-,no notes,-,-,-
-,,4.2.4.3,-,no notes,-,-,-
-,,4.2.4.4,-,no notes,-,-,-
-,,4.2.4.5,-,no notes,-,-,-
-,,4.2.4.6,-,no notes,-,-,-
-,,4.2.4.7,-,no notes,-,-,-
-,,4.2.4.8,-,no notes,-,-,-
-,,4.2.4.9,-,no notes,-,-,-
-,,4.2.4.10,-,no notes,-,-,-
-,,4.2.10.0,table,"Further information concerning the wave parameters can be found in the Guide to Wave
-Analysis and Forecasting (WMO-No. 702).",*,na,
-,,4.2.10.1,-,no notes,-,-,-
-,,4.2.10.2,9,"Ice internal pressure or stress (Pa m) is the integrated pressure across the vertical thickness
-of a layer of ice. It is produced when concentrated ice reacts to external forces such as wind
-and ocean currents.",*,*,
-,,4.2.10.3,7,"The x- and y- components of surface stress are not necessarily equivalent to the u- and
-v- components (eastward/northward). The x- and y- components strictly follow the defined
-coordinate system which may or may not follow the eastward and northward directions.",no number,(see Note),
-,,4.2.10.3,8,"The x- and y- components of surface stress are not necessarily equivalent to the u- and
-v- components (eastward/northward). The x- and y- components strictly follow the defined
-coordinate system which may or may not follow the eastward and northward directions.",no number,(see Note 1),
-,,4.2.10.4,17,Numbers 17 and 20 are deviations from the reference value of 1 000 kg m–3.,1,(see Note 1),
-,,,20,Numbers 17 and 20 are deviations from the reference value of 1 000 kg m–3.,1,(see Note 1),
-,,4.2.10.4,25,"The x- and y- components of water velocity are not necessarily equivalent to the u- and
-v- components (eastward/northward). The x- and y- components strictly follow the defined
-coordinate system which may or may not follow the eastward and northward directions.",2,(see Note 2),
-,,4.2.10.4,26,"The x- and y- components of water velocity are not necessarily equivalent to the u- and
-v- components (eastward/northward). The x- and y- components strictly follow the defined
-coordinate system which may or may not follow the eastward and northward directions.",2,(see Note 2),
-,,4.2.10.191,-,no notes,-,-,-
-,,4.2.20.0,2,"Higher values indicate that heat stress is important. Interpretation of values can vary among
-organizations and use. See example in the ISO certification (ISO 7243 1989, 2017, and
-Parsons 2013).",no number,(see Note),
-,,4.2.20.1,-,no notes,-,-,-
-,,4.2.20.2,-,no notes,-,-,-
-,,4.3,12,Code figures 12 and 13 are intended in cases where code figures 0 and 2 may not be sufficient to indicate that significant post-processing has taken place on an initial analysis or forecast output.,1,(see Note 1),
-,,4.3,13,Code figures 12 and 13 are intended in cases where code figures 0 and 2 may not be sufficient to indicate that significant post-processing has taken place on an initial analysis or forecast output.,1,(see Note 1),
-,,4.3,20,Analysis increment represents analysis minus first guess,2,(see Note 2),
-,,4.3,21,Initialized analysis increment represents initialized analysis minus analysis,3,(see Note 3),
-,,4.5,table,"The Eta vertical coordinate system involves normalizing the pressure at some point on a
-specific level by the mean sea-level pressure at that point.",1,,this might apply to code figure 111
-,,4.5,table,"Hybrid height level (Code figure 118) can be defined as:
-z(k) = A(k) + B(k) x orog
-(k = 1,...,NLevels; orog = orography; z(k) = height in metres at level k)",2,,add to code figure 118
-,,4.5,table,"Hybrid pressure level, for which Code figure 119 shall be used instead of 105, can be
-defined as:
-p(k) = A(k) + B(k) x sp
-(k = 1,...,NLevels; sp = surface pressure; p(k) = pressure at level k)",3,,add to code figure 119
-,,4.5,115,"Sigma height level is the vertical model level of the height-based terrain-following coordinate
-(Gal-Chen and Somerville, 1975). The value of the level = (height of the level – height of the
-terrain) / (height of the top level – height of the terrain), which is ≥ 0 and ≤ 1.",4,(see Note 4),
-,,4.5,150,"The definition of a generalized vertical height coordinate implies the absence of coordinate
-values in Section 4 but the presence of an external 3D-GRIB message that specifies the
-height of every model grid point in metres (see Notes to Section 4 in the section above
-entitled Specification of Octet Contents), i.e., this GRIB message will contain the field with
-discipline = 0, category = 3, parameter = 6 (Geometric height).",5,(see Note 5),
-,,4.5,151,"The soil level represents a model level for which the depth is not constant across the model
-domain. The depth in metres of the level is provided by another GRIB message with the
-parameter ""soil depth"" with discipline 2, category 3 and parameter number 27.",6,(see Note 6),
-,,4.5,169,"The level is defined by a water property difference from the near-surface to the level. The
-near-surface is typically chosen at 10 m depth. The physical quantity used to compute the
-difference can be water density (σq) when using level type 169 or water potential
-temperature (θ) when using level type 170.",7,(see Note 7),
-,,4.5,170,"The level is defined by a water property difference from the near-surface to the level. The
-near-surface is typically chosen at 10 m depth. The physical quantity used to compute the
-difference can be water density (σq) when using level type 169 or water potential
-temperature (θ) when using level type 170.",7,(see Note 7),
-,,4.5,171,"The level is defined by a water property difference from the near-surface to the level. The
-near-surface is typically chosen at 10 m depth. The physical quantity used to compute the
-difference can be water density (σq) when using level type 169 or water potential
-temperature (θ) when using level type 170.",7,(see Note 7),
-,,4.5,152,"The sea-ice level represents a sea-ice model level for which the depth is not constant across
-the model domains. The depth in metres of the level is provided by another GRIB message
-with the parameter “sea-ice thickness” with discipline 10, category 2 and parameter
-number 1.",8,(see Note 8),
-,0,4.6,-,no notes,-,-,-
-,,4.7,5,"Large anomaly index is defined as {(number of members whose anomaly is higher
-than 0.5 x SD) – (number of members whose anomaly is lower than –0.5 x SD)} /
-(number of members) at each grid point, where SD is defined as observed climatological
-standard deviation.",1,(see Note 1),
-,,4.7,8,"It should be noted that the reference for ""minimum of all ensemble members"" and
-""maximum of all ensemble members"" is the set of ensemble members and not a time
-interval and should not be confused with the maximum and minimum described by PDT 4.8.",2,(see Note 2),
-,,4.7,9,"It should be noted that the reference for ""minimum of all ensemble members"" and
-""maximum of all ensemble members"" is the set of ensemble members and not a time
-interval and should not be confused with the maximum and minimum described by PDT 4.8.",2,(see Note 2),
-,,4.8,-,no notes,-,-,-
-,,4.9,6,"Above normal, near normal and below normal are defined as three equiprobable categories
-based on climatology at each point over the geographical area covered by the grid. The type
-and methodology of the reference climatology are unspecified and should be documented
-concurrently by the data producer.",1,(see Notes 1 and 2),
-,,4.9,6,"Above normal, near normal and below normal are defined as three equiprobable categories
-based on climatology at each point over the geographical area covered by the grid. The type
-and methodology of the reference climatology are unspecified and should be documented
-concurrently by the data producer.",2,(see Notes 1 and 2),
-,,4.9,7,"Above normal, near normal and below normal are defined as three equiprobable categories
-based on climatology at each point over the geographical area covered by the grid. The type
-and methodology of the reference climatology are unspecified and should be documented
-concurrently by the data producer.",1,(see Notes 1 and 2),
-,,4.9,7,"Above normal, near normal and below normal are defined as three equiprobable categories
-based on climatology at each point over the geographical area covered by the grid. The type
-and methodology of the reference climatology are unspecified and should be documented
-concurrently by the data producer.",2,(see Notes 1 and 2),
-,,4.9,8,"Above normal, near normal and below normal are defined as three equiprobable categories
-based on climatology at each point over the geographical area covered by the grid. The type
-and methodology of the reference climatology are unspecified and should be documented
-concurrently by the data producer.",1,(see Notes 1 and 2),
-,,4.9,8,"Product definition templates that use Code Table 4.9 may contain octets to store the values
-of lower and upper limits. When categorical probability is used (such as below, near and
-above normal), these octets shall be set to “all ones” (missing).",2,(see Notes 1 and 2),
-,,4.10,1,"The original data value (Y in the note 4 of Regulation 92.9.4) has units of Code table 4.2
-multiplied by second, unless otherwise noted on Code table 4.2.",1,(see Note 1),
-,,4.10,7,The original data value has squared units of Code table 4.2.,2,(see Note 2),
-,,4.10,9,The original data value is non-dimensional number without units.,3,(see Note 3),
-,,4.11,5,"Code figure 5 applies to instances where a single time subinterval was used to calculate the
-statistically processed field. The exact starting and ending times of the subinterval are not
-given, but it is known that it is contained inclusively between the beginning time and the
-ending time of the",* ,* ,
-,,4.12,-,no notes,-,-,-
-,,4.13,-,no notes,-,-,-
-,,4.14,-,no notes,-,-,-
-,,4.15,0,"This method assumes that each field really represents box averages/maxima/minima where
-each box extends halfway to its neighboring grid point in each direction to represent
-averages/maxima/minima of values from the source grid with no interpolation.",1,(see Note 1),
-,,4.15,4,"Budget interpolation means a low-order interpolation method that quasi-conserves area
-averages. It would be appropriate for interpolating budget fields such as precipitation. This method assumes that the field really represents box averages/maxima/minima where each
-box extends halfway to its neighboring grid point in each direction. The method actually
-averages bilinearly interpolated values in a square array of points distributed within each
-output grid box.",2,(see Note 2),
-,,4.15,6,Performs a budget interpolation at the grid point nearest to the nominal grid point.,3,(see Note 3),
-,,4.16,table,"When a non-missing value is used from this code table, the original data value is a quality
-value associated with the parameter defined by octets 10 and 11 of the product definition
-template.",1,na,
-,,4.16,0,"The original data value is a non-dimensional number from 0 to 1, where 0 indicates no
-confidence and 1 indicates maximal confidence",2,(see Note 2),
-,,4.16,1,The original data value is defined by Code table 4.244,3,(see Note 3 and Code table 4.244),
-,,4.16,2,The original data value is a non-dimensional number without units.,4,(see Note 4),
-,,4.16,3,"The original data value is in the same units as the parameter defined by octets 10 and 11 of
-the product definition template.",5,(see Note 5),
-,,4.16,4,"The original data value is in the same units as the parameter defined by octets 10 and 11 of
-the product definition template.",5,(see Note 5),
-,,4.91,-,no notes,-,-,-
-,,4.201,-,no notes,-,-,-
-,,4.202,-,no notes,-,-,-
-,,4.203,table,"Code figures 11–20 indicate all four layers were used and ground-based fog is beneath
-the lowest layer.",no number,na,
-,,4.204,-,no notes,-,-,-
-,,4.205,-,no notes,-,-,-
-,,4.206,-,no notes,-,-,-
-,,4.207,-,no notes,-,-,-
-,,4.208,-,no notes,-,-,-
-,,4.209,-,no notes,-,-,-
-,,4.210,-,no notes,-,-,-
-,,4.211,-,no notes,-,-,-
-,,4.212,-,no notes,-,-,-
-,,4.213,-,no notes,-,-,-
-,,4.214,-,no notes,-,-,-
-,,4.215,-,no notes,-,-,-
-,,4.216,-,no notes,-,-,-
-,,4.217,-,no notes,-,-,-
-,,4.218,-,no notes,-,-,-
-,,4.219,-,no notes,-,-,-
-,,4.220,-,no notes,-,-,-
-,,4.221,-,no notes,-,-,-
-,,4.222,-,no notes,-,-,-
-,,4.223,-,no notes,-,-,-
-,,4.224,-,no notes,-,-,-
-,,4.225,-,no notes,-,-,-
-,,4.227,-,no notes,-,-,-
-,,4.228,-,no notes,-,-,-
-,,4.230,-,no notes,-,-,-
-,,4.233,-,no notes,-,-,-
-,,4.234,-,no notes,-,-,-
-,,4.236,-,no notes,-,-,-
-,,4.238,-,no notes,-,-,-
-,,4.240,1,<<note has images of formulas>>,,,
-,,4.240,2,<<note has images of formulas>>,1,(see Note 1),
-,,4.240,3,<<note has images of formulas>>,2,(see Note 2),
-,,4.240,4,<<note has images of formulas>>,3,(see Note 3),
-,,4.240,5,<<note has images of formulas>>,4,(see Note 4),
-,,4.240,6,<<note has images of formulas>>,5,(see Note 5),
-,,4.240,7,<<note has images of formulas>>,6,(see Note 6),
-,,4.241,-,no notes,-,-,-
-,,4.242,-,no notes,-,-,-
-,,4.243,-,no notes,-,-,-
-,,4.244,-,no notes,-,-,-
-,,4.246,-,no notes,-,-,-
-,,4.247,-,no notes,-,-,-
-,,4.248,-,no notes,-,-,-
-,,4.249,-,no notes,-,-,-
+row #,table #,note applies to,Notes,noteID PDF,GitHub,myComment
+1,0.0,-,no notes,-,-,-
+2,1.0,table,This code table is deprecated. See Common Code table C–0 instead.,no #,n/a,status in github is deprecated
+3,1.1,-,no notes,-,-,-
+4,1.2,-,no notes,-,-,-
+5,1.3,-,no notes,-,-,-
+6,1.4,table,An initialized analysis is considered a zero-hour forecast.,no #,n/a,-
+7,1.5,-,no notes,-,-,-
+8,1.6,2,Essentially a non-leap year,comment column,n/a,-
+9,1.6,3,Extends the Gregorian calendar indefinitely in the past,comment column,n/a,-
+10,3.0,1,Defined by originating centre,comment column,comment column,-
+11,3.1,0,"Also called equidistant cylindrical, or Plate Carrée",comment column,comment column,-
+12,3.1,20,Can be south or north,comment column,comment column,-
+13,3.1,30,"Can be secant or tangent, conical or bipolar",comment column,comment column,-
+14,3.2,table,WGS-84 is a geodetic system that uses IAG-GRS80 as a basis.,1,na,-
+15,3.2,table,"With respect to code figures 0, 1, 3, 6 and 7, coordinates can only be unambiguously interpreted, if the coordinate reference system in which they are embedded is known. Therefore, defining the shape of the Earth alone without coordinate system axis origins is ambiguous. Generally, the prime meridian defined in the geodetic system WGS-84 can be safely assumed to be the longitudinal origin. However, because these code figures do not specify the longitudinal origin explicitly, it is suggested to contact the originating centre if high precision coordinates are needed, in order to obtain the precise details of the coordinate system used (effective as from 16 November 2016).",2,na,"applies to code figures 0,1,3,6 and 7"
+16,3.3,-,no notes,-,-,-
+17,3.4,table,i direction: west to east along a parallel or left to right along an x-axis.,1,na,-
+18,3.4,table,"j direction: south to north along a meridian, or bottom to top along a y-axis.",2,na,-
+19,3.4,table,"If bit number 4 is set, the first row scan is as defined by previous flags.",3,na,-
+20,3.4,table,"La1 and Lo1 define the first row, which is an odd row.",4,na,-
+21,3.4,table,"Di and Dj are assumed to be positive, with the direction of i and j being given by bits 1 and 2.",5,na,-
+22,3.4,table,"Bits 5 through 8 may be used to generate staggered grids, such as Arakawa grids (see Part B, GRIB Attachment II).",6,na,-
+23,3.4,table,"If any of bits 5, 6, 7 or 8 are set, Di and Dj are not optional.",7,na,-
+24,3.5,-,no notes,-,-,-
+25,3.6,1,(see separate doc or pdf file),-,(Code table 3.6),pdf has image of complex formula that can't go in CSV
+26,3.7,table,"Values of N(m) for common truncation cases:Triangular: M = J = K, N(m) = JRhomboidal: K = J + M, N(m) = J + mTrapezoidal: K = J, K > M, N(m) = J",no #,na,-
+27,3.7,1,(see separate doc or pdf file),-,(Code table 3.7),pdf has image of complex formula that can't go in CSV
+28,3.8,-,no notes,-,-,-
+29,3.9,-,no notes,-,-,-
+30,3.10,-,no notes,-,-,-
+31,3.11,na,"For entry 1, it should be noted that depending on values of extreme (first/last) coordinates,and regardless of bit-map, effective number of points per row may be less than the numberof points on the current circle.",1,na,add see note 1 to entry 1?
+32,3.11,3,"The value for the constant direction increment Di (or Dx) in the accompanying grid definitiontemplate should be set to all ones (missing).",2,(see Note 2)	,-
+33,3.15,103,"Negative values associated to this coordinate will indicate depth below ground surface.If values are all below surface, use of entry 106 is recommended, with positive coordinatevalues instead.",1,(see Note 1)	,-
+34,3.15,111,"The Eta vertical coordinate system involves normalizing the pressure at some point on aspecific level by the mean sea-level pressure at that point.",2,(see Note 2)	,-
+35,3.20,-,no notes,-,-,-
+36,3.21,-,no notes,-,-,-
+37,3.25,-,no notes,-,-,-
+38,4.0,-,no notes,-,-,-
+39,4.1,table,"When a new category is to be added to Code table 4.1 and more than one disciplineapplies, the choice of discipline should be made based on the intended use of the product.",no id,na,note is directly under table title
+40,4.1.0,na,"Entries 9, 10, 11 and 12 are deprecated.",no id,na,update pdf and github? status = deprecated
+41,4.1.1,-,no notes,-,-,-
+42,4.1.2,-,no notes,-,-,-
+43,4.1.3,0,"Data are numeric without units, although they might be given quantitative meaning througha code table defined external to this document. The emphasis is on a displayable “picture” ofsome phenomenon, perhaps with certain enhanced features. Generally, each datum is anunsigned, one octet integer, but some image format products might have another datumsize. The size of a datum is indicated in section 5.",1,(see Note 1),-
+44,4.1.3,1,Data are in specified physical units.,2,(see Note 2),-
+45,4.1.4,-,no notes,-,-,-
+46,4.1.10,-,no notes,-,-,-
+47,4.2,table,"By convention, the flux sign is positive if downwards.",1,na,note is directly under table title
+48,4.2,table,"When a new parameter is to be added to Code table 4.2 and more than one categoryapplies, the choice of category should be made based on the intended use of the product. Thediscipline and category are an important part of any product definition, so it is possible to have thesame parameter name in more than one category. For example, “water temperature” indiscipline 10 (oceanographic products), category 4 (subsurface properties) is used for reportingwater temperature in the ocean or open sea, and is not the same as “water temperature” indiscipline 1 (hydrological products), category 2 (inland water and sediment properties), which isused for reporting water temperature in freshwater lakes and rivers.",2,na,note is directly under table title
+49,4.2.0.0,14,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,CHANGE TO NUMBERS
+50,4.2.0.0,21,"Apparent temperature is the perceived outdoor temperature, caused by a combination ofphenomena, such as air temperature, relative humidity and wind speed.",**,**,CHANGE TO NUMBERS
+51,4.2.0.1,7,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,1,(see Note 1),-
+52,4.2.0.1,8,"Statistical process 1 (Accumulation) does not change units. It is recommended to useanother parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),-
+53,4.2.0.1,9,"Statistical process 1 (Accumulation) does not change units. It is recommended to useanother parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),-
+54,4.2.0.1,10,"Statistical process 1 (Accumulation) does not change units. It is recommended to useanother parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),-
+55,4.2.0.1,12,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,1,(see Note 1),-
+56,4.2.0.1,13,"Statistical process 1 (Accumulation) does not change units. It is recommended to useanother parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),-
+57,4.2.0.1,14,"Statistical process 1 (Accumulation) does not change units. It is recommended to useanother parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),-
+58,4.2.0.1,15,"Statistical process 1 (Accumulation) does not change units. It is recommended to useanother parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),-
+59,4.2.0.1,16,"It is recommended to use Snow melt rate instead (discipline 2, category 0, number 41).",7,(see Note 7),-
+60,4.2.0.1,27,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,1,(see Note 1),-
+61,4.2.0.1,28,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,1,(see Note 1),-
+62,4.2.0.1,29,"Statistical process 1 (Accumulation) does not change units. It is recommended to useanother parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),-
+63,4.2.0.1,41,"The listed units for this parameter appear to be inappropriate for the potential evaporationrate. Instead, it is recommended to use parameter 143.",4,(see Note 4),-
+64,4.2.0.1,47,"Statistical process 1 (Accumulation) does not change units. It is recommended to useanother parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),-
+65,4.2.0.1,48,"Statistical process 1 (Accumulation) does not change units. It is recommended to useanother parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),-
+66,4.2.0.1,49,"Statistical process 1 (Accumulation) does not change units. It is recommended to useanother parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),-
+67,4.2.0.1,50,"Statistical process 1 (Accumulation) does not change units. It is recommended to useanother parameter with “rate” in its name and accumulation in PDT.",3,(see Note 3),-
+68,4.2.0.1,52,"Total precipitation/snowfall rate stands for the sum of convective and large-scaleprecipitation/snowfall rate.",2,(see Note 2),-
+69,4.2.0.1,53,"Total precipitation/snowfall rate stands for the sum of convective and large-scaleprecipitation/snowfall rate.",2,(see Note 2),-
+70,4.2.0.1,62,It is recommended to use parameter 148.,8,(see Note 8),-
+71,4.2.0.1,128,"Total solid precipitation includes the sum of all types of solid water, e.g. graupel, snow andhail.",5,(see Note 5),-
+72,4.2.0.1,146,"Assuming a cloud containing a bi-modal ice particle distribution, “cloud ice” refers to thesmall particle mode, whereas the large mode is usually called “snow”. (“Ice pellets”, incontrast, may refer to the precipitation of sleet, formed from freezing raindrops or refreezing(partially) melted snow flakes, or the precipitation of small hail.)",6,(see Note 6),-
+73,4.2.0.1,148,"Snow evaporation is the accumulated amount of water that has evaporated from snow fromwithin the snow covered area of a grid-box.",9,(see Note 9),-
+74,4.2.0.2,21,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,FIX NOTATION
+75,4.2.0.2,34,In relation to local coordinate axes at a cell edge.,**,**,FIX NOTATION
+76,4.2.0.2,35,In relation to local coordinate axes at a cell edge.,**,**,FIX NOTATION
+77,4.2.0.2,36,"This parameter is described in more detail by (a) Lee, S. and I.M. Held, 1993: Baroclinicwave packets in models and observations. J. Atmos. Sci., 50:1413–1428, (b) Chang, E.K.M.,1993: Downstream development of baroclinic waves as inferred from regression analysis.J. Atmos. Sci., 50:2038–2053, (c) Archambault, H.M., D. Keyser and L.F. Bosart, 2010:Relationships between large-scale regime transitions and major cool-season precipitationevents in the northeastern United States. Mon Wea. Review, 138:3454–3473, and(d) Zimin, A.V., I. Szunyogh, B.R. Hung and E. Orr, 2006: Extracting envelopes ofnonzonally propagating Rossby wave packets. Mon. Wea. Review, 134:1329–1333.",***,***,FIX NOTATION
+78,4.2.0.2,37,Statistical process 1 (Accumulation) does not change units.,****,****,FIX NOTATION
+79,4.2.0.2,38,Statistical process 1 (Accumulation) does not change units.,****,****,FIX NOTATION
+80,4.2.0.2,47,Surface roughness for heat is a measure of the surface resistance to heat transfer.,1,(see Note 1),FIX NOTATION
+81,4.2.0.2,48,Surface roughness for moisture is a measure of the surface resistance to moisture transfer.,2,(see Note 2),FIX NOTATION
+82,4.2.0.3,-,no notes,-,-,-
+83,4.2.0.4,0,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,FIX NOTATION
+84,4.2.0.4,1,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,FIX NOTATION
+85,4.2.0.4,2,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,FIX NOTATION
+86,4.2.0.4,50,"The Global Solar UVI is formulated using the International Commission on Illumination (CIE)reference action spectrum for UV-induced erythema on the human skin (ISO17166:1999/CIE S 007/E-1998).It is a measure of the UV radiation that is relevant to and defined for a horizontal surface.The UVI is a unitless quantity defined by the formula:𝐼𝐼𝑈𝑈𝑈𝑈 = 𝑘𝑘𝑒𝑒𝑒𝑒 ∙ 􀶱 𝐸𝐸𝜆𝜆400𝑛𝑛𝑛𝑛250𝑛𝑛𝑚𝑚∙ 𝑆𝑆𝑒𝑒𝑒𝑒(𝜆𝜆)𝑑𝑑𝑑𝑑where 𝐸𝐸𝜆𝜆 is the solar spectral irradiance expressed in W / (m2·nanometre) at wavelength λand 𝑑𝑑𝑑𝑑is the wave-length interval used in the summation. 𝑆𝑆𝑒𝑒𝑒𝑒 𝜆𝜆 is the erythema referenceaction spectrum, and 𝑘𝑘𝑒𝑒𝑒𝑒 is a constant equal to 40 m2 / W.",**,**,FIX NOTATION
+87,4.2.0.4,51,"
+The Global Solar UVI is formulated using the International Commission on Illumination (CIE)reference action spectrum for UV-induced erythema on the human skin (ISO17166:1999/CIE S 007/E-1998).It is a measure of the UV radiation that is relevant to and defined for a horizontal surface.The UVI is a unitless quantity defined by the formula:𝐼𝐼𝑈𝑈𝑈𝑈 = 𝑘𝑘𝑒𝑒𝑒𝑒 ∙ 􀶱 𝐸𝐸𝜆𝜆400𝑛𝑛𝑛𝑛250𝑛𝑛𝑚𝑚∙ 𝑆𝑆𝑒𝑒𝑒𝑒(𝜆𝜆)𝑑𝑑𝑑𝑑where 𝐸𝐸𝜆𝜆 is the solar spectral irradiance expressed in W / (m2·nanometre) at wavelength λand 𝑑𝑑𝑑𝑑is the wave-length interval used in the summation. 𝑆𝑆𝑒𝑒𝑒𝑒 𝜆𝜆 is the erythema referenceaction spectrum, and 𝑘𝑘𝑒𝑒𝑒𝑒 is a constant equal to 40 m2 / W.",**,**,FIX NOTATION
+88,4.2.0.4,54,Normal flux is on a surface lifted to be normal to sun rays.,1,(see Note 1),FIX NOTATION
+89,4.2.0.5,0,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,FIX NOTATION
+90,4.2.0.5,1,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,FIX NOTATION
+91,4.2.0.5,2,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,FIX NOTATION
+92,4.2.0.6,17,Parameter deprecated. Use another parameter in parameter category 1: moisture instead.,*,*,-
+93,4.2.0.6,18,Parameter deprecated. Use another parameter in parameter category 1: moisture instead.,*,*,-
+94,4.2.0.6,19,Parameter deprecated. Use another parameter in parameter category 1: moisture instead.,*,*,-
+95,4.2.0.6,20,Parameter deprecated. Use another parameter in parameter category 1: moisture instead.,*,*,-
+96,4.2.0.6,23,Parameter deprecated. Use another parameter in parameter category 1: moisture instead.,*,*,-
+97,4.2.0.6,47,"The sum of the water and ice fractions may exceed the total due to overlap between thevolumes containing ice and those containing liquid water.",**,**,-
+98,4.2.0.6,48,"The sum of the water and ice fractions may exceed the total due to overlap between thevolumes containing ice and those containing liquid water.",**,**,-
+99,4.2.0.6,49,"The sum of the water and ice fractions may exceed the total due to overlap between thevolumes containing ice and those containing liquid water.",**,**,-
+100,4.2.0.6,50,Fog is defined as cloud cover in the lowest model level.,1,(see Note 1),-
+101,4.2.0.7,-,no notes,-,-,-
+102,4.2.0.13,table,"This category is no longer populated, please use ""Product discipline 0 – Meteorologicalproducts, parameter category 20: atmospheric chemical constituents.",no number,na,"under title, before table"
+103,4.2.0.14,-,no notes,-,-,-
+104,4.2.0.15,-,no notes,-,-,-
+105,4.2.0.16,table,"Decibel (dB) is a logarithmic measure of the relative power, or of the relative values of twoflux densities, especially of sound intensities and radio and radar power densities. In radarmeteorology, the logarithmic scale (dBZ) is used for measuring radar reflectivity factor(obtained from the American Meteorological Society Glossary of Meteorology).",no number,na,assign to numbers 4 and 5?
+106,4.2.0.17,1,"Definition of LPI after Lynn et al.: Lynn, B. and Y. Yair, 2010: Prediction of lightning flashdensity with the WRF model, Adv. Geosci., 23:11–16; Yair, Y., B. Lynn, C. Price, V. Kotroni,K. Lagouvardos, E. Morin, A. Mugnai and M. Llasat, 2010: Predicting the potential forlightning activity in Mediterranean storms based on the Weather Research and Forecasting(WRF) model dynamic and microphysical fields, Journal of Geophysical Research, 115,D04205, doi:10.1029/2008JD010868.",1,(see Note 1),-
+107,4.2.0.17,4,"The total lightning flash density is the sum of cloud-to-ground and cloud-to-cloud lightningflash densities (see Lopez, P., 2016: A lightning parameterization for the ECMWF IntegratedForecasting System, Monthly Weather Review, 144, 3057–3075).",2,(see Note 2),-
+108,4.2.0.18,6,"Statistical process 1 (Accumulation) does not change units. It is recommended to useanother parameter without the word “time-integrated” in its name and accumulation in PDT.",1,(see Note 1),-
+109,4.2.0.18,7,"Statistical process 1 (Accumulation) does not change units. It is recommended to useanother parameter without the word “time-integrated” in its name and accumulation in PDT.",1,(see Note 1),-
+110,4.2.0.18,8,"Statistical process 1 (Accumulation) does not change units. It is recommended to useanother parameter without the word “time-integrated” in its name and accumulation in PDT.",1,(see Note 1),-
+111,4.2.0.18,10,"Conversion factor between “Specific activity concentration” (14) and “Air concentration” (10)is “mass density” [kg m–3].",2,(see Note 2),-
+112,4.2.0.18,14,"Conversion factor between “Specific activity concentration” (14) and “Air concentration” (10)is “mass density” [kg m–3].",2,(see Note 2),-
+113,4.2.0.18,table,"Parameters from 10 onward may be used in combination with product definitiontemplates 4.40– 4.43 and Common Code table C–14 (Code table 4.230) to represent anytype of radioisotope.",3,na,add to numbers 10 and up?
+114,4.2.0.19,17,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,1,(see Note 1),-
+115,4.2.0.19,23,"Supercooled large droplets (SLD) are defined as those with a diameter greater than50 microns.",2,(see Note 2),-
+116,4.2.0.19,30,Eddy dissipation parameter is the third root of eddy dissipation rate [m2 s–3].,3,(see Note 3),-
+117,4.2.0.19,38,"In astronomy, sky transparency means the effect on the viewing experience caused by thescattering of light through atmospheric water vapour, aerosols or other constituents. Idealtransparency conditions produce a black night sky conducive to viewing faint astronomicalobjects, almost like being in outer space. In poor transparency conditions, which may occureven in cloud-free conditions, the deep sky background is greyish (not black), faint detailsare washed out and contrast is reduced.",4,(see Note 4),-
+118,4.2.0.19,39,"Seeing means the steadiness or turbulence of the atmosphere in the context of astronomicalobservation. Turbulence causes rapid random fluctuations of the optical path through theatmosphere. The twinkling of stars, for example, occurs in poor seeing conditions.",5,(see Note 5),-
+119,4.2.0.20,1,"FirstFixedSurface and SecondFixedSurface of Code table 4.5 (Fixed surface types and units)to define the vertical extent, i.e. FirstFixedSurface can be set to 1 (Ground or water surface)and SecondFixedSurface set to 7 (Tropopause) for a restriction to the troposphere.",1,(see Note 1),-
+120,4.2.0.20,56,"FirstFixedSurface and SecondFixedSurface of Code table 4.5 (Fixed surface types and units)to define the vertical extent, i.e. FirstFixedSurface can be set to 1 (Ground or water surface)and SecondFixedSurface set to 7 (Tropopause) for a restriction to the troposphere.",1,(see Note 1),-
+121,4.2.0.20,58,"FirstFixedSurface and SecondFixedSurface of Code table 4.5 (Fixed surface types and units)to define the vertical extent, i.e. FirstFixedSurface can be set to 1 (Ground or water surface)and SecondFixedSurface set to 7 (Tropopause) for a restriction to the troposphere.",1,(see Note 1),-
+122,4.2.0.20,59,"The term “number density” is used as well for “number concentration” (code number 59);conversion factor between “number density” (59) and “specific number concentration” (60) is“mass density” [kg m–3].",2,(see Note 2),-
+123,4.2.0.20,60,"The term “number density” is used as well for “number concentration” (code number 59);conversion factor between “number density” (59) and “specific number concentration” (60) is“mass density” [kg m–3].",2,(see Note 2),-
+124,4.2.0.20,61,"FirstFixedSurface and SecondFixedSurface of Code table 4.5 (Fixed surface types and units)to define the vertical extent, i.e. FirstFixedSurface can be set to 1 (Ground or water surface)and SecondFixedSurface set to 7 (Tropopause) for a restriction to the troposphere.",1,(see Note 1),-
+125,4.2.0.190,-,no notes,-,-,-
+126,4.2.0.191,-,no notes,-,-,-
+127,4.2.1.0,table,"Remotely sensed snow cover is expressed as a field of dimensionless, thematic values. Thecurrently accepted values are for no-snow/no-cloud, 50, for clouds, 100, and for snow, 250(see Code table 4.215).",1,na,add to number 2
+128,4.2.1.0,table,A data field representing snow coverage by elevation portrays at which elevations there is a snow pack. The elevation values typically range from 0 to 90 in 100-metre increments. A value of 253 is used to represent a no-snow/no-cloud data point. A value of 254 is used to represent a data point at which snow elevation could not be estimated because of clouds obscuring the remote sensor (when using aircraft or satellite measurements).,2,na,-
+129,4.2.1.0,table,"Snow water equivalent per cent of normal is stored in per cent of normal units. For example,a value of 110 indicates 110 per cent of the normal snow water equivalent for a given depthof snow.",3,na,add to number 4?
+130,4.2.1.0,15,"It is recommended to use Snow melt rate instead (discipline 2, category 0, number 41).",4,(see Note 4),-
+131,4.2.1.1,-,no notes,-,-,-
+132,4.2.1.2,-,no notes,-,-,-
+133,4.2.2.0,2,"Parameter deprecated. Use another parameter in parameter category 3: soil productsinstead.",***,***,-
+134,4.2.2.0,3,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,-
+135,4.2.2.0,6,"The listed units for this parameter appear not to be appropriate for evapotranspiration.Instead, it is recommended to use parameter 39 with statistical process 1 (accumulation) inorder to report evapotranspiration in units of kg m–2.",1,(see Note 1),-
+136,4.2.2.0,9,"It is recommended not to use this parameter, but another one with a more descriptive unit.",**,**,-
+137,4.2.2.0,10,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,-
+138,4.2.2.0,17,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,-
+139,4.2.2.0,22,"Parameter deprecated. Use another parameter in parameter category 3: soil productsinstead.",***,***,-
+140,4.2.2.0,23,"Parameter deprecated. Use another parameter in parameter category 3: soil productsinstead.",***,***,-
+141,4.2.2.0,33,Statistical process 1 (Accumulation) does not change units.,****,****,-
+142,4.2.2.0,34,Statistical process 1 (Accumulation) does not change units.,****,****,-
+143,4.2.2.0,38,"For parameter 38 (Parameter category 0), ice volume is expressed as if the ice content weremelted to liquid water and then its volume measured in the liquid state. This may beunderstood in the same manner as water equivalent snow depth.",2,(see Note 2),-
+144,4.2.2.3,1,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,-
+145,4.2.2.3,2,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,-
+146,4.2.2.3,3,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,-
+147,4.2.2.3,4,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,*,*,-
+148,4.2.2.3,5,"It is recommended not to use this parameter, but another one with a more descriptive unit.",**,**,-
+149,4.2.2.3,7,"It is recommended not to use this parameter, but another one with a more descriptive unit.",**,**,-
+150,4.2.2.3,8,"It is recommended not to use this parameter, but another one with a more descriptive unit.",**,**,-
+151,4.2.2.3,9,"It is recommended not to use this parameter, but another one with a more descriptive unit.",**,**,-
+152,4.2.2.4,4,"The Fosberg index denotes the potential influence of weather on a wildland fire. It takes intoaccount the combined effects of temperature, wind speed, relative humidity andprecipitation. Higher values indicate a higher potential impact.",*,*,-
+153,4.2.2.5,0,A value strictly above 0.5 is treated as glacier. A value equal or below 0.5 is treated as land without glacier.,no number,(see Note),-
+154,4.2.3.0,-,no notes,-,-,-
+155,4.2.3.1,27,"The ratio of the radiant flux reflected by a surface to that reflected into the samereflected-beam geometry and wavelength range by an ideal (lossless) and diffuse(Lambertian) standard surface, irradiated under the same conditions.",1,(see Note 1),-
+156,4.2.3.1,29,"Top of atmosphere radiance observed by a sensor, multiplied by pi and divided by thein-band solar irradiance.",2,(see Note 2),-
+157,4.2.3.2,table,Numbers 31 to 40 are deprecated.,no number,na,-
+158,4.2.3.3,-,no notes,-,-,-
+159,4.2.3.4,-,no notes,-,-,-
+160,4.2.3.5,0,Theoretical temperature at the precise air-sea interface.,1,(see Note 1),-
+161,4.2.3.5,1,"Temperature of the water across a very small depth (approximately the upper 20micrometers).",2,(see Note 2),-
+162,4.2.3.5,2,Temperature at the base of the thermal skin layer.,3,(see Note 3),-
+163,4.2.3.5,3,"Temperature of the water column free of diurnal temperature variability or equal to the SSTsub-skin in the absence of any diurnal signal.",4,(see Note 4),-
+164,4.2.3.6,0,The solar flux per unit area received from a solid angle of 2π sr on a horizontal surface.,1,(see Note 1),-
+165,4.2.3.6,1,Time integral of global solar irradiance.,2,(see Note 2),-
+166,4.2.3.6,2,"The solar flux per unit area received from the solid angle of the sun’s disc on a surfacenormal to the sun direction.",3,(see Note 3),-
+167,4.2.3.6,3,Time integral of direct solar irradiance.,4,(see Note 4),-
+168,4.2.3.6,4,"The solar flux per unit area received from a solid angle of 2π sr, except for the solid angle ofthe sun's disc, on a horizontal surface.",5,(see Note 5),-
+169,4.2.3.6,5,Time integral of diffuse solar irradiance.,6,(see Note 6),-
+170,4.2.4.0,-,no notes,-,-,-
+171,4.2.4.1,-,no notes,-,-,-
+172,4.2.4.2,-,no notes,-,-,-
+173,4.2.4.3,-,no notes,-,-,-
+174,4.2.4.4,-,no notes,-,-,-
+175,4.2.4.5,-,no notes,-,-,-
+176,4.2.4.6,-,no notes,-,-,-
+177,4.2.4.7,-,no notes,-,-,-
+178,4.2.4.8,-,no notes,-,-,-
+179,4.2.4.9,-,no notes,-,-,-
+180,4.2.4.10,-,no notes,-,-,-
+181,4.2.10.0,table,"Further information concerning the wave parameters can be found in the Guide to WaveAnalysis and Forecasting (WMO-No. 702).",*,na,-
+182,4.2.10.1,-,no notes,-,-,-
+183,4.2.10.2,9,"Ice internal pressure or stress (Pa m) is the integrated pressure across the vertical thicknessof a layer of ice. It is produced when concentrated ice reacts to external forces such as windand ocean currents.",*,*,-
+184,4.2.10.3,7,"The x- and y- components of surface stress are not necessarily equivalent to the u- andv- components (eastward/northward). The x- and y- components strictly follow the definedcoordinate system which may or may not follow the eastward and northward directions.",no number,(see Note),-
+185,4.2.10.3,8,"The x- and y- components of surface stress are not necessarily equivalent to the u- andv- components (eastward/northward). The x- and y- components strictly follow the definedcoordinate system which may or may not follow the eastward and northward directions.",no number,(see Note 1),-
+186,4.2.10.4,17,Numbers 17 and 20 are deviations from the reference value of 1 000 kg m–3.,1,(see Note 1),-
+187,4.2.10.4,20,Numbers 17 and 20 are deviations from the reference value of 1 000 kg m–3.,1,(see Note 1),-
+188,4.2.10.4,25,"The x- and y- components of water velocity are not necessarily equivalent to the u- andv- components (eastward/northward). The x- and y- components strictly follow the definedcoordinate system which may or may not follow the eastward and northward directions.",2,(see Note 2),-
+189,4.2.10.4,26,"The x- and y- components of water velocity are not necessarily equivalent to the u- andv- components (eastward/northward). The x- and y- components strictly follow the definedcoordinate system which may or may not follow the eastward and northward directions.",2,(see Note 2),-
+190,4.2.10.191,-,no notes,-,-,-
+191,4.2.20.0,2,"Higher values indicate that heat stress is important. Interpretation of values can vary amongorganizations and use. See example in the ISO certification (ISO 7243 1989, 2017, andParsons 2013).",no number,(see Note),-
+192,4.2.20.1,-,no notes,-,-,-
+193,4.2.20.2,-,no notes,-,-,-
+194,4.3,12,Code figures 12 and 13 are intended in cases where code figures 0 and 2 may not be sufficient to indicate that significant post-processing has taken place on an initial analysis or forecast output.,1,(see Note 1),-
+195,4.3,13,Code figures 12 and 13 are intended in cases where code figures 0 and 2 may not be sufficient to indicate that significant post-processing has taken place on an initial analysis or forecast output.,1,(see Note 1),-
+196,4.3,20,Analysis increment represents analysis minus first guess,2,(see Note 2),-
+197,4.3,21,Initialized analysis increment represents initialized analysis minus analysis,3,(see Note 3),-
+198,4.5,table,The Eta vertical coordinate system involves normalizing the pressure at some point on a specific level by the mean sea-level pressure at that point.,1,na,this might apply to code figure 111
+199,4.5,table,"Hybrid height level (Code figure 118) can be defined as:z(k) = A(k) + B(k) x orog(k = 1,...,NLevels; orog = orography; z(k) = height in metres at level k)",2,na,add to code figure 118
+200,4.5,table,"Hybrid pressure level, for which Code figure 119 shall be used instead of 105, can bedefined as:p(k) = A(k) + B(k) x sp(k = 1,...,NLevels; sp = surface pressure; p(k) = pressure at level k)",3,na,add to code figure 119
+201,4.5,115,"Sigma height level is the vertical model level of the height-based terrain-following coordinate(Gal-Chen and Somerville, 1975). The value of the level = (height of the level – height of theterrain) / (height of the top level – height of the terrain), which is ≥ 0 and ≤ 1.",4,(see Note 4),-
+202,4.5,150,"The definition of a generalized vertical height coordinate implies the absence of coordinatevalues in Section 4 but the presence of an external 3D-GRIB message that specifies theheight of every model grid point in metres (see Notes to Section 4 in the section aboveentitled Specification of Octet Contents), i.e., this GRIB message will contain the field withdiscipline = 0, category = 3, parameter = 6 (Geometric height).",5,(see Note 5),-
+203,4.5,151,"The soil level represents a model level for which the depth is not constant across the modeldomain. The depth in metres of the level is provided by another GRIB message with theparameter ""soil depth"" with discipline 2, category 3 and parameter number 27.",6,(see Note 6),-
+204,4.5,169,The level is defined by a water property difference from the near-surface to the level. Thenear-surface is typically chosen at 10 m depth. The physical quantity used to compute thedifference can be water density (σq) when using level type 169 or water potentialtemperature (θ) when using level type 170.,7,(see Note 7),-
+205,4.5,170,The level is defined by a water property difference from the near-surface to the level. The near-surface is typically chosen at 10 m depth. The physical quantity used to compute the difference can be water density (σq) when using level type 169 or water potential temperature (θ) when using level type 170.,7,(see Note 7),-
+206,4.5,171,The level is defined by a water property difference from the near-surface to the level. The near-surface is typically chosen at 10 m depth. The physical quantity used to compute the difference can be water density (σq) when using level type 169 or water potential temperature (θ) when using level type 170.,7,(see Note 7),-
+207,4.5,152,"The sea-ice level represents a sea-ice model level for which the depth is not constant acrossthe model domains. The depth in metres of the level is provided by another GRIB messagewith the parameter “sea-ice thickness” with discipline 10, category 2 and parameternumber 1.",8,(see Note 8),-
+208,4.6,-,no notes,-,-,-
+209,4.7,5,"Large anomaly index is defined as {(number of members whose anomaly is higher than 0.5 x SD) – (number of members whose anomaly is lower than –0.5 x SD)} /(number of members) at each grid point, where SD is defined as observed climatological standard deviation.",1,(see Note 1),-
+210,4.7,8,"It should be noted that the reference for ""minimum of all ensemble members"" and ""maximum of all ensemble members"" is the set of ensemble members and not a timeinterval and should not be confused with the maximum and minimum described by PDT 4.8.",2,(see Note 2),-
+211,4.7,9,"It should be noted that the reference for ""minimum of all ensemble members"" and""maximum of all ensemble members"" is the set of ensemble members and not a timeinterval and should not be confused with the maximum and minimum described by PDT 4.8.",2,(see Note 2),-
+212,4.8,-,no notes,-,-,-
+213,4.9,6,"Above normal, near normal and below normal are defined as three equiprobable categories based on climatology at each point over the geographical area covered by the grid. The type and methodology of the reference climatology are unspecified and should be documented concurrently by the data producer.",1,(see Notes 1 and 2),-
+214,4.9,6,"Above normal, near normal and below normal are defined as three equiprobable categories based on climatology at each point over the geographical area covered by the grid. The type and methodology of the reference climatology are unspecified and should be documented concurrently by the data producer.",2,(see Notes 1 and 2),-
+215,4.9,7,"Above normal, near normal and below normal are defined as three equiprobable categories based on climatology at each point over the geographical area covered by the grid. The type and methodology of the reference climatology are unspecified and should be documented concurrently by the data producer.",1,(see Notes 1 and 2),-
+216,4.9,7,"Above normal, near normal and below normal are defined as three equiprobable categories based on climatology at each point over the geographical area covered by the grid. The type and methodology of the reference climatology are unspecified and should be documented concurrently by the data producer.",2,(see Notes 1 and 2),-
+217,4.9,8,"Above normal, near normal and below normal are defined as three equiprobable categories based on climatology at each point over the geographical area covered by the grid. The type and methodology of the reference climatology are unspecified and should be documented concurrently by the data producer.",1,(see Notes 1 and 2),-
+218,4.9,8,"Product definition templates that use Code Table 4.9 may contain octets to store the valuesof lower and upper limits. When categorical probability is used (such as below, near andabove normal), these octets shall be set to “all ones” (missing).",2,(see Notes 1 and 2),-
+219,4.10,1,"The original data value (Y in the note 4 of Regulation 92.9.4) has units of Code table 4.2 multiplied by second, unless otherwise noted on Code table 4.2.",1,(see Note 1),-
+220,4.10,7,The original data value has squared units of Code table 4.2.,2,(see Note 2),-
+221,4.10,9,The original data value is non-dimensional number without units.,3,(see Note 3),-
+222,4.11,5,"Code figure 5 applies to instances where a single time subinterval was used to calculate the statistically processed field. The exact starting and ending times of the subinterval are not given, but it is known that it is contained inclusively between the beginning time and the ending time of the overall interval.",* ,* ,-
+223,4.12,-,no notes,-,-,-
+224,4.13,-,no notes,-,-,-
+225,4.14,-,no notes,-,-,-
+226,4.15,0,This method assumes that each field really represents box averages/maxima/minima where each box extends halfway to its neighboring grid point in each direction to represent averages/maxima/minima of values from the source grid with no interpolation.,1,(see Note 1),-
+227,4.15,4,Budget interpolation means a low-order interpolation method that quasi-conserves area averages. It would be appropriate for interpolating budget fields such as precipitation. This method assumes that the field really represents box averages/maxima/minima where each box extends halfway to its neighboring grid point in each direction. The method actually averages bilinearly interpolated values in a square array of points distributed within each output grid box.,2,(see Note 2),-
+228,4.15,6,Performs a budget interpolation at the grid point nearest to the nominal grid point.,3,(see Note 3),-
+229,4.16,table,"When a non-missing value is used from this code table, the original data value is a quality value associated with the parameter defined by octets 10 and 11 of the product definition template.",1,na,-
+230,4.16,0,"The original data value is a non-dimensional number from 0 to 1, where 0 indicates no confidence and 1 indicates maximal confidence.",2,(see Note 2),-
+231,4.16,1,The original data value is defined by Code table 4.244,3,(see Note 3 and Code table 4.244),-
+232,4.16,2,The original data value is a non-dimensional number without units.,4,(see Note 4),-
+233,4.16,3,The original data value is in the same units as the parameter defined by octets 10 and 11 of the product definition template.,5,(see Note 5),-
+234,4.16,4,The original data value is in the same units as the parameter defined by octets 10 and 11 of the product definition template.,5,(see Note 5),-
+235,4.91,-,no notes,-,-,-
+236,4.201,-,no notes,-,-,-
+237,4.202,-,no notes,-,-,-
+238,4.203,table,Code figures 11–20 indicate all four layers were used and ground-based fog is beneath the lowest layer.,no number,na,-
+239,4.204,-,no notes,-,-,-
+240,4.205,-,no notes,-,-,-
+241,4.206,-,no notes,-,-,-
+242,4.207,-,no notes,-,-,-
+243,4.208,-,no notes,-,-,-
+244,4.209,-,no notes,-,-,-
+245,4.210,-,no notes,-,-,-
+246,4.211,-,no notes,-,-,-
+247,4.212,-,no notes,-,-,-
+248,4.213,-,no notes,-,-,-
+249,4.214,-,no notes,-,-,-
+250,4.215,-,no notes,-,-,-
+251,4.216,-,no notes,-,-,-
+252,4.217,-,no notes,-,-,-
+253,4.218,-,no notes,-,-,-
+254,4.219,-,no notes,-,-,-
+255,4.220,-,no notes,-,-,-
+256,4.221,-,no notes,-,-,-
+257,4.222,-,no notes,-,-,-
+258,4.223,-,no notes,-,-,-
+259,4.224,-,no notes,-,-,-
+260,4.225,-,no notes,-,-,-
+261,4.227,-,no notes,-,-,-
+262,4.228,-,no notes,-,-,-
+263,4.230,-,no notes,-,-,-
+264,4.233,-,no notes,-,-,-
+265,4.234,-,no notes,-,-,-
+266,4.236,-,no notes,-,-,-
+267,4.238,-,no notes,-,-,-
+268,4.240,1,<<note has images of formulas>>,1,(see Note 1),-
+269,4.240,2,<<note has images of formulas>>,1,(see Note 1),-
+270,4.240,3,<<note has images of formulas>>,2,(see Note 2),-
+271,4.240,4,<<note has images of formulas>>,3,(see Note 3),-
+272,4.240,5,<<note has images of formulas>>,4,(see Note 4),-
+273,4.240,6,<<note has images of formulas>>,5,(see Note 5),-
+274,4.240,7,<<note has images of formulas>>,6,(see Note 6),-
+275,4.241,-,no notes,-,-,-
+276,4.242,-,no notes,-,-,-
+277,4.243,-,no notes,-,-,-
+278,4.244,-,no notes,-,-,-
+279,4.246,-,no notes,-,-,-
+280,4.247,-,no notes,-,-,-
+281,4.248,-,no notes,-,-,-
+282,4.249,-,no notes,-,-,-
+283,5.0,-,no notes,-,-,-
+284,5.1,-,no notes,-,-,-
+285,5.2,-,no notes,-,-,-
+286,5.3,-,no notes,-,-,-
+287,5.4,-,no notes,-,-,-
+288,5.5,-,no notes,-,-,-
+289,5.6,-,no notes,-,-,-
+290,5.7,-,no notes,-,-,-
+291,5.25,-,no notes,-,-,-
+292,5.26,-,no notes,-,-,-
+293,5.40,-,no notes,-,-,-
+294,5.60,-,no notes,-,-,-
