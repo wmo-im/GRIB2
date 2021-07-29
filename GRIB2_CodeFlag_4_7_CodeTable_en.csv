@@ -1,14 +1,14 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Derived forecast,,0,,Unweighted mean of all members,,,Operational
-Derived forecast,,1,,Weighted mean of all members,,,Operational
-Derived forecast,,2,,Standard deviation with respect to cluster mean,,,Operational
-Derived forecast,,3,,"Standard deviation with respect to cluster mean, normalized",,,Operational
-Derived forecast,,4,,Spread of all members,,,Operational
-Derived forecast,,5,,Large anomaly index of all members,(see Note 1),,Operational
-Derived forecast,,6,,Unweighted mean of the cluster members,,,Operational
-Derived forecast,,7,,Interquartile range (range between the 25th and 75th quantile),,,Operational
-Derived forecast,,8,,Minimum of all ensemble members,(see Note 2),,Operational
-Derived forecast,,9,,Maximum of all ensemble members,(see Note 2),,Operational
-Derived forecast,,10-191,,Reserved,,,Operational
-Derived forecast,,192-254,,Reserved for local use,,,Operational
-Derived forecast,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Derived forecast,,0,,Unweighted mean of all members,,,,Operational
+Derived forecast,,1,,Weighted mean of all members,,,,Operational
+Derived forecast,,2,,Standard deviation with respect to cluster mean,,,,Operational
+Derived forecast,,3,,"Standard deviation with respect to cluster mean, normalized",,,,Operational
+Derived forecast,,4,,Spread of all members,,,,Operational
+Derived forecast,,5,,Large anomaly index of all members,(see Note 1),,,Operational
+Derived forecast,,6,,Unweighted mean of the cluster members,,,,Operational
+Derived forecast,,7,,Interquartile range (range between the 25th and 75th quantile),,,,Operational
+Derived forecast,,8,,Minimum of all ensemble members,(see Note 2),,,Operational
+Derived forecast,,9,,Maximum of all ensemble members,(see Note 2),,,Operational
+Derived forecast,,10-191,,Reserved,,,,Operational
+Derived forecast,,192-254,,Reserved for local use,,,,Operational
+Derived forecast,,255,,Missing,,,,Operational

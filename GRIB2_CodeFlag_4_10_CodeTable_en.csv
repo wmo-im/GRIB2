@@ -1,19 +1,19 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Type of statistical processing,,0,,Average,,,Operational
-Type of statistical processing,,1,,Accumulation,(see Note 1),,Operational
-Type of statistical processing,,2,,Maximum,,,Operational
-Type of statistical processing,,3,,Minimum,,,Operational
-Type of statistical processing,,4,,Difference (value at the end of time range minus value at the beginning),,,Operational
-Type of statistical processing,,5,,Root mean square,,,Operational
-Type of statistical processing,,6,,Standard deviation,,,Operational
-Type of statistical processing,,7,,Covariance (temporal variance),(see Note 2),,Operational
-Type of statistical processing,,8,,Difference (value at the start of time range minus value at the end),,,Operational
-Type of statistical processing,,9,,Ratio,(see Note 3),,Operational
-Type of statistical processing,,10,,Standardized anomaly,,,Operational
-Type of statistical processing,,11,,Summation,,,Operational
-Type of statistical processing,,12-99,,Reserved,,,Operational
-Type of statistical processing,,100,,Severity,,,Operational
-Type of statistical processing,,101,,Mode,,,Operational
-Type of statistical processing,,102-191,,Reserved,,,Operational
-Type of statistical processing,,192-254,,Reserved for local use,,,Operational
-Type of statistical processing,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Type of statistical processing,,0,,Average,,,,Operational
+Type of statistical processing,,1,,Accumulation,(see Note 1),,,Operational
+Type of statistical processing,,2,,Maximum,,,,Operational
+Type of statistical processing,,3,,Minimum,,,,Operational
+Type of statistical processing,,4,,Difference (value at the end of time range minus value at the beginning),,,,Operational
+Type of statistical processing,,5,,Root mean square,,,,Operational
+Type of statistical processing,,6,,Standard deviation,,,,Operational
+Type of statistical processing,,7,,Covariance (temporal variance),(see Note 2),,,Operational
+Type of statistical processing,,8,,Difference (value at the start of time range minus value at the end),,,,Operational
+Type of statistical processing,,9,,Ratio,(see Note 3),,,Operational
+Type of statistical processing,,10,,Standardized anomaly,,,,Operational
+Type of statistical processing,,11,,Summation,,,,Operational
+Type of statistical processing,,12-99,,Reserved,,,,Operational
+Type of statistical processing,,100,,Severity,,,,Operational
+Type of statistical processing,,101,,Mode,,,,Operational
+Type of statistical processing,,102-191,,Reserved,,,,Operational
+Type of statistical processing,,192-254,,Reserved for local use,,,,Operational
+Type of statistical processing,,255,,Missing,,,,Operational

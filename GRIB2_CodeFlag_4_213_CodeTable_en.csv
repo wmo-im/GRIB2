@@ -1,16 +1,16 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Soil type,,0,,Reserved,,,Operational
-Soil type,,1,,Sand,,,Operational
-Soil type,,2,,Loamy sand,,,Operational
-Soil type,,3,,Sandy loam,,,Operational
-Soil type,,4,,Silt loam,,,Operational
-Soil type,,5,,Organic (redefined),,,Operational
-Soil type,,6,,Sandy clay loam,,,Operational
-Soil type,,7,,Silt clay loam,,,Operational
-Soil type,,8,,Clay loam,,,Operational
-Soil type,,9,,Sandy clay,,,Operational
-Soil type,,10,,Silty clay,,,Operational
-Soil type,,11,,Clay,,,Operational
-Soil type,,12-191,,Reserved,,,Operational
-Soil type,,192-254,,Reserved for local use,,,Operational
-Soil type,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Soil type,,0,,Reserved,,,,Operational
+Soil type,,1,,Sand,,,,Operational
+Soil type,,2,,Loamy sand,,,,Operational
+Soil type,,3,,Sandy loam,,,,Operational
+Soil type,,4,,Silt loam,,,,Operational
+Soil type,,5,,Organic (redefined),,,,Operational
+Soil type,,6,,Sandy clay loam,,,,Operational
+Soil type,,7,,Silt clay loam,,,,Operational
+Soil type,,8,,Clay loam,,,,Operational
+Soil type,,9,,Sandy clay,,,,Operational
+Soil type,,10,,Silty clay,,,,Operational
+Soil type,,11,,Clay,,,,Operational
+Soil type,,12-191,,Reserved,,,,Operational
+Soil type,,192-254,,Reserved for local use,,,,Operational
+Soil type,,255,,Missing,,,,Operational

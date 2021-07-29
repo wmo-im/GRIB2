@@ -1,6 +1,6 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Clustering method,,0,,Anomaly correlation,,,Operational
-Clustering method,,1,,Root mean square,,,Operational
-Clustering method,,2-191,,Reserved,,,Operational
-Clustering method,,192-254,,Reserved for local use,,,Operational
-Clustering method,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Clustering method,,0,,Anomaly correlation,,,,Operational
+Clustering method,,1,,Root mean square,,,,Operational
+Clustering method,,2-191,,Reserved,,,,Operational
+Clustering method,,192-254,,Reserved for local use,,,,Operational
+Clustering method,,255,,Missing,,,,Operational
