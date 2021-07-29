@@ -8,7 +8,7 @@ GRIB2_CodeFlag_3_1_CodeTable_en.csv,3.1,0,27
 GRIB2_CodeFlag_3_1_CodeTable_en.csv,3.1,20,36
 GRIB2_CodeFlag_3_1_CodeTable_en.csv,3.1,30,35
 GRIB2_CodeFlag_3_11_CodeTable_en.csv,3.11,3,105
-GRIB2_CodeFlag_3_11_CodeTable_en.csv,3.11,na,50
+GRIB2_CodeFlag_3_11_CodeTable_en.csv,3.11,1,50
 GRIB2_CodeFlag_3_15_CodeTable_en.csv,3.15,103,68
 GRIB2_CodeFlag_3_15_CodeTable_en.csv,3.15,111,85
 GRIB2_CodeFlag_3_2_CodeTable_en.csv,3.2,table,117
