@@ -1,5 +1,5 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Spectral data representation mode,,0,,Reserved,,,Operational
-Spectral data representation mode,,1,,(see separate doc or pdf file),(Code table 3.7),,Operational
-Spectral data representation mode,,2-254,,Reserved,,,Operational
-Spectral data representation mode,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Spectral data representation mode,,0,,Reserved,,,,Operational
+Spectral data representation mode,,1,,(see separate doc or pdf file),(Code table 3.7),,,Operational
+Spectral data representation mode,,2-254,,Reserved,,,,Operational
+Spectral data representation mode,,255,,Missing,,,,Operational

@@ -1,5 +1,5 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Elevation of snow-covered terrain,,0-90,,Elevation in increments of 100 m,,,Operational
-Elevation of snow-covered terrain,,91-253,,Reserved,,,Operational
-Elevation of snow-covered terrain,,254,,Clouds,,,Operational
-Elevation of snow-covered terrain,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Elevation of snow-covered terrain,,0-90,,Elevation in increments of 100 m,,,,Operational
+Elevation of snow-covered terrain,,91-253,,Reserved,,,,Operational
+Elevation of snow-covered terrain,,254,,Clouds,,,,Operational
+Elevation of snow-covered terrain,,255,,Missing,,,,Operational

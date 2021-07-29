@@ -1,7 +1,7 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Tile classification,,0,,Reserved,,,Operational
-Tile classification,,1,,Land use classes according to ESA-GlobCover GCV2009,,,Operational
-Tile classification,,2,,Land use classes according to European Commission-Global Land Cover Project GLC2000,,,Operational
-Tile classification,,3-191,,Reserved,,,Operational
-Tile classification,,192-254,,Reserved for local use,,,Operational
-Tile classification,,255,,Missing value,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Tile classification,,0,,Reserved,,,,Operational
+Tile classification,,1,,Land use classes according to ESA-GlobCover GCV2009,,,,Operational
+Tile classification,,2,,Land use classes according to European Commission-Global Land Cover Project GLC2000,,,,Operational
+Tile classification,,3-191,,Reserved,,,,Operational
+Tile classification,,192-254,,Reserved for local use,,,,Operational
+Tile classification,,255,,Missing value,,,,Operational
