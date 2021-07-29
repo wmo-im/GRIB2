@@ -1,9 +1,9 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Thunderstorm coverage,,0,,None,,,Operational
-Thunderstorm coverage,,1,,Isolated (1-2%),,,Operational
-Thunderstorm coverage,,2,,Few (3-5%),,,Operational
-Thunderstorm coverage,,3,,Scattered (6-45%),,,Operational
-Thunderstorm coverage,,4,,Numerous (> 45%),,,Operational
-Thunderstorm coverage,,5-191,,Reserved,,,Operational
-Thunderstorm coverage,,192-254,,Reserved for local use,,,Operational
-Thunderstorm coverage,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Thunderstorm coverage,,0,,None,,,,Operational
+Thunderstorm coverage,,1,,Isolated (1-2%),,,,Operational
+Thunderstorm coverage,,2,,Few (3-5%),,,,Operational
+Thunderstorm coverage,,3,,Scattered (6-45%),,,,Operational
+Thunderstorm coverage,,4,,Numerous (> 45%),,,,Operational
+Thunderstorm coverage,,5-191,,Reserved,,,,Operational
+Thunderstorm coverage,,192-254,,Reserved for local use,,,,Operational
+Thunderstorm coverage,,255,,Missing,,,,Operational

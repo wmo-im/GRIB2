@@ -1,23 +1,23 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Physical meaning of vertical coordinate,,0-19,,Reserved,,,Operational
-Physical meaning of vertical coordinate,,20,,Temperature,,K,Operational
-Physical meaning of vertical coordinate,,21-99,,Reserved,,,Operational
-Physical meaning of vertical coordinate,,100,,Pressure,,Pa,Operational
-Physical meaning of vertical coordinate,,101,,Pressure deviation from mean sea level,,Pa,Operational
-Physical meaning of vertical coordinate,,102,,Altitude above mean sea level,,m,Operational
-Physical meaning of vertical coordinate,,103,,Height above ground,(see Note 1),m,Operational
-Physical meaning of vertical coordinate,,104,,Sigma coordinate,,,Operational
-Physical meaning of vertical coordinate,,105,,Hybrid coordinate,,,Operational
-Physical meaning of vertical coordinate,,106,,Depth below land surface,,m,Operational
-Physical meaning of vertical coordinate,,107,,Potential temperature (theta),,K,Operational
-Physical meaning of vertical coordinate,,108,,Pressure deviation from ground to level,,Pa,Operational
-Physical meaning of vertical coordinate,,109,,Potential vorticity,,K m-2 kg-1 s-1,Operational
-Physical meaning of vertical coordinate,,110,,Geometrical height,,m,Operational
-Physical meaning of vertical coordinate,,111,,Eta coordinate,(see Note 2),,Operational
-Physical meaning of vertical coordinate,,112,,Geopotential height,,gpm,Operational
-Physical meaning of vertical coordinate,,113,,Logarithmic hybrid coordinate,,,Operational
-Physical meaning of vertical coordinate,,114-159,,Reserved,,,Operational
-Physical meaning of vertical coordinate,,160,,Depth below sea level,,m,Operational
-Physical meaning of vertical coordinate,,161-191,,Reserved,,,Operational
-Physical meaning of vertical coordinate,,192-254,,Reserved for local use,,,Operational
-Physical meaning of vertical coordinate,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Physical meaning of vertical coordinate,,0-19,,Reserved,,,,Operational
+Physical meaning of vertical coordinate,,20,,Temperature,,,K,Operational
+Physical meaning of vertical coordinate,,21-99,,Reserved,,,,Operational
+Physical meaning of vertical coordinate,,100,,Pressure,,,Pa,Operational
+Physical meaning of vertical coordinate,,101,,Pressure deviation from mean sea level,,,Pa,Operational
+Physical meaning of vertical coordinate,,102,,Altitude above mean sea level,,,m,Operational
+Physical meaning of vertical coordinate,,103,,Height above ground,(see Note 1),,m,Operational
+Physical meaning of vertical coordinate,,104,,Sigma coordinate,,,,Operational
+Physical meaning of vertical coordinate,,105,,Hybrid coordinate,,,,Operational
+Physical meaning of vertical coordinate,,106,,Depth below land surface,,,m,Operational
+Physical meaning of vertical coordinate,,107,,Potential temperature (theta),,,K,Operational
+Physical meaning of vertical coordinate,,108,,Pressure deviation from ground to level,,,Pa,Operational
+Physical meaning of vertical coordinate,,109,,Potential vorticity,,,K m-2 kg-1 s-1,Operational
+Physical meaning of vertical coordinate,,110,,Geometrical height,,,m,Operational
+Physical meaning of vertical coordinate,,111,,Eta coordinate,(see Note 2),,,Operational
+Physical meaning of vertical coordinate,,112,,Geopotential height,,,gpm,Operational
+Physical meaning of vertical coordinate,,113,,Logarithmic hybrid coordinate,,,,Operational
+Physical meaning of vertical coordinate,,114-159,,Reserved,,,,Operational
+Physical meaning of vertical coordinate,,160,,Depth below sea level,,,m,Operational
+Physical meaning of vertical coordinate,,161-191,,Reserved,,,,Operational
+Physical meaning of vertical coordinate,,192-254,,Reserved for local use,,,,Operational
+Physical meaning of vertical coordinate,,255,,Missing,,,,Operational
