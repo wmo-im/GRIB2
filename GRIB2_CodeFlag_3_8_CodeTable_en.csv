@@ -1,7 +1,7 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Grid point position,,0,,Grid points at triangle vertices,,,Operational
-Grid point position,,1,,Grid points at centres of triangles,,,Operational
-Grid point position,,2,,Grid points at midpoints of triangle sides,,,Operational
-Grid point position,,3-191,,Reserved,,,Operational
-Grid point position,,192-254,,Reserved for local use,,,Operational
-Grid point position,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Grid point position,,0,,Grid points at triangle vertices,,,,Operational
+Grid point position,,1,,Grid points at centres of triangles,,,,Operational
+Grid point position,,2,,Grid points at midpoints of triangle sides,,,,Operational
+Grid point position,,3-191,,Reserved,,,,Operational
+Grid point position,,192-254,,Reserved for local use,,,,Operational
+Grid point position,,255,,Missing,,,,Operational

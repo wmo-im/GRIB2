@@ -1,7 +1,7 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Character of precipitation,,0,,None,,,Operational
-Character of precipitation,,1,,Showers,,,Operational
-Character of precipitation,,2,,Intermittent,,,Operational
-Character of precipitation,,3,,Continuous,,,Operational
-Character of precipitation,,4-254,,Reserved,,,Operational
-Character of precipitation,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Character of precipitation,,0,,None,,,,Operational
+Character of precipitation,,1,,Showers,,,,Operational
+Character of precipitation,,2,,Intermittent,,,,Operational
+Character of precipitation,,3,,Continuous,,,,Operational
+Character of precipitation,,4-254,,Reserved,,,,Operational
+Character of precipitation,,255,,Missing,,,,Operational

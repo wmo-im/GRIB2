@@ -1,11 +1,11 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Type of spatial processing used to arrive at given data value from the source data,,0,,Data is calculated directly from the source grid with no interpolation,(see Note 1),,Operational
-Type of spatial processing used to arrive at given data value from the source data,,1,,Bilinear interpolation using the 4 source grid grid-point values surrounding the nominal grid-point,,,Operational
-Type of spatial processing used to arrive at given data value from the source data,,2,,Bicubic interpolation using the 4 source grid grid-point values surrounding the nominal grid-point,,,Operational
-Type of spatial processing used to arrive at given data value from the source data,,3,,Using the value from the source grid grid-point which is nearest to the nominal grid-point,,,Operational
-Type of spatial processing used to arrive at given data value from the source data,,4,,Budget interpolation using the 4 source grid grid-point values surrounding the nominal grid-point,(see Note 2),,Operational
-Type of spatial processing used to arrive at given data value from the source data,,5,,Spectral interpolation using the 4 source grid grid-point values surrounding the nominal grid-point,,,Operational
-Type of spatial processing used to arrive at given data value from the source data,,6,,Neighbor-budget interpolation using the 4 source grid grid-point values surrounding the nominal grid-point,(see Note 3),,Operational
-Type of spatial processing used to arrive at given data value from the source data,,7-191,,Reserved,,,Operational
-Type of spatial processing used to arrive at given data value from the source data,,192-254,,Reserved for local use,,,Operational
-Type of spatial processing used to arrive at given data value from the source data,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Type of spatial processing used to arrive at given data value from the source data,,0,,Data is calculated directly from the source grid with no interpolation,(see Note 1),,,Operational
+Type of spatial processing used to arrive at given data value from the source data,,1,,Bilinear interpolation using the 4 source grid grid-point values surrounding the nominal grid-point,,,,Operational
+Type of spatial processing used to arrive at given data value from the source data,,2,,Bicubic interpolation using the 4 source grid grid-point values surrounding the nominal grid-point,,,,Operational
+Type of spatial processing used to arrive at given data value from the source data,,3,,Using the value from the source grid grid-point which is nearest to the nominal grid-point,,,,Operational
+Type of spatial processing used to arrive at given data value from the source data,,4,,Budget interpolation using the 4 source grid grid-point values surrounding the nominal grid-point,(see Note 2),,,Operational
+Type of spatial processing used to arrive at given data value from the source data,,5,,Spectral interpolation using the 4 source grid grid-point values surrounding the nominal grid-point,,,,Operational
+Type of spatial processing used to arrive at given data value from the source data,,6,,Neighbor-budget interpolation using the 4 source grid grid-point values surrounding the nominal grid-point,(see Note 3),,,Operational
+Type of spatial processing used to arrive at given data value from the source data,,7-191,,Reserved,,,,Operational
+Type of spatial processing used to arrive at given data value from the source data,,192-254,,Reserved for local use,,,,Operational
+Type of spatial processing used to arrive at given data value from the source data,,255,,Missing,,,,Operational

@@ -1,16 +1,16 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Production status of data,,0,,Operational products,,,Operational
-Production status of data,,1,,Operational test products,,,Operational
-Production status of data,,2,,Research products,,,Operational
-Production status of data,,3,,Re-analysis products,,,Operational
-Production status of data,,4,,THORPEX Interactive Grand Global Ensemble (TIGGE),,,Operational
-Production status of data,,5,,THORPEX Interactive Grand Global Ensemble (TIGGE) test,,,Operational
-Production status of data,,6,,S2S operational products,,,Operational
-Production status of data,,7,,S2S test products,,,Operational
-Production status of data,,8,,Uncertainties in Ensembles of Regional ReAnalyses project (UERRA),,,Operational
-Production status of data,,9,,Uncertainties in Ensembles of Regional ReAnalyses project (UERRA) test,,,Operational
-Production status of data,,10,,Copernicus regional reanalysis,,,Operational
-Production status of data,,11,,Copernicus regional reanalysis test,,,Operational
-Production status of data,,12-191,,Reserved,,,Operational
-Production status of data,,192-254,,Reserved for local use,,,Operational
-Production status of data,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Production status of data,,0,,Operational products,,,,Operational
+Production status of data,,1,,Operational test products,,,,Operational
+Production status of data,,2,,Research products,,,,Operational
+Production status of data,,3,,Re-analysis products,,,,Operational
+Production status of data,,4,,THORPEX Interactive Grand Global Ensemble (TIGGE),,,,Operational
+Production status of data,,5,,THORPEX Interactive Grand Global Ensemble (TIGGE) test,,,,Operational
+Production status of data,,6,,S2S operational products,,,,Operational
+Production status of data,,7,,S2S test products,,,,Operational
+Production status of data,,8,,Uncertainties in Ensembles of Regional ReAnalyses project (UERRA),,,,Operational
+Production status of data,,9,,Uncertainties in Ensembles of Regional ReAnalyses project (UERRA) test,,,,Operational
+Production status of data,,10,,Copernicus regional reanalysis,,,,Operational
+Production status of data,,11,,Copernicus regional reanalysis test,,,,Operational
+Production status of data,,12-191,,Reserved,,,,Operational
+Production status of data,,192-254,,Reserved for local use,,,,Operational
+Production status of data,,255,,Missing,,,,Operational

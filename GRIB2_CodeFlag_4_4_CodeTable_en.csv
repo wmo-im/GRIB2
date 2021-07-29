@@ -1,17 +1,17 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Indicator of unit of time range,,0,,Minute,,,Operational
-Indicator of unit of time range,,1,,Hour,,,Operational
-Indicator of unit of time range,,2,,Day,,,Operational
-Indicator of unit of time range,,3,,Month,,,Operational
-Indicator of unit of time range,,4,,Year,,,Operational
-Indicator of unit of time range,,5,,Decade (10 years),,,Operational
-Indicator of unit of time range,,6,,Normal (30 years),,,Operational
-Indicator of unit of time range,,7,,Century (100 years),,,Operational
-Indicator of unit of time range,,8-9,,Reserved,,,Operational
-Indicator of unit of time range,,10,,3 hours,,,Operational
-Indicator of unit of time range,,11,,6 hours,,,Operational
-Indicator of unit of time range,,12,,12 hours,,,Operational
-Indicator of unit of time range,,13,,Second,,,Operational
-Indicator of unit of time range,,14-191,,Reserved,,,Operational
-Indicator of unit of time range,,192-254,,Reserved for local use,,,Operational
-Indicator of unit of time range,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Indicator of unit of time range,,0,,Minute,,,,Operational
+Indicator of unit of time range,,1,,Hour,,,,Operational
+Indicator of unit of time range,,2,,Day,,,,Operational
+Indicator of unit of time range,,3,,Month,,,,Operational
+Indicator of unit of time range,,4,,Year,,,,Operational
+Indicator of unit of time range,,5,,Decade (10 years),,,,Operational
+Indicator of unit of time range,,6,,Normal (30 years),,,,Operational
+Indicator of unit of time range,,7,,Century (100 years),,,,Operational
+Indicator of unit of time range,,8-9,,Reserved,,,,Operational
+Indicator of unit of time range,,10,,3 hours,,,,Operational
+Indicator of unit of time range,,11,,6 hours,,,,Operational
+Indicator of unit of time range,,12,,12 hours,,,,Operational
+Indicator of unit of time range,,13,,Second,,,,Operational
+Indicator of unit of time range,,14-191,,Reserved,,,,Operational
+Indicator of unit of time range,,192-254,,Reserved for local use,,,,Operational
+Indicator of unit of time range,,255,,Missing,,,,Operational

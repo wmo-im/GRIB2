@@ -1,11 +1,11 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Environmental Factor Qualifier,,0,,Worst,,,Operational
-Environmental Factor Qualifier,,1,,Very poor,,,Operational
-Environmental Factor Qualifier,,2,,Poor,,,Operational
-Environmental Factor Qualifier,,3,,Average,,,Operational
-Environmental Factor Qualifier,,4,,Good,,,Operational
-Environmental Factor Qualifier,,5,,Excellent,,,Operational
-Environmental Factor Qualifier,,6-190,,Reserved,,,Operational
-Environmental Factor Qualifier,,191,,Unknown,,,Operational
-Environmental Factor Qualifier,,192-254,,Reserved for local use,,,Operational
-Environmental Factor Qualifier,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Environmental Factor Qualifier,,0,,Worst,,,,Operational
+Environmental Factor Qualifier,,1,,Very poor,,,,Operational
+Environmental Factor Qualifier,,2,,Poor,,,,Operational
+Environmental Factor Qualifier,,3,,Average,,,,Operational
+Environmental Factor Qualifier,,4,,Good,,,,Operational
+Environmental Factor Qualifier,,5,,Excellent,,,,Operational
+Environmental Factor Qualifier,,6-190,,Reserved,,,,Operational
+Environmental Factor Qualifier,,191,,Unknown,,,,Operational
+Environmental Factor Qualifier,,192-254,,Reserved for local use,,,,Operational
+Environmental Factor Qualifier,,255,,Missing,,,,Operational
