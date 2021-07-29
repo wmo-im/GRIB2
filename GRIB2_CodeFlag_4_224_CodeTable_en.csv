@@ -1,18 +1,18 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Categorical outlook,,0,,No risk area,,,Operational
-Categorical outlook,,1,,Reserved,,,Operational
-Categorical outlook,,2,,General thunderstorm risk area,,,Operational
-Categorical outlook,,3,,Reserved,,,Operational
-Categorical outlook,,4,,Slight risk area,,,Operational
-Categorical outlook,,5,,Reserved,,,Operational
-Categorical outlook,,6,,Moderate risk area,,,Operational
-Categorical outlook,,7,,Reserved,,,Operational
-Categorical outlook,,8,,High risk area,,,Operational
-Categorical outlook,,9-10,,Reserved,,,Operational
-Categorical outlook,,11,,Dry thunderstorm (dry lightning) risk area,,,Operational
-Categorical outlook,,12-13,,Reserved,,,Operational
-Categorical outlook,,14,,Critical risk area,,,Operational
-Categorical outlook,,15-17,,Reserved,,,Operational
-Categorical outlook,,18,,Extremely critical risk area,,,Operational
-Categorical outlook,,19-254,,Reserved,,,Operational
-Categorical outlook,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Categorical outlook,,0,,No risk area,,,,Operational
+Categorical outlook,,1,,Reserved,,,,Operational
+Categorical outlook,,2,,General thunderstorm risk area,,,,Operational
+Categorical outlook,,3,,Reserved,,,,Operational
+Categorical outlook,,4,,Slight risk area,,,,Operational
+Categorical outlook,,5,,Reserved,,,,Operational
+Categorical outlook,,6,,Moderate risk area,,,,Operational
+Categorical outlook,,7,,Reserved,,,,Operational
+Categorical outlook,,8,,High risk area,,,,Operational
+Categorical outlook,,9-10,,Reserved,,,,Operational
+Categorical outlook,,11,,Dry thunderstorm (dry lightning) risk area,,,,Operational
+Categorical outlook,,12-13,,Reserved,,,,Operational
+Categorical outlook,,14,,Critical risk area,,,,Operational
+Categorical outlook,,15-17,,Reserved,,,,Operational
+Categorical outlook,,18,,Extremely critical risk area,,,,Operational
+Categorical outlook,,19-254,,Reserved,,,,Operational
+Categorical outlook,,255,,Missing,,,,Operational

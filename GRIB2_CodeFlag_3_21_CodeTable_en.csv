@@ -1,8 +1,8 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Vertical dimension coordinate values definition,,0,,Explicit coordinate values set,,,Operational
-Vertical dimension coordinate values definition,,1,,"Linear coordinates f(1) = C1, f(n) = f(n-1) + C2",,,Operational
-Vertical dimension coordinate values definition,,2-10,,Reserved,,,Operational
-Vertical dimension coordinate values definition,,11,,"Geometric coordinates f(1) = C1, f(n) = C2 × f(n-1)",,,Operational
-Vertical dimension coordinate values definition,,12-191,,Reserved,,,Operational
-Vertical dimension coordinate values definition,,192-254,,Reserved for local use,,,Operational
-Vertical dimension coordinate values definition,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Vertical dimension coordinate values definition,,0,,Explicit coordinate values set,,,,Operational
+Vertical dimension coordinate values definition,,1,,"Linear coordinates f(1) = C1, f(n) = f(n-1) + C2",,,,Operational
+Vertical dimension coordinate values definition,,2-10,,Reserved,,,,Operational
+Vertical dimension coordinate values definition,,11,,"Geometric coordinates f(1) = C1, f(n) = C2 × f(n-1)",,,,Operational
+Vertical dimension coordinate values definition,,12-191,,Reserved,,,,Operational
+Vertical dimension coordinate values definition,,192-254,,Reserved for local use,,,,Operational
+Vertical dimension coordinate values definition,,255,,Missing,,,,Operational

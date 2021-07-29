@@ -1,9 +1,9 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Resolution and component flags,,1-2,,Reserved,,,Operational
-Resolution and component flags,,3,0,i direction increments not given,,,Operational
-Resolution and component flags,,3,1,i direction increments given,,,Operational
-Resolution and component flags,,4,0,j direction increments not given,,,Operational
-Resolution and component flags,,4,1,j direction increments given,,,Operational
-Resolution and component flags,,5,0,Resolved u- and v- components of vector quantities relative to easterly and northerly directions,,,Operational
-Resolution and component flags,,5,1,"Resolved u- and v- components of vector quantities relative to the defined grid in the direction of increasing x and y (or i and j) coordinates, respectively",,,Operational
-Resolution and component flags,,6-8,,Reserved - set to zero,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Resolution and component flags,,1-2,,Reserved,,,,Operational
+Resolution and component flags,,3,0,i direction increments not given,,,,Operational
+Resolution and component flags,,3,1,i direction increments given,,,,Operational
+Resolution and component flags,,4,0,j direction increments not given,,,,Operational
+Resolution and component flags,,4,1,j direction increments given,,,,Operational
+Resolution and component flags,,5,0,Resolved u- and v- components of vector quantities relative to easterly and northerly directions,,,,Operational
+Resolution and component flags,,5,1,"Resolved u- and v- components of vector quantities relative to the defined grid in the direction of increasing x and y (or i and j) coordinates, respectively",,,,Operational
+Resolution and component flags,,6-8,,Reserved - set to zero,,,,Operational

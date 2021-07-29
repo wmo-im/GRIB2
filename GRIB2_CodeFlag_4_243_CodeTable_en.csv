@@ -1,43 +1,43 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Tile class,,0,,Reserved,,,Operational
-Tile class,,1,,Evergreen broadleaved forest,,,Operational
-Tile class,,2,,Deciduous broadleaved closed forest,,,Operational
-Tile class,,3,,Deciduous broadleaved open forest,,,Operational
-Tile class,,4,,Evergreen needle-leaf forest,,,Operational
-Tile class,,5,,Deciduous needle-leaf forest,,,Operational
-Tile class,,6,,Mixed leaf trees,,,Operational
-Tile class,,7,,Freshwater flooded trees,,,Operational
-Tile class,,8,,Saline water flooded trees,,,Operational
-Tile class,,9,,Mosaic tree/natural vegetation,,,Operational
-Tile class,,10,,Burnt tree cover,,,Operational
-Tile class,,11,,Evergreen shrubs closed-open,,,Operational
-Tile class,,12,,Deciduous shrubs closed-open,,,Operational
-Tile class,,13,,Herbaceous vegetation closed-open,,,Operational
-Tile class,,14,,Sparse herbaceous or grass,,,Operational
-Tile class,,15,,Flooded shrubs or herbaceous,,,Operational
-Tile class,,16,,Cultivated and managed areas,,,Operational
-Tile class,,17,,Mosaic crop/tree/natural vegetation,,,Operational
-Tile class,,18,,Mosaic crop/shrub/grass,,,Operational
-Tile class,,19,,Bare areas,,,Operational
-Tile class,,20,,Water,,,Operational
-Tile class,,21,,Snow and ice,,,Operational
-Tile class,,22,,Artificial surface,,,Operational
-Tile class,,23,,Ocean,,,Operational
-Tile class,,24,,Irrigated croplands,,,Operational
-Tile class,,25,,Rainfed croplands,,,Operational
-Tile class,,26,,Mosaic cropland (50-70%) - vegetation (20-50%),,,Operational
-Tile class,,27,,Mosaic vegetation (50-70%) - cropland (20-50%),,,Operational
-Tile class,,28,,Closed broadleaved evergreen forest,,,Operational
-Tile class,,29,,Closed needle-leaved evergreen forest,,,Operational
-Tile class,,30,,Open needle-leaved deciduous forest,,,Operational
-Tile class,,31,,Mixed broadleaved and needle-leaved forest,,,Operational
-Tile class,,32,,Mosaic shrubland (50-70%) - grassland (20-50%),,,Operational
-Tile class,,33,,Mosaic grassland (50-70%) - shrubland (20-50%),,,Operational
-Tile class,,34,,Closed to open shrubland,,,Operational
-Tile class,,35,,Sparse vegetation,,,Operational
-Tile class,,36,,Closed to open forest regularly flooded,,,Operational
-Tile class,,37,,Closed forest or shrubland permanently flooded,,,Operational
-Tile class,,38,,Closed to open grassland regularly flooded,,,Operational
-Tile class,,39,,Undefined,,,Operational
-Tile class,,40-32767,,Reserved,,,Operational
-Tile class,,32768-,,Reserved for local use,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Tile class,,0,,Reserved,,,,Operational
+Tile class,,1,,Evergreen broadleaved forest,,,,Operational
+Tile class,,2,,Deciduous broadleaved closed forest,,,,Operational
+Tile class,,3,,Deciduous broadleaved open forest,,,,Operational
+Tile class,,4,,Evergreen needle-leaf forest,,,,Operational
+Tile class,,5,,Deciduous needle-leaf forest,,,,Operational
+Tile class,,6,,Mixed leaf trees,,,,Operational
+Tile class,,7,,Freshwater flooded trees,,,,Operational
+Tile class,,8,,Saline water flooded trees,,,,Operational
+Tile class,,9,,Mosaic tree/natural vegetation,,,,Operational
+Tile class,,10,,Burnt tree cover,,,,Operational
+Tile class,,11,,Evergreen shrubs closed-open,,,,Operational
+Tile class,,12,,Deciduous shrubs closed-open,,,,Operational
+Tile class,,13,,Herbaceous vegetation closed-open,,,,Operational
+Tile class,,14,,Sparse herbaceous or grass,,,,Operational
+Tile class,,15,,Flooded shrubs or herbaceous,,,,Operational
+Tile class,,16,,Cultivated and managed areas,,,,Operational
+Tile class,,17,,Mosaic crop/tree/natural vegetation,,,,Operational
+Tile class,,18,,Mosaic crop/shrub/grass,,,,Operational
+Tile class,,19,,Bare areas,,,,Operational
+Tile class,,20,,Water,,,,Operational
+Tile class,,21,,Snow and ice,,,,Operational
+Tile class,,22,,Artificial surface,,,,Operational
+Tile class,,23,,Ocean,,,,Operational
+Tile class,,24,,Irrigated croplands,,,,Operational
+Tile class,,25,,Rainfed croplands,,,,Operational
+Tile class,,26,,Mosaic cropland (50-70%) - vegetation (20-50%),,,,Operational
+Tile class,,27,,Mosaic vegetation (50-70%) - cropland (20-50%),,,,Operational
+Tile class,,28,,Closed broadleaved evergreen forest,,,,Operational
+Tile class,,29,,Closed needle-leaved evergreen forest,,,,Operational
+Tile class,,30,,Open needle-leaved deciduous forest,,,,Operational
+Tile class,,31,,Mixed broadleaved and needle-leaved forest,,,,Operational
+Tile class,,32,,Mosaic shrubland (50-70%) - grassland (20-50%),,,,Operational
+Tile class,,33,,Mosaic grassland (50-70%) - shrubland (20-50%),,,,Operational
+Tile class,,34,,Closed to open shrubland,,,,Operational
+Tile class,,35,,Sparse vegetation,,,,Operational
+Tile class,,36,,Closed to open forest regularly flooded,,,,Operational
+Tile class,,37,,Closed forest or shrubland permanently flooded,,,,Operational
+Tile class,,38,,Closed to open grassland regularly flooded,,,,Operational
+Tile class,,39,,Undefined,,,,Operational
+Tile class,,40-32767,,Reserved,,,,Operational
+Tile class,,32768-,,Reserved for local use,,,,Operational
