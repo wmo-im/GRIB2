@@ -46,19 +46,19 @@ Fixed surface types and units,,107,,Isentropic (theta) level,,,K,Operational
 Fixed surface types and units,,108,,Level at specified pressure difference from ground to level,,,Pa,Operational
 Fixed surface types and units,,109,,Potential vorticity surface,,,K m2 kg-1 s-1,Operational
 Fixed surface types and units,,110,,Reserved,,,,Operational
-Fixed surface types and units,,111,,Eta level,,,-,Operational
+Fixed surface types and units,,111,,Eta level,(see Note 1),86,-,Operational
 Fixed surface types and units,,112,,Reserved,,,,Operational
 Fixed surface types and units,,113,,Logarithmic hybrid level,,,,Operational
 Fixed surface types and units,,114,,Snow level,,,Numeric,Operational
-Fixed surface types and units,,115,,Sigma height level,(see Note 4),,-,Operational
+Fixed surface types and units,,115,,Sigma height level,(see Note 4),74,-,Operational
 Fixed surface types and units,,116,,Reserved,,,,Operational
 Fixed surface types and units,,117,,Mixed layer depth,,,m,Operational
-Fixed surface types and units,,118,,Hybrid height level,,,-,Operational
+Fixed surface types and units,,118,,Hybrid height level,(see Note 2),54,-,Operational
 Fixed surface types and units,,119,,Hybrid pressure level,,,-,Operational
 Fixed surface types and units,,120-149,,Reserved,,,,Operational
-Fixed surface types and units,,150,,Generalized vertical height coordinate,(see Note 5),,,Operational
-Fixed surface types and units,,151,,Soil level,(see Note 6),,Numeric,Operational
-Fixed surface types and units,,152,,Sea-ice level,(see Note 8),,Numeric,Operational
+Fixed surface types and units,,150,,Generalized vertical height coordinate,(see Note 5),84,,Operational
+Fixed surface types and units,,151,,Soil level,(see Note 6),100,Numeric,Operational
+Fixed surface types and units,,152,,Sea-ice level,(see Note 8),99,Numeric,Operational
 Fixed surface types and units,,153-159,,Reserved,,,,Operational
 Fixed surface types and units,,160,,Depth below sea level,,,m,Operational
 Fixed surface types and units,,161,,Depth below water surface,,,m,Operational
@@ -69,9 +69,9 @@ Fixed surface types and units,,165,,Bottom of sediment layer penetrated by therm
 Fixed surface types and units,,166,,Mixing layer,,,-,Operational
 Fixed surface types and units,,167,,Bottom of root zone,,,-,Operational
 Fixed surface types and units,,168,,Ocean model level,,,Numeric,Operational
-Fixed surface types and units,,169,,Ocean level defined by water density (sigma-theta) difference from near-surface to level,(see Note 7),,kg m-3,Operational
-Fixed surface types and units,,170,,Ocean level defined by water potential temperature difference from near-surface to level,(see Note 7),,K,Operational
-Fixed surface types and units,,171,,Ocean level defined by vertical eddy diffusivity difference from near-surface to level,(see Note 7),,m2 s-1,Operational
+Fixed surface types and units,,169,,Ocean level defined by water density (sigma-theta) difference from near-surface to level,(see Note 7),18,kg m-3,Operational
+Fixed surface types and units,,170,,Ocean level defined by water potential temperature difference from near-surface to level,(see Note 7),18,K,Operational
+Fixed surface types and units,,171,,Ocean level defined by vertical eddy diffusivity difference from near-surface to level,(see Note 7),18,m2 s-1,Operational
 Fixed surface types and units,,172-173,,Reserved,,,,Operational
 Fixed surface types and units,,174,,"Top surface of ice on sea, lake or river",,,-,Operational
 Fixed surface types and units,,175,,"Top surface of ice, under snow cover, on sea, lake or river",,,-,Operational
