@@ -1,8 +1,8 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Cloud top height quality indicator,,0,,Nominal cloud top height quality,,,Operational
-Cloud top height quality indicator,,1,,Fog in segment,,,Operational
-Cloud top height quality indicator,,2,,Poor quality height estimation,,,Operational
-Cloud top height quality indicator,,3,,Fog in segment and poor quality height estimation,,,Operational
-Cloud top height quality indicator,,4-191,,Reserved,,,Operational
-Cloud top height quality indicator,,192-254,,Reserved for local use,,,Operational
-Cloud top height quality indicator,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Cloud top height quality indicator,,0,,Nominal cloud top height quality,,,,Operational
+Cloud top height quality indicator,,1,,Fog in segment,,,,Operational
+Cloud top height quality indicator,,2,,Poor quality height estimation,,,,Operational
+Cloud top height quality indicator,,3,,Fog in segment and poor quality height estimation,,,,Operational
+Cloud top height quality indicator,,4-191,,Reserved,,,,Operational
+Cloud top height quality indicator,,192-254,,Reserved for local use,,,,Operational
+Cloud top height quality indicator,,255,,Missing,,,,Operational

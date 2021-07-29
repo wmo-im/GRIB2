@@ -1,13 +1,13 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Type of data,,0,,Analysis products,,,Operational
-Type of data,,1,,Forecast products,,,Operational
-Type of data,,2,,Analysis and forecast products,,,Operational
-Type of data,,3,,Control forecast products,,,Operational
-Type of data,,4,,Perturbed forecast products,,,Operational
-Type of data,,5,,Control and perturbed forecast products,,,Operational
-Type of data,,6,,Processed satellite observations,,,Operational
-Type of data,,7,,Processed radar observations,,,Operational
-Type of data,,8,,Event probability,,,Operational
-Type of data,,9-191,,Reserved,,,Operational
-Type of data,,192-254,,Reserved for local use,,,Operational
-Type of data,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Type of data,,0,,Analysis products,,,,Operational
+Type of data,,1,,Forecast products,,,,Operational
+Type of data,,2,,Analysis and forecast products,,,,Operational
+Type of data,,3,,Control forecast products,,,,Operational
+Type of data,,4,,Perturbed forecast products,,,,Operational
+Type of data,,5,,Control and perturbed forecast products,,,,Operational
+Type of data,,6,,Processed satellite observations,,,,Operational
+Type of data,,7,,Processed radar observations,,,,Operational
+Type of data,,8,,Event probability,,,,Operational
+Type of data,,9-191,,Reserved,,,,Operational
+Type of data,,192-254,,Reserved for local use,,,,Operational
+Type of data,,255,,Missing,,,,Operational

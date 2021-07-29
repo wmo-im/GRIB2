@@ -1,10 +1,10 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Type of time intervals,,0,,Reserved,,,Operational
-Type of time intervals,,1,,"Successive times processed have same forecast time, start time of forecast is incremented",,,Operational
-Type of time intervals,,2,,"Successive times processed have same start time of forecast, forecast time is incremented",,,Operational
-Type of time intervals,,3,,Successive times processed have start time of forecast incremented and forecast time decremented so that valid time remains constant,,,Operational
-Type of time intervals,,4,,Successive times processed have start time of forecast decremented and forecast time incremented so that valid time remains constant,,,Operational
-Type of time intervals,,5,,Floating subinterval of time between forecast time and end of overall time interval,*,,Operational
-Type of time intervals,,6-191,,Reserved,,,Operational
-Type of time intervals,,192-254,,Reserved for local use,,,Operational
-Type of time intervals,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Type of time intervals,,0,,Reserved,,,,Operational
+Type of time intervals,,1,,"Successive times processed have same forecast time, start time of forecast is incremented",,,,Operational
+Type of time intervals,,2,,"Successive times processed have same start time of forecast, forecast time is incremented",,,,Operational
+Type of time intervals,,3,,Successive times processed have start time of forecast incremented and forecast time decremented so that valid time remains constant,,,,Operational
+Type of time intervals,,4,,Successive times processed have start time of forecast decremented and forecast time incremented so that valid time remains constant,,,,Operational
+Type of time intervals,,5,,Floating subinterval of time between forecast time and end of overall time interval,*,,,Operational
+Type of time intervals,,6-191,,Reserved,,,,Operational
+Type of time intervals,,192-254,,Reserved for local use,,,,Operational
+Type of time intervals,,255,,Missing,,,,Operational

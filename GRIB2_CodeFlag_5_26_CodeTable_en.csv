@@ -1,5 +1,5 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-packing mode for axes,,0,,Spectral coefficients for axes are packed,,,Operational
-packing mode for axes,,1,,Spectral coefficients for axes included in the unpacked subset,,,Operational
-packing mode for axes,,2-254,,Reserved,,,Operational
-packing mode for axes,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+packing mode for axes,,0,,Spectral coefficients for axes are packed,,,,Operational
+packing mode for axes,,1,,Spectral coefficients for axes included in the unpacked subset,,,,Operational
+packing mode for axes,,2-254,,Reserved,,,,Operational
+packing mode for axes,,255,,Missing,,,,Operational
