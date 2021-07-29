@@ -1,5 +1,5 @@
 Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
-Grid definition template number,,0,,Latitude/longitude,,,"Also called equidistant cylindrical, or Plate Carrée",Operational
+Grid definition template number,,0,,Latitude/longitude,(see Note 1),27,,Operational
 Grid definition template number,,1,,Rotated latitude/longitude,,,,Operational
 Grid definition template number,,2,,Stretched latitude/longitude,,,,Operational
 Grid definition template number,,3,,Stretched and rotated latitude/longitude,,,,Operational
@@ -11,11 +11,11 @@ Grid definition template number,,11,,Reserved,,,,Operational
 Grid definition template number,,12,,Transverse Mercator,,,,Operational
 Grid definition template number,,13,,Mercator with modelling subdomains definition,,,,Operational
 Grid definition template number,,14-19,,Reserved,,,,Operational
-Grid definition template number,,20,,Polar stereographic projection,,,Can be south or north,Operational
+Grid definition template number,,20,,Polar stereographic projection,(see Note 2),36,,Operational
 Grid definition template number,,21-22,,Reserved,,,,Operational
 Grid definition template number,,23,,Polar stereographic with modelling subdomains definition,,,,Operational
 Grid definition template number,,24-29,,Reserved,,,,Operational
-Grid definition template number,,30,,Lambert conformal,,,"Can be secant or tangent, conical or bipolar",Operational
+Grid definition template number,,30,,Lambert conformal,(see Note 3),35,,Operational
 Grid definition template number,,31,,Albers equal area,,,,Operational
 Grid definition template number,,32,,Reserved,,,,Operational
 Grid definition template number,,33,,Lambert conformal with modelling subdomains definition,,,,Operational
