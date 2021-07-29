@@ -1,7 +1,7 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Thunderstorm intensity,,0,,No thunderstorm occurence,,,Operational
-Thunderstorm intensity,,1,,Weak thunderstorm,,,Operational
-Thunderstorm intensity,,2,,Moderate thunderstorm,,,Operational
-Thunderstorm intensity,,3,,Severe thunderstorm,,,Operational
-Thunderstorm intensity,,4-254,,Reserved,,,Operational
-Thunderstorm intensity,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Thunderstorm intensity,,0,,No thunderstorm occurence,,,,Operational
+Thunderstorm intensity,,1,,Weak thunderstorm,,,,Operational
+Thunderstorm intensity,,2,,Moderate thunderstorm,,,,Operational
+Thunderstorm intensity,,3,,Severe thunderstorm,,,,Operational
+Thunderstorm intensity,,4-254,,Reserved,,,,Operational
+Thunderstorm intensity,,255,,Missing,,,,Operational

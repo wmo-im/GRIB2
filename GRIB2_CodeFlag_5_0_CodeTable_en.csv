@@ -1,22 +1,22 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Data representation template number,,0,,Grid point data - simple packing,,,Operational
-Data representation template number,,1,,Matrix value at grid point - simple packing,,,Experimental
-Data representation template number,,2,,Grid point data - complex packing,,,Operational
-Data representation template number,,3,,Grid point data - complex packing and spatial differencing,,,Operational
-Data representation template number,,4,,Grid point data - IEEE floating point data,,,Operational
-Data representation template number,,5-39,,Reserved,,,Operational
-Data representation template number,,40,,Grid point data - JPEG 2000 code stream format,,,Operational
-Data representation template number,,41,,Grid point data - Portable Network Graphics (PNG),,,Operational
-Data representation template number,,42,,Grid point data - CCSDS recommended lossless compression,,,Operational
-Data representation template number,,43-49,,Reserved,,,Operational
-Data representation template number,,50,,Spectral data - simple packing,,,Operational
-Data representation template number,,51,,Spherical harmonics data - complex packing,,,Operational
-Data representation template number,,52,,Reserved,,,Operational
-Data representation template number,,53,,Spectral data for limited area models - complex packing,,,Operational
-Data representation template number,,54-60,,Reserved,,,Operational
-Data representation template number,,61,,Grid point data - simple packing with logarithm pre-processing,,,Experimental
-Data representation template number,,62-199,,Reserved,,,Operational
-Data representation template number,,200,,Run length packing with level values,,,Operational
-Data representation template number,,201-49151,,Reserved,,,Operational
-Data representation template number,,49152-65534,,Reserved for local use,,,Operational
-Data representation template number,,65535,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Data representation template number,,0,,Grid point data - simple packing,,,,Operational
+Data representation template number,,1,,Matrix value at grid point - simple packing,,,,Experimental
+Data representation template number,,2,,Grid point data - complex packing,,,,Operational
+Data representation template number,,3,,Grid point data - complex packing and spatial differencing,,,,Operational
+Data representation template number,,4,,Grid point data - IEEE floating point data,,,,Operational
+Data representation template number,,5-39,,Reserved,,,,Operational
+Data representation template number,,40,,Grid point data - JPEG 2000 code stream format,,,,Operational
+Data representation template number,,41,,Grid point data - Portable Network Graphics (PNG),,,,Operational
+Data representation template number,,42,,Grid point data - CCSDS recommended lossless compression,,,,Operational
+Data representation template number,,43-49,,Reserved,,,,Operational
+Data representation template number,,50,,Spectral data - simple packing,,,,Operational
+Data representation template number,,51,,Spherical harmonics data - complex packing,,,,Operational
+Data representation template number,,52,,Reserved,,,,Operational
+Data representation template number,,53,,Spectral data for limited area models - complex packing,,,,Operational
+Data representation template number,,54-60,,Reserved,,,,Operational
+Data representation template number,,61,,Grid point data - simple packing with logarithm pre-processing,,,,Experimental
+Data representation template number,,62-199,,Reserved,,,,Operational
+Data representation template number,,200,,Run length packing with level values,,,,Operational
+Data representation template number,,201-49151,,Reserved,,,,Operational
+Data representation template number,,49152-65534,,Reserved for local use,,,,Operational
+Data representation template number,,65535,,Missing,,,,Operational

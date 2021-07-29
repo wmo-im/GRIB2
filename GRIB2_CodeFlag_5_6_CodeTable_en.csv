@@ -1,7 +1,7 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Order of spatial differencing,,0,,Reserved,,,Operational
-Order of spatial differencing,,1,,First-order spatial differencing,,,Operational
-Order of spatial differencing,,2,,Second-order spatial differencing,,,Operational
-Order of spatial differencing,,3-191,,Reserved,,,Operational
-Order of spatial differencing,,192-254,,Reserved for local use,,,Operational
-Order of spatial differencing,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Order of spatial differencing,,0,,Reserved,,,,Operational
+Order of spatial differencing,,1,,First-order spatial differencing,,,,Operational
+Order of spatial differencing,,2,,Second-order spatial differencing,,,,Operational
+Order of spatial differencing,,3-191,,Reserved,,,,Operational
+Order of spatial differencing,,192-254,,Reserved for local use,,,,Operational
+Order of spatial differencing,,255,,Missing,,,,Operational

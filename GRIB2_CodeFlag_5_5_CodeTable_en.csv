@@ -1,7 +1,7 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Missing value management for complex packing,,0,,No explicit missing values included within data values,,,Operational
-Missing value management for complex packing,,1,,Primary missing values included within data values,,,Operational
-Missing value management for complex packing,,2,,Primary and secondary missing values included within data values,,,Operational
-Missing value management for complex packing,,3-191,,Reserved,,,Operational
-Missing value management for complex packing,,192-254,,Reserved for local use,,,Operational
-Missing value management for complex packing,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Missing value management for complex packing,,0,,No explicit missing values included within data values,,,,Operational
+Missing value management for complex packing,,1,,Primary missing values included within data values,,,,Operational
+Missing value management for complex packing,,2,,Primary and secondary missing values included within data values,,,,Operational
+Missing value management for complex packing,,3-191,,Reserved,,,,Operational
+Missing value management for complex packing,,192-254,,Reserved for local use,,,,Operational
+Missing value management for complex packing,,255,,Missing,,,,Operational

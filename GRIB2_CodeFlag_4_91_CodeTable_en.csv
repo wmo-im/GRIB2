@@ -1,16 +1,16 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Type of Interval,,0,,Smaller than first limit,,,Operational
-Type of Interval,,1,,Greater than second limit,,,Operational
-Type of Interval,,2,,Between first and second limit. The range includes the first limit but not the second limit,,,Operational
-Type of Interval,,3,,Greater than first limit,,,Operational
-Type of Interval,,4,,Smaller than second limit,,,Operational
-Type of Interval,,5,,Smaller or equal first limit,,,Operational
-Type of Interval,,6,,Greater or equal second limit,,,Operational
-Type of Interval,,7,,Between first and second. The range includes the first limit and the second limit,,,Operational
-Type of Interval,,8,,Greater or equal first limit,,,Operational
-Type of Interval,,9,,Smaller or equal second limit,,,Operational
-Type of Interval,,10,,Between first and second limit. The range includes the second limit but not the first limit,,,Operational
-Type of Interval,,11,,Equal to first limit,,,Operational
-Type of Interval,,12-191,,Reserved,,,Operational
-Type of Interval,,192-254,,Reserved for local use,,,Operational
-Type of Interval,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Type of Interval,,0,,Smaller than first limit,,,,Operational
+Type of Interval,,1,,Greater than second limit,,,,Operational
+Type of Interval,,2,,Between first and second limit. The range includes the first limit but not the second limit,,,,Operational
+Type of Interval,,3,,Greater than first limit,,,,Operational
+Type of Interval,,4,,Smaller than second limit,,,,Operational
+Type of Interval,,5,,Smaller or equal first limit,,,,Operational
+Type of Interval,,6,,Greater or equal second limit,,,,Operational
+Type of Interval,,7,,Between first and second. The range includes the first limit and the second limit,,,,Operational
+Type of Interval,,8,,Greater or equal first limit,,,,Operational
+Type of Interval,,9,,Smaller or equal second limit,,,,Operational
+Type of Interval,,10,,Between first and second limit. The range includes the second limit but not the first limit,,,,Operational
+Type of Interval,,11,,Equal to first limit,,,,Operational
+Type of Interval,,12-191,,Reserved,,,,Operational
+Type of Interval,,192-254,,Reserved for local use,,,,Operational
+Type of Interval,,255,,Missing,,,,Operational

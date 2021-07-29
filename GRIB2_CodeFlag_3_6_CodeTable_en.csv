@@ -1,3 +1,3 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Spectral data representation type,,1,,(see separate doc or pdf file),(Code table 3.6),,Operational
-Spectral data representation type,,2,,Bi-Fourier representation,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Spectral data representation type,,1,,(see separate doc or pdf file),(Code table 3.6),,,Operational
+Spectral data representation type,,2,,Bi-Fourier representation,,,,Operational

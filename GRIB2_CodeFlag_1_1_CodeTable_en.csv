@@ -1,4 +1,4 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-GRIB local tables version number,,0,,Local tables not used. Only table entries and templates from the current master table are valid,,,Operational
-GRIB local tables version number,,1-254,,Number of local tables version used,,,Operational
-GRIB local tables version number,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+GRIB local tables version number,,0,,Local tables not used. Only table entries and templates from the current master table are valid,,,,Operational
+GRIB local tables version number,,1-254,,Number of local tables version used,,,,Operational
+GRIB local tables version number,,255,,Missing,,,,Operational

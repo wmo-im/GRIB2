@@ -1,8 +1,8 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Matrix coordinate value function definition,,0,,Explicit coordinate values set,,,Operational
-Matrix coordinate value function definition,,1,,"Linear coordinates f(1) = C1, f(n) = f(n-1) + C2",,,Operational
-Matrix coordinate value function definition,,2-10,,Reserved,,,Operational
-Matrix coordinate value function definition,,11,,"Geometric coordinates f(1) = C1, f(n) = C2 × f(n-1)",,,Operational
-Matrix coordinate value function definition,,12-191,,Reserved,,,Operational
-Matrix coordinate value function definition,,192-254,,Reserved for local use,,,Operational
-Matrix coordinate value function definition,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Matrix coordinate value function definition,,0,,Explicit coordinate values set,,,,Operational
+Matrix coordinate value function definition,,1,,"Linear coordinates f(1) = C1, f(n) = f(n-1) + C2",,,,Operational
+Matrix coordinate value function definition,,2-10,,Reserved,,,,Operational
+Matrix coordinate value function definition,,11,,"Geometric coordinates f(1) = C1, f(n) = C2 × f(n-1)",,,,Operational
+Matrix coordinate value function definition,,12-191,,Reserved,,,,Operational
+Matrix coordinate value function definition,,192-254,,Reserved for local use,,,,Operational
+Matrix coordinate value function definition,,255,,Missing,,,,Operational
