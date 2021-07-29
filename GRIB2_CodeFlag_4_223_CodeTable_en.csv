@@ -1,5 +1,5 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Fire detection indicator,,0,,No fire detected,,,Operational
-Fire detection indicator,,1,,Possible fire detected,,,Operational
-Fire detection indicator,,2,,Probable fire detected,,,Operational
-Fire detection indicator,,3,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Fire detection indicator,,0,,No fire detected,,,,Operational
+Fire detection indicator,,1,,Possible fire detected,,,,Operational
+Fire detection indicator,,2,,Probable fire detected,,,,Operational
+Fire detection indicator,,3,,Missing,,,,Operational

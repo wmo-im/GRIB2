@@ -1,9 +1,9 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Turbulence,,0,,None (smooth),,,Operational
-Turbulence,,1,,Light,,,Operational
-Turbulence,,2,,Moderate,,,Operational
-Turbulence,,3,,Severe,,,Operational
-Turbulence,,4,,Extreme,,,Operational
-Turbulence,,5-191,,Reserved,,,Operational
-Turbulence,,192-254,,Reserved for local use,,,Operational
-Turbulence,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Turbulence,,0,,None (smooth),,,,Operational
+Turbulence,,1,,Light,,,,Operational
+Turbulence,,2,,Moderate,,,,Operational
+Turbulence,,3,,Severe,,,,Operational
+Turbulence,,4,,Extreme,,,,Operational
+Turbulence,,5-191,,Reserved,,,,Operational
+Turbulence,,192-254,,Reserved for local use,,,,Operational
+Turbulence,,255,,Missing,,,,Operational

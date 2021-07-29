@@ -1,10 +1,10 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Type of bi-Fourier truncation,,0-76,,Reserved,,,Operational
-Type of bi-Fourier truncation,,77,,Rectangular,,,Operational
-Type of bi-Fourier truncation,,78-87,,Reserved,,,Operational
-Type of bi-Fourier truncation,,88,,Elliptic,,,Operational
-Type of bi-Fourier truncation,,89-98,,Reserved,,,Operational
-Type of bi-Fourier truncation,,99,,Diamond,,,Operational
-Type of bi-Fourier truncation,,100-191,,Reserved,,,Operational
-Type of bi-Fourier truncation,,192-254,,Reserved for local use,,,Operational
-Type of bi-Fourier truncation,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Type of bi-Fourier truncation,,0-76,,Reserved,,,,Operational
+Type of bi-Fourier truncation,,77,,Rectangular,,,,Operational
+Type of bi-Fourier truncation,,78-87,,Reserved,,,,Operational
+Type of bi-Fourier truncation,,88,,Elliptic,,,,Operational
+Type of bi-Fourier truncation,,89-98,,Reserved,,,,Operational
+Type of bi-Fourier truncation,,99,,Diamond,,,,Operational
+Type of bi-Fourier truncation,,100-191,,Reserved,,,,Operational
+Type of bi-Fourier truncation,,192-254,,Reserved for local use,,,,Operational
+Type of bi-Fourier truncation,,255,,Missing,,,,Operational

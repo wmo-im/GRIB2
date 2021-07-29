@@ -1,9 +1,9 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Planetary boundary-layer regime,,0,,Reserved,,,Operational
-Planetary boundary-layer regime,,1,,Stable,,,Operational
-Planetary boundary-layer regime,,2,,Mechanically driven turbulence,,,Operational
-Planetary boundary-layer regime,,3,,Forced convection,,,Operational
-Planetary boundary-layer regime,,4,,Free convection,,,Operational
-Planetary boundary-layer regime,,5-191,,Reserved,,,Operational
-Planetary boundary-layer regime,,192-254,,Reserved for local use,,,Operational
-Planetary boundary-layer regime,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Planetary boundary-layer regime,,0,,Reserved,,,,Operational
+Planetary boundary-layer regime,,1,,Stable,,,,Operational
+Planetary boundary-layer regime,,2,,Mechanically driven turbulence,,,,Operational
+Planetary boundary-layer regime,,3,,Forced convection,,,,Operational
+Planetary boundary-layer regime,,4,,Free convection,,,,Operational
+Planetary boundary-layer regime,,5-191,,Reserved,,,,Operational
+Planetary boundary-layer regime,,192-254,,Reserved for local use,,,,Operational
+Planetary boundary-layer regime,,255,,Missing,,,,Operational
