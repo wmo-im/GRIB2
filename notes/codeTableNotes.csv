@@ -9,7 +9,7 @@ noteID,note,association
 7,"Above normal, near normal and below normal are defined as three equiprobable categories based on climatology at each point over the geographical area covered by the grid. The type and methodology of the reference climatology are unspecified and should be documented concurrently by the data producer.",
 8,Parameter deprecated. Use another parameter in parameter category 3: soil products instead.,
 9,"Product definition templates that use Code Table 4.9 may contain octets to store the values of lower and upper limits. When categorical probability is used (such as below, near and above normal), these octets shall be set to ""all ones"" (missing).",
-10,Statistical process 1 (Accumulation) does not change units. It is recommended to use another parameter without the word ""time-integrated"" in its name and accumulation in PDT.,
+10,"Statistical process 1 (Accumulation) does not change units. It is recommended to use another parameter without the word ""time-integrated"" in its name and accumulation in PDT.",
 11,The sum of the water and ice fractions may exceed the total due to overlap between the volumes containing ice and those containing liquid water.,
 12,(see separate doc or pdf file),
 13,Code figures 12 and 13 are intended in cases where code figures 0 and 2 may not be sufficient to indicate that significant post-processing has taken place on an initial analysis or forecast output.,
