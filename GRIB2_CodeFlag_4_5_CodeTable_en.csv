@@ -46,7 +46,7 @@ Fixed surface types and units,,107,,Isentropic (theta) level,,,K,Operational
 Fixed surface types and units,,108,,Level at specified pressure difference from ground to level,,,Pa,Operational
 Fixed surface types and units,,109,,Potential vorticity surface,,,K m2 kg-1 s-1,Operational
 Fixed surface types and units,,110,,Reserved,,,,Operational
-Fixed surface types and units,,111,,Eta level,(see Note 1),86,-,Operational
+Fixed surface types and units,,111,,Eta level,(see Note 1),85,-,Operational
 Fixed surface types and units,,112,,Reserved,,,,Operational
 Fixed surface types and units,,113,,Logarithmic hybrid level,,,,Operational
 Fixed surface types and units,,114,,Snow level,,,Numeric,Operational
