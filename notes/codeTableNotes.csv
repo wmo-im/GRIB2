@@ -13,7 +13,7 @@ noteID,note,association
 11,The sum of the water and ice fractions may exceed the total due to overlap between the volumes containing ice and those containing liquid water.,
 12,(see separate doc or pdf file),
 13,Code figures 12 and 13 are intended in cases where code figures 0 and 2 may not be sufficient to indicate that significant post-processing has taken place on an initial analysis or forecast output.,
-14,Conversion factor between ""Specific activity concentration"" (14) and ""Air concentration"" (10) is ""mass density"" [kg m-3].,
+14,"Conversion factor between ""Specific activity concentration"" (14) and ""Air concentration"" (10) is ""mass density"" [kg m-3].",
 15,In relation to local coordinate axes at a cell edge.,
 16,"It is recommended to use Snow melt rate instead (discipline 2, category 0, number 41).",
 17,Numbers 17 and 20 are deviations from the reference value of 1 000 kg m-3.,
