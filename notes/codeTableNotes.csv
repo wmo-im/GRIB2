@@ -1,4 +1,5 @@
 noteID,note,association
+0,,"0.0, 1.1, 1.2, 1.3, 1.5, 3.10, 3.20, 3.21, 3.25, 3.3, 3.5, 3.8, 3.9, 4.0, 4.1.1, 4.1.10, 4.1.2, 4.1.4, 4.12, 4.13, 4.14, 4.2.0.14, 4.2.0.15, 4.2.0.190, 4.2.0.191, 4.2.0.3, 4.2.0.7, 4.2.1.1, 4.2.1.2, 4.2.10.1, 4.2.10.191, 4.2.20.1, 4.2.20.2, 4.2.3.0, 4.2.3.3, 4.2.3.4, 4.2.4.0, 4.2.4.1, 4.2.4.10, 4.2.4.2, 4.2.4.3, 4.2.4.4, 4.2.4.5, 4.2.4.6, 4.2.4.7, 4.2.4.8, 4.2.4.9, 4.201, 4.202, 4.204, 4.205, 4.206, 4.207, 4.208, 4.209, 4.210, 4.211, 4.212, 4.213, 4.214, 4.215, 4.216, 4.217, 4.218, 4.219, 4.220, 4.221, 4.222, 4.223, 4.224, 4.225, 4.227, 4.228, 4.230, 4.233, 4.234, 4.236, 4.238, 4.241, 4.242, 4.243, 4.244, 4.246, 4.247, 4.248, 4.249, 4.6, 4.8, 4.91, 5.0, 5.1, 5.2, 5.25, 5.26, 5.3, 5.4, 5.40, 5.5, 5.6, 5.60, 5.7"
 1,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,
 2,"Statistical process 1 (Accumulation) does not change units. It is recommended to use another parameter with ""rate"" in its name and accumulation in PDT.",
 3,"It is recommended not to use this parameter, but another one with a more descriptive unit.",
@@ -25,7 +26,7 @@ noteID,note,association
 24,"The Global Solar UVI is formulated using the International Commission on Illumination (CIE) reference action spectrum for UV-induced erythema on the human skin (ISO17166:1999/CIE S 007/E-1998). It is a measure of the UV radiation that is relevant to and defined for a horizontal surface. The UVI is a unitless quantity defined by the formula: {{image}}.",
 25,A data field representing snow coverage by elevation portrays at which elevations there is a snow pack. The elevation values typically range from 0 to 90 in 100-metre increments. A value of 253 is used to represent a no-snow/no-cloud data point. A value of 254 is used to represent a data point at which snow elevation could not be estimated because of clouds obscuring the remote sensor (when using aircraft or satellite measurements).,"4.2.1.0, table"
 26,A value strictly above 0.5 is treated as glacier. A value equal or below 0.5 is treated as land without glacier.,
-27,"Also called equidistant cylindrical, or Plate Carrée",
+27,"Latitude/Longitude is also called equidistant cylindrical, or Plate Carrée",
 28,An initialized analysis is considered a zero-hour forecast.,"1.4, table"
 29,Analysis increment represents analysis minus first guess,
 30,"Apparent temperature is the perceived outdoor temperature, caused by a combination of phenomena, such as air temperature, relative humidity and wind speed.",
@@ -33,8 +34,8 @@ noteID,note,association
 32,"Bits 5 through 8 may be used to generate staggered grids, such as Arakawa grids (see Part B, GRIB Attachment II).","3.4, table"
 33,Budget interpolation means a low-order interpolation method that quasi-conserves area averages. It would be appropriate for interpolating budget fields such as precipitation. This method assumes that the field really represents box averages/maxima/minima where each box extends halfway to its neighboring grid point in each direction. The method actually averages bilinearly interpolated values in a square array of points distributed within each output grid box.,
 34,"By convention, the flux sign is positive if downwards.","4.2, table"
-35,"Can be secant or tangent, conical or bipolar",
-36,Can be south or north,
+35,"Lambert conformal can be secant or tangent, conical or bipolar.",
+36,Polar stereographic projection can be south or north.,
 37,"Code figure 5 applies to instances where a single time subinterval was used to calculate the statistically processed field. The exact starting and ending times of the subinterval are not given, but it is known that it is contained inclusively between the beginning time and the ending time of the overall interval.",
 38,Code figures 11-20 indicate all four layers were used and ground-based fog is beneath the lowest layer.,"4.203, table"
 39,Data are in specified physical units.,
@@ -52,8 +53,8 @@ noteID,note,association
 51,"For parameter 38 (Parameter category 0), ice volume is expressed as if the ice content were melted to liquid water and then its volume measured in the liquid state. This may be understood in the same manner as water equivalent snow depth.",
 52,Further information concerning the wave parameters can be found in the Guide to Wave Analysis and Forecasting (WMO-No. 702).,"4.2.10.0, table"
 53,"Higher values indicate that heat stress is important. Interpretation of values can vary among organizations and use. See example in the ISO certification (ISO 7243 1989, 2017, and Parsons 2013).",
-54,"Hybrid height level (Code figure 118) can be defined as:z(k) = A(k) + B(k) x orog(k = 1,...,NLevels; orog = orography; z(k) = height in metres at level k)","4.5, table"
-55,"Hybrid pressure level, for which Code figure 119 shall be used instead of 105, can be defined as:p(k) = A(k) + B(k) x sp(k = 1,...,NLevels; sp = surface pressure; p(k) = pressure at level k)","4.5, table"
+54,"Hybrid height level (Code figure 118) can be defined as:z(k) = A(k) + B(k) x orog(k = 1,...,NLevels; orog = orography; z(k) = height in metres at level k)",
+55,"Hybrid pressure level, for which Code figure 119 shall be used instead of 105, can be defined as:p(k) = A(k) + B(k) x sp(k = 1,...,NLevels; sp = surface pressure; p(k) = pressure at level k)",
 56,i direction: west to east along a parallel or left to right along an x-axis.,"3.4, table"
 57,Ice internal pressure or stress (Pa m) is the integrated pressure across the vertical thickness of a layer of ice. It is produced when concentrated ice reacts to external forces such as wind and ocean currents.,
 58,"If any of bits 5, 6, 7 or 8 are set, Di and Dj are not optional.","3.4, table"

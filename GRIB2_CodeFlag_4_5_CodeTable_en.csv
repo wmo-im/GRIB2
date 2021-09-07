@@ -54,7 +54,7 @@ Fixed surface types and units,,115,,Sigma height level,(see Note 4),74,-,Operati
 Fixed surface types and units,,116,,Reserved,,,,Operational
 Fixed surface types and units,,117,,Mixed layer depth,,,m,Operational
 Fixed surface types and units,,118,,Hybrid height level,(see Note 2),54,-,Operational
-Fixed surface types and units,,119,,Hybrid pressure level,,,-,Operational
+Fixed surface types and units,,119,,Hybrid pressure level,(see Note 3),55,-,Operational
 Fixed surface types and units,,120-149,,Reserved,,,,Operational
 Fixed surface types and units,,150,,Generalized vertical height coordinate,(see Note 5),84,,Operational
 Fixed surface types and units,,151,,Soil level,(see Note 6),100,Numeric,Operational
