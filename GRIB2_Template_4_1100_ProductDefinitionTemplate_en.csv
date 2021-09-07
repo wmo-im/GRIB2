@@ -4,7 +4,7 @@ Hovmöller-type grid with no averaging or other statistical processing,11,Parame
 Hovmöller-type grid with no averaging or other statistical processing,12,Type of generating process,(see Code table 4.3),,4.3,,Experimental
 Hovmöller-type grid with no averaging or other statistical processing,13,Background generating process identifier (defined by originating centre),,,,,Experimental
 Hovmöller-type grid with no averaging or other statistical processing,14,Analysis or forecast generating process identifier (defined by originating centre),,,,,Experimental
-Hovmöller-type grid with no averaging or other statistical processing,15-16,Hours of observational data cut-off after reference time,(see Note),33,,,Experimental
+Hovmöller-type grid with no averaging or other statistical processing,15-16,Hours of observational data cut-off after reference time,(see Note 2),33,,,Experimental
 Hovmöller-type grid with no averaging or other statistical processing,17,Minutes of observational data cut-off after reference time,,,,,Experimental
 Hovmöller-type grid with no averaging or other statistical processing,18,Indicator of unit of time range,(see Code table 4.4),,4.4,,Experimental
 Hovmöller-type grid with no averaging or other statistical processing,19-22,Forecast time in units defined by octet 18,,,,,Experimental
