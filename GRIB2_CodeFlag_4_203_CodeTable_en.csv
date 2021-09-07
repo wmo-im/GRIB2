@@ -10,7 +10,7 @@ Cloud type,,7,,Altocumulus,,,,Operational
 Cloud type,,8,,Cirrostratus,,,,Operational
 Cloud type,,9,,Cirrocumulus,,,,Operational
 Cloud type,,10,,Cirrus,,,,Operational
-Cloud type,,11,,Cumulonimbus - ground-based fog beneath the lowest layer,(see Note),38,,Operational
+Cloud type,,11,,Cumulonimbus - ground-based fog beneath the lowest layer,,,,Operational
 Cloud type,,12,,Stratus - ground-based fog beneath the lowest layer,,,,Operational
 Cloud type,,13,,Stratocumulus - ground-based fog beneath the lowest layer,,,,Operational
 Cloud type,,14,,Cumulus - ground-based fog beneath the lowest layer,,,,Operational
