@@ -17,6 +17,6 @@ space view perspective or orthographic,56-59,Xp - x-coordinate of sub-satellite 
 space view perspective or orthographic,60-63,Yp - y-coordinate of sub-satellite point (in units of 10-3 grid length expressed as an integer),,,,,Operational
 space view perspective or orthographic,64,Scanning mode,(see Flag table 3.4),,,3.4,Operational
 space view perspective or orthographic,65-68,Orientation of the grid; i.e. the angle between the increasing y-axis and the meridian of the sub-satellite point in the direction of increasing latitude,(see Note 3),46,,,Operational
-space view perspective or orthographic,69-72,"Nr - altitude of the camera from the Earth's centre, measured in units of the Earth's (equatorial) radius multiplied by a scale factor of 106",(see Notes 2, 4 and 5),"59,22,73",,,Operational
+space view perspective or orthographic,69-72,"Nr - altitude of the camera from the Earth's centre, measured in units of the Earth's (equatorial) radius multiplied by a scale factor of 106","(see Notes 2, 4 and 5)","59,22,73",,,Operational
 space view perspective or orthographic,73-76,Xo - x-coordinate of origin of sector image,,,,,Operational
 space view perspective or orthographic,77-80,Yo - y-coordinate of origin of sector image,,,,,Operational
