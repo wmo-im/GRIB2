@@ -135,64 +135,81 @@ templateNo,templateName,noteID,notationNumber
 4.1002 ,"Product definition template 4.1002 – cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",130,1
 4.1100 ,Product definition template 4.1100 – Hovmöller-type grid with no averaging or other statistical processing,130,1
 4.1101 ,Product definition template 4.1101 – Hovmöller-type grid with averaging or other statistical processing,131,4
-5.0 ,Data representation template 5.0 – Grid point data – simple packing,56,
-5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,54,
-5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,55,
-5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,71,
-5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,125,134
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,2,
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,8,
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,23,
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,31,
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,35,
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,38,
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,39,
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,40,
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,52,
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,53,
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,68,
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,123,
+5.0 ,Data representation template 5.0 – Grid point data – simple packing,21,1
+5.0 ,Data representation template 5.0 – Grid point data – simple packing,56,2
+5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,54,4
+5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,55,3
+5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,71,2
+5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,125,1
+5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,134,6
+5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,21,5
+5.2 ,Data representation template 5.2 – Grid point data – complex packing,2,10
+5.2 ,Data representation template 5.2 – Grid point data – complex packing,8,6
+5.2 ,Data representation template 5.2 – Grid point data – complex packing,23,2
+5.2 ,Data representation template 5.2 – Grid point data – complex packing,31,1
+5.2 ,Data representation template 5.2 – Grid point data – complex packing,35,11
+5.2 ,Data representation template 5.2 – Grid point data – complex packing,38,8
+5.2 ,Data representation template 5.2 – Grid point data – complex packing,39,9
+5.2 ,Data representation template 5.2 – Grid point data – complex packing,40,7
+5.2 ,Data representation template 5.2 – Grid point data – complex packing,52,4
+5.2 ,Data representation template 5.2 – Grid point data – complex packing,53,3
+5.2 ,Data representation template 5.2 – Grid point data – complex packing,68,15
+5.2 ,Data representation template 5.2 – Grid point data – complex packing,123,5
+5.2 ,Data representation template 5.2 – Grid point data – complex packing,21,16
 5.3 ,Data representation template 5.3 – Grid point data – complex packing and spatial differencing,16,
 5.3 ,Data representation template 5.3 – Grid point data – complex packing and spatial differencing,69,
 5.3 ,Data representation template 5.3 – Grid point data – complex packing and spatial differencing,72,
 5.4 ,Data representation template 5.4 – Grid point data – IEEE floating point data,,
-5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,56,
-5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,132,
-5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,47,
-5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,88,
-5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,93,
-5.41 ,Data representation template 5.41 – Grid point data – Portable Network Graphics (PNG) format,56,
-5.41 ,Data representation template 5.41 – Grid point data – Portable Network Graphics (PNG) format,132,
-5.41 ,Data representation template 5.41 – Grid point data – Portable Network Graphics (PNG) format,89,
-5.41 ,Data representation template 5.41 – Grid point data – Portable Network Graphics (PNG) format,94,
-5.42 ,Data representation template 5.42 – Grid point data – CCSDS recommended lossless compression,75,
-5.50 ,Data representation template 5.50 – Spectral data – simple packing,56,
-5.50 ,Data representation template 5.50 – Spectral data – simple packing,25,
-5.50 ,Data representation template 5.50 – Spectral data – simple packing,66,
-5.51 ,Data representation template 5.51 – Spherical harmonics data – complex packing,112,
-5.51 ,Data representation template 5.51 – Spherical harmonics data – complex packing,116,
-5.53 ,Data representation template 5.53 – spectral data for limited area models – complex packing,113,
-5.53 ,Data representation template 5.53 – spectral data for limited area models – complex packing,115,
-5.61 ,Data representation template 5.61 – Grid point data – simple packing with logarithm pre-processing,3,
-5.61 ,Data representation template 5.61 – Grid point data – simple packing with logarithm pre-processing,10,
-5.61 ,Data representation template 5.61 – Grid point data – simple packing with logarithm pre-processing,12,
-5.61 ,Data representation template 5.61 – Grid point data – simple packing with logarithm pre-processing,128,130
+5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,56,6
+5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,132,5
+5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,47,7
+5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,88,4
+5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,93,1
+5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,21,8
+5.41 ,Data representation template 5.41 – Grid point data – Portable Network Graphics (PNG) format,56,5
+5.41 ,Data representation template 5.41 – Grid point data – Portable Network Graphics (PNG) format,132,4
+5.41 ,Data representation template 5.41 – Grid point data – Portable Network Graphics (PNG) format,89,3
+5.41 ,Data representation template 5.41 – Grid point data – Portable Network Graphics (PNG) format,94,1
+5.41 ,Data representation template 5.41 – Grid point data – Portable Network Graphics (PNG) format,21,6
+5.42 ,Data representation template 5.42 – Grid point data – CCSDS recommended lossless compression,75,2
+5.42 ,Data representation template 5.42 – Grid point data – CCSDS recommended lossless compression,158,4
+5.50 ,Data representation template 5.50 – Spectral data – simple packing,56,3
+5.50 ,Data representation template 5.50 – Spectral data – simple packing,25,2
+5.50 ,Data representation template 5.50 – Spectral data – simple packing,66,1
+5.50 ,Data representation template 5.50 – Spectral data – simple packing,21,4
+5.51 ,Data representation template 5.51 – Spherical harmonics data – complex packing,112,1
+5.51 ,Data representation template 5.51 – Spherical harmonics data – complex packing,116,3
+5.51 ,Data representation template 5.51 – Spherical harmonics data – complex packing,21,4
+5.53 ,Data representation template 5.53 – spectral data for limited area models – complex packing,113,2
+5.53 ,Data representation template 5.53 – spectral data for limited area models – complex packing,115,3
+5.61 ,Data representation template 5.61 – Grid point data – simple packing with logarithm pre-processing,3,2
+5.61 ,Data representation template 5.61 – Grid point data – simple packing with logarithm pre-processing,10,3
+5.61 ,Data representation template 5.61 – Grid point data – simple packing with logarithm pre-processing,12,4
+5.61 ,Data representation template 5.61 – Grid point data – simple packing with logarithm pre-processing,128,1
+5.61 ,Data representation template 5.61 – Grid point data – simple packing with logarithm pre-processing,130,5
 5.200 ,Data representation template 5.200 – Grid point data – run length packing with level values,,
-7.0 ,Data template 7.0 – Grid point data – simple packing,,
-7.1 ,Data template 7.1 – Matrix values at grid point – simple packing,30,135
-7.2 ,Data template 7.2 – Grid point data – complex packing,30,
-7.2 ,Data template 7.2 – Grid point data – complex packing,17,
-7.2 ,Data template 7.2 – Grid point data – complex packing,32,
-7.2 ,Data template 7.2 – Grid point data – complex packing,67,
-7.3 ,Data template 7.3 – Grid point data – complex packing and spatial differencing,13,
-7.3 ,Data template 7.3 – Grid point data – complex packing and spatial differencing,61,
-7.3 ,Data template 7.3 – Grid point data – complex packing and spatial differencing,92,
+7.0 ,Data template 7.0 – Grid point data – simple packing,21,n/a
+7.1 ,Data template 7.1 – Matrix values at grid point – simple packing,30,3
+7.1 ,Data template 7.1 – Matrix values at grid point – simple packing,135,1
+7.1 ,Data template 7.1 – Matrix values at grid point – simple packing,21,2
+7.2 ,Data template 7.2 – Grid point data – complex packing,30,1
+7.2 ,Data template 7.2 – Grid point data – complex packing,17,4
+7.2 ,Data template 7.2 – Grid point data – complex packing,32,2
+7.2 ,Data template 7.2 – Grid point data – complex packing,67,3
+7.2 ,Data template 7.2 – Grid point data – complex packing,21,6
+7.3 ,Data template 7.3 – Grid point data – complex packing and spatial differencing,13,2
+7.3 ,Data template 7.3 – Grid point data – complex packing and spatial differencing,61,4
+7.3 ,Data template 7.3 – Grid point data – complex packing and spatial differencing,92,3
+7.3 ,Data template 7.3 – Grid point data – complex packing and spatial differencing,21,5
 7.4 ,Data template 7.4 – Grid point data – IEEE floating point data,,
-7.40 ,Data template 7.40 – Grid point data – JPEG 2000 code stream format,24,
-7.41 ,Data template 7.41 – Grid point data – Portable Network Graphics (PNG) format,37,
+7.40 ,Data template 7.40 – Grid point data – JPEG 2000 code stream format,24,1
+7.40 ,Data template 7.40 – Grid point data – JPEG 2000 code stream format,21,2
+7.41 ,Data template 7.41 – Grid point data – Portable Network Graphics (PNG) format,37,1
+7.41 ,Data template 7.41 – Grid point data – Portable Network Graphics (PNG) format,21,2
 7.42 ,Data template 7.42 – Grid point data – CCSDS recommended lossless compression,,
-7.50 ,Data template 7.50 – Spectral data – simple packing,,
-7.51 ,Data template 7.51 – Spherical harmonics – complex packing,57,
-7.51 ,Data template 7.51 – Spherical harmonics – complex packing,137,
-7.51 ,Data template 7.51 – Spherical harmonics – complex packing,138,
+7.50 ,Data template 7.50 – Spectral data – simple packing,21,n/a
+7.51 ,Data template 7.51 – Spherical harmonics – complex packing,57,2
+7.51 ,Data template 7.51 – Spherical harmonics – complex packing,137,3
+7.51 ,Data template 7.51 – Spherical harmonics – complex packing,138,1
+7.51 ,Data template 7.51 – Spherical harmonics – complex packing,21,4
 7.53 ,Data template 7.53 – spectral data for limited area models – complex packing,,
