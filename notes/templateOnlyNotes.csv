@@ -1,215 +1,229 @@
-templateNo,templateName,noteID,notationNumber
-1.0 ,Identification template 1.0 – calendar definition,,
-1.1 ,Identification template 1.1 – paleontological offset,122,1
-1.1 ,Identification template 1.1 – paleontological offset,139,2
-1.2 ,Identification template 1.2 – calendar definition and paleontological offset,122,1
-1.2 ,Identification template 1.2 – calendar definition and paleontological offset,139,2
-3.0 ,"Grid definition template 3.0 – latitude/longitude (or equidistant cylindrical, or Plate Carrée)",5,4
-3.0 ,"Grid definition template 3.0 – latitude/longitude (or equidistant cylindrical, or Plate Carrée)",41,6
-3.1 ,"Grid definition template 3.1 – rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",136,2
-3.2 ,"Grid definition template 3.2 – stretched latitude/longitude (or equidistant cylindrical, or Plate Carrée)",117,2
-3.3 ,"Grid definition template 3.3 – stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",136,2
-3.3 ,"Grid definition template 3.3 – stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",117,3
-3.4 ,Grid definition template 3.4 – variable resolution latitude/longitude,5,4
-3.5 ,Grid definition template 3.5 – variable resolution rotated latitude/longitude,136,2
-3.10 ,Grid definition template 3.10 – Mercator,5,3
-3.13 ,Grid definition template 3.13 – Mercator with modelling subdomains definition,,
-3.20 ,Grid definition template 3.20 – polar stereographic projection,5,5
-3.23 ,Grid definition template 3.23 – Polar stereographic with modelling subdomains definition,,
-3.30 ,Grid definition template 3.30 – Lambert conformal,5,5
-3.30 ,Grid definition template 3.30 – Lambert conformal,34,2
-3.31 ,Grid definition template 3.31 – Albers equal area,5,5
-3.31 ,Grid definition template 3.31 – Albers equal area,34,2
-3.33 ,Grid definition template 3.33 – Lambert conformal with modelling subdomains definition,,
-3.40 ,Grid definition template 3.40 – Gaussian latitude/longitude,5,3
-3.41 ,Grid definition template 3.41 – rotated Gaussian latitude/longitude,87,2
-3.42 ,Grid definition template 3.42 – stretched Gaussian latitude/longitude,117,3
-3.42 ,Grid definition template 3.42 – stretched Gaussian latitude/longitude,87,2
-3.43 ,Grid definition template 3.43 – stretched and rotated Gaussian latitude/longitude,136,4
-3.43 ,Grid definition template 3.43 – stretched and rotated Gaussian latitude/longitude,87,2
-3.43 ,Grid definition template 3.43 – stretched and rotated Gaussian latitude/longitude,117,3
-3.50 ,Grid definition template 3.50 – spherical harmonic coefficients,91,n/a
-3.51 ,Grid definition template 3.51 – rotated spherical harmonic coefficients,117,2
-3.51 ,Grid definition template 3.51 – rotated spherical harmonic coefficients,91,1
-3.52 ,Grid definition template 3.52 – stretched spherical harmonic coefficients,117,2
-3.52 ,Grid definition template 3.52 – stretched spherical harmonic coefficients,91,1
-3.53 ,Grid definition template 3.53 – stretched and rotated spherical harmonic coefficients,136,2
-3.53 ,Grid definition template 3.53 – stretched and rotated spherical harmonic coefficients,91,1
-3.53 ,Grid definition template 3.53 – stretched and rotated spherical harmonic coefficients,117,3
-3.61 ,Grid definition template 3.61 – spectral Mercator with modelling subdomains definition,,
-3.62 ,Grid definition template 3.62 – spectral polar stereographic with modelling subdomains definition,,
-3.63 ,Grid definition template 3.63 – spectral Lambert conformal with modelling subdomains definition,,
-3.90 ,Grid definition template 3.90 – space view perspective or orthographic,41,1
-3.90 ,Grid definition template 3.90 – space view perspective or orthographic,5,7
-3.90 ,Grid definition template 3.90 – space view perspective or orthographic,80,6
-3.90 ,Grid definition template 3.90 – space view perspective or orthographic,27,8
-3.100 ,"Grid definition template 3.100 – triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",18,1
-3.100 ,"Grid definition template 3.100 – triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",77,3
-3.100 ,"Grid definition template 3.100 – triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",90,2
-3.100 ,"Grid definition template 3.100 – triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",118,4
-3.101 ,Grid definition template 3.101 – general unstructured grid,,
-3.110 ,Grid definition template 3.110 – equatorial azimuthal equidistant projection,5,n/a
-3.120 ,Grid definition template 3.120 – azimuth-range projection,,
-3.140 ,Grid definition template 3.140 – Lambert azimuthal equal area projection,,
-3.1000 ,Grid definition template 3.1000 – cross-section grid with points equally spaced on the horizontal,5,2
-3.1000 ,Grid definition template 3.1000 – cross-section grid with points equally spaced on the horizontal,130,3
-3.1100 ,Grid definition template 3.1100 – Hovmöller diagram grid with points equally spaced on the horizontal,5,2
-3.1100 ,Grid definition template 3.1100 – Hovmöller diagram grid with points equally spaced on the horizontal,130,3
-3.1200 ,Grid definition template 3.1200 – time section grid,130,n/a
-4.0 ,Product definition template 4.0 – analysis or forecast at a horizontal level or in a horizontal layer at a point in time,,
-4.1 ,"Product definition template 4.1 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,
-4.2 ,Product definition template 4.2 – derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time,,
-4.3 ,Product definition template 4.3 – derived forecasts based on a cluster of ensemble members over a rectangular area at a horizontal level or in a horizontal layer at a point in time,,
-4.4 ,Product definition template 4.4 – derived forecasts based on a cluster of ensemble members over a circular area at a horizontal level or in a horizontal layer at a point in time,,
-4.5 ,Product definition template 4.5 – probability forecasts at a horizontal level or in a horizontal layer at a point in time,,
-4.6 ,Product definition template 4.6 – percentile forecasts at a horizontal level or in a horizontal layer at a point in time,,
-4.7 ,Product definition template 4.7 – analysis or forecast error at a horizontal level or in a horizontal layer at a point in time,133,2
-4.8 ,"Product definition template 4.8 – average, accumulation and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,
-4.9 ,Product definition template 4.9 – probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,
-4.10 ,Product definition template 4.10 – percentile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,134,4
-4.11 ,"Product definition template 4.11 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,
-4.12 ,Product definition template 4.12 – derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,
-4.13 ,Product definition template 4.13 – derived forecasts based on a cluster of ensemble members over a rectangular area at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,
-4.14 ,Product definition template 4.14 – derived forecasts based on a cluster of ensemble members over a circular area at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,
-4.15 ,"Product definition template 4.15 – average, accumulation, extreme values, or other statistically processed values over a spatial area at a horizontal level or in a horizontal layer at a point in time",,
-4.20 ,Product definition template 4.20 – radar product,,
-4.30 ,Product definition template 4.30 – satellite product,14,2
-4.30 ,Product definition template 4.30 – satellite product,129,1
-4.31 ,Product definition template 4.31 – satellite product,14,n/a
-4.32 ,Product definition template 4.32 – analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,14,1
-4.33 ,"Product definition template 4.33 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data",,
-4.34 ,"Product definition template 4.34 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous interval for simulated (synthetic) satellite data",,
-4.35 ,Product definition template 4.35 – satellite product with or without associated quality values,,
-4.40 ,Product definition template 4.40 – analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents,,
-4.41 ,"Product definition template 4.41 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents",,
-4.42 ,"Product definition template 4.42 – average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents",,
-4.43 ,"Product definition template 4.43 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non continuous time interval for atmospheric chemical constituents",,
-4.44 ,Product definition template 4.44 – analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,,
-4.45 ,"Product definition template 4.45 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol",,
-4.46 ,"Product definition template 4.46 – average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol",,
-4.47 ,"Product definition template 4.47 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non continuous time interval for aerosol",,
-4.48 ,Product definition template 4.48 – analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,,
-4.49 ,"Product definition template 4.49 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol",,
-4.51 ,Product definition template 4.51 – categorical forecasts at a horizontal level or in a horizontal layer at a point in time,,
-4.53 ,Product definition template 4.53 – partitioned parameters at a horizontal level or in a horizontal layer at a point in time,,
-4.54 ,"Product definition template 4.54 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for partitioned parameters",,
-4.55 ,Product definition template 4.55 – spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,,
-4.56 ,"Product definition template 4.56 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for spatio-temporal changing tile parameters",,
-4.57 ,Product definition template 4.57 – analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents based on a distribution function,19,3
-4.58 ,"Product definition template 4.58 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents based on a distribution function",19,3
-4.59 ,"Product definition template 4.59 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for spatio-temporal changing tile parameters",,
-4.60 ,"Product definition template 4.60 – individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,
-4.61 ,"Product definition template 4.61 – individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non continuous time interval",,
-4.62 ,"Product definition template 4.62 – average, accumulation and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for spatio temporal changing tiles at a horizontal level or horizontal layer at a point in time",,
-4.63 ,"Product definition template 4.63 – Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non continuous time interval for spatio-temporal changing tiles",,
-4.67 ,"Product definition template 4.67 – average, accumulation and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents based on a distribution function",,
-4.68 ,"Product definition template 4.68 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non continuous time interval for atmospheric chemical constituents based on a distribution function",,
-4.70 ,Product definition template 4.70 – post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,,
-4.71 ,"Product definition template 4.71 – post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,
-4.72 ,"Product definition template 4.72 – post-processing average, accumulation, extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,
-4.73 ,"Product definition template 4.73 – post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval",,
-4.76 ,Product definition template 4.76 – analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents with source or sink,,
-4.77 ,"Product definition template 4.77 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents with source or sink",,
-4.78 ,"Product definition template 4.78 – average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents with source or sink",,
-4.79 ,"Product definition template 4.79 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non continuous time interval for atmospheric chemical constituents with source or sink",,
-4.80 ,Product definition template 4.80 – analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink,,
-4.81 ,"Product definition template 4.81 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink",,
-4.82 ,"Product definition template 4.82 – average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink",,
-4.83 ,"Product definition template 4.83 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non continuous time interval for aerosol with source or sink",,
-4.84 ,"Product definition template 4.84 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink",,
-4.85 ,"Product definition template 4.85 – individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol",44,5
-4.86 ,Product definition template 4.86 – quantile forecasts at a horizontal level or in a horizontal layer at a point in time,,
-4.87 ,Product definition template 4.87 – quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,
-4.88 ,Product definition template 4.88 – analysis or forecast at a horizontal level or in a horizontal layer at a local time,,
-4.91 ,Product definition template 4.91 – categorical forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,
-4.92 ,"Product definition template 4.92 – Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time",,
-4.93 ,Product definition template 4.93 – Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time,,
-4.94 ,"Product definition template 4.94 – Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time",,
-4.95 ,"Product definition template 4.95 – Average, accumulation, extreme values or other statistically processed value at a horizontal level or in a horizontal layer at a local time",,
-4.96 ,"Product definition template 4.96 – Average, accumulation, extreme values or other statistically processed values of an individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time",,
-4.97 ,"Product definition template 4.97 – Average, accumulation, extreme values or other statistically processed values of post-processing analysis or forecast at a horizontal level or in a horizontal layer at a local time",,
-4.98 ,"Product definition template 4.98 – Average, accumulation, extreme values or other statistically processed values of a post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time",,
-4.254 ,Product definition template 4.254 – CCITT IA5 character string,,
-4.1000 ,Product definition template 4.1000 – cross-section of analysis and forecast at a point in time,130,1
-4.1001 ,Product definition template 4.1001 – cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,130,3
-4.1002 ,"Product definition template 4.1002 – cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",130,1
-4.1100 ,Product definition template 4.1100 – Hovmöller-type grid with no averaging or other statistical processing,130,1
-4.1101 ,Product definition template 4.1101 – Hovmöller-type grid with averaging or other statistical processing,131,4
-5.0 ,Data representation template 5.0 – Grid point data – simple packing,21,1
-5.0 ,Data representation template 5.0 – Grid point data – simple packing,56,2
-5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,54,4
-5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,55,3
-5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,71,2
-5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,125,1
-5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,134,6
-5.1 ,Data representation template 5.1 – Matrix values at grid point – simple packing,21,5
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,2,10
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,8,6
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,23,2
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,31,1
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,35,11
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,38,8
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,39,9
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,40,7
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,52,4
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,53,3
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,68,15
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,123,5
-5.2 ,Data representation template 5.2 – Grid point data – complex packing,21,16
-5.3 ,Data representation template 5.3 – Grid point data – complex packing and spatial differencing,16,
-5.3 ,Data representation template 5.3 – Grid point data – complex packing and spatial differencing,69,
-5.3 ,Data representation template 5.3 – Grid point data – complex packing and spatial differencing,72,
-5.4 ,Data representation template 5.4 – Grid point data – IEEE floating point data,,
-5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,56,6
-5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,132,5
-5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,47,7
-5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,88,4
-5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,93,1
-5.40 ,Data representation template 5.40 – Grid point data – JPEG 2000 code stream format,21,8
-5.41 ,Data representation template 5.41 – Grid point data – Portable Network Graphics (PNG) format,56,5
-5.41 ,Data representation template 5.41 – Grid point data – Portable Network Graphics (PNG) format,132,4
-5.41 ,Data representation template 5.41 – Grid point data – Portable Network Graphics (PNG) format,89,3
-5.41 ,Data representation template 5.41 – Grid point data – Portable Network Graphics (PNG) format,94,1
-5.41 ,Data representation template 5.41 – Grid point data – Portable Network Graphics (PNG) format,21,6
-5.42 ,Data representation template 5.42 – Grid point data – CCSDS recommended lossless compression,75,2
-5.42 ,Data representation template 5.42 – Grid point data – CCSDS recommended lossless compression,158,4
-5.50 ,Data representation template 5.50 – Spectral data – simple packing,56,3
-5.50 ,Data representation template 5.50 – Spectral data – simple packing,25,2
-5.50 ,Data representation template 5.50 – Spectral data – simple packing,66,1
-5.50 ,Data representation template 5.50 – Spectral data – simple packing,21,4
-5.51 ,Data representation template 5.51 – Spherical harmonics data – complex packing,112,1
-5.51 ,Data representation template 5.51 – Spherical harmonics data – complex packing,116,3
-5.51 ,Data representation template 5.51 – Spherical harmonics data – complex packing,21,4
-5.53 ,Data representation template 5.53 – spectral data for limited area models – complex packing,113,2
-5.53 ,Data representation template 5.53 – spectral data for limited area models – complex packing,115,3
-5.61 ,Data representation template 5.61 – Grid point data – simple packing with logarithm pre-processing,3,2
-5.61 ,Data representation template 5.61 – Grid point data – simple packing with logarithm pre-processing,10,3
-5.61 ,Data representation template 5.61 – Grid point data – simple packing with logarithm pre-processing,12,4
-5.61 ,Data representation template 5.61 – Grid point data – simple packing with logarithm pre-processing,128,1
-5.61 ,Data representation template 5.61 – Grid point data – simple packing with logarithm pre-processing,130,5
-5.200 ,Data representation template 5.200 – Grid point data – run length packing with level values,,
-7.0 ,Data template 7.0 – Grid point data – simple packing,21,n/a
-7.1 ,Data template 7.1 – Matrix values at grid point – simple packing,30,3
-7.1 ,Data template 7.1 – Matrix values at grid point – simple packing,135,1
-7.1 ,Data template 7.1 – Matrix values at grid point – simple packing,21,2
-7.2 ,Data template 7.2 – Grid point data – complex packing,30,1
-7.2 ,Data template 7.2 – Grid point data – complex packing,17,4
-7.2 ,Data template 7.2 – Grid point data – complex packing,32,2
-7.2 ,Data template 7.2 – Grid point data – complex packing,67,3
-7.2 ,Data template 7.2 – Grid point data – complex packing,21,6
-7.3 ,Data template 7.3 – Grid point data – complex packing and spatial differencing,13,2
-7.3 ,Data template 7.3 – Grid point data – complex packing and spatial differencing,61,4
-7.3 ,Data template 7.3 – Grid point data – complex packing and spatial differencing,92,3
-7.3 ,Data template 7.3 – Grid point data – complex packing and spatial differencing,21,5
-7.4 ,Data template 7.4 – Grid point data – IEEE floating point data,,
-7.40 ,Data template 7.40 – Grid point data – JPEG 2000 code stream format,24,1
-7.40 ,Data template 7.40 – Grid point data – JPEG 2000 code stream format,21,2
-7.41 ,Data template 7.41 – Grid point data – Portable Network Graphics (PNG) format,37,1
-7.41 ,Data template 7.41 – Grid point data – Portable Network Graphics (PNG) format,21,2
-7.42 ,Data template 7.42 – Grid point data – CCSDS recommended lossless compression,,
-7.50 ,Data template 7.50 – Spectral data – simple packing,21,n/a
-7.51 ,Data template 7.51 – Spherical harmonics – complex packing,57,2
-7.51 ,Data template 7.51 – Spherical harmonics – complex packing,137,3
-7.51 ,Data template 7.51 – Spherical harmonics – complex packing,138,1
-7.51 ,Data template 7.51 – Spherical harmonics – complex packing,21,4
-7.53 ,Data template 7.53 – spectral data for limited area models – complex packing,,
+templateNo,templateName,noteID,notation
+1.0,Identification template 1.0 - calendar definition,,
+1.1,Identification template 1.1 - paleontological offset,122,1
+1.1,Identification template 1.1 - paleontological offset,139,2
+1.2,Identification template 1.2 - calendar definition and paleontological offset,122,1
+1.2,Identification template 1.2 - calendar definition and paleontological offset,139,2
+3.0,"Grid definition template 3.0 - latitude/longitude (or equidistant cylindrical, or Plate Carrée)",5,4
+3.0,"Grid definition template 3.0 - latitude/longitude (or equidistant cylindrical, or Plate Carrée)",41,6
+3.1,"Grid definition template 3.1 - rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",136,2
+3.10,Grid definition template 3.10 - Mercator,49,1
+3.10,Grid definition template 3.10 - Mercator,5,3
+3.100,"Grid definition template 3.100 - triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",18,1
+3.100,"Grid definition template 3.100 - triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",77,3
+3.100,"Grid definition template 3.100 - triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",90,2
+3.100,"Grid definition template 3.100 - triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",118,4
+3.1000,Grid definition template 3.1000 - cross-section grid with points equally spaced on the horizontal,5,2
+3.1000,Grid definition template 3.1000 - cross-section grid with points equally spaced on the horizontal,130,3
+3.101,Grid definition template 3.101 - general unstructured grid,,
+3.110,Grid definition template 3.110 - equatorial azimuthal equidistant projection,5,n/a
+3.1100,Grid definition template 3.1100 - Hovmöller diagram grid with points equally spaced on the horizontal,5,2
+3.1100,Grid definition template 3.1100 - Hovmöller diagram grid with points equally spaced on the horizontal,130,3
+3.120,Grid definition template 3.120 - azimuth-range projection,,
+3.1200,Grid definition template 3.1200 - time section grid,130,n/a
+3.13,Grid definition template 3.13 - Mercator with modelling subdomains definition,,
+3.140,Grid definition template 3.140 - Lambert azimuthal equal area projection,,
+3.2,"Grid definition template 3.2 - stretched latitude/longitude (or equidistant cylindrical, or Plate Carrée)",117,2
+3.20,Grid definition template 3.20 - polar stereographic projection,11,4
+3.20,Grid definition template 3.20 - polar stereographic projection,5,5
+3.23,Grid definition template 3.23 - Polar stereographic with modelling subdomains definition,,
+3.3,"Grid definition template 3.3 - stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",136,2
+3.3,"Grid definition template 3.3 - stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",117,3
+3.30,Grid definition template 3.30 - Lambert conformal,114,3
+3.30,Grid definition template 3.30 - Lambert conformal,51,4
+3.30,Grid definition template 3.30 - Lambert conformal,5,5
+3.30,Grid definition template 3.30 - Lambert conformal,34,2
+3.31,Grid definition template 3.31 - Albers equal area,114,3
+3.31,Grid definition template 3.31 - Albers equal area,51,4
+3.31,Grid definition template 3.31 - Albers equal area,5,5
+3.31,Grid definition template 3.31 - Albers equal area,34,2
+3.33,Grid definition template 3.33 - Lambert conformal with modelling subdomains definition,,
+3.4,Grid definition template 3.4 - variable resolution latitude/longitude,5,4
+3.40,Grid definition template 3.40 - Gaussian latitude/longitude,5,3
+3.41,Grid definition template 3.41 - rotated Gaussian latitude/longitude,136,3
+3.41,Grid definition template 3.41 - rotated Gaussian latitude/longitude,87,2
+3.42,Grid definition template 3.42 - stretched Gaussian latitude/longitude,117,3
+3.42,Grid definition template 3.42 - stretched Gaussian latitude/longitude,87,2
+3.43,Grid definition template 3.43 - stretched and rotated Gaussian latitude/longitude,136,4
+3.43,Grid definition template 3.43 - stretched and rotated Gaussian latitude/longitude,87,2
+3.43,Grid definition template 3.43 - stretched and rotated Gaussian latitude/longitude,117,3
+3.5,Grid definition template 3.5 - variable resolution rotated latitude/longitude,136,2
+3.50,Grid definition template 3.50 - spherical harmonic coefficients,91,n/a
+3.51,Grid definition template 3.51 - rotated spherical harmonic coefficients,136,2
+3.51,Grid definition template 3.51 - rotated spherical harmonic coefficients,117,2
+3.51,Grid definition template 3.51 - rotated spherical harmonic coefficients,91,1
+3.52,Grid definition template 3.52 - stretched spherical harmonic coefficients,117,2
+3.52,Grid definition template 3.52 - stretched spherical harmonic coefficients,91,1
+3.53,Grid definition template 3.53 - stretched and rotated spherical harmonic coefficients,136,2
+3.53,Grid definition template 3.53 - stretched and rotated spherical harmonic coefficients,91,1
+3.53,Grid definition template 3.53 - stretched and rotated spherical harmonic coefficients,117,3
+3.61,Grid definition template 3.61 - spectral Mercator with modelling subdomains definition,,
+3.62,Grid definition template 3.62 - spectral polar stereographic with modelling subdomains definition,,
+3.63,Grid definition template 3.63 - spectral Lambert conformal with modelling subdomains definition,,
+3.90,Grid definition template 3.90 - space view perspective or orthographic,41,1
+3.90,Grid definition template 3.90 - space view perspective or orthographic,5,7
+3.90,Grid definition template 3.90 - space view perspective or orthographic,80,6
+3.90,Grid definition template 3.90 - space view perspective or orthographic,27,8
+3.90,Grid definition template 3.90 - space view perspective or orthographic,42,1
+3.90,Grid definition template 3.90 - space view perspective or orthographic,59,2
+4.0,Product definition template 4.0 - analysis or forecast at a horizontal level or in a horizontal layer at a point in time,,
+4.1,"Product definition template 4.1 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,
+4.10,Product definition template 4.10 - percentile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,134,4
+4.1000,Product definition template 4.1000 - cross-section of analysis and forecast at a point in time,130,1
+4.1001,Product definition template 4.1001 - cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time,130,3
+4.1002,"Product definition template 4.1002 - cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",130,1
+4.11,"Product definition template 4.11 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,
+4.1100,Product definition template 4.1100 - Hovmöller-type grid with no averaging or other statistical processing,130,1
+4.1101,Product definition template 4.1101 - Hovmöller-type grid with averaging or other statistical processing,131,4
+4.12,Product definition template 4.12 - derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,
+4.13,Product definition template 4.13 - derived forecasts based on a cluster of ensemble members over a rectangular area at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,
+4.14,Product definition template 4.14 - derived forecasts based on a cluster of ensemble members over a circular area at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,
+4.15,"Product definition template 4.15 - average, accumulation, extreme values, or other statistically processed values over a spatial area at a horizontal level or in a horizontal layer at a point in time",,
+4.2,Product definition template 4.2 - derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time,,
+4.20,Product definition template 4.20 - radar product,,
+4.254,Product definition template 4.254 - CCITT IA5 character string,,
+4.3,Product definition template 4.3 - derived forecasts based on a cluster of ensemble members over a rectangular area at a horizontal level or in a horizontal layer at a point in time,,
+4.30,Product definition template 4.30 - satellite product,14,2
+4.30,Product definition template 4.30 - satellite product,129,1
+4.31,Product definition template 4.31 - satellite product,14,n/a
+4.32,Product definition template 4.32 - analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data,14,1
+4.33,"Product definition template 4.33 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data",,
+4.34,"Product definition template 4.34 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous interval for simulated (synthetic) satellite data",,
+4.35,Product definition template 4.35 - satellite product with or without associated quality values,14,n/a
+4.35,Product definition template 4.35 - satellite product with or without associated quality values,,
+4.4,Product definition template 4.4 - derived forecasts based on a cluster of ensemble members over a circular area at a horizontal level or in a horizontal layer at a point in time,,
+4.40,Product definition template 4.40 - analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents,,
+4.41,"Product definition template 4.41 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents",,
+4.42,"Product definition template 4.42 - average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents",,
+4.43,"Product definition template 4.43 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non continuous time interval for atmospheric chemical constituents",,
+4.44,Product definition template 4.44 - analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,43,2
+4.45,"Product definition template 4.45 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol",,
+4.46,"Product definition template 4.46 - average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol",,
+4.47,"Product definition template 4.47 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non continuous time interval for aerosol",,
+4.48,Product definition template 4.48 - analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,,
+4.49,"Product definition template 4.49 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol",,
+4.5,Product definition template 4.5 - probability forecasts at a horizontal level or in a horizontal layer at a point in time,,
+4.51,Product definition template 4.51 - categorical forecasts at a horizontal level or in a horizontal layer at a point in time,,
+4.53,Product definition template 4.53 - partitioned parameters at a horizontal level or in a horizontal layer at a point in time,,
+4.54,"Product definition template 4.54 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for partitioned parameters",,
+4.55,Product definition template 4.55 - spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time,,
+4.56,"Product definition template 4.56 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for spatio-temporal changing tile parameters",,
+4.57,Product definition template 4.57 - analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents based on a distribution function,19,3
+4.58,"Product definition template 4.58 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents based on a distribution function",19,3
+4.59,"Product definition template 4.59 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for spatio-temporal changing tile parameters",,
+4.6,Product definition template 4.6 - percentile forecasts at a horizontal level or in a horizontal layer at a point in time,,
+4.60,"Product definition template 4.60 - individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,
+4.61,"Product definition template 4.61 - individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non continuous time interval",,
+4.62,"Product definition template 4.62 - average, accumulation and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for spatio temporal changing tiles at a horizontal level or horizontal layer at a point in time",,
+4.63,"Product definition template 4.63 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non continuous time interval for spatio-temporal changing tiles",,
+4.67,"Product definition template 4.67 - average, accumulation and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents based on a distribution function",,
+4.68,"Product definition template 4.68 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non continuous time interval for atmospheric chemical constituents based on a distribution function",,
+4.7,Product definition template 4.7 - analysis or forecast error at a horizontal level or in a horizontal layer at a point in time,133,2
+4.70,Product definition template 4.70 - post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,,
+4.71,"Product definition template 4.71 - post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,
+4.72,"Product definition template 4.72 - post-processing average, accumulation, extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,
+4.73,"Product definition template 4.73 - post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval",,
+4.76,Product definition template 4.76 - analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents with source or sink,,
+4.77,"Product definition template 4.77 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents with source or sink",,
+4.78,"Product definition template 4.78 - average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents with source or sink",,
+4.79,"Product definition template 4.79 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non continuous time interval for atmospheric chemical constituents with source or sink",,
+4.8,"Product definition template 4.8 - average, accumulation and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,
+4.80,Product definition template 4.80 - analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink,,
+4.81,"Product definition template 4.81 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink",,
+4.82,"Product definition template 4.82 - average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink",,
+4.83,"Product definition template 4.83 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non continuous time interval for aerosol with source or sink",44,5
+4.84,"Product definition template 4.84 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink",,
+4.85,"Product definition template 4.85 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol",44,5
+4.86,Product definition template 4.86 - quantile forecasts at a horizontal level or in a horizontal layer at a point in time,,
+4.87,Product definition template 4.87 - quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,
+4.88,Product definition template 4.88 - analysis or forecast at a horizontal level or in a horizontal layer at a local time,,
+4.9,Product definition template 4.9 - probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,
+4.91,Product definition template 4.91 - categorical forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,
+4.92,"Product definition template 4.92 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time",,
+4.93,Product definition template 4.93 - Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time,,
+4.94,"Product definition template 4.94 - Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time",,
+4.95,"Product definition template 4.95 - Average, accumulation, extreme values or other statistically processed value at a horizontal level or in a horizontal layer at a local time",,
+4.96,"Product definition template 4.96 - Average, accumulation, extreme values or other statistically processed values of an individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time",,
+4.97,"Product definition template 4.97 - Average, accumulation, extreme values or other statistically processed values of post-processing analysis or forecast at a horizontal level or in a horizontal layer at a local time",,
+4.98,"Product definition template 4.98 - Average, accumulation, extreme values or other statistically processed values of a post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time",,
+5.0,Data representation template 5.0 - Grid point data - simple packing,21,1
+5.0,Data representation template 5.0 - Grid point data - simple packing,56,2
+5.1,Data representation template 5.1 - Matrix values at grid point - simple packing,54,4
+5.1,Data representation template 5.1 - Matrix values at grid point - simple packing,55,3
+5.1,Data representation template 5.1 - Matrix values at grid point - simple packing,71,2
+5.1,Data representation template 5.1 - Matrix values at grid point - simple packing,125,1
+5.1,Data representation template 5.1 - Matrix values at grid point - simple packing,134,6
+5.1,Data representation template 5.1 - Matrix values at grid point - simple packing,21,5
+5.2,Data representation template 5.2 - Grid point data - complex packing,2,10
+5.2,Data representation template 5.2 - Grid point data - complex packing,8,6
+5.2,Data representation template 5.2 - Grid point data - complex packing,23,2
+5.2,Data representation template 5.2 - Grid point data - complex packing,31,1
+5.2,Data representation template 5.2 - Grid point data - complex packing,34,2
+5.2,Data representation template 5.2 - Grid point data - complex packing,38,8
+5.2,Data representation template 5.2 - Grid point data - complex packing,39,9
+5.2,Data representation template 5.2 - Grid point data - complex packing,40,7
+5.2,Data representation template 5.2 - Grid point data - complex packing,52,4
+5.2,Data representation template 5.2 - Grid point data - complex packing,53,3
+5.2,Data representation template 5.2 - Grid point data - complex packing,68,15
+5.2,Data representation template 5.2 - Grid point data - complex packing,123,5
+5.2,Data representation template 5.2 - Grid point data - complex packing,21,16
+5.2,Data representation template 5.2 - Grid point data - complex packing,35,11
+5.200,Data representation template 5.200 - Grid point data - run length packing with level values,,
+5.3,Data representation template 5.3 - Grid point data - complex packing and spatial differencing,21,n/a
+5.3,Data representation template 5.3 - Grid point data - complex packing and spatial differencing,16,2
+5.3,Data representation template 5.3 - Grid point data - complex packing and spatial differencing,69,3
+5.3,Data representation template 5.3 - Grid point data - complex packing and spatial differencing,72,1
+5.4,Data representation template 5.4 - Grid point data - IEEE floating point data,,
+5.40,Data representation template 5.40 - Grid point data - JPEG 2000 code stream format,56,6
+5.40,Data representation template 5.40 - Grid point data - JPEG 2000 code stream format,132,5
+5.40,Data representation template 5.40 - Grid point data - JPEG 2000 code stream format,47,7
+5.40,Data representation template 5.40 - Grid point data - JPEG 2000 code stream format,88,4
+5.40,Data representation template 5.40 - Grid point data - JPEG 2000 code stream format,93,1
+5.40,Data representation template 5.40 - Grid point data - JPEG 2000 code stream format,21,8
+5.41,Data representation template 5.41 - Grid point data - Portable Network Graphics (PNG) format,56,5
+5.41,Data representation template 5.41 - Grid point data - Portable Network Graphics (PNG) format,132,4
+5.41,Data representation template 5.41 - Grid point data - Portable Network Graphics (PNG) format,89,3
+5.41,Data representation template 5.41 - Grid point data - Portable Network Graphics (PNG) format,94,1
+5.41,Data representation template 5.41 - Grid point data - Portable Network Graphics (PNG) format,21,6
+5.42,Data representation template 5.42 - Grid point data - CCSDS recommended lossless compression,21,n/a
+5.42,Data representation template 5.42 - Grid point data - CCSDS recommended lossless compression,75,2
+5.42,Data representation template 5.42 - Grid point data - CCSDS recommended lossless compression,158,4
+5.50,Data representation template 5.50 - Spectral data - simple packing,56,3
+5.50,Data representation template 5.50 - Spectral data - simple packing,25,2
+5.50,Data representation template 5.50 - Spectral data - simple packing,66,1
+5.50,Data representation template 5.50 - Spectral data - simple packing,21,4
+5.51,Data representation template 5.51 - Spherical harmonics data - complex packing,112,1
+5.51,Data representation template 5.51 - Spherical harmonics data - complex packing,116,3
+5.51,Data representation template 5.51 - Spherical harmonics data - complex packing,21,4
+5.53,Data representation template 5.53 - spectral data for limited area models - complex packing,113,2
+5.53,Data representation template 5.53 - spectral data for limited area models - complex packing,115,3
+5.61,Data representation template 5.61 - Grid point data - simple packing with logarithm pre-processing,3,2
+5.61,Data representation template 5.61 - Grid point data - simple packing with logarithm pre-processing,10,3
+5.61,Data representation template 5.61 - Grid point data - simple packing with logarithm pre-processing,12,4
+5.61,Data representation template 5.61 - Grid point data - simple packing with logarithm pre-processing,128,1
+5.61,Data representation template 5.61 - Grid point data - simple packing with logarithm pre-processing,130,5
+7.0,Data template 7.0 - Grid point data - simple packing,21,n/a
+7.1,Data template 7.1 - Matrix values at grid point - simple packing,30,3
+7.1,Data template 7.1 - Matrix values at grid point - simple packing,135,1
+7.1,Data template 7.1 - Matrix values at grid point - simple packing,21,2
+7.2,Data template 7.2 - Grid point data - complex packing,30,1
+7.2,Data template 7.2 - Grid point data - complex packing,17,4
+7.2,Data template 7.2 - Grid point data - complex packing,32,2
+7.2,Data template 7.2 - Grid point data - complex packing,67,3
+7.2,Data template 7.2 - Grid point data - complex packing,21,6
+7.3,Data template 7.3 - Grid point data - complex packing and spatial differencing,13,2
+7.3,Data template 7.3 - Grid point data - complex packing and spatial differencing,61,4
+7.3,Data template 7.3 - Grid point data - complex packing and spatial differencing,92,3
+7.3,Data template 7.3 - Grid point data - complex packing and spatial differencing,21,5
+7.4,Data template 7.4 - Grid point data - IEEE floating point data,,
+7.40,Data template 7.40 - Grid point data - JPEG 2000 code stream format,24,1
+7.40,Data template 7.40 - Grid point data - JPEG 2000 code stream format,21,2
+7.41,Data template 7.41 - Grid point data - Portable Network Graphics (PNG) format,37,1
+7.41,Data template 7.41 - Grid point data - Portable Network Graphics (PNG) format,21,2
+7.42,Data template 7.42 - Grid point data - CCSDS recommended lossless compression,,
+7.50,Data template 7.50 - Spectral data - simple packing,21,n/a
+7.51,Data template 7.51 - Spherical harmonics - complex packing,57,2
+7.51,Data template 7.51 - Spherical harmonics - complex packing,137,3
+7.51,Data template 7.51 - Spherical harmonics - complex packing,138,1
+7.51,Data template 7.51 - Spherical harmonics - complex packing,21,4
+7.53,Data template 7.53 - spectral data for limited area models - complex packing,,
