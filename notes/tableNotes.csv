@@ -41,7 +41,7 @@ noteID,note
 40,"Data are numeric without units, although they might be given quantitative meaning through a code table defined external to this document. The emphasis is on a displayable “picture” of some phenomenon, perhaps with certain enhanced features. Generally, each datum is an unsigned, one octet integer, but some image format products might have another datum size. The size of a datum is indicated in section 5."
 41,"Decibel (dB) is a logarithmic measure of the relative power, or of the relative values of two flux densities, especially of sound intensities and radio and radar power densities. In radar meteorology, the logarithmic scale (dBZ) is used for measuring radar reflectivity factor(obtained from the American Meteorological Society Glossary of Meteorology)."
 42,Defined by originating centre
-43,"Definition of LPI after Lynn et al.: Lynn, B. and Y. Yair, 2010: Prediction of lightning flash density with the WRF model, Adv. Geosci., 23:11-16; Yair, Y., B. Lynn, C. Price, V. Kotroni,K. Lagouvardos, E. Morin, A. Mugnai and M. Llasat, 2010: Predicting the potential for lightning activity in Mediterranean storms based on the Weather Research and Forecasting (WRF) model dynamic and microphysical fields, Journal of Geophysical Research, 115,  D04205, doi:10.1029/2008JD010868."
+43,"Definition of LPI after Lynn et al.: Lynn, B. and Y. Yair, 2010: Prediction of lightning flash density with the WRF model, Adv. Geosci., 23:11-16; Yair, Y., B. Lynn, C. Price, V. Kotroni,K. Lagouvardos, E. Morin, A. Mugnai and M. Llasat, 2010: Predicting the potential for lightning activity in Mediterranean storms based on the Weather Research and Forecasting (WRF) model dynamic and microphysical fields, Journal of Geophysical Research, 115, D04205, doi:10.1029/2008JD010868."
 44,"Di and Dj are assumed to be positive, with the direction of i and j being given by bits 1 and 2."
 45,Eddy dissipation parameter is the third root of eddy dissipation rate [m2 s-3].
 46,"Entries 9, 10, 11 and 12 are deprecated."
@@ -95,7 +95,7 @@ noteID,note
 98,"The ratio of the radiant flux reflected by a surface to that reflected into the same reflected-beam geometry and wavelength range by an ideal (lossless) and diffuse(Lambertian) standard surface, irradiated under the same conditions."
 99,"The sea-ice level represents a sea-ice model level for which the depth is not constant across the model domains. The depth in metres of the level is provided by another GRIB message with the parameter “sea-ice thickness” with discipline 10, category 2 and parameter number 1."
 100,"The soil level represents a model level for which the depth is not constant across the model domain. The depth in metres of the level is provided by another GRIB message with the parameter ""soil depth"" with discipline 2, category 3 and parameter number 27."
-101,The solar flux per unit area received from a solid angle of 2π  sr on a horizontal surface.
+101,The solar flux per unit area received from a solid angle of 2π sr on a horizontal surface.
 102,"The solar flux per unit area received from a solid angle of 2π sr, except for the solid angle of the sun's disc, on a horizontal surface."
 103,The solar flux per unit area received from the solid angle of the sun's disc on a surface normal to the sun direction.
 104,"The total lightning flash density is the sum of cloud-to-ground and cloud-to-cloud lightning flash densities (see Lopez, P., 2016: A lightning parameterization for the ECMWF Integrated Forecasting System, Monthly Weather Review, 144, 3057-3075)."
