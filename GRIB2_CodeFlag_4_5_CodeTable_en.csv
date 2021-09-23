@@ -25,7 +25,9 @@ Fixed surface types and units,,22,,Highest level where mass density exceeds the 
 Fixed surface types and units,,23,,Lowest level where air concentration exceeds the specified value (base for a given threshold of air concentration),,Bq m-3,Operational
 Fixed surface types and units,,24,,Highest level where air concentration exceeds the specified value (top for a given threshold of air concentration),,Bq m-3,Operational
 Fixed surface types and units,,25,,Highest level where radar reflectivity exceeds the specified value (echo top for a given threshold of reflectivity),,dBZ,Operational
-Fixed surface types and units,,26-29,,Reserved,,,Operational
+Fixed surface types and units,,26,,Convective cloud layer base,,m,Operational
+Fixed surface types and units,,27,,Convective cloud layer top,,m,Operational
+Fixed surface types and units,,28-29,,Reserved,,,Operational
 Fixed surface types and units,,30,,Specified radius from the center of the Sun,,m,Operational
 Fixed surface types and units,,31,,Solar photosphere,,,Operational
 Fixed surface types and units,,32,,Ionospheric D-region level,,,Operational
@@ -69,7 +71,8 @@ Fixed surface types and units,,167,,Bottom of root zone,,-,Operational
 Fixed surface types and units,,168,,Ocean model level,,Numeric,Operational
 Fixed surface types and units,,169,,Ocean level defined by water density (sigma-theta) difference from near-surface to level,(see Note 7),kg m-3,Operational
 Fixed surface types and units,,170,,Ocean level defined by water potential temperature difference from near-surface to level,(see Note 7),K,Operational
-Fixed surface types and units,,171-173,,Reserved,,,Operational
+Fixed surface types and units,,171,,Ocean level defined by vertical eddy diffusivity difference from near-surface to level,(see Note 7),m2 s-1,Operational
+Fixed surface types and units,,172-173,,Reserved,,,Operational
 Fixed surface types and units,,174,,"Top surface of ice on sea, lake or river",,-,Operational
 Fixed surface types and units,,175,,"Top surface of ice, under snow cover, on sea, lake or river",,-,Operational
 Fixed surface types and units,,176,,"Bottom surface (underside) ice on sea, lake or river",,-,Operational

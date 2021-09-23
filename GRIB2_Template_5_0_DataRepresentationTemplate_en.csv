@@ -1,6 +1,6 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-Grid point data - simple packing,12-15,Reference value (R) (IEEE 32-bit floating-point value),,Operational
-Grid point data - simple packing,16-17,Binary scale factor (E),,Operational
-Grid point data - simple packing,18-19,Decimal scale factor (D),,Operational
-Grid point data - simple packing,20,"Number of bits used for each packed value for simple packing, or for each group reference value for complex packing or spatial differencing",,Operational
-Grid point data - simple packing,21,Type of original field values,(see Code table 5.1),Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Grid point data - simple packing,12-15,Reference value (R) (IEEE 32-bit floating-point value),,,,,Operational
+Grid point data - simple packing,16-17,Binary scale factor (E),,,,,Operational
+Grid point data - simple packing,18-19,Decimal scale factor (D),,,,,Operational
+Grid point data - simple packing,20,"Number of bits used for each packed value for simple packing, or for each group reference value for complex packing or spatial differencing",,,,,Operational
+Grid point data - simple packing,21,Type of original field values,(see Code table 5.1),,5.1,,Operational

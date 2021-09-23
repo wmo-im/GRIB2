@@ -1,6 +1,6 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-stretched Gaussian latitude/longitude,15-72,Same as grid definition template 3.40,(see Note 1),Operational
-stretched Gaussian latitude/longitude,73-76,Latitude of the pole of stretching,,Operational
-stretched Gaussian latitude/longitude,77-80,Longitude of the pole of stretching,,Operational
-stretched Gaussian latitude/longitude,81-84,Stretching factor,,Operational
-stretched Gaussian latitude/longitude,85-nn,List of number of points along each meridian or parallel.,(These octets are only present for quasi-regular grids as described in Note 4),Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+stretched Gaussian latitude/longitude,15-72,Same as grid definition template 3.40,(see Note 1),9,,,Operational
+stretched Gaussian latitude/longitude,73-76,Latitude of the pole of stretching,,,,,Operational
+stretched Gaussian latitude/longitude,77-80,Longitude of the pole of stretching,,,,,Operational
+stretched Gaussian latitude/longitude,81-84,Stretching factor,,,,,Operational
+stretched Gaussian latitude/longitude,85-nn,List of number of points along each meridian or parallel.,(see Notes 4 and 5),"4,124",,,Operational

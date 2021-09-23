@@ -1,12 +1,12 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",15,n2 - exponent of 2 for the number of intervals on main triangle sides,,Operational
-"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",16,n3 - exponent of 3 for the number of intervals on main triangle sides,,Operational
-"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",17-18,ni - number of intervals on main triangle sides of the icosahedron,,Operational
-"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",19,nd - number of diamonds,,Operational
-"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",20-23,Latitude of the pole point of the icosahedron on the sphere,,Operational
-"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",24-27,Longitude of the pole point of the icosahedron on the sphere,,Operational
-"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",28-31,Longitude of the centre line of the first diamond of the icosahedron on the sphere,,Operational
-"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",32,Grid point position,(see Code table 3.8),Operational
-"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",33,Numbering order of diamonds,(flags - see Flag table 3.9),Operational
-"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",34,Scanning mode for one diamond,(flags - see Flag table 3.10),Operational
-"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",35-38,nt - total number of grid points,,Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",15,n2 - exponent of 2 for the number of intervals on main triangle sides,,,,,Operational
+"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",16,n3 - exponent of 3 for the number of intervals on main triangle sides,,,,,Operational
+"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",17-18,ni - number of intervals on main triangle sides of the icosahedron,,,,,Operational
+"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",19,nd - number of diamonds,,,,,Operational
+"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",20-23,Latitude of the pole point of the icosahedron on the sphere,,,,,Operational
+"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",24-27,Longitude of the pole point of the icosahedron on the sphere,,,,,Operational
+"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",28-31,Longitude of the centre line of the first diamond of the icosahedron on the sphere,,,,,Operational
+"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",32,Grid point position,(see Code table 3.8),,3.8,,Operational
+"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",33,Numbering order of diamonds,(flags - see Flag table 3.9),,,3.9,Operational
+"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",34,Scanning mode for one diamond,(flags - see Flag table 3.10),,,3.10,Operational
+"triangular grid based on an icosahedron (see Part B, GRIB Attachment I)",35-38,nt - total number of grid points,,,,,Operational

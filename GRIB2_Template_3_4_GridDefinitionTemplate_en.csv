@@ -1,16 +1,16 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-variable resolution latitude/longitude,15,Shape of the Earth,(see Code table 3.2),Operational
-variable resolution latitude/longitude,16,Scale factor of radius of spherical Earth,,Operational
-variable resolution latitude/longitude,17-20,Scaled value of radius of spherical Earth,,Operational
-variable resolution latitude/longitude,21,Scale factor of major axis of oblate spheroid Earth,,Operational
-variable resolution latitude/longitude,22-25,Scaled value of major axis of oblate spheroid Earth,,Operational
-variable resolution latitude/longitude,26,Scale factor of minor axis of oblate spheroid Earth,,Operational
-variable resolution latitude/longitude,27-30,Scaled value of minor axis of oblate spheroid Earth,,Operational
-variable resolution latitude/longitude,31-34,Ni - number of points along a parallel,,Operational
-variable resolution latitude/longitude,35-38,Nj - number of points along a meridian,,Operational
-variable resolution latitude/longitude,39-42,Basic angle of the initial production domain,(see Note 1),Operational
-variable resolution latitude/longitude,43-46,"Subdivisions of basic angle used to define extreme longitudes and latitudes, and direction increments",(see Note 1),Operational
-variable resolution latitude/longitude,47,Resolution and component flags,(see Flag table 3.3 and Note 2),Operational
-variable resolution latitude/longitude,48,Scanning mode,(flags - see Flag table 3.4),Operational
-variable resolution latitude/longitude,49-ii,List of longitudes,(see Notes 1 and 3),Operational
-variable resolution latitude/longitude,(ii+1)-jj,List of latitudes,(see Notes 1 and 3),Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+variable resolution latitude/longitude,15,Shape of the Earth,(see Code table 3.2),,3.2,,Operational
+variable resolution latitude/longitude,16,Scale factor of radius of spherical Earth,,,,,Operational
+variable resolution latitude/longitude,17-20,Scaled value of radius of spherical Earth,,,,,Operational
+variable resolution latitude/longitude,21,Scale factor of major axis of oblate spheroid Earth,,,,,Operational
+variable resolution latitude/longitude,22-25,Scaled value of major axis of oblate spheroid Earth,,,,,Operational
+variable resolution latitude/longitude,26,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational
+variable resolution latitude/longitude,27-30,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational
+variable resolution latitude/longitude,31-34,Ni - number of points along a parallel,,,,,Operational
+variable resolution latitude/longitude,35-38,Nj - number of points along a meridian,,,,,Operational
+variable resolution latitude/longitude,39-42,Basic angle of the initial production domain,(see Note 1),9,,,Operational
+variable resolution latitude/longitude,43-46,"Subdivisions of basic angle used to define extreme longitudes and latitudes, and direction increments",(see Note 1),9,,,Operational
+variable resolution latitude/longitude,47,Resolution and component flags,(see Flag table 3.3 and Note 2),114,,3.3,Operational
+variable resolution latitude/longitude,48,Scanning mode,(see Flag table 3.4),,,3.4,Operational
+variable resolution latitude/longitude,49-ii,List of longitudes,(see Notes 1 and 3),"9,85",,,Operational
+variable resolution latitude/longitude,(ii+1)-jj,List of latitudes,(see Notes 1 and 3),"9,85",,,Operational

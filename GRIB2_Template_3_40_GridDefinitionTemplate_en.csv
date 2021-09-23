@@ -1,21 +1,21 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-Gaussian latitude/longitude,15,Shape of the Earth,(see Code table 3.2),Operational
-Gaussian latitude/longitude,16,Scale factor of radius of spherical Earth,,Operational
-Gaussian latitude/longitude,17-20,Scaled value of radius of spherical Earth,,Operational
-Gaussian latitude/longitude,21,Scale factor of major axis of oblate spheroid Earth,,Operational
-Gaussian latitude/longitude,22-25,Scaled value of major axis of oblate spheroid Earth,,Operational
-Gaussian latitude/longitude,26,Scale factor of minor axis of oblate spheroid Earth,,Operational
-Gaussian latitude/longitude,27-30,Scaled value of minor axis of oblate spheroid Earth,,Operational
-Gaussian latitude/longitude,31-34,Ni - number of points along a parallel,,Operational
-Gaussian latitude/longitude,35-38,Nj - number of points along a meridian,,Operational
-Gaussian latitude/longitude,39-42,Basic angle of the initial production domain,(see Note 1),Operational
-Gaussian latitude/longitude,43-46,"Subdivisions of basic angle used to define extreme longitudes and latitudes, and direction increments",(see Note 1),Operational
-Gaussian latitude/longitude,47-50,La1 - latitude of first grid point,(see Note 1),Operational
-Gaussian latitude/longitude,51-54,Lo1 - longitude of first grid point,(see Note 1),Operational
-Gaussian latitude/longitude,55,Resolution and component flags,(see Flag table 3.3),Operational
-Gaussian latitude/longitude,56-59,La2 - latitude of last grid point,(see Note 1),Operational
-Gaussian latitude/longitude,60-63,Lo2 - longitude of last grid point,(see Note 1),Operational
-Gaussian latitude/longitude,64-67,Di - i direction increment,(see Notes 1 and 5),Operational
-Gaussian latitude/longitude,68-71,N - number of parallels between a pole and the Equator,(see Note 2),Operational
-Gaussian latitude/longitude,72,Scanning mode,(flags - see Flag table 3.4),Operational
-Gaussian latitude/longitude,73-nn,List of number of points along each meridian or parallel.,(These octets are only present for quasi-regular grids as described in Note 4),Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Gaussian latitude/longitude,15,Shape of the Earth,(see Code table 3.2),,3.2,,Operational
+Gaussian latitude/longitude,16,Scale factor of radius of spherical Earth,,,,,Operational
+Gaussian latitude/longitude,17-20,Scaled value of radius of spherical Earth,,,,,Operational
+Gaussian latitude/longitude,21,Scale factor of major axis of oblate spheroid Earth,,,,,Operational
+Gaussian latitude/longitude,22-25,Scaled value of major axis of oblate spheroid Earth,,,,,Operational
+Gaussian latitude/longitude,26,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational
+Gaussian latitude/longitude,27-30,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational
+Gaussian latitude/longitude,31-34,Ni - number of points along a parallel,,,,,Operational
+Gaussian latitude/longitude,35-38,Nj - number of points along a meridian,,,,,Operational
+Gaussian latitude/longitude,39-42,Basic angle of the initial production domain,(see Note 1),9,,,Operational
+Gaussian latitude/longitude,43-46,"Subdivisions of basic angle used to define extreme longitudes and latitudes, and direction increments",(see Note 1),9,,,Operational
+Gaussian latitude/longitude,47-50,La1 - latitude of first grid point,(see Note 1),9,,,Operational
+Gaussian latitude/longitude,51-54,Lo1 - longitude of first grid point,(see Note 1),9,,,Operational
+Gaussian latitude/longitude,55,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational
+Gaussian latitude/longitude,56-59,La2 - latitude of last grid point,(see Note 1),9,,,Operational
+Gaussian latitude/longitude,60-63,Lo2 - longitude of last grid point,(see Note 1),9,,,Operational
+Gaussian latitude/longitude,64-67,Di - i direction increment,(see Notes 1 and 5),"9,45",,,Operational
+Gaussian latitude/longitude,68-71,N - number of parallels between a pole and the Equator,(see Note 2),87,,,Operational
+Gaussian latitude/longitude,72,Scanning mode,(see Flag table 3.4),,,3.4,Operational
+Gaussian latitude/longitude,73-nn,List of number of points along each meridian or parallel.,(see Notes 4 and 6),"4,124",,,Operational

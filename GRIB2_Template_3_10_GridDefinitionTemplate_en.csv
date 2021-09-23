@@ -1,21 +1,21 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-Mercator,15,Shape of the Earth,(see Code table 3.2),Operational
-Mercator,16,Scale factor of radius of spherical Earth,,Operational
-Mercator,17-20,Scaled value of radius of spherical Earth,,Operational
-Mercator,21,Scale factor of major axis of oblate spheroid Earth,,Operational
-Mercator,22-25,Scaled value of major axis of oblate spheroid Earth,,Operational
-Mercator,26,Scale factor of minor axis of oblate spheroid Earth,,Operational
-Mercator,27-30,Scaled value of minor axis of oblate spheroid Earth,,Operational
-Mercator,31-34,Ni - number of points along a parallel,,Operational
-Mercator,35-38,Nj - number of points along a meridian,,Operational
-Mercator,39-42,La1 - latitude of first grid point,,Operational
-Mercator,43-46,Lo1 - longitude of first grid point,,Operational
-Mercator,47,Resolution and component flags,(see Flag table 3.3),Operational
-Mercator,48-51,LaD - latitude(s) at which the Mercator projection intersects the Earth (Latitude(s) where Di and Dj are specified),,Operational
-Mercator,52-55,La2 - latitude of last grid point,,Operational
-Mercator,56-59,Lo2 - longitude of last grid point,,Operational
-Mercator,60,Scanning mode,(flags - see Flag table 3.4),Operational
-Mercator,61-64,"Orientation of the grid, angle between i direction on the map and the Equator",(see Note 1),Operational
-Mercator,65-68,Di - longitudinal direction grid length,(see Note 2),Operational
-Mercator,69-72,Dj - latitudinal direction grid length,(see Note 2),Operational
-Mercator,73-nn,List of number of points along each meridian or parallel,(These octets are only present for quasi-regular grids as described in Notes 2 and 3 of grid definition template 3.1),Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Mercator,15,Shape of the Earth,(see Code table 3.2),,3.2,,Operational
+Mercator,16,Scale factor of radius of spherical Earth,,,,,Operational
+Mercator,17-20,Scaled value of radius of spherical Earth,,,,,Operational
+Mercator,21,Scale factor of major axis of oblate spheroid Earth,,,,,Operational
+Mercator,22-25,Scaled value of major axis of oblate spheroid Earth,,,,,Operational
+Mercator,26,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational
+Mercator,27-30,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational
+Mercator,31-34,Ni - number of points along a parallel,,,,,Operational
+Mercator,35-38,Nj - number of points along a meridian,,,,,Operational
+Mercator,39-42,La1 - latitude of first grid point,,,,,Operational
+Mercator,43-46,Lo1 - longitude of first grid point,,,,,Operational
+Mercator,47,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational
+Mercator,48-51,LaD - latitude(s) at which the Mercator projection intersects the Earth (Latitude(s) where Di and Dj are specified),,,,,Operational
+Mercator,52-55,La2 - latitude of last grid point,,,,,Operational
+Mercator,56-59,Lo2 - longitude of last grid point,,,,,Operational
+Mercator,60,Scanning mode,(see Flag table 3.4),,,3.4,Operational
+Mercator,61-64,"Orientation of the grid, angle between i direction on the map and the Equator",(see Note 1),,,,Operational
+Mercator,65-68,Di - longitudinal direction grid length,(see Note 2),28,,,Operational
+Mercator,69-72,Dj - latitudinal direction grid length,(see Note 2),28,,,Operational
+Mercator,73-nn,List of number of points along each meridian or parallel,"(see Notes 4, 5 and 6)","4,124,136",,,Operational

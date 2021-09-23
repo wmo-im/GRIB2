@@ -1,19 +1,19 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-polar stereographic projection,15,Shape of the Earth,(see Code table 3.2),Operational
-polar stereographic projection,16,Scale factor of radius of spherical Earth,,Operational
-polar stereographic projection,17-20,Scaled value of radius of spherical Earth,,Operational
-polar stereographic projection,21,Scale factor of major axis of oblate spheroid Earth,,Operational
-polar stereographic projection,22-25,Scaled value of major axis of oblate spheroid Earth,,Operational
-polar stereographic projection,26,Scale factor of minor axis of oblate spheroid Earth,,Operational
-polar stereographic projection,27-30,Scaled value of minor axis of oblate spheroid Earth,,Operational
-polar stereographic projection,31-34,Nx - number of points along the x-axis,,Operational
-polar stereographic projection,35-38,Ny - number of points along the y-axis,,Operational
-polar stereographic projection,39-42,La1 - latitude of first grid point,,Operational
-polar stereographic projection,43-46,Lo1 - longitude of first grid point,,Operational
-polar stereographic projection,47,Resolution and component flags,(see Flag table 3.3 and Note 1),Operational
-polar stereographic projection,48-51,LaD - latitude where Dx and Dy are specified,,Operational
-polar stereographic projection,52-55,LoV - orientation of the grid,(see Note 2),Operational
-polar stereographic projection,56-59,Dx - x-direction grid length,(see Note 3),Operational
-polar stereographic projection,60-63,Dy - y-direction grid length,(see Note 3),Operational
-polar stereographic projection,64,Projection centre flag,(see Flag table 3.5),Operational
-polar stereographic projection,65,Scanning mode,(see Flag table 3.4),Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+polar stereographic projection,15,Shape of the Earth,(see Code table 3.2),,3.2,,Operational
+polar stereographic projection,16,Scale factor of radius of spherical Earth,,,,,Operational
+polar stereographic projection,17-20,Scaled value of radius of spherical Earth,,,,,Operational
+polar stereographic projection,21,Scale factor of major axis of oblate spheroid Earth,,,,,Operational
+polar stereographic projection,22-25,Scaled value of major axis of oblate spheroid Earth,,,,,Operational
+polar stereographic projection,26,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational
+polar stereographic projection,27-30,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational
+polar stereographic projection,31-34,Nx - number of points along the x-axis,,,,,Operational
+polar stereographic projection,35-38,Ny - number of points along the y-axis,,,,,Operational
+polar stereographic projection,39-42,La1 - latitude of first grid point,,,,,Operational
+polar stereographic projection,43-46,Lo1 - longitude of first grid point,,,,,Operational
+polar stereographic projection,47,Resolution and component flags,(see Flag table 3.3 and Note 1),114,,3.3,Operational
+polar stereographic projection,48-51,LaD - latitude where Dx and Dy are specified,,,,,Operational
+polar stereographic projection,52-55,LoV - orientation of the grid,(see Note 2),51,,,Operational
+polar stereographic projection,56-59,Dx - x-direction grid length,(see Note 3),28,,,Operational
+polar stereographic projection,60-63,Dy - y-direction grid length,(see Note 3),28,,,Operational
+polar stereographic projection,64,Projection centre flag,(see Flag table 3.5),,,3.5,Operational
+polar stereographic projection,65,Scanning mode,(see Flag table 3.4),,,3.4,Operational

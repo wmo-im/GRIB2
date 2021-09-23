@@ -1,20 +1,20 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,10,Parameter category,(see Code table 4.1),Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,11,Parameter number,(see Code table 4.2 and Notes 2 and 3),Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,12,Partition Table Number (PTN),(see Notes 1 and 3),Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,13,Number of Partitions (NP),(see Note 1),Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,14-(14+2NP-1),Partition set (list all partition numbers in the partition),(see Code table 4.PTN and Note 1),Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(14+2NP)-(15+2NP),Partition number (PN),(see Code table 4.PTN and Note 3),Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(16+2NP),Type of generating process,(see Code table 4.3),Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(17+2NP),Background generating process identifier (defined by originating centre),,Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(18+2NP),Analysis or forecast generating process identifier (defined by originating centre),,Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(19+2NP)-(20+2NP),Hours of observational data cut-off after reference time,(see Note 1),Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(21+2NP),Minutes of observational data cut-off after reference time,,Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(22+2NP),Indicator of unit of time range,(see Code table 4.4),Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(23+2NP)-(26+2NP),Forecast time in units defined by previous octet,,Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(27+2NP),Type of first fixed surface,(see Code table 4.5),Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(28+2NP),Scale factor of first fixed surface,,Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(29+2NP)-(32+2NP),Scaled value of first fixed surface,,Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(33+2NP),Type of second fixed surface,(see Code table 4.5),Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(34+2NP),Scale factor of second fixed surface,,Operational
-partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(35+2NP)-(38+2NP),Scaled value of second fixed surface,,Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,10,Parameter category,(see Code table 4.1),,4.1,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,11,Parameter number,(see Code table 4.2 and Notes 2 and 3),"60,121",4.2,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,12,Partition Table Number (PTN),(see Notes 1 and 3),"6,121",,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,13,Number of Partitions (NP),(see Note 1),6,,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,14-(14+2NP-1),Partition set (list all partition numbers in the partition),(see Code table 4.PTN and Note 1),6,4.PTN,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(14+2NP)-(15+2NP),Partition number (PN),(see Code table 4.PTN and Note 3),121,4.PTN,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(16+2NP),Type of generating process,(see Code table 4.3),,4.3,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(17+2NP),Background generating process identifier (defined by originating centre),,,,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(18+2NP),Analysis or forecast generating process identifier (defined by originating centre),,,,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(19+2NP)-(20+2NP),Hours of observational data cut-off after reference time,(see Note 1),6,,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(21+2NP),Minutes of observational data cut-off after reference time,,,,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(22+2NP),Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(23+2NP)-(26+2NP),Forecast time in units defined by previous octet,,,,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(27+2NP),Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(28+2NP),Scale factor of first fixed surface,,,,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(29+2NP)-(32+2NP),Scaled value of first fixed surface,,,,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(33+2NP),Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(34+2NP),Scale factor of second fixed surface,,,,,Operational
+partitioned parameters at a horizontal level or in a horizontal layer at a point in time,(35+2NP)-(38+2NP),Scaled value of second fixed surface,,,,,Operational

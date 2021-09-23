@@ -1,6 +1,6 @@
-Title_en,OctetNo,Contents_en,Note_en,Status
-Grid point data - run length packing with level values,12,Number of bits used for each packed value in the run length packing with level value,,Operational
-Grid point data - run length packing with level values,13-14,MV - maximum value within the levels that are used in the packing,,Operational
-Grid point data - run length packing with level values,15-16,MVL - maximum value of level (predefined),,Operational
-Grid point data - run length packing with level values,17,Decimal scale factor of representative value of each level,,Operational
-Grid point data - run length packing with level values,18-(19+2(lv-1)),List of MVL scaled representative values of each level from lv=1 to MVL,,Operational
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Grid point data - run length packing with level values,12,Number of bits used for each packed value in the run length packing with level value,,,,,Operational
+Grid point data - run length packing with level values,13-14,MV - maximum value within the levels that are used in the packing,,,,,Operational
+Grid point data - run length packing with level values,15-16,MVL - maximum value of level (predefined),,,,,Operational
+Grid point data - run length packing with level values,17,Decimal scale factor of representative value of each level,,,,,Operational
+Grid point data - run length packing with level values,18-(19+2(lv-1)),List of MVL scaled representative values of each level from lv=1 to MVL,,,,,Operational
