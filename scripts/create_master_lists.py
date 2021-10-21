@@ -169,10 +169,10 @@ if __name__ == "__main__":
     # Template tables
     template_files = load_files("GRIB2_Template",basedir=".")
 
-    fieldnames=["Title_en","OctetNo","Contents_en","Note_en","Status"]    
+    fieldnames=["Title_en","OctetNo","Contents_en","Note_en","noteIDs","codeTable","flagTable","Status"]    
     csv_writer = CSVWriter("txt/Template.txt",fieldnames)
     
-    xml_elements=["Title_en","OctetNo","Contents_en","Note_en","Status"]
+    xml_elements=["Title_en","OctetNo","Contents_en","Note_en","noteIDs","codeTable","flagTable","Status"]
     xml_writer = XMLWriter("xml/Template.xml",xml_elements,"GRIB2_Template_en")
 
     writers = [csv_writer,xml_writer]
