@@ -11,7 +11,7 @@ Physical meaning of vertical coordinate,,105,,Hybrid coordinate,,,,Operational
 Physical meaning of vertical coordinate,,106,,Depth below land surface,,,m,Operational
 Physical meaning of vertical coordinate,,107,,Potential temperature (theta),,,K,Operational
 Physical meaning of vertical coordinate,,108,,Pressure deviation from ground to level,,,Pa,Operational
-Physical meaning of vertical coordinate,,109,,Potential vorticity,,,K m-2 kg-1 s-1,Operational
+Physical meaning of vertical coordinate,,109,,Potential vorticity,,,K m2 kg-1 s-1,Operational
 Physical meaning of vertical coordinate,,110,,Geometrical height,,,m,Operational
 Physical meaning of vertical coordinate,,111,,Eta coordinate,(see Note 2),85,,Operational
 Physical meaning of vertical coordinate,,112,,Geopotential height,,,gpm,Operational
