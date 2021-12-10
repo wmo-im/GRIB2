@@ -273,7 +273,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",30,,Downdraught detrainment rate,,,kg m-3 s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",31,,Unbalanced component of logarithm of surface pressure,,,-,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",32,,Geometric altitude above mean sea level,,,m,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",33,,,Geometric height above ground level,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",33,,Geometric height above ground level,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",34-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",255,,Missing,,,,Operational
