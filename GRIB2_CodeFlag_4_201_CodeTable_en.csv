@@ -1,5 +1,5 @@
 Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
-Precipitation type,,0,,Reserved,,,,Operational
+Precipitation type,,0,,No precipitation,,,,Operational
 Precipitation type,,1,,Rain,,,,Operational
 Precipitation type,,2,,Thunderstorm,,,,Operational
 Precipitation type,,3,,Freezing rain,,,,Operational
