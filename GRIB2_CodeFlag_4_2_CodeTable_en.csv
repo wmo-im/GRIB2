@@ -246,7 +246,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",3,,ICAO Standard Atmosphere Reference Height,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",4,,Geopotential,,,m2 s-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",5,,Geopotential height,,,gpm,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",6,,Geometric height,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",6,,Geometric height,"(see Note)",124,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",7,,Standard deviation of height,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",8,,Pressure anomaly,,,Pa,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",9,,Geopotential height anomaly,,,gpm,Operational
@@ -273,7 +273,9 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",30,,Downdraught detrainment rate,,,kg m-3 s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",31,,Unbalanced component of logarithm of surface pressure,,,-,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",32,,Saturation water vapour pressure,,,Pa,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",33-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",33,,Geometric altitude above mean sea level,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",34,,Geometric height above ground level,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",35-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",255,,Missing,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",0,,Net short-wave radiation flux (surface),"(see Note 1)",1,W m-2,Deprecated
