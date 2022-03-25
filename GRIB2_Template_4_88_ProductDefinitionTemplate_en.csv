@@ -11,18 +11,18 @@ analysis or forecast at a horizontal level or in a horizontal layer at a local t
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,22,Scale factor of second fixed surface,,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,23-26,Scaled value of second fixed surface,,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,27,Method used to derive the data field values at the local time specified in section 1,(see Code table 4.248),,4.248,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,28,n - number of analyses or forecasts used to create the composite data field at the local time specified in section 1 (n>=1),,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,,Octets 29-46 Specification of the analysis or forecast used in the processing (n=1),,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,28,n - number of analyses or forecasts used to create the composite data field at the local time specified in section 1 (n >= 1),,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,,Octets 29-46 Specification of the analysis or forecast used in the processing (n = 1),,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,29-30,Year of the analysis or forecast used in the processing,,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,31,Month of the analysis or forecast used in the processing,,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,32,Day of the analysis or forecast used in the processing,,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,33,Hour of the analysis or forecast used in the processing,,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,34,Minute of the analysis or forecast used in the processing,,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,35,Second of the analysis or forecast used in the processing,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,36,Indicator of units of forecast time,"(see Note and Code Table 4.4)",70,4.4,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,36,Indicator of units of forecast time,"(see Note and Code table 4.4)",70,4.4,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,37-40,Forecast time,(see Note),70,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,41,Number of time increments of the forecast used in the processing,,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,42,Indicator of units of time for the time increments,,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,43-46,Time increments between successive forecast time,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,,Octets 47-nn are included only if n>1 where nn=28+18xn,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,47-nn,(n-1) repetitions of sequence of octet 29-46 describing the next analyses or forecasts used in the processing,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,,Octets 47-nn are included only if n > 1 where nn = 28 + 18 x n,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,47-nn,(n-1) repetitions of sequence of octets 29-46 describing the next analyses or forecasts used in the processing,,,,,Operational
