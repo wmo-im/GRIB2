@@ -293,7 +293,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",12,,Downward UV radiation,,,W m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",13,,Direct short-wave radiation flux,,,W m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",14,,Diffuse short-wave radiation flux,,,W m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",15,,Upward UV radiation emitted / reflected from the Earth surface,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",15,,Upward UV radiation emitted/reflected from the Earth's surface,,,W m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",16-49,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",50,,UV index (under clear sky),(see Note 2),24,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",51,,UV index,(see Note 2),24,Numeric,Operational
@@ -877,7 +877,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 5: waves",0,,Amplitude,,,dB,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 5: waves",1,,Phase,,,rad,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 5: waves",2,,Frequency,,,Hz,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 5: waves",3,,Wave length,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 5: waves",3,,Wavelength,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 5: waves",4-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 5: waves",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 5: waves",255,,Missing,,,,Operational
@@ -918,12 +918,12 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 9: ion-neutral coupling",255,,Missing,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",0,,Scintillation index (sigma phi),,,rad,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",1,,Scintillation index S4,,,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",2,,Rate of Change of TEC Index (ROTI),,,TECU/min,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",3,,Disturbance Ionosphere Index Spatial Gradient (DIXSG),,,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",4,,Along Arc TEC Rate (AATR),,,TECU/min,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",2,,Rate of change of TEC index (ROTI),,,TECU/min,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",3,,Disturbance ionosphere index spatial gradient (DIXSG),,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",4,,Along arc TEC rate (AATR),,,TECU/min,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",5,,Kp,,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",6,,Equatorial disturbance storm time index (Dst),,,nT,Operational
-Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",7,,Auroral Electrojet (AE),,,nT,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",7,,Auroral electrojet (AE),,,nT,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",8-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",255,,Missing,,,,Operational

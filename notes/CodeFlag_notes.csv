@@ -51,7 +51,7 @@ noteID,note
 50,"It should be noted that depending on values of extreme (first/last) coordinates,and regardless of bitmap, effective number of points per row may be less than the number of points on the current circle."
 51,"For parameter 38 (Parameter category 0), ice volume is expressed as if the ice content were melted to liquid water and then its volume measured in the liquid state. This may be understood in the same manner as water equivalent snow depth."
 52,Further information concerning the wave parameters can be found in the Guide to Wave Analysis and Forecasting (WMO-No. 702).
-53,"Higher values indicate that heat stress is important. Interpretation of values can vary among organizations and use. See example in the ISO certification (ISO 7243 1989, 2017, and Parsons 2013)."
+53,"Higher values indicate that heat stress is important. Interpretation of values can vary among organizations and use. See example in the ISO certification (ISO 7243, 1989; 2017; Parsons, 2013)."
 54,"Hybrid height level (Code figure 118) can be defined as:z(k) = A(k) + B(k) x orog(k = 1,...,NLevels; orog = orography; z(k) = height in metres at level k)"
 55,"Hybrid pressure level, for which Code figure 119 shall be used instead of 105, can be defined as:p(k) = A(k) + B(k) x sp(k = 1,...,NLevels; sp = surface pressure; p(k) = pressure at level k)"
 56,i direction: west to east along a parallel or left to right along an x-axis.
@@ -101,7 +101,7 @@ noteID,note
 104,"The total lightning flash density is the sum of cloud-to-ground and cloud-to-cloud lightning flash densities (see Lopez, P., 2016: A lightning parameterization for the ECMWF Integrated Forecasting System, Monthly Weather Review, 144, 3057-3075)."
 105,The value for the constant direction increment Di (or Dx) in the accompanying grid definition template should be set to all ones (missing).
 106,Theoretical temperature at the precise air-sea interface.
-107,"This category is no longer populated, please use ""Product discipline 0 – Meteorological products, parameter category 20: atmospheric chemical constituents."
+107,"This category is no longer populated. Please use ""Product discipline 0 -  Meteorological products, parameter category 20: atmospheric chemical constituents""."
 108,This code table is deprecated. See Common Code table C-0 instead.
 109,This method assumes that each field really represents box averages/maxima/minima where each box extends halfway to its neighboring grid point in each direction to represent averages/maxima/minima of values from the source grid with no interpolation.
 110,"This parameter is described in more detail by (a) Lee, S. and I.M. Held, 1993: Baroclinic wave packets in models and observations. J. Atmos. Sci., 50:1413-1428, (b) Chang, E.K.M., 1993: Downstream development of baroclinic waves as inferred from regression analysis. J. Atmos. Sci., 50:2038-2053, (c) Archambault, H.M., D. Keyser and L.F. Bosart, 2010: Relationships between large-scale regime transitions and major cool-season precipitation events in the northeastern United States. Mon Wea. Review, 138:3454-3473, and(d) Zimin, A.V., I. Szunyogh, B.R. Hung and E. Orr, 2006: Extracting envelopes of non-zonally propagating Rossby wave packets. Mon. Wea. Review, 134:1329-1333."

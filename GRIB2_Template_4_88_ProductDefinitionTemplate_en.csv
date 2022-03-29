@@ -23,6 +23,6 @@ analysis or forecast at a horizontal level or in a horizontal layer at a local t
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,37-40,Forecast time,(see Note),70,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,41,Number of time increments of the forecast used in the processing,,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,42,Indicator of units of time for the time increments,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,43-46,Time increments between successive forecast time,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,43-46,Time increments between successive forecast times,,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,,Octets 47-nn are included only if n > 1 where nn = 28 + 18 x n,,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,47-nn,(n-1) repetitions of sequence of octets 29-46 describing the next analyses or forecasts used in the processing,,,,,Operational
