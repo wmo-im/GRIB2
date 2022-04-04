@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2021-10-21T11:42:35.168950">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2022-04-04T09:57:38.410209">
 	<GRIB2_Template_en>
 		<Title_en>Identification template 1.0 - calendar definition</Title_en>
 		<OctetNo>24</OctetNo>
@@ -233,7 +233,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Grid definition template 3.0 - latitude/longitude (or equidistant cylindrical, or Plate Carrée)</Title_en>
 		<OctetNo>73-nn</OctetNo>
-		<Contents_en>List of number of points along each meridian or parallel.</Contents_en>
+		<Contents_en>List of number of points along each meridian or parallel</Contents_en>
 		<Note_en>(see Notes 2, 3 and 7)</Note_en>
 		<noteIDs>4,15,124</noteIDs>
 		<codeTable/>
@@ -283,7 +283,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Grid definition template 3.1 - rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)</Title_en>
 		<OctetNo>85-nn</OctetNo>
-		<Contents_en>List of number of points along each meridian or parallel.</Contents_en>
+		<Contents_en>List of number of points along each meridian or parallel</Contents_en>
 		<Note_en>(see Notes 3 and 4)</Note_en>
 		<noteIDs>4,124</noteIDs>
 		<codeTable/>
@@ -333,7 +333,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Grid definition template 3.2 - stretched latitude/longitude (or equidistant cylindrical, or Plate Carrée)</Title_en>
 		<OctetNo>85-nn</OctetNo>
-		<Contents_en>List of number of points along each meridian or parallel.</Contents_en>
+		<Contents_en>List of number of points along each meridian or parallel</Contents_en>
 		<Note_en>(see Notes 3 and 4)</Note_en>
 		<noteIDs>4,124</noteIDs>
 		<codeTable/>
@@ -413,7 +413,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Grid definition template 3.3 - stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)</Title_en>
 		<OctetNo>97-nn</OctetNo>
-		<Contents_en>List of number of points along each meridian or parallel.</Contents_en>
+		<Contents_en>List of number of points along each meridian or parallel</Contents_en>
 		<Note_en>(see Notes 3 and 4)</Note_en>
 		<noteIDs>4,124</noteIDs>
 		<codeTable/>
@@ -795,7 +795,7 @@
 		<OctetNo>61-64</OctetNo>
 		<Contents_en>Orientation of the grid, angle between i direction on the map and the Equator</Contents_en>
 		<Note_en>(see Note 1)</Note_en>
-		<noteIDs/>
+		<noteIDs>49</noteIDs>
 		<codeTable/>
 		<flagTable/>
 		<Status>Operational</Status>
@@ -831,7 +831,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>15</OctetNo>
 		<Contents_en>Shape of the Earth</Contents_en>
 		<Note_en>(see Code table 3.2)</Note_en>
@@ -841,7 +841,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>16</OctetNo>
 		<Contents_en>Scale factor of radius of spherical Earth</Contents_en>
 		<Note_en/>
@@ -851,7 +851,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>17-20</OctetNo>
 		<Contents_en>Scaled value of radius of spherical Earth</Contents_en>
 		<Note_en/>
@@ -861,7 +861,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>21</OctetNo>
 		<Contents_en>Scale factor of major axis of oblate spheroid Earth</Contents_en>
 		<Note_en/>
@@ -871,7 +871,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>22-25</OctetNo>
 		<Contents_en>Scaled value of major axis of oblate spheroid Earth</Contents_en>
 		<Note_en/>
@@ -881,7 +881,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>26</OctetNo>
 		<Contents_en>Scale factor of minor axis of oblate spheroid Earth</Contents_en>
 		<Note_en/>
@@ -891,7 +891,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>27-30</OctetNo>
 		<Contents_en>Scaled value of minor axis of oblate spheroid Earth</Contents_en>
 		<Note_en/>
@@ -901,7 +901,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>31-34</OctetNo>
 		<Contents_en>Ni - number of points along i-axis</Contents_en>
 		<Note_en/>
@@ -911,7 +911,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>35-38</OctetNo>
 		<Contents_en>Nj - number of points along j-axis</Contents_en>
 		<Note_en/>
@@ -921,7 +921,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>39-42</OctetNo>
 		<Contents_en>LaR - geographic latitude of reference point</Contents_en>
 		<Note_en/>
@@ -931,7 +931,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>43-46</OctetNo>
 		<Contents_en>LoR - geographic longitude of reference point</Contents_en>
 		<Note_en/>
@@ -941,7 +941,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>47</OctetNo>
 		<Contents_en>Resolution and component flags</Contents_en>
 		<Note_en>(see Flag table 3.3)</Note_en>
@@ -951,7 +951,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>48-51</OctetNo>
 		<Contents_en>m - scale factor at reference point ratio of distance on map to distance on spheroid (IEEE 32-bit floating-point values)</Contents_en>
 		<Note_en/>
@@ -961,7 +961,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>52-55</OctetNo>
 		<Contents_en>XR - false easting, i-direction coordinate of reference point in units of 10-2 m</Contents_en>
 		<Note_en/>
@@ -971,7 +971,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>56-59</OctetNo>
 		<Contents_en>YR - false northing, j-direction coordinate of reference point in units of 10-2 m</Contents_en>
 		<Note_en/>
@@ -981,7 +981,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>60</OctetNo>
 		<Contents_en>Scanning mode</Contents_en>
 		<Note_en>(see Flag table 3.4)</Note_en>
@@ -991,7 +991,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>61-64</OctetNo>
 		<Contents_en>Di - i-direction increment length in units of  10-2 m</Contents_en>
 		<Note_en/>
@@ -1001,7 +1001,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>65-68</OctetNo>
 		<Contents_en>Dj - j-direction increment length in units of 10-2 m</Contents_en>
 		<Note_en/>
@@ -1011,7 +1011,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>69-72</OctetNo>
 		<Contents_en>x1 - i-direction coordinate of the first grid point in units of 10-2 m</Contents_en>
 		<Note_en/>
@@ -1021,7 +1021,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>73-76</OctetNo>
 		<Contents_en>y1 - j-direction coordinate of the first grid point in units of 10-2 m</Contents_en>
 		<Note_en/>
@@ -1031,7 +1031,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>77-80</OctetNo>
 		<Contents_en>x2 - i-direction coordinate of the last grid point in units of 10-2 m</Contents_en>
 		<Note_en/>
@@ -1041,7 +1041,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Grid definition template 3.12 - Transverse Mercator</Title_en>
+		<Title_en>Grid definition template 3.12 - transverse Mercator</Title_en>
 		<OctetNo>81-84</OctetNo>
 		<Contents_en>y2 - j-direction coordinate of the last grid point in units of 10-2 m</Contents_en>
 		<Note_en/>
@@ -1444,8 +1444,8 @@
 		<Title_en>Grid definition template 3.30 - Lambert conformal</Title_en>
 		<OctetNo>47</OctetNo>
 		<Contents_en>Resolution and component flags</Contents_en>
-		<Note_en>(see Flag table 3.3)</Note_en>
-		<noteIDs/>
+		<Note_en>(see Note 3 and Flag table 3.3)</Note_en>
+		<noteIDs>114</noteIDs>
 		<codeTable/>
 		<flagTable>3.3</flagTable>
 		<Status>Operational</Status>
@@ -1464,8 +1464,8 @@
 		<Title_en>Grid definition template 3.30 - Lambert conformal</Title_en>
 		<OctetNo>52-55</OctetNo>
 		<Contents_en>LoV - longitude of meridian parallel to y-axis along which latitude increases as the y-coordinate increases</Contents_en>
-		<Note_en/>
-		<noteIDs/>
+		<Note_en>(see Note 4)</Note_en>
+		<noteIDs>51</noteIDs>
 		<codeTable/>
 		<flagTable/>
 		<Status>Operational</Status>
@@ -1664,8 +1664,8 @@
 		<Title_en>Grid definition template 3.31 - Albers equal area</Title_en>
 		<OctetNo>47</OctetNo>
 		<Contents_en>Resolution and component flags</Contents_en>
-		<Note_en>(see Flag table 3.3)</Note_en>
-		<noteIDs/>
+		<Note_en>(see Note 3 and Flag table 3.3)</Note_en>
+		<noteIDs>114</noteIDs>
 		<codeTable/>
 		<flagTable>3.3</flagTable>
 		<Status>Operational</Status>
@@ -1684,8 +1684,8 @@
 		<Title_en>Grid definition template 3.31 - Albers equal area</Title_en>
 		<OctetNo>52-55</OctetNo>
 		<Contents_en>LoV - longitude of meridian parallel to y-axis along which latitude increases as the y-coordinate increases</Contents_en>
-		<Note_en/>
-		<noteIDs/>
+		<Note_en>(see Note 4)</Note_en>
+		<noteIDs>51</noteIDs>
 		<codeTable/>
 		<flagTable/>
 		<Status>Operational</Status>
@@ -2013,7 +2013,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Grid definition template 3.40 - Gaussian latitude/longitude</Title_en>
 		<OctetNo>73-nn</OctetNo>
-		<Contents_en>List of number of points along each meridian or parallel.</Contents_en>
+		<Contents_en>List of number of points along each meridian or parallel</Contents_en>
 		<Note_en>(see Notes 4 and 6)</Note_en>
 		<noteIDs>4,124</noteIDs>
 		<codeTable/>
@@ -2063,7 +2063,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Grid definition template 3.41 - rotated Gaussian latitude/longitude</Title_en>
 		<OctetNo>85-nn</OctetNo>
-		<Contents_en>List of number of points along each meridian or parallel.</Contents_en>
+		<Contents_en>List of number of points along each meridian or parallel</Contents_en>
 		<Note_en>(see Notes 4 and 5)</Note_en>
 		<noteIDs>4,124</noteIDs>
 		<codeTable/>
@@ -2113,7 +2113,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Grid definition template 3.42 - stretched Gaussian latitude/longitude</Title_en>
 		<OctetNo>85-nn</OctetNo>
-		<Contents_en>List of number of points along each meridian or parallel.</Contents_en>
+		<Contents_en>List of number of points along each meridian or parallel</Contents_en>
 		<Note_en>(see Notes 4 and 5)</Note_en>
 		<noteIDs>4,124</noteIDs>
 		<codeTable/>
@@ -2193,7 +2193,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Grid definition template 3.43 - stretched and rotated Gaussian latitude/longitude</Title_en>
 		<OctetNo>97-nn</OctetNo>
-		<Contents_en>List of number of points along each meridian or parallel.</Contents_en>
+		<Contents_en>List of number of points along each meridian or parallel</Contents_en>
 		<Note_en>(see Notes 5 and 6)</Note_en>
 		<noteIDs>4,124</noteIDs>
 		<codeTable/>
@@ -3303,9 +3303,9 @@
 	<GRIB2_Template_en>
 		<Title_en>Grid definition template 3.90 - space view perspective or orthographic</Title_en>
 		<OctetNo>69-72</OctetNo>
-		<Contents_en>Nr - altitude of the camera from the Earth’s centre, measured in units of the Earth’s (equatorial) radius multiplied by a scale factor of 106</Contents_en>
-		<Note_en>(see Notes 4 and 5)</Note_en>
-		<noteIDs>22,73</noteIDs>
+		<Contents_en>Nr - altitude of the camera from the Earth's centre, measured in units of the Earth's (equatorial) radius multiplied by a scale factor of 106</Contents_en>
+		<Note_en>(see Notes 2, 4 and 5)</Note_en>
+		<noteIDs>59,22,73</noteIDs>
 		<codeTable/>
 		<flagTable/>
 		<Status>Operational</Status>
@@ -3414,7 +3414,7 @@
 		<Title_en>Grid definition template 3.100 - triangular grid based on an icosahedron (see Part B, GRIB Attachment I)</Title_en>
 		<OctetNo>33</OctetNo>
 		<Contents_en>Numbering order of diamonds</Contents_en>
-		<Note_en>(flags - see Flag table 3.9)</Note_en>
+		<Note_en>(see Flag table 3.9)</Note_en>
 		<noteIDs/>
 		<codeTable/>
 		<flagTable>3.9</flagTable>
@@ -3424,7 +3424,7 @@
 		<Title_en>Grid definition template 3.100 - triangular grid based on an icosahedron (see Part B, GRIB Attachment I)</Title_en>
 		<OctetNo>34</OctetNo>
 		<Contents_en>Scanning mode for one diamond</Contents_en>
-		<Note_en>(flags - see Flag table 3.10)</Note_en>
+		<Note_en>(see Flag table 3.10)</Note_en>
 		<noteIDs/>
 		<codeTable/>
 		<flagTable>3.10</flagTable>
@@ -9454,7 +9454,7 @@
 		<Title_en>Product definition template 4.30 - satellite product</Title_en>
 		<OctetNo>(15+10(nb-1))-(16+10(nb-1))</OctetNo>
 		<Contents_en>Satellite series of band nb (code table defined by originating/generating centre)</Contents_en>
-		<Note_en>(see Note)</Note_en>
+		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>14</noteIDs>
 		<codeTable/>
 		<flagTable/>
@@ -9464,7 +9464,7 @@
 		<Title_en>Product definition template 4.30 - satellite product</Title_en>
 		<OctetNo>(17+10(nb-1))-(18+10(nb-1))</OctetNo>
 		<Contents_en>Satellite numbers of band nb (code table defined by originating/generating centre)</Contents_en>
-		<Note_en>(see Note)</Note_en>
+		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>14</noteIDs>
 		<codeTable/>
 		<flagTable/>
@@ -9474,7 +9474,7 @@
 		<Title_en>Product definition template 4.30 - satellite product</Title_en>
 		<OctetNo>(19+10(nb-1))</OctetNo>
 		<Contents_en>Instrument types of band nb (code table defined by originating/generating centre)</Contents_en>
-		<Note_en>(see Note)</Note_en>
+		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>14</noteIDs>
 		<codeTable/>
 		<flagTable/>
@@ -15353,7 +15353,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.61 - individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval</Title_en>
 		<OctetNo/>
-		<Contents_en>69-nn   These octets are included only if n&gt;1, where nn = 56 + 12 x n</Contents_en>
+		<Contents_en>69-nn   These octets are included only if n &gt; 1, where nn = 56 + 12 x n</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -21963,8 +21963,8 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.86 - quantile forecasts at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>15-16</OctetNo>
-		<Contents_en>Hours after reference time of data cut-off (see Note 1)</Contents_en>
-		<Note_en>(1) Hours greater than 65534 will be coded as 65534.</Note_en>
+		<Contents_en>Hours after reference time of data cut-off</Contents_en>
+		<Note_en>(see Note)</Note_en>
 		<noteIDs>33</noteIDs>
 		<codeTable/>
 		<flagTable/>
@@ -22433,7 +22433,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.88 - analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 29-46 Specification of the analysis or forecast used in the processing (n=1)</Contents_en>
+		<Contents_en>Octets 29-46 Specification of the analysis or forecast used in the processing (n = 1)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -22443,7 +22443,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.88 - analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 47-nn are included only if n&gt;1 where nn=28+18*n</Contents_en>
+		<Contents_en>Octets 47-nn are included only if n &gt; 1 where nn = 28 + 18 x n</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -22564,7 +22564,7 @@
 		<Title_en>Product definition template 4.88 - analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>27</OctetNo>
 		<Contents_en>Method used to derive the data field values at the local time specified in section 1</Contents_en>
-		<Note_en>(see Code Table 4.248)</Note_en>
+		<Note_en>(see Code table 4.248)</Note_en>
 		<noteIDs/>
 		<codeTable>4.248</codeTable>
 		<flagTable/>
@@ -22573,7 +22573,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.88 - analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>28</OctetNo>
-		<Contents_en>n - number of analysis or forecast used to create the composite data field at the local time specified in section 1 (n&gt;=1)</Contents_en>
+		<Contents_en>n - number of analyses or forecasts used to create the composite data field at the local time specified in section 1 (n &gt;= 1)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -22644,7 +22644,7 @@
 		<Title_en>Product definition template 4.88 - analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>36</OctetNo>
 		<Contents_en>Indicator of units of forecast time</Contents_en>
-		<Note_en>(see Note and Code Table 4.4)</Note_en>
+		<Note_en>(see Note and Code table 4.4)</Note_en>
 		<noteIDs>70</noteIDs>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
@@ -22683,7 +22683,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.88 - analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>43-46</OctetNo>
-		<Contents_en>Time increments between successive forecast time</Contents_en>
+		<Contents_en>Time increments between successive forecast times</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -22693,7 +22693,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.88 - analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>47-nn</OctetNo>
-		<Contents_en>(n-1) repetitions of sequence of octet 29-46 describing the next analyses or forecasts used in the processing</Contents_en>
+		<Contents_en>(n-1) repetitions of sequence of octets 29-46 describing the next analyses or forecasts used in the processing</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -23085,7 +23085,7 @@
 		<OctetNo>(68+12(NC-1))-(71+12(NC-1))</OctetNo>
 		<Contents_en>Time increment between successive fields, in units defined by the previous octet</Contents_en>
 		<Note_en>(see Notes 3 and 4)</Note_en>
-		<noteIDs>7,140</noteIDs>
+		<noteIDs>7,157</noteIDs>
 		<codeTable/>
 		<flagTable/>
 		<Status>Operational</Status>
@@ -23113,7 +23113,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.92 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 32-49 Specification of the forecast used in the processing (n=1)</Contents_en>
+		<Contents_en>Octets 32-49 Specification of the forecast used in the processing (n = 1)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -23123,7 +23123,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.92 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 50-nn are included only if n&gt;1 where nn = 31 + 18 x n</Contents_en>
+		<Contents_en>Octets 50-nn are included only if n &gt; 1 where nn = 31 + 18 x n</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -23274,7 +23274,7 @@
 		<Title_en>Product definition template 4.92 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>30</OctetNo>
 		<Contents_en>Method used to derive the data field values at the local time specified in section 1</Contents_en>
-		<Note_en>(see Code Table 4.248)</Note_en>
+		<Note_en>(see Code table 4.248)</Note_en>
 		<noteIDs/>
 		<codeTable>4.248</codeTable>
 		<flagTable/>
@@ -23283,7 +23283,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.92 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>31</OctetNo>
-		<Contents_en>n - number of forecasts used to create the composite data field at the local time specified in section 1 (n&gt;=1)</Contents_en>
+		<Contents_en>n - number of forecasts used to create the composite data field at the local time specified in section 1 (n &gt;= 1)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -23354,7 +23354,7 @@
 		<Title_en>Product definition template 4.92 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>39</OctetNo>
 		<Contents_en>Indicator of units of forecast time</Contents_en>
-		<Note_en>(see Code Table 4.4)</Note_en>
+		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
@@ -23384,7 +23384,7 @@
 		<Title_en>Product definition template 4.92 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>45</OctetNo>
 		<Contents_en>Indicator of units of time for the time increments</Contents_en>
-		<Note_en>(see Code Table 4.4)</Note_en>
+		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
@@ -23393,7 +23393,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.92 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>46-49</OctetNo>
-		<Contents_en>Time increments between successive forecast time</Contents_en>
+		<Contents_en>Time increments between successive forecast times</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -23403,7 +23403,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.92 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>50-nn</OctetNo>
-		<Contents_en>(n-1) repetitions of sequence of octet 32-49 describing the next analyses or forecasts used in the processing</Contents_en>
+		<Contents_en>(n-1) repetitions of sequence of octets 32-49 describing the next analyses or forecasts used in the processing</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -23413,7 +23413,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.93 - Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 34-51 Specification of the analysis or forecast used in the processing (n=1)</Contents_en>
+		<Contents_en>Octets 34-51 Specification of the analysis or forecast used in the processing (n = 1)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -23423,7 +23423,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.93 - Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 52-nn are included only if n&gt;1 where nn = 33 + 18 x n</Contents_en>
+		<Contents_en>Octets 52-nn are included only if n &gt; 1 where nn = 33 + 18 x n</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -23574,7 +23574,7 @@
 		<Title_en>Product definition template 4.93 - Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>32</OctetNo>
 		<Contents_en>Method used to derive the data field values at the local time specified in section 1</Contents_en>
-		<Note_en>(see Code Table 4.248)</Note_en>
+		<Note_en>(see Code table 4.248)</Note_en>
 		<noteIDs/>
 		<codeTable>4.248</codeTable>
 		<flagTable/>
@@ -23583,7 +23583,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.93 - Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>33</OctetNo>
-		<Contents_en>n - number of analysis or forecast used to create the composite data field at the local time specified in section 1 (n&gt;=1)</Contents_en>
+		<Contents_en>n - number of analyses or forecasts used to create the composite data field at the local time specified in section 1 (n &gt;= 1)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -23654,7 +23654,7 @@
 		<Title_en>Product definition template 4.93 - Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>41</OctetNo>
 		<Contents_en>Indicator of units of forecast time</Contents_en>
-		<Note_en>(see Note 5 and Code Table 4.4)</Note_en>
+		<Note_en>(see Note 5 and Code table 4.4)</Note_en>
 		<noteIDs>70</noteIDs>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
@@ -23684,7 +23684,7 @@
 		<Title_en>Product definition template 4.93 - Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>47</OctetNo>
 		<Contents_en>Indicator of units of time for the time increments</Contents_en>
-		<Note_en>(see Code Table 4.4)</Note_en>
+		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
@@ -23693,7 +23693,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.93 - Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>48-51</OctetNo>
-		<Contents_en>Time increments between successive forecast time</Contents_en>
+		<Contents_en>Time increments between successive forecast times</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -23703,7 +23703,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.93 - Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>52-nn</OctetNo>
-		<Contents_en>(n-1) repetitions of sequence of octet 34-51 describing the next analyses or forecasts used in the processing</Contents_en>
+		<Contents_en>(n-1) repetitions of sequence of octets 34-51 describing the next analyses or forecasts used in the processing</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -23713,7 +23713,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.94 - Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 37-54 Specification of the analysis or forecast used in the processing (n=1)</Contents_en>
+		<Contents_en>Octets 37-54 Specification of the analysis or forecast used in the processing (n = 1)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -23723,7 +23723,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.94 - Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 55-nn are included only if n&gt;1 where nn = 36 + 18 x n</Contents_en>
+		<Contents_en>Octets 55-nn are included only if n &gt; 1 where nn = 36 + 18 x n</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -23904,7 +23904,7 @@
 		<Title_en>Product definition template 4.94 - Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>35</OctetNo>
 		<Contents_en>Method used to derive the data field values at the local time specified in section 1</Contents_en>
-		<Note_en>(see Code Table 4.248)</Note_en>
+		<Note_en>(see Code table 4.248)</Note_en>
 		<noteIDs/>
 		<codeTable>4.248</codeTable>
 		<flagTable/>
@@ -23913,7 +23913,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.94 - Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>36</OctetNo>
-		<Contents_en>n - number of analysis or forecast used to create the composite data field at the local time specified in section 1 (n&gt;=1)</Contents_en>
+		<Contents_en>n - number of analyses or forecasts used to create the composite data field at the local time specified in section 1 (n &gt;= 1)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -23984,7 +23984,7 @@
 		<Title_en>Product definition template 4.94 - Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>44</OctetNo>
 		<Contents_en>Indicator of units of forecast time (set to missing if analysis)</Contents_en>
-		<Note_en>(see Code Table 4.4)</Note_en>
+		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
@@ -24014,7 +24014,7 @@
 		<Title_en>Product definition template 4.94 - Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>50</OctetNo>
 		<Contents_en>Indicator of units of time for the time increments</Contents_en>
-		<Note_en>(see Code Table 4.4)</Note_en>
+		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
@@ -24023,7 +24023,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.94 - Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>51-54</OctetNo>
-		<Contents_en>Time increments between successive forecast time</Contents_en>
+		<Contents_en>Time increments between successive forecast times</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -24033,7 +24033,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.94 - Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time</Title_en>
 		<OctetNo>55-nn</OctetNo>
-		<Contents_en>(n-1) repetitions of sequence of octet 37-54 describing the next analyses or forecasts used in the processing</Contents_en>
+		<Contents_en>(n-1) repetitions of sequence of octets 37-54 describing the next analyses or forecasts used in the processing</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -24043,7 +24043,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.95 - Average, accumulation, extreme values or other statistically processed value at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 36-53 Specification of the analysis or forecast used in the processing (n=1)</Contents_en>
+		<Contents_en>Octets 36-53 Specification of the analysis or forecast used in the processing (n = 1)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -24053,7 +24053,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.95 - Average, accumulation, extreme values or other statistically processed value at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 54-nn are included only if n&gt;1 where nn = 35 + 18 x n</Contents_en>
+		<Contents_en>Octets 54-nn are included only if n &gt; 1 where nn = 35 + 18 x n</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -24194,7 +24194,7 @@
 		<Title_en>Product definition template 4.95 - Average, accumulation, extreme values or other statistically processed value at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>29-32</OctetNo>
 		<Contents_en>Length of the time range over which statistical processing is done in units defined by the previous octet</Contents_en>
-		<Note_en>(See Note 1)</Note_en>
+		<Note_en>(see Note 1)</Note_en>
 		<noteIDs>140</noteIDs>
 		<codeTable/>
 		<flagTable/>
@@ -24214,7 +24214,7 @@
 		<Title_en>Product definition template 4.95 - Average, accumulation, extreme values or other statistically processed value at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>34</OctetNo>
 		<Contents_en>Method used to derive the data field values at the local time specified in section 1</Contents_en>
-		<Note_en>(see Code Table 4.248)</Note_en>
+		<Note_en>(see Code table 4.248)</Note_en>
 		<noteIDs/>
 		<codeTable>4.248</codeTable>
 		<flagTable/>
@@ -24223,7 +24223,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.95 - Average, accumulation, extreme values or other statistically processed value at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>35</OctetNo>
-		<Contents_en>n - number of analysis or forecast used to create the composite data field at the local time specified in section 1 (n&gt;=1)</Contents_en>
+		<Contents_en>n - number of analyses or forecasts used to create the composite data field at the local time specified in section 1 (n &gt;= 1)</Contents_en>
 		<Note_en>(see Note 3)</Note_en>
 		<noteIDs>142</noteIDs>
 		<codeTable/>
@@ -24294,7 +24294,7 @@
 		<Title_en>Product definition template 4.95 - Average, accumulation, extreme values or other statistically processed value at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>43</OctetNo>
 		<Contents_en>Indicator of units of forecast time</Contents_en>
-		<Note_en>(see Note 6 and Code Table 4.4)</Note_en>
+		<Note_en>(see Note 6 and Code table 4.4)</Note_en>
 		<noteIDs>70</noteIDs>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
@@ -24324,7 +24324,7 @@
 		<Title_en>Product definition template 4.95 - Average, accumulation, extreme values or other statistically processed value at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>49</OctetNo>
 		<Contents_en>Indicator of units of time for the time increments</Contents_en>
-		<Note_en>(see Code Table 4.4)</Note_en>
+		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
@@ -24333,7 +24333,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.95 - Average, accumulation, extreme values or other statistically processed value at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>50-53</OctetNo>
-		<Contents_en>Time increments between successive forecast time</Contents_en>
+		<Contents_en>Time increments between successive forecast times</Contents_en>
 		<Note_en>(see Note 5)</Note_en>
 		<noteIDs>143</noteIDs>
 		<codeTable/>
@@ -24343,7 +24343,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.95 - Average, accumulation, extreme values or other statistically processed value at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>54-nn</OctetNo>
-		<Contents_en>(n-1) repetitions of sequence of octet 36-53 describing the next analyses or forecasts used in the processing</Contents_en>
+		<Contents_en>(n-1) repetitions of sequence of octets 36-53 describing the next analyses or forecasts used in the processing</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -24353,7 +24353,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.96 - Average, accumulation, extreme values or other statistically processed values of an individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 39-56 Specification of the forecast used in the processing (n=1)</Contents_en>
+		<Contents_en>Octets 39-56 Specification of the forecast used in the processing (n = 1)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -24363,7 +24363,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.96 - Average, accumulation, extreme values or other statistically processed values of an individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 57-nn are included only if n&gt;1 where nn = 38 + 18 x n</Contents_en>
+		<Contents_en>Octets 57-nn are included only if n &gt; 1 where nn = 38 + 18 x n</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -24554,7 +24554,7 @@
 		<Title_en>Product definition template 4.96 - Average, accumulation, extreme values or other statistically processed values of an individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>37</OctetNo>
 		<Contents_en>Method used to derive the data field values at the local time specified in section 1</Contents_en>
-		<Note_en>(see Code Table 4.248)</Note_en>
+		<Note_en>(see Code table 4.248)</Note_en>
 		<noteIDs/>
 		<codeTable>4.248</codeTable>
 		<flagTable/>
@@ -24563,7 +24563,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.96 - Average, accumulation, extreme values or other statistically processed values of an individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>38</OctetNo>
-		<Contents_en>n - number of forecasts used to create the composite data field at the local time specified in section 1 (n&gt;=1)</Contents_en>
+		<Contents_en>n - number of forecasts used to create the composite data field at the local time specified in section 1 (n &gt;= 1)</Contents_en>
 		<Note_en>(see Note 3)</Note_en>
 		<noteIDs>144</noteIDs>
 		<codeTable/>
@@ -24634,7 +24634,7 @@
 		<Title_en>Product definition template 4.96 - Average, accumulation, extreme values or other statistically processed values of an individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>46</OctetNo>
 		<Contents_en>Indicator of units of forecast time</Contents_en>
-		<Note_en>(see Code Table 4.4)</Note_en>
+		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
@@ -24664,7 +24664,7 @@
 		<Title_en>Product definition template 4.96 - Average, accumulation, extreme values or other statistically processed values of an individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>52</OctetNo>
 		<Contents_en>Indicator of units of time for the time increments</Contents_en>
-		<Note_en>(see Code Table 4.4)</Note_en>
+		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
@@ -24673,7 +24673,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.96 - Average, accumulation, extreme values or other statistically processed values of an individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>53-56</OctetNo>
-		<Contents_en>Time increments between successive forecast time</Contents_en>
+		<Contents_en>Time increments between successive forecast times</Contents_en>
 		<Note_en>(see Note 5)</Note_en>
 		<noteIDs>145</noteIDs>
 		<codeTable/>
@@ -24683,7 +24683,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.96 - Average, accumulation, extreme values or other statistically processed values of an individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>57-nn</OctetNo>
-		<Contents_en>(n-1) repetitions of sequence of octet 39-56 describing the next analyses or forecasts used in the processing</Contents_en>
+		<Contents_en>(n-1) repetitions of sequence of octets 39-56 describing the next analyses or forecasts used in the processing</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -24693,7 +24693,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.97 - Average, accumulation, extreme values or other statistically processed values of post-processing analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 41-58 Specification of the analysis or forecast used in the processing (n=1)</Contents_en>
+		<Contents_en>Octets 41-58 Specification of the analysis or forecast used in the processing (n = 1)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -24703,7 +24703,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.97 - Average, accumulation, extreme values or other statistically processed values of post-processing analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 59-nn are included only if n&gt;1 where nn = 40 + 18 x n</Contents_en>
+		<Contents_en>Octets 59-nn are included only if n &gt; 1 where nn = 40 + 18 x n</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -24894,7 +24894,7 @@
 		<Title_en>Product definition template 4.97 - Average, accumulation, extreme values or other statistically processed values of post-processing analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>39</OctetNo>
 		<Contents_en>Method used to derive the data field values at the local time specified in section 1</Contents_en>
-		<Note_en>(see Code Table 4.248)</Note_en>
+		<Note_en>(see Code table 4.248)</Note_en>
 		<noteIDs/>
 		<codeTable>4.248</codeTable>
 		<flagTable/>
@@ -24903,7 +24903,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.97 - Average, accumulation, extreme values or other statistically processed values of post-processing analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>40</OctetNo>
-		<Contents_en>n - number of analysis or forecast used to create the composite data field at the local time specified in section 1 (n&gt;=1)</Contents_en>
+		<Contents_en>n - number of analyses or forecasts used to create the composite data field at the local time specified in section 1 (n &gt;= 1)</Contents_en>
 		<Note_en>(see Note 6)</Note_en>
 		<noteIDs>146</noteIDs>
 		<codeTable/>
@@ -24974,7 +24974,7 @@
 		<Title_en>Product definition template 4.97 - Average, accumulation, extreme values or other statistically processed values of post-processing analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>48</OctetNo>
 		<Contents_en>Indicator of units of forecast time (set to missing if analysis)</Contents_en>
-		<Note_en>(see Code Table 4.4)</Note_en>
+		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
@@ -24984,7 +24984,7 @@
 		<Title_en>Product definition template 4.97 - Average, accumulation, extreme values or other statistically processed values of post-processing analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>49-52</OctetNo>
 		<Contents_en>Forecast time</Contents_en>
-		<Note_en>(see Note 7 and 9)</Note_en>
+		<Note_en>(see Notes 7 and 9)</Note_en>
 		<noteIDs>151,70</noteIDs>
 		<codeTable/>
 		<flagTable/>
@@ -25004,7 +25004,7 @@
 		<Title_en>Product definition template 4.97 - Average, accumulation, extreme values or other statistically processed values of post-processing analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>54</OctetNo>
 		<Contents_en>Indicator of units of time for the time increments</Contents_en>
-		<Note_en>(see Code Table 4.4)</Note_en>
+		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
@@ -25013,7 +25013,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.97 - Average, accumulation, extreme values or other statistically processed values of post-processing analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>55-58</OctetNo>
-		<Contents_en>Time increments between successive forecast time</Contents_en>
+		<Contents_en>Time increments between successive forecast times</Contents_en>
 		<Note_en>(see Note 8)</Note_en>
 		<noteIDs>147</noteIDs>
 		<codeTable/>
@@ -25023,7 +25023,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.97 - Average, accumulation, extreme values or other statistically processed values of post-processing analysis or forecast at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>59-nn</OctetNo>
-		<Contents_en>(n-1) repetitions of sequence of octet 41-58 describing the next analyses or forecasts used in the processing</Contents_en>
+		<Contents_en>(n-1) repetitions of sequence of octets 41-58 describing the next analyses or forecasts used in the processing</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -25033,7 +25033,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.98 - Average, accumulation, extreme values or other statistically processed values of a post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 44-61 Specification of the forecast used in the processing (n=1)</Contents_en>
+		<Contents_en>Octets 44-61 Specification of the forecast used in the processing (n = 1)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -25043,7 +25043,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.98 - Average, accumulation, extreme values or other statistically processed values of a post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo/>
-		<Contents_en>Octet 62-nn are included only if n&gt;1 where nn = 43 + 18 x n</Contents_en>
+		<Contents_en>Octets 62-nn are included only if n &gt; 1 where nn = 43 + 18 x n</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -25264,7 +25264,7 @@
 		<Title_en>Product definition template 4.98 - Average, accumulation, extreme values or other statistically processed values of a post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>42</OctetNo>
 		<Contents_en>Method used to derive the data field values at the local time specified in section 1</Contents_en>
-		<Note_en>(see Code Table 4.248)</Note_en>
+		<Note_en>(see Code table 4.248)</Note_en>
 		<noteIDs/>
 		<codeTable>4.248</codeTable>
 		<flagTable/>
@@ -25273,7 +25273,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.98 - Average, accumulation, extreme values or other statistically processed values of a post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>43</OctetNo>
-		<Contents_en>n - number of forecasts used to create the composite data field at the local time specified in section 1 (n&gt;=1)</Contents_en>
+		<Contents_en>n - number of forecasts used to create the composite data field at the local time specified in section 1 (n &gt;= 1)</Contents_en>
 		<Note_en>(see Note 6)</Note_en>
 		<noteIDs>148</noteIDs>
 		<codeTable/>
@@ -25374,7 +25374,7 @@
 		<Title_en>Product definition template 4.98 - Average, accumulation, extreme values or other statistically processed values of a post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>57</OctetNo>
 		<Contents_en>Indicator of units of time for the time increments</Contents_en>
-		<Note_en>(see Code Table 4.4)</Note_en>
+		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
@@ -25383,7 +25383,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.98 - Average, accumulation, extreme values or other statistically processed values of a post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>58-61</OctetNo>
-		<Contents_en>Time increments between successive forecast time</Contents_en>
+		<Contents_en>Time increments between successive forecast times</Contents_en>
 		<Note_en>(see Note 8)</Note_en>
 		<noteIDs>149</noteIDs>
 		<codeTable/>
@@ -25393,7 +25393,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.98 - Average, accumulation, extreme values or other statistically processed values of a post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a local time</Title_en>
 		<OctetNo>62-nn</OctetNo>
-		<Contents_en>(n-1) repetitions of sequence of octet 44-61 describing the next analyses or forecasts used in the processing</Contents_en>
+		<Contents_en>(n-1) repetitions of sequence of octets 44-61 describing the next analyses or forecasts used in the processing</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -25484,7 +25484,7 @@
 		<Title_en>Product definition template 4.1000 - cross-section of analysis and forecast at a point in time</Title_en>
 		<OctetNo>15-16</OctetNo>
 		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
-		<Note_en>(see Note)</Note_en>
+		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>33</noteIDs>
 		<codeTable/>
 		<flagTable/>
@@ -25734,7 +25734,7 @@
 		<Title_en>Product definition template 4.1002 - cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude</Title_en>
 		<OctetNo>15-16</OctetNo>
 		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
-		<Note_en>(see Note)</Note_en>
+		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>33</noteIDs>
 		<codeTable/>
 		<flagTable/>
@@ -25884,7 +25884,7 @@
 		<Title_en>Product definition template 4.1100 - Hovmöller-type grid with no averaging or other statistical processing</Title_en>
 		<OctetNo>15-16</OctetNo>
 		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
-		<Note_en>(see Note)</Note_en>
+		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>33</noteIDs>
 		<codeTable/>
 		<flagTable/>
