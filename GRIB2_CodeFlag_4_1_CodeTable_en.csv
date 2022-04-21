@@ -1,81 +1,81 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Parameter category by product discipline,Product discipline 0 - Meteorological products,0,,Temperature,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,1,,Moisture,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,2,,Momentum,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,3,,Mass,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,4,,Short-wave radiation,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,5,,Long-wave radiation,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,6,,Cloud,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,7,,Thermodynamic stability indices,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,8,,Kinematic stability indices,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,9,,Temperature probabilities,,,Deprecated
-Parameter category by product discipline,Product discipline 0 - Meteorological products,10,,Moisture probabilities,,,Deprecated
-Parameter category by product discipline,Product discipline 0 - Meteorological products,11,,Momentum probabilities,,,Deprecated
-Parameter category by product discipline,Product discipline 0 - Meteorological products,12,,Mass probabilities,,,Deprecated
-Parameter category by product discipline,Product discipline 0 - Meteorological products,13,,Aerosols,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,14,,"Trace gases (e.g. ozone, CO2)",,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,15,,Radar,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,16,,Forecast radar imagery,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,17,,Electrodynamics,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,18,,Nuclear/radiology,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,19,,Physical atmospheric properties,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,20,,Atmospheric chemical constituents,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,21-189,,Reserved,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,190,,CCITT IA5 string,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,191,,Miscellaneous,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,192-254,,Reserved for local use,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,255,,Missing,,,Operational
-Parameter category by product discipline,Product discipline 1 - Hydrological products,0,,Hydrology basic products,,,Operational
-Parameter category by product discipline,Product discipline 1 - Hydrological products,1,,Hydrology probabilities,,,Operational
-Parameter category by product discipline,Product discipline 1 - Hydrological products,2,,Inland water and sediment properties,,,Operational
-Parameter category by product discipline,Product discipline 1 - Hydrological products,3-191,,Reserved,,,Operational
-Parameter category by product discipline,Product discipline 1 - Hydrological products,192-254,,Reserved for local use,,,Operational
-Parameter category by product discipline,Product discipline 1 - Hydrological products,255,,Missing,,,Operational
-Parameter category by product discipline,Product discipline 2 - Land surface products,0,,Vegetation/biomass,,,Operational
-Parameter category by product discipline,Product discipline 2 - Land surface products,1,,Agri-/aquacultural special products,,,Operational
-Parameter category by product discipline,Product discipline 2 - Land surface products,2,,Transportation-related products,,,Operational
-Parameter category by product discipline,Product discipline 2 - Land surface products,3,,Soil products,,,Operational
-Parameter category by product discipline,Product discipline 2 - Land surface products,4,,Fire weather products,,,Operational
-Parameter category by product discipline,Product discipline 2 - Land surface products,5,,Glaciers and inland ice,,,Operational
-Parameter category by product discipline,Product discipline 2 - Land surface products,6-191,,Reserved,,,Operational
-Parameter category by product discipline,Product discipline 2 - Land surface products,192-254,,Reserved for local use,,,Operational
-Parameter category by product discipline,Product discipline 2 - Land surface products,255,,Missing,,,Operational
-Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",0,,Image format products,(see Note 1),,Operational
-Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",1,,Quantitative products,(see Note 2),,Operational
-Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",2,,Cloud properties,,,Operational
-Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",3,,Flight rule conditions,,,Operational
-Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",4,,Volcanic ash,,,Operational
-Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",5,,Sea-surface temperature,,,Operational
-Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",6,,Solar radiation,,,Operational
-Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",7-191,,Reserved,,,Operational
-Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",192-254,,Reserved for local use,,,Operational
-Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",255,,Missing,,,Operational
-Parameter category by product discipline,Product discipline 4 - Space weather products,0,,Temperature,,,Operational
-Parameter category by product discipline,Product discipline 4 - Space weather products,1,,Momentum,,,Operational
-Parameter category by product discipline,Product discipline 4 - Space weather products,2,,Charged particle mass and number,,,Operational
-Parameter category by product discipline,Product discipline 4 - Space weather products,3,,Electric and magnetic fields,,,Operational
-Parameter category by product discipline,Product discipline 4 - Space weather products,4,,Energetic particles,,,Operational
-Parameter category by product discipline,Product discipline 4 - Space weather products,5,,Waves,,,Operational
-Parameter category by product discipline,Product discipline 4 - Space weather products,6,,Solar electromagnetic emissions,,,Operational
-Parameter category by product discipline,Product discipline 4 - Space weather products,7,,Terrestrial electromagnetic emissions,,,Operational
-Parameter category by product discipline,Product discipline 4 - Space weather products,8,,Imagery,,,Operational
-Parameter category by product discipline,Product discipline 4 - Space weather products,9,,Ion-neutral coupling,,,Operational
-Parameter category by product discipline,Product discipline 4 - Space weather products,10,,Space weather indices,,,Operational
-Parameter category by product discipline,Product discipline 4 - Space weather products,11-191,,Reserved,,,Operational
-Parameter category by product discipline,Product discipline 4 - Space weather products,192-254,,Reserved for local use,,,Operational
-Parameter category by product discipline,Product discipline 4 - Space weather products,255,,Missing,,,Operational
-Parameter category by product discipline,Product discipline 10 - Oceanographic products,0,,Waves,,,Operational
-Parameter category by product discipline,Product discipline 10 - Oceanographic products,1,,Currents,,,Operational
-Parameter category by product discipline,Product discipline 10 - Oceanographic products,2,,Ice,,,Operational
-Parameter category by product discipline,Product discipline 10 - Oceanographic products,3,,Surface properties,,,Operational
-Parameter category by product discipline,Product discipline 10 - Oceanographic products,4,,Subsurface properties,,,Operational
-Parameter category by product discipline,Product discipline 10 - Oceanographic products,5-190,,Reserved,,,Operational
-Parameter category by product discipline,Product discipline 10 - Oceanographic products,191,,Miscellaneous,,,Operational
-Parameter category by product discipline,Product discipline 10 - Oceanographic products,192-254,,Reserved for local use,,,Operational
-Parameter category by product discipline,Product discipline 10 - Oceanographic products,255,,Missing,,,Operational
-Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impact,0,,Health indicators,,,Operational
-Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impact,1,,Epidemiology,,,Operational
-Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impact,2,,Socioeconomic indicators,,,Operational
-Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impact,3-191,,Reserved,,,Operational
-Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impact,192-254,,Reserved for local use,,,Operational
-Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impact,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter category by product discipline,Product discipline 0 - Meteorological products,0,,Temperature,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,1,,Moisture,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,2,,Momentum,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,3,,Mass,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,4,,Short-wave radiation,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,5,,Long-wave radiation,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,6,,Cloud,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,7,,Thermodynamic stability indices,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,8,,Kinematic stability indices,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,9,,Temperature probabilities,,,,Deprecated
+Parameter category by product discipline,Product discipline 0 - Meteorological products,10,,Moisture probabilities,,,,Deprecated
+Parameter category by product discipline,Product discipline 0 - Meteorological products,11,,Momentum probabilities,,,,Deprecated
+Parameter category by product discipline,Product discipline 0 - Meteorological products,12,,Mass probabilities,,,,Deprecated
+Parameter category by product discipline,Product discipline 0 - Meteorological products,13,,Aerosols,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,14,,"Trace gases (e.g. ozone, CO2)",,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,15,,Radar,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,16,,Forecast radar imagery,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,17,,Electrodynamics,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,18,,Nuclear/radiology,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,19,,Physical atmospheric properties,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,20,,Atmospheric chemical constituents,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,21-189,,Reserved,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,190,,CCITT IA5 string,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,191,,Miscellaneous,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,192-254,,Reserved for local use,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,255,,Missing,,,,Operational
+Parameter category by product discipline,Product discipline 1 - Hydrological products,0,,Hydrology basic products,,,,Operational
+Parameter category by product discipline,Product discipline 1 - Hydrological products,1,,Hydrology probabilities,,,,Operational
+Parameter category by product discipline,Product discipline 1 - Hydrological products,2,,Inland water and sediment properties,,,,Operational
+Parameter category by product discipline,Product discipline 1 - Hydrological products,3-191,,Reserved,,,,Operational
+Parameter category by product discipline,Product discipline 1 - Hydrological products,192-254,,Reserved for local use,,,,Operational
+Parameter category by product discipline,Product discipline 1 - Hydrological products,255,,Missing,,,,Operational
+Parameter category by product discipline,Product discipline 2 - Land surface products,0,,Vegetation/biomass,,,,Operational
+Parameter category by product discipline,Product discipline 2 - Land surface products,1,,Agri-/aquacultural special products,,,,Operational
+Parameter category by product discipline,Product discipline 2 - Land surface products,2,,Transportation-related products,,,,Operational
+Parameter category by product discipline,Product discipline 2 - Land surface products,3,,Soil products,,,,Operational
+Parameter category by product discipline,Product discipline 2 - Land surface products,4,,Fire weather products,,,,Operational
+Parameter category by product discipline,Product discipline 2 - Land surface products,5,,Glaciers and inland ice,,,,Operational
+Parameter category by product discipline,Product discipline 2 - Land surface products,6-191,,Reserved,,,,Operational
+Parameter category by product discipline,Product discipline 2 - Land surface products,192-254,,Reserved for local use,,,,Operational
+Parameter category by product discipline,Product discipline 2 - Land surface products,255,,Missing,,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",0,,Image format products,(see Note 1),40,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",1,,Quantitative products,(see Note 2),39,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",2,,Cloud properties,,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",3,,Flight rule conditions,,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",4,,Volcanic ash,,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",5,,Sea-surface temperature,,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",6,,Solar radiation,,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",7-191,,Reserved,,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",192-254,,Reserved for local use,,,,Operational
+Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",255,,Missing,,,,Operational
+Parameter category by product discipline,Product discipline 4 - Space weather products,0,,Temperature,,,,Operational
+Parameter category by product discipline,Product discipline 4 - Space weather products,1,,Momentum,,,,Operational
+Parameter category by product discipline,Product discipline 4 - Space weather products,2,,Charged particle mass and number,,,,Operational
+Parameter category by product discipline,Product discipline 4 - Space weather products,3,,Electric and magnetic fields,,,,Operational
+Parameter category by product discipline,Product discipline 4 - Space weather products,4,,Energetic particles,,,,Operational
+Parameter category by product discipline,Product discipline 4 - Space weather products,5,,Waves,,,,Operational
+Parameter category by product discipline,Product discipline 4 - Space weather products,6,,Solar electromagnetic emissions,,,,Operational
+Parameter category by product discipline,Product discipline 4 - Space weather products,7,,Terrestrial electromagnetic emissions,,,,Operational
+Parameter category by product discipline,Product discipline 4 - Space weather products,8,,Imagery,,,,Operational
+Parameter category by product discipline,Product discipline 4 - Space weather products,9,,Ion-neutral coupling,,,,Operational
+Parameter category by product discipline,Product discipline 4 - Space weather products,10,,Space weather indices,,,,Operational
+Parameter category by product discipline,Product discipline 4 - Space weather products,11-191,,Reserved,,,,Operational
+Parameter category by product discipline,Product discipline 4 - Space weather products,192-254,,Reserved for local use,,,,Operational
+Parameter category by product discipline,Product discipline 4 - Space weather products,255,,Missing,,,,Operational
+Parameter category by product discipline,Product discipline 10 - Oceanographic products,0,,Waves,,,,Operational
+Parameter category by product discipline,Product discipline 10 - Oceanographic products,1,,Currents,,,,Operational
+Parameter category by product discipline,Product discipline 10 - Oceanographic products,2,,Ice,,,,Operational
+Parameter category by product discipline,Product discipline 10 - Oceanographic products,3,,Surface properties,,,,Operational
+Parameter category by product discipline,Product discipline 10 - Oceanographic products,4,,Subsurface properties,,,,Operational
+Parameter category by product discipline,Product discipline 10 - Oceanographic products,5-190,,Reserved,,,,Operational
+Parameter category by product discipline,Product discipline 10 - Oceanographic products,191,,Miscellaneous,,,,Operational
+Parameter category by product discipline,Product discipline 10 - Oceanographic products,192-254,,Reserved for local use,,,,Operational
+Parameter category by product discipline,Product discipline 10 - Oceanographic products,255,,Missing,,,,Operational
+Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,0,,Health indicators,,,,Operational
+Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,1,,Epidemiology,,,,Operational
+Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,2,,Socioeconomic indicators,,,,Operational
+Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,3-191,,Reserved,,,,Operational
+Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,192-254,,Reserved for local use,,,,Operational
+Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,255,,Missing,,,,Operational

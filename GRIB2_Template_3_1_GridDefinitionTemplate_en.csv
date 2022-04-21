@@ -3,4 +3,4 @@ Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
 "rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",73-76,Latitude of the southern pole of projection,,,,,Operational
 "rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",77-80,Longitude of the southern pole of projection,,,,,Operational
 "rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",81-84,Angle of rotation of projection,,,,,Operational
-"rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",85-nn,List of number of points along each meridian or parallel.,"(see Notes 3 and 4)","4,124",,,Operational
+"rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",85-nn,List of number of points along each meridian or parallel,"(see Notes 3 and 4)","4,124",,,Operational

@@ -1,46 +1,46 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Pixel scene type,,0,,No scene identified,,,Operational
-Pixel scene type,,1,,Green needle-leafed forest,,,Operational
-Pixel scene type,,2,,Green broad-leafed forest,,,Operational
-Pixel scene type,,3,,Deciduous needle-leafed forest,,,Operational
-Pixel scene type,,4,,Deciduous broad-leafed forest,,,Operational
-Pixel scene type,,5,,Deciduous mixed forest,,,Operational
-Pixel scene type,,6,,Closed shrub-land,,,Operational
-Pixel scene type,,7,,Open shrub-land,,,Operational
-Pixel scene type,,8,,Woody savannah,,,Operational
-Pixel scene type,,9,,Savannah,,,Operational
-Pixel scene type,,10,,Grassland,,,Operational
-Pixel scene type,,11,,Permanent wetland,,,Operational
-Pixel scene type,,12,,Cropland,,,Operational
-Pixel scene type,,13,,Urban,,,Operational
-Pixel scene type,,14,,Vegetation/crops,,,Operational
-Pixel scene type,,15,,Permanent snow/ice,,,Operational
-Pixel scene type,,16,,Barren desert,,,Operational
-Pixel scene type,,17,,Water bodies,,,Operational
-Pixel scene type,,18,,Tundra,,,Operational
-Pixel scene type,,19,,Warm liquid water cloud,,,Operational
-Pixel scene type,,20,,Supercooled liquid water cloud,,,Operational
-Pixel scene type,,21,,Mixed-phase cloud,,,Operational
-Pixel scene type,,22,,Optically thin ice cloud,,,Operational
-Pixel scene type,,23,,Optically thick ice cloud,,,Operational
-Pixel scene type,,24,,Multilayered cloud,,,Operational
-Pixel scene type,,25-96,,Reserved,,,Operational
-Pixel scene type,,97,,Snow/ice on land,,,Operational
-Pixel scene type,,98,,Snow/ice on water,,,Operational
-Pixel scene type,,99,,Sun-glint,,,Operational
-Pixel scene type,,100,,General cloud,,,Operational
-Pixel scene type,,101,,Low cloud/fog/stratus,,,Operational
-Pixel scene type,,102,,Low cloud/stratocumulus,,,Operational
-Pixel scene type,,103,,Low cloud/unknown type,,,Operational
-Pixel scene type,,104,,Medium cloud/nimbostratus,,,Operational
-Pixel scene type,,105,,Medium cloud/altostratus,,,Operational
-Pixel scene type,,106,,Medium cloud/unknown type,,,Operational
-Pixel scene type,,107,,High cloud/cumulus,,,Operational
-Pixel scene type,,108,,High cloud/cirrus,,,Operational
-Pixel scene type,,109,,High cloud/unknown,,,Operational
-Pixel scene type,,110,,Unknown cloud type,,,Operational
-Pixel scene type,,111,,Single layer water cloud,,,Operational
-Pixel scene type,,112,,Single layer ice cloud,,,Operational
-Pixel scene type,,113-191,,Reserved,,,Operational
-Pixel scene type,,192-254,,Reserved for local use,,,Operational
-Pixel scene type,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Pixel scene type,,0,,No scene identified,,,,Operational
+Pixel scene type,,1,,Green needle-leafed forest,,,,Operational
+Pixel scene type,,2,,Green broad-leafed forest,,,,Operational
+Pixel scene type,,3,,Deciduous needle-leafed forest,,,,Operational
+Pixel scene type,,4,,Deciduous broad-leafed forest,,,,Operational
+Pixel scene type,,5,,Deciduous mixed forest,,,,Operational
+Pixel scene type,,6,,Closed shrub-land,,,,Operational
+Pixel scene type,,7,,Open shrub-land,,,,Operational
+Pixel scene type,,8,,Woody savannah,,,,Operational
+Pixel scene type,,9,,Savannah,,,,Operational
+Pixel scene type,,10,,Grassland,,,,Operational
+Pixel scene type,,11,,Permanent wetland,,,,Operational
+Pixel scene type,,12,,Cropland,,,,Operational
+Pixel scene type,,13,,Urban,,,,Operational
+Pixel scene type,,14,,Vegetation/crops,,,,Operational
+Pixel scene type,,15,,Permanent snow/ice,,,,Operational
+Pixel scene type,,16,,Barren desert,,,,Operational
+Pixel scene type,,17,,Water bodies,,,,Operational
+Pixel scene type,,18,,Tundra,,,,Operational
+Pixel scene type,,19,,Warm liquid water cloud,,,,Operational
+Pixel scene type,,20,,Supercooled liquid water cloud,,,,Operational
+Pixel scene type,,21,,Mixed-phase cloud,,,,Operational
+Pixel scene type,,22,,Optically thin ice cloud,,,,Operational
+Pixel scene type,,23,,Optically thick ice cloud,,,,Operational
+Pixel scene type,,24,,Multilayered cloud,,,,Operational
+Pixel scene type,,25-96,,Reserved,,,,Operational
+Pixel scene type,,97,,Snow/ice on land,,,,Operational
+Pixel scene type,,98,,Snow/ice on water,,,,Operational
+Pixel scene type,,99,,Sun-glint,,,,Operational
+Pixel scene type,,100,,General cloud,,,,Operational
+Pixel scene type,,101,,Low cloud/fog/stratus,,,,Operational
+Pixel scene type,,102,,Low cloud/stratocumulus,,,,Operational
+Pixel scene type,,103,,Low cloud/unknown type,,,,Operational
+Pixel scene type,,104,,Medium cloud/nimbostratus,,,,Operational
+Pixel scene type,,105,,Medium cloud/altostratus,,,,Operational
+Pixel scene type,,106,,Medium cloud/unknown type,,,,Operational
+Pixel scene type,,107,,High cloud/cumulus,,,,Operational
+Pixel scene type,,108,,High cloud/cirrus,,,,Operational
+Pixel scene type,,109,,High cloud/unknown,,,,Operational
+Pixel scene type,,110,,Unknown cloud type,,,,Operational
+Pixel scene type,,111,,Single layer water cloud,,,,Operational
+Pixel scene type,,112,,Single layer ice cloud,,,,Operational
+Pixel scene type,,113-191,,Reserved,,,,Operational
+Pixel scene type,,192-254,,Reserved for local use,,,,Operational
+Pixel scene type,,255,,Missing,,,,Operational

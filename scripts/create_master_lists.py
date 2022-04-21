@@ -157,7 +157,7 @@ if __name__ == "__main__":
     files = load_files("GRIB2_CodeFlag",basedir=".")
 
     # CodeFlag tables
-    fieldnames=["Title_en","SubTitle_en","CodeFlag","Value","MeaningParameterDescription_en","Note_en","UnitComments_en","Status"]    
+    fieldnames=["Title_en","SubTitle_en","CodeFlag","Value","MeaningParameterDescription_en","Note_en","noteIDs","UnitComments_en","Status"]    
     csv_writer = CSVWriter("txt/CodeFlag.txt",fieldnames)
     
     xml_elements=["Title_en","CodeFlag","MeaningParameterDescription_en","Status"]

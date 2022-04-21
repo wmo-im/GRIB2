@@ -1,6 +1,6 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Presence of aerosol,,0,,Aerosol not present,,,Operational
-Presence of aerosol,,1,,Aerosol present,,,Operational
-Presence of aerosol,,2-191,,Reserved,,,Operational
-Presence of aerosol,,192-254,,Reserved for local use,,,Operational
-Presence of aerosol,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Presence of aerosol,,0,,Aerosol not present,,,,Operational
+Presence of aerosol,,1,,Aerosol present,,,,Operational
+Presence of aerosol,,2-191,,Reserved,,,,Operational
+Presence of aerosol,,192-254,,Reserved for local use,,,,Operational
+Presence of aerosol,,255,,Missing,,,,Operational

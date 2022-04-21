@@ -1,9 +1,9 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,UnitComments_en,Status
-Remotely sensed snow coverage,,0-49,,Reserved,,,Operational
-Remotely sensed snow coverage,,50,,No-snow/no-cloud,,,Operational
-Remotely sensed snow coverage,,51-99,,Reserved,,,Operational
-Remotely sensed snow coverage,,100,,Clouds,,,Operational
-Remotely sensed snow coverage,,101-249,,Reserved,,,Operational
-Remotely sensed snow coverage,,250,,Snow,,,Operational
-Remotely sensed snow coverage,,251-254,,Reserved for local use,,,Operational
-Remotely sensed snow coverage,,255,,Missing,,,Operational
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Remotely sensed snow coverage,,0-49,,Reserved,,,,Operational
+Remotely sensed snow coverage,,50,,No-snow/no-cloud,,,,Operational
+Remotely sensed snow coverage,,51-99,,Reserved,,,,Operational
+Remotely sensed snow coverage,,100,,Clouds,,,,Operational
+Remotely sensed snow coverage,,101-249,,Reserved,,,,Operational
+Remotely sensed snow coverage,,250,,Snow,,,,Operational
+Remotely sensed snow coverage,,251-254,,Reserved for local use,,,,Operational
+Remotely sensed snow coverage,,255,,Missing,,,,Operational

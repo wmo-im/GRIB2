@@ -1,0 +1,14 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Drainage direction,,0,,Reserved,,,,Operational
+Drainage direction,,1,,South-West,,,,Operational
+Drainage direction,,2,,South,,,,Operational
+Drainage direction,,3,,South-East,,,,Operational
+Drainage direction,,4,,West,,,,Operational
+Drainage direction,,5,,No direction,,,,Operational
+Drainage direction,,6,,East,,,,Operational
+Drainage direction,,7,,North-West,,,,Operational
+Drainage direction,,8,,North,,,,Operational
+Drainage direction,,9,,North-East,,,,Operational
+Drainage direction,,10-191,,Reserved,,,,Operational
+Drainage direction,,192-254,,Reserved for local use,,,,Operational
+Drainage direction,,255,,Missing,,,,Operational
