@@ -726,6 +726,15 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",2-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",255,,Missing,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 6: urban areas",0,,Urban cover,,,Proportion,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 6: urban areas",1,,Road cover,,,Proportion,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 6: urban areas",2,,Building cover,,,Proportion,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 6: urban areas",3,,Building height,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 6: urban areas",4,,Vertical-to-horizontal area fraction,,, m2 m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 6: urban areas",5,,Standard deviation of building height,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 6: urban areas",6-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 6: urban areas",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 6: urban areas",255,,Missing,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",0,,Scaled radiance,,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",1,,Scaled albedo,,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",2,,Scaled brightness temperature,,,Numeric,Operational
