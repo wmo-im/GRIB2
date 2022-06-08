@@ -119,4 +119,4 @@ noteID,note
 122,<<note has images of formulas>>
 123,"The lightning potential index (LPI, Number 1), as defined by Lynn et al. 2010, is derived from grid scale (resolved) model information in convection permitting models. In contrast, the subgrid-scale lightning potential index is derived from subgrid-scale information (from parameterized convection) for models with coarser resolution."
 124,"Number 33 (Geometric altitude above mean sea level) or number 34 (Geometric height above ground level) should be used instead of number 6 (Geometric height), because it does not indicate whether this is referring to height above mean sea level or height above ground."
-125,"A C4 plant is a type of plant that uses a specific photosynthesis mechanism (C4 photosynthesis) in order to avoid photorespiration. Other types of plants are C3 and CAM."
+issue147,"A C4 plant is a type of plant that uses a specific photosynthesis mechanism (C4 photosynthesis) in order to avoid photorespiration. Other types of plants are C3 and CAM."
