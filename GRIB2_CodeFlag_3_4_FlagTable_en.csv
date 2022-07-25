@@ -6,7 +6,7 @@ Scanning mode,,2,1,Points of first row or column scan in the +j (+y) direction,,
 Scanning mode,,3,0,Adjacent points in i (x) direction are consecutive,,,,Operational
 Scanning mode,,3,1,Adjacent points in j (y) direction is consecutive,,,,Operational
 Scanning mode,,4,0,All rows scan in the same direction,,,,Operational
-Scanning mode,,4,1,Adjacent rows scans in the opposite direction,,,,Operational
+Scanning mode,,4,1,Adjacent rows scan in the opposite direction,,,,Operational
 Scanning mode,,5,0,Points within odd rows are not offset in i (x) direction,,,,Operational
 Scanning mode,,5,1,Points within odd rows are offset by Di/2 in i (x) direction,,,,Operational
 Scanning mode,,6,0,Points within even rows are not offset in i (x) direction,,,,Operational
