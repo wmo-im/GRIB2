@@ -120,3 +120,6 @@ noteID,note
 123,"The lightning potential index (LPI, Number 1), as defined by Lynn et al. 2010, is derived from grid scale (resolved) model information in convection permitting models. In contrast, the subgrid-scale lightning potential index is derived from subgrid-scale information (from parameterized convection) for models with coarser resolution."
 124,"Number 33 (Geometric altitude above mean sea level) or number 34 (Geometric height above ground level) should be used instead of number 6 (Geometric height), because it does not indicate whether this is referring to height above mean sea level or height above ground."
 issue147,"A C4 plant is a type of plant that uses a specific photosynthesis mechanism (C4 photosynthesis) in order to avoid photorespiration. Other types of plants are C3 and CAM."
+#150_1,"Total (atmospheric) energy is the sum of internal energy, potential energy, kinetic energy and latent heat. Same applies to energy fluxes."
+#150_2,"The water enthalpy (flux) is the enthalpy (flux) associated with the temperature of the water mass."
+#150_3,"The water potential energy flux is the flux of potential energy associated with the water mass."
