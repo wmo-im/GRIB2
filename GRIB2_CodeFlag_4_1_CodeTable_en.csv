@@ -20,7 +20,8 @@ Parameter category by product discipline,Product discipline 0 - Meteorological p
 Parameter category by product discipline,Product discipline 0 - Meteorological products,18,,Nuclear/radiology,,,,Operational
 Parameter category by product discipline,Product discipline 0 - Meteorological products,19,,Physical atmospheric properties,,,,Operational
 Parameter category by product discipline,Product discipline 0 - Meteorological products,20,,Atmospheric chemical constituents,,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,21-189,,Reserved,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,21,,Thermodynamic properties,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,22-189,,Reserved,,,,Operational
 Parameter category by product discipline,Product discipline 0 - Meteorological products,190,,CCITT IA5 string,,,,Operational
 Parameter category by product discipline,Product discipline 0 - Meteorological products,191,,Miscellaneous,,,,Operational
 Parameter category by product discipline,Product discipline 0 - Meteorological products,192-254,,Reserved for local use,,,,Operational
