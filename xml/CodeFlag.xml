@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2022-04-21T09:29:09.559893">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2022-08-18T09:07:53.248779">
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 0.0 - Discipline of processed data in the GRIB message, number of GRIB Master table</Title_en>
 		<CodeFlag>0</CodeFlag>
@@ -1071,7 +1071,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Flag table 3.4 - Scanning mode</Title_en>
 		<CodeFlag>4</CodeFlag>
-		<MeaningParameterDescription_en>Adjacent rows scans in the opposite direction</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Adjacent rows scan in the opposite direction</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -2258,7 +2258,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
-		<CodeFlag>21-189</CodeFlag>
+		<CodeFlag>21</CodeFlag>
+		<MeaningParameterDescription_en>Thermodynamic properties</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
+		<CodeFlag>22-189</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -2360,7 +2366,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
-		<CodeFlag>6-191</CodeFlag>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>Urban areas</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
+		<CodeFlag>7-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -3728,7 +3740,97 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>150-191</CodeFlag>
+		<CodeFlag>150</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated eastward water vapour mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>151</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated northward water vapour mass flux</MeaningParameterDescription_en>
+		<Status> Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>152</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated eastward cloud liquid water mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>153</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated northward cloud liquid water mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>154</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated eastward cloud ice mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>155</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated northward cloud ice mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>156</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated eastward rain mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>157</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated northward rain mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>158</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated eastward snow mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>159</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated northward snow mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>160</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated divergence of water vapour mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>161</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated divergence of cloud liquid water mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>162</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated divergence of cloud ice mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>163</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated divergence of rain mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>164</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated divergence of snow mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>165-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -4040,7 +4142,37 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>49-191</CodeFlag>
+		<CodeFlag>49</CodeFlag>
+		<MeaningParameterDescription_en>Wind stress</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>50</CodeFlag>
+		<MeaningParameterDescription_en>Eastward wind stress</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>51</CodeFlag>
+		<MeaningParameterDescription_en>Northward wind stress</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>52</CodeFlag>
+		<MeaningParameterDescription_en>u-component of wind stress</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>53</CodeFlag>
+		<MeaningParameterDescription_en>v-component of wind stress</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>54-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -4268,7 +4400,25 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>35-191</CodeFlag>
+		<CodeFlag>35</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated divergence of total mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>36</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated eastward total mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>37</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated northward total mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>38-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -5720,7 +5870,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>18-49</CodeFlag>
+		<CodeFlag>18</CodeFlag>
+		<MeaningParameterDescription_en>Potential of hydrogen (pH)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>19-49</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -5894,7 +6050,31 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>78-99</CodeFlag>
+		<CodeFlag>78</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated eastward mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>79</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated northward mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>80</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated divergence of mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>81</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated net source</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>82-99</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -5973,6 +6153,144 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>112-191</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>192-254</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for local use</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>255</CodeFlag>
+		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>255</CodeFlag>
+		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>0</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated potential + internal energy</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated kinetic energy</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated total energy</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated enthalpy</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated water enthalpy</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated eastward enthalpy flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated northward enthalpy flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>7</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated eastward potential energy flux</MeaningParameterDescription_en>
+		<Status>Operationaal</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>8</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated northward potential energy flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>9</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated eastward kinetic energy flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>10</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated northward kinetic energy flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>11</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated eastward total energy flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>12</CodeFlag>
+		<MeaningParameterDescription_en>Column integrated northward total energy flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>13</CodeFlag>
+		<MeaningParameterDescription_en>Divergence of column integrated enthalpy flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>14</CodeFlag>
+		<MeaningParameterDescription_en>Divergence of column integrated potential energy flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>15</CodeFlag>
+		<MeaningParameterDescription_en>Divergence of column integrated water potential energy flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>16</CodeFlag>
+		<MeaningParameterDescription_en>Divergence of column integrated kinetic energy flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>17</CodeFlag>
+		<MeaningParameterDescription_en>Divergence of column integrated total energy flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>18</CodeFlag>
+		<MeaningParameterDescription_en>Divergence of column integrated water enthalpy flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>19-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -6590,7 +6908,37 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>45-191</CodeFlag>
+		<CodeFlag>45</CodeFlag>
+		<MeaningParameterDescription_en>Wetland cover</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>46</CodeFlag>
+		<MeaningParameterDescription_en>Wetland type</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>47</CodeFlag>
+		<MeaningParameterDescription_en>Irrigation cover</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>48</CodeFlag>
+		<MeaningParameterDescription_en>C4 crop cover</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>49</CodeFlag>
+		<MeaningParameterDescription_en>C4 grass cover</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>50-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -6957,6 +7305,60 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>2-191</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>192-254</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for local use</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>255</CodeFlag>
+		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>0</CodeFlag>
+		<MeaningParameterDescription_en>Urban cover</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>Road cover</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>Building cover</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Building height</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>Vertical-to-horizontal area fraction</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>Standard deviation of building height</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>6-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -7929,7 +8331,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>4</CodeFlag>
-		<MeaningParameterDescription_en>Solar spectral irradiance </MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Solar spectral irradiance</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -8672,7 +9074,19 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>5-191</CodeFlag>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>Eastward current</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>Northward current</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>7-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -8780,7 +9194,61 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>15-191</CodeFlag>
+		<CodeFlag>15</CodeFlag>
+		<MeaningParameterDescription_en>Sea ice volume per unit area</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>16</CodeFlag>
+		<MeaningParameterDescription_en>Snow volume over sea ice per unit area</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>17</CodeFlag>
+		<MeaningParameterDescription_en>Sea ice heat content</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>18</CodeFlag>
+		<MeaningParameterDescription_en>Snow over sea ice heat content</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>19</CodeFlag>
+		<MeaningParameterDescription_en>Ice freeboard thickness</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>20</CodeFlag>
+		<MeaningParameterDescription_en>Ice melt pond fraction</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>21</CodeFlag>
+		<MeaningParameterDescription_en>Ice melt pond depth</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>22</CodeFlag>
+		<MeaningParameterDescription_en>Ice melt pond volume per unit area</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>23</CodeFlag>
+		<MeaningParameterDescription_en>Sea ice fraction tendency due to parameterization</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>24-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -8876,7 +9344,49 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>13-191</CodeFlag>
+		<CodeFlag>13</CodeFlag>
+		<MeaningParameterDescription_en>Net upward water flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>14</CodeFlag>
+		<MeaningParameterDescription_en>Eastward surface water velocity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>15</CodeFlag>
+		<MeaningParameterDescription_en>Northward surface water velocity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>16</CodeFlag>
+		<MeaningParameterDescription_en>x-component of surface water velocity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>17</CodeFlag>
+		<MeaningParameterDescription_en>y-component of surface water velocity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>18</CodeFlag>
+		<MeaningParameterDescription_en>Heat flux correction</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>19</CodeFlag>
+		<MeaningParameterDescription_en>Sea surface height tendency due to parameterization</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>20-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -9056,7 +9566,85 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>29-191</CodeFlag>
+		<CodeFlag>29</CodeFlag>
+		<MeaningParameterDescription_en>Bottom pressure equivalent height</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>30</CodeFlag>
+		<MeaningParameterDescription_en>Fresh water flux into sea water from rivers</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>31</CodeFlag>
+		<MeaningParameterDescription_en>Fresh water flux correction</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>32</CodeFlag>
+		<MeaningParameterDescription_en>Virtual salt flux into sea water</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>33</CodeFlag>
+		<MeaningParameterDescription_en>Virtual salt flux correction</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>34</CodeFlag>
+		<MeaningParameterDescription_en>Sea water temperature tendency due to Newtonian relaxation</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>35</CodeFlag>
+		<MeaningParameterDescription_en>Sea water salinity tendency due to Newtonian relaxation</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>36</CodeFlag>
+		<MeaningParameterDescription_en>Sea water temperature tendency due to parameterization</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>37</CodeFlag>
+		<MeaningParameterDescription_en>Sea water salinity tendency due to parameterization</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>38</CodeFlag>
+		<MeaningParameterDescription_en>Eastward sea water velocity tendency due to parameterization</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>39</CodeFlag>
+		<MeaningParameterDescription_en>Northward sea water velocity tendency due to parameterization</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>40</CodeFlag>
+		<MeaningParameterDescription_en>Sea water temperature tendency due to direct bias correction</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>41</CodeFlag>
+		<MeaningParameterDescription_en>Sea water salinity tendency due to direct bias correction</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>42-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -9213,19 +9801,19 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>3</CodeFlag>
-		<MeaningParameterDescription_en>Human bite rate by anopheles vectors </MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Human bite rate by anopheles vectors</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>4</CodeFlag>
-		<MeaningParameterDescription_en>Malaria immunity </MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Malaria immunity</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>5</CodeFlag>
-		<MeaningParameterDescription_en>Falciparum parasite rates </MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Falciparum parasite rates</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -12703,6 +13291,102 @@
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>0</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>Bog</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>Drained</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Fen</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>Floodplain</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>Mangrove</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>Marsh</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>7</CodeFlag>
+		<MeaningParameterDescription_en>Rice</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>8</CodeFlag>
+		<MeaningParameterDescription_en>Riverine</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>9</CodeFlag>
+		<MeaningParameterDescription_en>Salt marsh</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>10</CodeFlag>
+		<MeaningParameterDescription_en>Swamp</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>11</CodeFlag>
+		<MeaningParameterDescription_en>Upland</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>12</CodeFlag>
+		<MeaningParameterDescription_en>Wet tundra</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>13-191</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>192-254</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for local use</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.239 - Wetland Type</Title_en>
+		<CodeFlag>255</CodeFlag>
+		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.240 - Type of distribution function</Title_en>
 		<CodeFlag>0</CodeFlag>
 		<MeaningParameterDescription_en>No specific distribution function given</MeaningParameterDescription_en>
@@ -13293,7 +13977,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.250 - Drainage direction</Title_en>
 		<CodeFlag>1</CodeFlag>
-		<MeaningParameterDescription_en>South-West</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>South-west</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -13305,7 +13989,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.250 - Drainage direction</Title_en>
 		<CodeFlag>3</CodeFlag>
-		<MeaningParameterDescription_en>South-East</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>South-east</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -13329,7 +14013,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.250 - Drainage direction</Title_en>
 		<CodeFlag>7</CodeFlag>
-		<MeaningParameterDescription_en>North-West</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>North-west</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -13341,7 +14025,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.250 - Drainage direction</Title_en>
 		<CodeFlag>9</CodeFlag>
-		<MeaningParameterDescription_en>North-East</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>North-east</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
