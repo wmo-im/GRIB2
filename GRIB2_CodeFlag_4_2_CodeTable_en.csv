@@ -612,7 +612,6 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 21: thermodynamic properties",19-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 21: thermodynamic properties",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 21: thermodynamic properties",255,,Missing,,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",255,,Missing,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 190: CCITT IA5 string",0,,Arbitrary text string,,,CCITT IA5,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 190: CCITT IA5 string",1-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 190: CCITT IA5 string",192-254,,Reserved for local use,,,,Operational
