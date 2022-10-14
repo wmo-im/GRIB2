@@ -1,0 +1,17 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Wetland Type,,0,,Reserved,,,,Operational
+Wetland Type,,1,,Bog,,,,Operational
+Wetland Type,,2,,Drained,,,,Operational
+Wetland Type,,3,,Fen,,,,Operational
+Wetland Type,,4,,Floodplain,,,,Operational
+Wetland Type,,5,,Mangrove,,,,Operational
+Wetland Type,,6,,Marsh,,,,Operational
+Wetland Type,,7,,Rice,,,,Operational
+Wetland Type,,8,,Riverine,,,,Operational
+Wetland Type,,9,,Salt marsh,,,,Operational
+Wetland Type,,10,,Swamp,,,,Operational
+Wetland Type,,11,,Upland,,,,Operational
+Wetland Type,,12,,Wet tundra,,,,Operational
+Wetland Type,,13-191,,Reserved,,,,Operational
+Wetland Type,,192-254,,Reserved for local use,,,,Operational
+Wetland Type,,255,,Missing,,,,Operational

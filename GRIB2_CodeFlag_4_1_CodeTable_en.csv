@@ -20,7 +20,8 @@ Parameter category by product discipline,Product discipline 0 - Meteorological p
 Parameter category by product discipline,Product discipline 0 - Meteorological products,18,,Nuclear/radiology,,,,Operational
 Parameter category by product discipline,Product discipline 0 - Meteorological products,19,,Physical atmospheric properties,,,,Operational
 Parameter category by product discipline,Product discipline 0 - Meteorological products,20,,Atmospheric chemical constituents,,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,21-189,,Reserved,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,21,,Thermodynamic properties,,,,Operational
+Parameter category by product discipline,Product discipline 0 - Meteorological products,22-189,,Reserved,,,,Operational
 Parameter category by product discipline,Product discipline 0 - Meteorological products,190,,CCITT IA5 string,,,,Operational
 Parameter category by product discipline,Product discipline 0 - Meteorological products,191,,Miscellaneous,,,,Operational
 Parameter category by product discipline,Product discipline 0 - Meteorological products,192-254,,Reserved for local use,,,,Operational
@@ -37,7 +38,8 @@ Parameter category by product discipline,Product discipline 2 - Land surface pro
 Parameter category by product discipline,Product discipline 2 - Land surface products,3,,Soil products,,,,Operational
 Parameter category by product discipline,Product discipline 2 - Land surface products,4,,Fire weather products,,,,Operational
 Parameter category by product discipline,Product discipline 2 - Land surface products,5,,Glaciers and inland ice,,,,Operational
-Parameter category by product discipline,Product discipline 2 - Land surface products,6-191,,Reserved,,,,Operational
+Parameter category by product discipline,Product discipline 2 - Land surface products,6,,Urban areas,,,,Operational
+Parameter category by product discipline,Product discipline 2 - Land surface products,7-191,,Reserved,,,,Operational
 Parameter category by product discipline,Product discipline 2 - Land surface products,192-254,,Reserved for local use,,,,Operational
 Parameter category by product discipline,Product discipline 2 - Land surface products,255,,Missing,,,,Operational
 Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",0,,Image format products,(see Note 1),40,,Operational
