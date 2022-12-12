@@ -124,3 +124,5 @@ noteID,note
 127,"The water enthalpy (flux) is the enthalpy (flux) associated with the temperature of the water mass."
 128,"The water potential energy flux is the flux of potential energy associated with the water mass."
 129,"The net source is the sum of all the atmospheric (chemical) processes creating and destroying chemical constituents or aerosols in the column."
+issue167_1,"Geometric sequence: x_n = x_0 * r^(n-1) with "x_0" first parameter and "r" second parameter."
+issue167_2,"Arithmetic sequence: a_n = a_1 + (n-1) d with "a_1" first parameter and "d" second parameter."
