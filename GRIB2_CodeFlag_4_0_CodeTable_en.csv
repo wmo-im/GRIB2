@@ -80,7 +80,10 @@ Product definition template number,,95,,"Average, accumulation, extreme values o
 Product definition template number,,96,,"Average, accumulation, extreme values or other statistically processed values of an individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time",,,,Operational
 Product definition template number,,97,,"Average, accumulation, extreme values or other statistically processed values of post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",,,,Operational
 Product definition template number,,98,,"Average, accumulation, extreme values or other statistically processed values of a post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time",,,,Operational
-Product definition template number,,99-253,,Reserved,,,,Operational
+Product definition template number,,105,"Anomalies, significance and other derived products from an analysis or forecast in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
+Product definition template number,,106,"Anomalies, significance and other derived products from an individual ensemble Forecast, control and perturbed in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
+Product definition template number,,107,"Anomalies, significance and other derived products from derived Forecasts based on all ensemble members in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
+Product definition template number,,108-253,,Reserved,,,,Operational
 Product definition template number,,254,,CCITT IA5 character string,,,,Operational
 Product definition template number,,255-999,,Reserved,,,,Operational
 Product definition template number,,1000,,Cross-section of analysis and forecast at a point in time,,,,Experimental
