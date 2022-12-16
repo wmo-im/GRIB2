@@ -777,7 +777,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",21,,Burnable area,,,%,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",22,,Unburnable area,,,%,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",23,,Fuel load,,,kg m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",24,,Combustion completeness,,,Proportion,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",24,,Combustion completeness,,,%,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",25,,Fuel moisture content,,,kg kg-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",26-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",192-254,,Reserved for local use,,,,Operational
