@@ -1,7 +1,7 @@
 Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
 "Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for generic optical products",10,Parameter category,,,,,Operational
 "Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for generic optical products",11,Parameter number,,,,,Operational
-"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for generic optical products",12,Type of interval (for wavelength),(see code table 4.91),,4.91,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for generic optical products",12,Type of interval (for wavelength),(see Code table 4.91),,4.91,,Operational
 "Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for generic optical products",13,Scale factor of first wavelength,,,,,Operational
 "Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for generic optical products",14-17,Scaled value of first wavelength,,,,,Operational
 "Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for generic optical products",18,Scale factor of second wavelength,,,,,Operational
@@ -19,6 +19,6 @@ Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
 "Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for generic optical products",40,Type of second fixed surface,,,,,Operational
 "Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for generic optical products",41,Scale factor of second fixed surface,,,,,Operational
 "Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for generic optical products",42-45,Scaled value of second fixed surface,,,,,Operational
-"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for generic optical products",46,Type of ensemble forecast,(see code table 4.6),,4.6,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for generic optical products",46,Type of ensemble forecast,(see Code table 4.6),,4.6,,Operational
 "Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for generic optical products",47,Perturbation number,,,,,Operational
 "Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for generic optical products",48,Number of forecasts in ensemble,,,,,Operational

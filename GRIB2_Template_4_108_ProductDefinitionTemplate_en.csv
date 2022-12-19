@@ -1,7 +1,7 @@
 Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
 "Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for generic optical products",10,Parameter category,,,,,Operational
 "Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for generic optical products",11,Parameter number,,,,,Operational
-"Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for generic optical products",12,Type of interval (for wavelength),(see code table 4.91),,4.91,,Operational
+"Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for generic optical products",12,Type of interval (for wavelength),(see Code table 4.91),,4.91,,Operational
 "Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for generic optical products",13,Scale factor of first wavelength,,,,,Operational
 "Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for generic optical products",14-17,Scaled value of first wavelength,,,,,Operational
 "Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for generic optical products",18,Scale factor of second wavelength,,,,,Operational
