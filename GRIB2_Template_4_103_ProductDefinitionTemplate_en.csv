@@ -3,13 +3,13 @@ Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
 "Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",11,Parameter number,(see Code table 4.2),,4.2,,Operational
 "Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",12,Type of wave period interval,(see Code table 4.91),,4.91,,Operational
 "Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",13,Scale factor of lower wave period limit,,,,,Operational
-"Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",14-17,Scaled value of lower wave period limit,,,,,Operational
+"Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",14-17,Scaled value of lower wave period limit,(see Note 1),issue167_5,,,Operational
 "Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",18,Scale factor of upper wave period limit,,,,,Operational
-"Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",19-22,Scaled value of upper wave period limit,,,,,Operational
+"Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",19-22,Scaled value of upper wave period limit,(see Note 1),issue167_5,,,Operational
 "Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",23,Type of generating process,(see Code table 4.3),,4.3,,Operational
 "Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",24,Background generating process identifier (defined by originating centre),,,,,Operational
 "Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",25,Analysis or forecast generating process identifier (defined by originating centre),,,,,Operational
-"Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",26-27,Hours of observational data cut-off after reference time,,,,,Operational
+"Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",26-27,Hours of observational data cut-off after reference time,(see Note 2),33,,,Operational
 "Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",28,Minutes of observational data cut-off after reference time,,,,,Operational
 "Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",29,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
 "Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",30-33,Forecast time in units defined by previous octet,,,,,Operational

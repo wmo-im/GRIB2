@@ -126,3 +126,6 @@ noteID,note
 129,"The net source is the sum of all the atmospheric (chemical) processes creating and destroying chemical constituents or aerosols in the column."
 issue167_1,"Geometric sequence: x_n = x_0 * r^(n-1) with 'x_0' first parameter and 'r' second parameter."
 issue167_2,"Arithmetic sequence: a_n = a_1 + (n-1) d with 'a_1' first parameter and 'd' second parameter."
+issue167_3,"The frequencies are defined as 1/T where T is the wave period in seconds."
+issue167_4,"The units of the wave directions are degree true"
+issue167_5,"Wave periods should be specified in seconds"
