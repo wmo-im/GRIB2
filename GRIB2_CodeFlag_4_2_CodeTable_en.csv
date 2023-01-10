@@ -1065,13 +1065,13 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",71,,Peak direction of wind waves,,,degree true,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",72,,Peak direction of total swell,,,degree true,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",73,,Whitecap fraction,,,fraction,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",92,,Wave induced mean sea level correction,,,m,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",93,,Spectral width index,,,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",94,,Number of events in freak waves statistics,,,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",95,,u-component of surface momentum flux into ocean,,,N m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",96,,v-component of surface momentum flux into ocean,,,N m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",97,,Wave turbulent energy flux into ocean,,,W m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",98-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",87,,Wave induced mean sea level correction,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",88,,Spectral width index,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",89,,Number of events in freak waves statistics,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",90,,u-component of surface momentum flux into ocean,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",91,,v-component of surface momentum flux into ocean,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",92,,Wave turbulent energy flux into ocean,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",93-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",255,,Missing,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 1: currents",0,,Current direction,,,degree true,Operational
