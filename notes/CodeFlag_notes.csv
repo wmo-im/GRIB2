@@ -44,7 +44,7 @@ noteID,note
 43,"Definition of LPI after Lynn et al.: Lynn, B. and Y. Yair, 2010: Prediction of lightning flash density with the WRF model, Adv. Geosci., 23:11-16; Yair, Y., B. Lynn, C. Price, V. Kotroni,K. Lagouvardos, E. Morin, A. Mugnai and M. Llasat, 2010: Predicting the potential for lightning activity in Mediterranean storms based on the Weather Research and Forecasting (WRF) model dynamic and microphysical fields, Journal of Geophysical Research, 115, D04205, doi:10.1029/2008JD010868."
 44,"Di and Dj are assumed to be positive, with the direction of i and j being given by bits 1 and 2."
 45,Eddy dissipation parameter is the third root of eddy dissipation rate [m2 s-3].
-46,"Entries 9, 10, 11 and 12 are deprecated."
+46,"Entries 8 - 12 are deprecated."
 47,Essentially a non-leap year
 48,Extends the Gregorian calendar indefinitely in the past
 49,Fog is defined as cloud cover in the lowest model level.
