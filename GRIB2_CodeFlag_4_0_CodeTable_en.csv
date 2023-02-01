@@ -80,7 +80,13 @@ Product definition template number,,95,,"Average, accumulation, extreme values o
 Product definition template number,,96,,"Average, accumulation, extreme values or other statistically processed values of an individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time",,,,Operational
 Product definition template number,,97,,"Average, accumulation, extreme values or other statistically processed values of post-processing analysis or forecast at a horizontal level or in a horizontal layer at a specified local time",,,,Operational
 Product definition template number,,98,,"Average, accumulation, extreme values or other statistically processed values of a post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a specified local time",,,,Operational
-Product definition template number,,99-253,,Reserved,,,,Operational
+Product definition template number,,99,,"Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for wave 2D spectra with explicit list of frequencies and directions",,,,Operational
+Product definition template number,,100,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for wave 2D spectra with explicit list of frequencies and directions",,,,Operational
+Product definition template number,,101,,"Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for wave 2D spectra with frequencies and directions defined by formulae",,,,Operational
+Product definition template number,,102,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for wave 2D spectra with frequencies and directions defined by formulae",,,,Operational
+Product definition template number,,103,,"Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",,,,Operational
+Product definition template number,,104,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",,,,Operational
+Product definition template number,,105-253,,Reserved,,,,Operational
 Product definition template number,,254,,CCITT IA5 character string,,,,Operational
 Product definition template number,,255-999,,Reserved,,,,Operational
 Product definition template number,,1000,,Cross-section of analysis and forecast at a point in time,,,,Experimental
