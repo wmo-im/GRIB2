@@ -124,3 +124,8 @@ noteID,note
 127,"The water enthalpy (flux) is the enthalpy (flux) associated with the temperature of the water mass."
 128,"The water potential energy flux is the flux of potential energy associated with the water mass."
 129,"The net source is the sum of all the atmospheric (chemical) processes creating and destroying chemical constituents or aerosols in the column."
+issue172_1,"This parameter can be used with templates for chemical constituents to specify a chemical species if needed, for instance: Net ecosystem CO2 exchange flux or Net ecosystem CH4 exchange flux."
+issue172_2,"This parameter is the amount of sunshine in seconds over a given length of time in seconds. Sunshine is defined as a radiation intensity above 120 W m-2."
+issue172_3,"A duct layer is an atmospheric layer with a refractivity which leads to a trapping of electromagnetic waves. In a trapping layer the refractivity leads to a bending of EM waves, which is stronger than the Earth's curvature."
+issue172_4,"The Charnock parameter accounts for increased aerodynamic roughness as wave heights grow due to increasing surface stress. It depends on the wind speed, wave age and other aspects of the sea state and is used to calculate how much the waves slow down the wind."
+issue172_5,"Parameters are normalised by being divided by the product of air density and the square of the friction velocity."
