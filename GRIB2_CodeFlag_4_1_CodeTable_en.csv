@@ -7,11 +7,11 @@ Parameter category by product discipline,Product discipline 0 - Meteorological p
 Parameter category by product discipline,Product discipline 0 - Meteorological products,5,,Long-wave radiation,,,,Operational
 Parameter category by product discipline,Product discipline 0 - Meteorological products,6,,Cloud,,,,Operational
 Parameter category by product discipline,Product discipline 0 - Meteorological products,7,,Thermodynamic stability indices,,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,8,,Kinematic stability indices,,,,Operational
-Parameter category by product discipline,Product discipline 0 - Meteorological products,9,,Temperature probabilities,,,,Deprecated
-Parameter category by product discipline,Product discipline 0 - Meteorological products,10,,Moisture probabilities,,,,Deprecated
-Parameter category by product discipline,Product discipline 0 - Meteorological products,11,,Momentum probabilities,,,,Deprecated
-Parameter category by product discipline,Product discipline 0 - Meteorological products,12,,Mass probabilities,,,,Deprecated
+Parameter category by product discipline,Product discipline 0 - Meteorological products,8,,Kinematic stability indices,(see Note),46,,Deprecated
+Parameter category by product discipline,Product discipline 0 - Meteorological products,9,,Temperature probabilities,(see Note),46,,Deprecated
+Parameter category by product discipline,Product discipline 0 - Meteorological products,10,,Moisture probabilities,(see Note),46,,Deprecated
+Parameter category by product discipline,Product discipline 0 - Meteorological products,11,,Momentum probabilities,(see Note),46,,Deprecated
+Parameter category by product discipline,Product discipline 0 - Meteorological products,12,,Mass probabilities,(see Note),46,,Deprecated
 Parameter category by product discipline,Product discipline 0 - Meteorological products,13,,Aerosols,,,,Operational
 Parameter category by product discipline,Product discipline 0 - Meteorological products,14,,"Trace gases (e.g. ozone, CO2)",,,,Operational
 Parameter category by product discipline,Product discipline 0 - Meteorological products,15,,Radar,,,,Operational
