@@ -884,9 +884,9 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",22,,Aerosol optical thickness at 1.640 μm,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",23,,Angstrom coefficient,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",24-26,,Reserved,,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",27,,Bidirectional reflectance factor,(see Note 1),98,numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",27,,Bidirectional reflectance factor,(see Note 1),98,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",28,,Brightness temperature,,,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",29,,Scaled radiance,(see Note 2),114,numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",29,,Scaled radiance,(see Note 2),114,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",30,,Reflectance in 0.4 micron channel,,,%,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",31-97,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",98,,Correlation coefficient between MPE rain-rates for the co-located IR data and the microwave data rain-rates,,,Numeric,Operational
@@ -1135,7 +1135,13 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",84,,Normalized stress into ocean,(see Note 3),issue172_5,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",85,,Normalized energy flux into ocean,(see Note 3),issue172_5,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",86,,Surface elevation variance due to waves (over all frequencies and directions),,,m2 s rad-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",87-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",87,,Wave induced mean sea level correction,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",88,,Spectral width index,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",89,,Number of events in freak waves statistics,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",90,,u-component of surface momentum flux into ocean,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",91,,v-component of surface momentum flux into ocean,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",92,,Wave turbulent energy flux into ocean,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",93-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",255,,Missing,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 1: currents",0,,Current direction,,,degree true,Operational
