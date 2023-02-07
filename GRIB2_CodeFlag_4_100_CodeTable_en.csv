@@ -1,0 +1,10 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Type of reference dataset,,0,,Analysis,,,,Operational
+Type of reference dataset,,1,,Forecast,,,,Operational
+Type of reference dataset,,2,,Reforecast (Hindcast),,,,Operational
+Type of reference dataset,,3,,Reanalysis,,,,Operational
+Type of reference dataset,,4,,Climate projection,,,,Operational
+Type of reference dataset,,5,,Gridded observations,,,,Operational
+Type of reference dataset,,6-191,,Reserved,,,,Operational
+Type of reference dataset,,192-254,,Reserved for local use,,,,Operational
+Type of reference dataset,,255,,Missing,,,,Operational
