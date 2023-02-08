@@ -129,3 +129,8 @@ issue172_2,"This parameter is the amount of sunshine in seconds over a given len
 issue172_3,"A duct layer is an atmospheric layer with a refractivity which leads to a trapping of electromagnetic waves. In a trapping layer the refractivity leads to a bending of EM waves, which is stronger than the Earth's curvature."
 issue172_4,"The Charnock parameter accounts for increased aerodynamic roughness as wave heights grow due to increasing surface stress. It depends on the wind speed, wave age and other aspects of the sea state and is used to calculate how much the waves slow down the wind."
 issue172_5,"Parameters are normalised by being divided by the product of air density and the square of the friction velocity."
+issue169_1,"No additional parameter needed, NA in templates 4.105, 4.106 and 4.107 should be set to 0."
+issue169_2,"Confidence interval for the significance test is needed (NA=1)."
+issue169_3,"EFI is defined in https://doi.org/10.1256/qj.02.152. No additional parameter needed (NA=0)."
+issue169_4,"SOT is defined in https://doi.org/10.1256/qj.02.152. Lower and upper quantile used for the SOT need to be defined (NA=2) in this order: start of the tail (10 or 90 usually) then end of tail (1 or 99 respectively)."
+

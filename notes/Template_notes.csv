@@ -161,3 +161,5 @@ issue167_2,"Arithmetic sequence: a_n = a_1 + (n-1) d with 'a_1' first parameter 
 issue167_3,"The frequencies are defined as 1/T where T is the wave period in seconds."
 issue167_4,"The units of the wave directions are degree true."
 issue167_5,"Wave periods should be specified in seconds."
+issue169_2,"See notes under Code table 4.101 for details."
+issue169_3,"'Number of reference period time range' is used to define an outer and, if needed, one or more inner loops. The outer loop gives the overall date and time range of the reference period and the inner loop(s) are used to specify a sub-period over all time instances defined in the outer loop in terms of the time unit defined by "Reference period indicator of unit for time increment". Typically the outer loop defines a number of years and inner loop defines the date and time range within each year: for instance 'every January for 30 years'.'
