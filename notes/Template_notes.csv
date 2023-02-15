@@ -156,10 +156,10 @@ noteID,note
 156,The reference time in octets 32-38 and the forecast time together define the beginning of the overall time interval.
 157,"The reference and forecast times are successively set to their initial values plus or minus the increment, as defined by the type of time increment (one of octets (60+12(NC-1)), (73+12(NC-1)), (85+12(NC-1)), ...). For all but the innermost (last) time range, the next inner range is then processed using these reference and forecast times as the initial reference and forecast times."
 158,"For most templates, details of the packing process are described in regulation 92.9.4. This template is only valid for the Consultative Committee for Space Data Systems Recommendation for Space Data System Standards, Lossless Data Compression, CCSDS 121.0-B-2, Blue Book, May 2012."
-issue167_1,"Geometric sequence: x_n = x_0 * r^(n-1) with 'x_0' first parameter and 'r' second parameter."
-issue167_2,"Arithmetic sequence: a_n = a_1 + (n-1) d with 'a_1' first parameter and 'd' second parameter."
-issue167_3,"The frequencies are defined as 1/T where T is the wave period in seconds."
-issue167_4,"The units of the wave directions are degree true."
-issue167_5,"Wave periods should be specified in seconds."
-issue169_2,"See notes under Code table 4.101 for details."
-issue169_3,"'Number of reference period time range' is used to define an outer and, if needed, one or more inner loops. The outer loop gives the overall date and time range of the reference period and the inner loop(s) are used to specify a sub-period over all time instances defined in the outer loop in terms of the time unit defined by "Reference period indicator of unit for time increment". Typically the outer loop defines a number of years and inner loop defines the date and time range within each year: for instance 'every January for 30 years'.'
+159,"Geometric sequence: x_n = x_0 * r^(n-1) with 'x_0' first parameter and 'r' second parameter."
+160,"Arithmetic sequence: a_n = a_1 + (n-1) d with 'a_1' first parameter and 'd' second parameter."
+161,"The frequencies are defined as 1/T where T is the wave period in seconds."
+162,"The units of the wave directions are degree true."
+163,"Wave periods should be specified in seconds."
+164,"See notes under Code table 4.101 for details."
+165,"'Number of reference period time range' is used to define an outer and, if needed, one or more inner loops. The outer loop gives the overall date and time range of the reference period and the inner loop(s) are used to specify a sub-period over all time instances defined in the outer loop in terms of the time unit defined by "Reference period indicator of unit for time increment". Typically the outer loop defines a number of years and inner loop defines the date and time range within each year: for instance 'every January for 30 years'.'
