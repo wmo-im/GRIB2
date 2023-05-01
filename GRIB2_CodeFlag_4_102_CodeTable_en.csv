@@ -1,0 +1,11 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Statistical processing of reference period,,0,,Average,,,,Operational
+Statistical processing of reference period,,1,,Accumulation,,,,Operational
+Statistical processing of reference period,,2,,Maximum,,,,Operational
+Statistical processing of reference period,,3,,Minimum,,,,Operational
+Statistical processing of reference period,,4,,Median,,,,Operational
+Statistical processing of reference period,,5-19,,Reserved,,,,Operational
+Statistical processing of reference period,,20,,Model Climate,,,,Operational
+Statistical processing of reference period,,21-191,,Reserved,,,,Operational
+Statistical processing of reference period,,192-254,,Reserved for local use,,,,Operational
+Statistical processing of reference period,,255,,Missing,,,,Operational

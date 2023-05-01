@@ -44,7 +44,7 @@ noteID,note
 43,"Definition of LPI after Lynn et al.: Lynn, B. and Y. Yair, 2010: Prediction of lightning flash density with the WRF model, Adv. Geosci., 23:11-16; Yair, Y., B. Lynn, C. Price, V. Kotroni,K. Lagouvardos, E. Morin, A. Mugnai and M. Llasat, 2010: Predicting the potential for lightning activity in Mediterranean storms based on the Weather Research and Forecasting (WRF) model dynamic and microphysical fields, Journal of Geophysical Research, 115, D04205, doi:10.1029/2008JD010868."
 44,"Di and Dj are assumed to be positive, with the direction of i and j being given by bits 1 and 2."
 45,Eddy dissipation parameter is the third root of eddy dissipation rate [m2 s-3].
-46,"Entries 9, 10, 11 and 12 are deprecated."
+46,"Entries 8 - 12 are deprecated."
 47,Essentially a non-leap year
 48,Extends the Gregorian calendar indefinitely in the past
 49,Fog is defined as cloud cover in the lowest model level.
@@ -124,3 +124,13 @@ noteID,note
 127,"The water enthalpy (flux) is the enthalpy (flux) associated with the temperature of the water mass."
 128,"The water potential energy flux is the flux of potential energy associated with the water mass."
 129,"The net source is the sum of all the atmospheric (chemical) processes creating and destroying chemical constituents or aerosols in the column."
+130,"This parameter can be used with templates for chemical constituents to specify a chemical species if needed, for instance: Net ecosystem CO2 exchange flux or Net ecosystem CH4 exchange flux."
+131,"This parameter is the amount of sunshine in seconds over a given length of time in seconds. Sunshine is defined as a radiation intensity above 120 W m-2."
+132,"A duct layer is an atmospheric layer with a refractivity which leads to a trapping of electromagnetic waves. In a trapping layer the refractivity leads to a bending of EM waves, which is stronger than the Earth's curvature."
+133,"The Charnock parameter accounts for increased aerodynamic roughness as wave heights grow due to increasing surface stress. It depends on the wind speed, wave age and other aspects of the sea state and is used to calculate how much the waves slow down the wind."
+134,"Parameters are normalised by being divided by the product of air density and the square of the friction velocity."
+135,"No additional parameter needed, NA in templates 4.105, 4.106 and 4.107 should be set to 0."
+136,"Confidence interval for the significance test is needed (NA=1)."
+137,"EFI is defined in https://doi.org/10.1256/qj.02.152. No additional parameter needed (NA=0)."
+138,"SOT is defined in https://doi.org/10.1256/qj.02.152. Lower and upper quantile used for the SOT need to be defined (NA=2) in this order: start of the tail (10 or 90 usually) then end of tail (1 or 99 respectively)."
+
