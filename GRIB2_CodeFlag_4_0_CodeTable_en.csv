@@ -94,7 +94,11 @@ Product definition template number,,109,,"Individual ensemble forecast, control 
 Product definition template number,,110,,"Average, accumulation, extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for generic optical products",,,,Operational
 Product definition template number,,111,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous interval for generic optical products",,,,Operational
 Product definition template number,,112,,"Anomalies, significance and other derived products as probability forecasts in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
-Product definition template number,,113-253,,Reserved,,,,Operational
+Product definition template number,,113,,"Generalised tiles at a horizontal level or horizontal layer at a point in time",,,,Operational
+Product definition template number,,114,,"Average, accumulation, and/or extreme values or other statistically processed values on generalised tiles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
+Product definition template number,,115,,"Individual ensemble forecast, control and perturbed on generalised tiles at a horizontal level or in a horizontal layer at a point in time",,,,Operational
+Product definition template number,,116,,"Individual ensemble forecast, control and perturbed on generalised tiles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
+Product definition template number,,117-253,,Reserved,,,,Operational
 Product definition template number,,254,,CCITT IA5 character string,,,,Operational
 Product definition template number,,255-999,,Reserved,,,,Operational
 Product definition template number,,1000,,Cross-section of analysis and forecast at a point in time,,,,Experimental

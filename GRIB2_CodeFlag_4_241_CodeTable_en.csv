@@ -4,6 +4,9 @@ Coverage attributes,,1,,Unmodified,,,,Operational
 Coverage attributes,,2,,Snow covered,,,,Operational
 Coverage attributes,,3,,Flooded,,,,Operational
 Coverage attributes,,4,,Ice covered,,,,Operational
-Coverage attributes,,5-191,,Reserved,,,,Operational
+Coverage attributes,,5,,With intercepted water,,,,Operational
+Coverage attributes,,6,,With intercepted snow,,,,Operational
+Coverage attributes,,7,,Aggregated,,,,Operational
+Coverage attributes,,8-191,,Reserved,,,,Operational
 Coverage attributes,,192-254,,Reserved for local use,,,,Operational
 Coverage attributes,,255,,Missing value,,,,Operational
