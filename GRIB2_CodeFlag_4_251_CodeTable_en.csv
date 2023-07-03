@@ -110,8 +110,8 @@ Tile classes and groupings,,2502, ,High vegetation grouping (EVNE + DENE + DEBR
 Tile classes and groupings,,2503-3000, ,Reserved (see Note XXX: Reserved for tile grouping entries for tile models using the GLCC v2.0 BATS Classification survey),,,,Operational
 Tile classes and groupings,,3001,PFIC,Post-flooding or irrigated croplands,,,,Operational
 Tile classes and groupings,,3002,RACR,Rainfed croplands,,,,Operational
-Tile classes and groupings,,3003,MCVE,Mosaic cropland (50-70%) / vegetation (grassland, shrubland, forest) (20-50%),,,,Operational
-Tile classes and groupings,,3004,MVCR,Mosaic vegetation (grassland, shrubland, forest) (50-70%) / cropland (20-50%),,,,Operational
+Tile classes and groupings,,3003,MCVE,"Mosaic cropland (50-70%) / vegetation (grassland, shrubland, forest) (20-50%)",,,,Operational
+Tile classes and groupings,,3004,MVCR,"Mosaic vegetation (grassland, shrubland, forest) (50-70%) / cropland (20-50%)",,,,Operational
 Tile classes and groupings,,3005,COBS,Closed to open (>15%) broadleaved evergreen and/or semi-deciduous forest (>5m),,,,Operational
 Tile classes and groupings,,3006,CLBD,Closed (>40%) broadleaved deciduous forest (>5m),,,,Operational
 Tile classes and groupings,,3007,OPBD,Open (15-40%) broadleaved deciduous forest (>5m),,,,Operational
@@ -122,10 +122,10 @@ Tile classes and groupings,,3011,MFSG,Mosaic forest/shrubland (50-70%) / grassla
 Tile classes and groupings,,3012,MGFS,Mosaic grassland (50-70%) / forest / shrubland (20-50%),,,,Operational
 Tile classes and groupings,,3013,COSH,Closed to open (>15%) shrubland (<5m),,,,Operational
 Tile classes and groupings,,3014,COHV,Closed to open (>15%) herbaceous vegetation,,,,Operational
-Tile classes and groupings,,3015,SPVE,Sparse (<15%) vegetation (woody vegetation, shrubs, grassland),,,,Operational
+Tile classes and groupings,,3015,SPVE,"Sparse (<15%) vegetation (woody vegetation, shrubs, grassland)",,,,Operational
 Tile classes and groupings,,3016,COBFF,Closed to open (>15%) broadleaved forest regularly flooded (semi-permanently or temporarily) - fresh or brackish water,,,,Operational
 Tile classes and groupings,,3017,CLBFF,Closed (>40%) broadleaved forest or shrubland permanently flooded - saline or brackish water,,,,Operational
-Tile classes and groupings,,3018,COVEF,Closed to open (>15%) vegetation (grassland, shrubland, woody vegetation) on regularly flooded or waterlogged soil - fresh, brackish or saline water,,,,Operational
+Tile classes and groupings,,3018,COVEF,"Closed to open (>15%) vegetation (grassland, shrubland, woody vegetation) on regularly flooded or waterlogged soil - fresh, brackish or saline water",,,,Operational
 Tile classes and groupings,,3019,ASAA,Artificial surfaces and associated areas (urban areas >50%),,,,Operational
 Tile classes and groupings,,3020,BAAR,Bare areas,,,,Operational
 Tile classes and groupings,,3021,WABO,Water bodies,,,,Operational
@@ -133,21 +133,21 @@ Tile classes and groupings,,3022,PESI,Permanent snow and ice,,,,Operational
 Tile classes and groupings,,3023-3500, ,Reserved (see Note XXX: Reserved for tile class entries for tile models using the ESA-GlobCover GCV2009 survey),,,,Operational
 Tile classes and groupings,,3501, ,Grouping using the dominant tiles approach (dominant tile varies per gridbox),,,,Operational
 Tile classes and groupings,,3502-4000, ,Reserved (see Note XXX: Reserved for tile grouping entries for tile models using the ESA-GlobCover GCV2009 survey),,,,Operational
-Tile classes and groupings,,4001,TBECO,Tree cover, broadleaved evergreen, closed to open (>15%),,,,Operational
-Tile classes and groupings,,4002,TBDC,Tree cover, broadleaved deciduous, closed (>40%),,,,Operational
-Tile classes and groupings,,4003,TBDO,Tree cover, broadleaved deciduous, open (15-40%),,,,Operational
-Tile classes and groupings,,4004,TNECO,Tree cover, needleleaved evergreen, closed to open (>15%),,,,Operational
-Tile classes and groupings,,4005,TNDCO,Tree cover, needleleaved decidous, closed to open (>15%),,,,Operational
-Tile classes and groupings,,4006,TMLCO,Tree cover, mixed leaftype, closed to open (>15%),,,,Operational
-Tile classes and groupings,,4007,TCOFF,Tree cover, closed to open (>15%), regularly flooded, fresh or brackish water: swamp forests,,,,Operational
-Tile classes and groupings,,4008,TCOFS,Tree cover, closed to open (>15%), regularly flooded, saline water: mangrove forests,,,,Operational
+Tile classes and groupings,,4001,TBECO,"Tree cover, broadleaved evergreen, closed to open (>15%)",,,,Operational
+Tile classes and groupings,,4002,TBDC,"Tree cover, broadleaved deciduous, closed (>40%)",,,,Operational
+Tile classes and groupings,,4003,TBDO,"Tree cover, broadleaved deciduous, open (15-40%)",,,,Operational
+Tile classes and groupings,,4004,TNECO,"Tree cover, needleleaved evergreen, closed to open (>15%)",,,,Operational
+Tile classes and groupings,,4005,TNDCO,"Tree cover, needleleaved decidous, closed to open (>15%)",,,,Operational
+Tile classes and groupings,,4006,TMLCO,"Tree cover, mixed leaftype, closed to open (>15%)",,,,Operational
+Tile classes and groupings,,4007,TCOFF,"Tree cover, closed to open (>15%), regularly flooded, fresh or brackish water: swamp forests",,,,Operational
+Tile classes and groupings,,4008,TCOFS,"Tree cover, closed to open (>15%), regularly flooded, saline water: mangrove forests",,,,Operational
 Tile classes and groupings,,4009,MTVG,Mosaic of tree cover and other natural vegetation (crop component possible),,,,Operational
-Tile classes and groupings,,4010,TBURN,Tree Cover, burnt (mainly boreal forests),,,,Operational
-Tile classes and groupings,,4011,SCOE,Shrubcover, closed to open (>15%) , evergreen (broadleaved or needleleaved),,,,Operational
-Tile classes and groupings,,4012,SCOD,Shrubcover, closed to open (>15%), deciduous (broadleaved),,,,Operational
-Tile classes and groupings,,4013,HCCO,Herbaceous cover, closed to open (>15%),,,,Operational
+Tile classes and groupings,,4010,TBURN,"Tree Cover, burnt (mainly boreal forests)",,,,Operational
+Tile classes and groupings,,4011,SCOE,"Shrubcover, closed to open (>15%) , evergreen (broadleaved or needleleaved)",,,,Operational
+Tile classes and groupings,,4012,SCOD,"Shrubcover, closed to open (>15%), deciduous (broadleaved)",,,,Operational
+Tile classes and groupings,,4013,HCCO,"Herbaceous cover, closed to open (>15%)",,,,Operational
 Tile classes and groupings,,4014,SHSC,Sparse herbaceous or sparse shrub cover,,,,Operational
-Tile classes and groupings,,4015,FSHCO,Regularly flooded (>2 month) shrub or herbaceous cover, closed to open,,,,Operational
+Tile classes and groupings,,4015,FSHCO,"Regularly flooded (>2 month) shrub or herbaceous cover, closed to open",,,,Operational
 Tile classes and groupings,,4016,CROP,Cropland (upland crops or inundated/ flooded crops),,,,Operational
 Tile classes and groupings,,4017,MCTNV,Mosaic of cropland / tree cover/ other natural vegetation,,,,Operational
 Tile classes and groupings,,4018,MCSH,Mosaic of cropland / shrub or herbaceous cover,,,,Operational
