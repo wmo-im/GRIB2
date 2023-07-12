@@ -1144,7 +1144,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",93,,Envelop maximum individual wave height,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",94,,Time domain maximum individual crest height,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",95,,Time domain maximum individual wave height,,,m,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",96,,Spae time maximum individual crest height,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",96,,Space time maximum individual crest height,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",97,,Space time maximum individual wave height,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",98-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",192-254,,Reserved for local use,,,,Operational
