@@ -133,4 +133,4 @@ noteID,note
 136,"Confidence interval for the significance test is needed (NA=1)."
 137,"EFI is defined in https://doi.org/10.1256/qj.02.152. No additional parameter needed (NA=0)."
 138,"SOT is defined in https://doi.org/10.1256/qj.02.152. Lower and upper quantile used for the SOT need to be defined (NA=2) in this order: start of the tail (10 or 90 usually) then end of tail (1 or 99 respectively)."
-
+191a,"This table is divided into blocks of 1000 entries: 0-999, 1000-1999, 2000-2999, etc. Each block corresponds to a specific Land cover survey listed in Code Table 4.242 and is subsequently divided into 2 ranges of 500 entries (apart for the first 1000 entries which are designed to be generic and not bound to a specific land cover survey). The first 500 entries are reserved for native classification type of the given survey while the remaining 500 are using for groupings of native classification types."
