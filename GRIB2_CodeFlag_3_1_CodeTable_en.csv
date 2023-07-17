@@ -42,9 +42,7 @@ Grid definition template number,,102-109,,Reserved,,,,Operational
 Grid definition template number,,110,,Equatorial azimuthal equidistant projection,,,,Operational
 Grid definition template number,,111-119,,Reserved,,,,Operational
 Grid definition template number,,120,,Azimuth-range projection,,,,Operational
-Grid definition template number,,121-129,,Reserved,,,,Operational
-Grid definition template number,,130,,Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix),,,,Operational
-Grid definition template number,,131-139,,Reserved,,,,Operational
+Grid definition template number,,121-139,,Reserved,,,,Operational
 Grid definition template number,,140,,Lambert azimuthal equal area projection,,,,Operational
 Grid definition template number,,141-149,,Reserved,,,,Operational
 Grid definition template number,,150,,Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix),,,,Operational
