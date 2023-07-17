@@ -17,7 +17,7 @@ post-processed quantile forecasts at a horizontal level or in a horizontal layer
 post-processed quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,34,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
 post-processed quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,35,Scale factor of second fixed surface,,,,,Operational
 post-processed quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,36-39,Scaled value of second fixed surface,,,,,Operational
-post-processed quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,40-41, Total number of quantiles q,,,,,Operational 
+post-processed quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,40-41, Total number of quantiles (q),,,,,Operational 
 post-processed quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,42-43, Quantile value (between 0 and q),,,,,Operational
 post-processed quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,44-45,Year of end of overall time interval,,,,,Operational
 post-processed quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,46,Month of end of overall time interval,,,,,Operational
