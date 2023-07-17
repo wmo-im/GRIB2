@@ -133,4 +133,4 @@ noteID,note
 136,"Confidence interval for the significance test is needed (NA=1)."
 137,"EFI is defined in https://doi.org/10.1256/qj.02.152. No additional parameter needed (NA=0)."
 138,"SOT is defined in https://doi.org/10.1256/qj.02.152. Lower and upper quantile used for the SOT need to be defined (NA=2) in this order: start of the tail (10 or 90 usually) then end of tail (1 or 99 respectively)."
-
+iss196a,"Parameters are deprecated. It is recommended to use 63 and 64 instead."
