@@ -6,7 +6,7 @@ Tile classes and groupings,,3,BARE,Bare areas,,,,Operational
 Tile classes and groupings,,4,HIV,High vegetation,,,,Operational
 Tile classes and groupings,,5,LOV,Low vegetation,,,,Operational
 Tile classes and groupings,,6,URBAN,Urban,,,,Operational
-Tile classes and groupings,,7-1000, ,Reserved for intercomparison tile classes/groupings,(see Note 1),191a,,Operational
+Tile classes and groupings,,7-1000,,Reserved for intercomparison tile classes/groupings,(see Note 1),191a,,Operational
 Tile classes and groupings,,1001,SEAO,Sea and oceans,,,,Operational
 Tile classes and groupings,,1002,LAKE,Lakes,,,,Operational
 Tile classes and groupings,,1003,RIVE,Rivers,,,,Operational
@@ -47,39 +47,39 @@ Tile classes and groupings,,1037,TRBEU,Urban tropical broadleaf evergreen,,,,Ope
 Tile classes and groupings,,1038,BONEU,Urban boreal needleleaf evergreen,,,,Operational
 Tile classes and groupings,,1039,TENEU,Urban temperate needleleaf evergreen,,,,Operational
 Tile classes and groupings,,1040,BONDU,Urban boreal needleleaf deciduous,,,,Operational
-Tile classes and groupings,,1041-1500, ,Reserved for tile class entries for tile models using the ECOCLIMAP-SG land cover survey,(see Note 1),191a,,Operational
-Tile classes and groupings,,1501, ,Nature grouping (NO + ROCK + SNOW + BOBD + TEBD + TRBD + TEBE + TRBE + BONE + TENE + BOND + SHRB + BOGR + GRAS + TROG + C3W + C3S + C4 + FLTR + FLGR),,,,Operational
-Tile classes and groupings,,1502, ,Non-forest grouping (NO + ROCK + SNOW + BOGR + GRAS + TROG + C3W + C3S + C4 + FLTR + FLGR),,,,Operational
-Tile classes and groupings,,1503, ,Forest grouping (BOBD + TEBD + TRBD + TEBE + TRBE + BONE + TENE + BOND + SHRB),,,,Operational
-Tile classes and groupings,,1504, ,Non-vegetated grouping (NO + ROCK + SNOW),,,,Operational
-Tile classes and groupings,,1505, ,Trees grouping (BOBD + TEBD + TRBD + TEBE + TRBE + BONE + TENE + BOND + SHRB + FLTR),,,,Operational
-Tile classes and groupings,,1506, ,Low vegetation grouping (BOGR + GRAS + TROG + C3W + C3S + C4 + FLGR),,,,Operational
-Tile classes and groupings,,1507, ,Non-flooded low vegetation grouping (BOGR + GRAS + TROG + C3W + C3S + C4),,,,Operational
-Tile classes and groupings,,1508, ,Crops grouping (C3W + C3S + C4),,,,Operational
-Tile classes and groupings,,1509, ,Grassland grouping (BOGR + GRAS + TROG),,,,Operational
-Tile classes and groupings,,1510, ,Bare and rock grouping (NO + ROCK),,,,Operational
-Tile classes and groupings,,1511, ,C3 crops grouping (C3W + C3S),,,,Operational
-Tile classes and groupings,,1512, ,Broadleaf forest grouping (BOBD + TEBD + TRBD + TEBE + TRBE + SHRB),,,,Operational
-Tile classes and groupings,,1513, ,Needleleaf forest grouping (BONE + TENE + BOND),,,,Operational
-Tile classes and groupings,,1514, ,Deciduous broadleaf forest grouping (BOBD + TEBD + TRBD + TEBE + SHRB),,,,Operational
-Tile classes and groupings,,1515, ,Temperate grassland grouping (BOGR + GRAS),,,,Operational
-Tile classes and groupings,,1516, ,Non-forest (no FLTR) grouping (NO + ROCK + SNOW + BOGR + GRAS + TROG + C3W + C3S + C4 + FLGR),,,,Operational
-Tile classes and groupings,,1517, ,Broadleaf forest (with FLTR) grouping (BOBD + TEBD + TRBD + TEBE + TRBE + SHRB + FLTR),,,,Operational
-Tile classes and groupings,,1518, ,Broadleaf trees grouping (BOBD + TEBD + TRBD + TEBE + TRBE + FLTR),,,,Operational
-Tile classes and groupings,,1519, ,C3/C4 grasslands grouping (BOGR + GRAS + FLGR),,,,Operational
-Tile classes and groupings,,1520, ,Broadleaf deciduous trees grouping (BOBD + TEBD + TRBD + FLTR),,,,Operational
-Tile classes and groupings,,1521, ,Broadleaf evergreen trees grouping (TEBE + TRBE),,,,Operational
-Tile classes and groupings,,1522, ,Needleleaf evergreen trees grouping (BONE + TENE),,,,Operational
-Tile classes and groupings,,1523, ,LCZ or urban grouping (LCZ1 + LCZ2 + LCZ3 + LCZ4 + LCZ5 + LCZ6 + LCZ7 + LCZ8 + LCZ9 + LCZ10),,,,Operational
-Tile classes and groupings,,1524, ,Inland water grouping (LAKE + RIVE),,,,Operational
-Tile classes and groupings,,1525, ,Urban parks and gardens TEBD grouping (NO + GRAS + TEBDU),,,,Operational
-Tile classes and groupings,,1526, ,Urban parks and gardens TRBD grouping (NO + GRAS + TRBDU),,,,Operational
-Tile classes and groupings,,1527, ,Urban parks and gardens TEBE grouping (NO + GRAS + TEBEU),,,,Operational
-Tile classes and groupings,,1528, ,Urban parks and gardens TRBE grouping (NO + GRAS + TRBEU),,,,Operational
-Tile classes and groupings,,1529, ,Urban parks and gardens BONE grouping (NO + GRAS + BONEU),,,,Operational
-Tile classes and groupings,,1530, ,Urban parks and gardens TENE grouping (NO + GRAS + TENEU),,,,Operational
-Tile classes and groupings,,1531, ,Urban parks and gardens BOND grouping (NO + GRAS + BONDU),,,,Operational
-Tile classes and groupings,,1532-2000, ,Reserved for tile grouping entries for tile models using the ECOCLIMAP-SG land cover survey,(see Note 1),191a,,Operational
+Tile classes and groupings,,1041-1500,,Reserved for tile class entries for tile models using the ECOCLIMAP-SG land cover survey,(see Note 1),191a,,Operational
+Tile classes and groupings,,1501,,Nature grouping (NO + ROCK + SNOW + BOBD + TEBD + TRBD + TEBE + TRBE + BONE + TENE + BOND + SHRB + BOGR + GRAS + TROG + C3W + C3S + C4 + FLTR + FLGR),,,,Operational
+Tile classes and groupings,,1502,,Non-forest grouping (NO + ROCK + SNOW + BOGR + GRAS + TROG + C3W + C3S + C4 + FLTR + FLGR),,,,Operational
+Tile classes and groupings,,1503,,Forest grouping (BOBD + TEBD + TRBD + TEBE + TRBE + BONE + TENE + BOND + SHRB),,,,Operational
+Tile classes and groupings,,1504,,Non-vegetated grouping (NO + ROCK + SNOW),,,,Operational
+Tile classes and groupings,,1505,,Trees grouping (BOBD + TEBD + TRBD + TEBE + TRBE + BONE + TENE + BOND + SHRB + FLTR),,,,Operational
+Tile classes and groupings,,1506,,Low vegetation grouping (BOGR + GRAS + TROG + C3W + C3S + C4 + FLGR),,,,Operational
+Tile classes and groupings,,1507,,Non-flooded low vegetation grouping (BOGR + GRAS + TROG + C3W + C3S + C4),,,,Operational
+Tile classes and groupings,,1508,,Crops grouping (C3W + C3S + C4),,,,Operational
+Tile classes and groupings,,1509,,Grassland grouping (BOGR + GRAS + TROG),,,,Operational
+Tile classes and groupings,,1510,,Bare and rock grouping (NO + ROCK),,,,Operational
+Tile classes and groupings,,1511,,C3 crops grouping (C3W + C3S),,,,Operational
+Tile classes and groupings,,1512,,Broadleaf forest grouping (BOBD + TEBD + TRBD + TEBE + TRBE + SHRB),,,,Operational
+Tile classes and groupings,,1513,,Needleleaf forest grouping (BONE + TENE + BOND),,,,Operational
+Tile classes and groupings,,1514,,Deciduous broadleaf forest grouping (BOBD + TEBD + TRBD + TEBE + SHRB),,,,Operational
+Tile classes and groupings,,1515,,Temperate grassland grouping (BOGR + GRAS),,,,Operational
+Tile classes and groupings,,1516,,Non-forest (no FLTR) grouping (NO + ROCK + SNOW + BOGR + GRAS + TROG + C3W + C3S + C4 + FLGR),,,,Operational
+Tile classes and groupings,,1517,,Broadleaf forest (with FLTR) grouping (BOBD + TEBD + TRBD + TEBE + TRBE + SHRB + FLTR),,,,Operational
+Tile classes and groupings,,1518,,Broadleaf trees grouping (BOBD + TEBD + TRBD + TEBE + TRBE + FLTR),,,,Operational
+Tile classes and groupings,,1519,,C3/C4 grasslands grouping (BOGR + GRAS + FLGR),,,,Operational
+Tile classes and groupings,,1520,,Broadleaf deciduous trees grouping (BOBD + TEBD + TRBD + FLTR),,,,Operational
+Tile classes and groupings,,1521,,Broadleaf evergreen trees grouping (TEBE + TRBE),,,,Operational
+Tile classes and groupings,,1522,,Needleleaf evergreen trees grouping (BONE + TENE),,,,Operational
+Tile classes and groupings,,1523,,LCZ or urban grouping (LCZ1 + LCZ2 + LCZ3 + LCZ4 + LCZ5 + LCZ6 + LCZ7 + LCZ8 + LCZ9 + LCZ10),,,,Operational
+Tile classes and groupings,,1524,,Inland water grouping (LAKE + RIVE),,,,Operational
+Tile classes and groupings,,1525,,Urban parks and gardens TEBD grouping (NO + GRAS + TEBDU),,,,Operational
+Tile classes and groupings,,1526,,Urban parks and gardens TRBD grouping (NO + GRAS + TRBDU),,,,Operational
+Tile classes and groupings,,1527,,Urban parks and gardens TEBE grouping (NO + GRAS + TEBEU),,,,Operational
+Tile classes and groupings,,1528,,Urban parks and gardens TRBE grouping (NO + GRAS + TRBEU),,,,Operational
+Tile classes and groupings,,1529,,Urban parks and gardens BONE grouping (NO + GRAS + BONEU),,,,Operational
+Tile classes and groupings,,1530,,Urban parks and gardens TENE grouping (NO + GRAS + TENEU),,,,Operational
+Tile classes and groupings,,1531,,Urban parks and gardens BOND grouping (NO + GRAS + BONDU),,,,Operational
+Tile classes and groupings,,1532-2000,,Reserved for tile grouping entries for tile models using the ECOCLIMAP-SG land cover survey,(see Note 1),191a,,Operational
 Tile classes and groupings,,2001,CRMF,"Crops, mixed farming",,,,Operational
 Tile classes and groupings,,2002,SHGR,Short grass,,,,Operational
 Tile classes and groupings,,2003,EVNE,Evergreen needleleaf trees,,,,Operational
@@ -104,10 +104,10 @@ Tile classes and groupings,,2021,BASO,Bare soil,,,,Operational
 Tile classes and groupings,,2022,URBA,Urban,,,,Operational
 Tile classes and groupings,,2023,LORI,Low-rise building,,,,Operational
 Tile classes and groupings,,2024,HIRI,High-rise building,,,,Operational
-Tile classes and groupings,,2025-2500, ,Reserved for tile class entries for tile models using the GLCC v2.0 BATS Classification survey,(see Note 1),191a,,Operational
-Tile classes and groupings,,2501, ,Low vegetation grouping (CRMF + SHGR + TAGR + TUND + IRCR + SEDE + BOMA + EVSH + DESH + WLMI),,,,Operational
-Tile classes and groupings,,2502, ,High vegetation grouping (EVNE + DENE + DEBR + EVBR + MFWO + INFO),,,,Operational
-Tile classes and groupings,,2503-3000, ,Reserved for tile grouping entries for tile models using the GLCC v2.0 BATS Classification survey,(see Note 1),191a,,Operational
+Tile classes and groupings,,2025-2500,,Reserved for tile class entries for tile models using the GLCC v2.0 BATS Classification survey,(see Note 1),191a,,Operational
+Tile classes and groupings,,2501,,Low vegetation grouping (CRMF + SHGR + TAGR + TUND + IRCR + SEDE + BOMA + EVSH + DESH + WLMI),,,,Operational
+Tile classes and groupings,,2502,,High vegetation grouping (EVNE + DENE + DEBR + EVBR + MFWO + INFO),,,,Operational
+Tile classes and groupings,,2503-3000,,Reserved for tile grouping entries for tile models using the GLCC v2.0 BATS Classification survey,(see Note 1),191a,,Operational
 Tile classes and groupings,,3001,PFIC,Post-flooding or irrigated croplands,,,,Operational
 Tile classes and groupings,,3002,RACR,Rainfed croplands,,,,Operational
 Tile classes and groupings,,3003,MCVE,"Mosaic cropland (50-70%) / vegetation (grassland, shrubland, forest) (20-50%)",,,,Operational
@@ -130,9 +130,9 @@ Tile classes and groupings,,3019,ASAA,Artificial surfaces and associated areas (
 Tile classes and groupings,,3020,BAAR,Bare areas,,,,Operational
 Tile classes and groupings,,3021,WABO,Water bodies,,,,Operational
 Tile classes and groupings,,3022,PESI,Permanent snow and ice,,,,Operational
-Tile classes and groupings,,3023-3500, ,Reserved for tile class entries for tile models using the ESA-GlobCover GCV2009 survey,(see Note 1),191a,,Operational
-Tile classes and groupings,,3501, ,Grouping using the dominant tiles approach (dominant tile varies per gridbox),,,,Operational
-Tile classes and groupings,,3502-4000, ,Reserved for tile grouping entries for tile models using the ESA-GlobCover GCV2009 survey,(see Note 1),191a,,Operational
+Tile classes and groupings,,3023-3500,,Reserved for tile class entries for tile models using the ESA-GlobCover GCV2009 survey,(see Note 1),191a,,Operational
+Tile classes and groupings,,3501,,Grouping using the dominant tiles approach (dominant tile varies per gridbox),,,,Operational
+Tile classes and groupings,,3502-4000,,Reserved for tile grouping entries for tile models using the ESA-GlobCover GCV2009 survey,(see Note 1),191a,,Operational
 Tile classes and groupings,,4001,TBECO,"Tree cover, broadleaved evergreen, closed to open (>15%)",,,,Operational
 Tile classes and groupings,,4002,TBDC,"Tree cover, broadleaved deciduous, closed (>40%)",,,,Operational
 Tile classes and groupings,,4003,TBDO,"Tree cover, broadleaved deciduous, open (15-40%)",,,,Operational
@@ -143,7 +143,7 @@ Tile classes and groupings,,4007,TCOFF,"Tree cover, closed to open (>15%), regul
 Tile classes and groupings,,4008,TCOFS,"Tree cover, closed to open (>15%), regularly flooded, saline water: mangrove forests",,,,Operational
 Tile classes and groupings,,4009,MTVG,Mosaic of tree cover and other natural vegetation (crop component possible),,,,Operational
 Tile classes and groupings,,4010,TBURN,"Tree Cover, burnt (mainly boreal forests)",,,,Operational
-Tile classes and groupings,,4011,SCOE,"Shrubcover, closed to open (>15%) , evergreen (broadleaved or needleleaved)",,,,Operational
+Tile classes and groupings,,4011,SCOE,"Shrubcover, closed to open (>15%), evergreen (broadleaved or needleleaved)",,,,Operational
 Tile classes and groupings,,4012,SCOD,"Shrubcover, closed to open (>15%), deciduous (broadleaved)",,,,Operational
 Tile classes and groupings,,4013,HCCO,"Herbaceous cover, closed to open (>15%)",,,,Operational
 Tile classes and groupings,,4014,SHSC,Sparse herbaceous or sparse shrub cover,,,,Operational
@@ -155,8 +155,8 @@ Tile classes and groupings,,4019,BAARE,Bare areas,,,,Operational
 Tile classes and groupings,,4020,WBNA,Water bodies (natural or artificial),,,,Operational
 Tile classes and groupings,,4021,SINA,Snow or ice (natural or artificial),,,,Operational
 Tile classes and groupings,,4022,URAR,Urban areas,,,,Operational
-Tile classes and groupings,,4023-4500, ,Reserved for tile class entries for tile models using the European Commission-Global Land Cover Project GLC2000 survey,(see Note 1),191a,,Operational
-Tile classes and groupings,,4501-5000, ,Reserved for tile grouping entries for tile models using the European Commission-Global Land Cover Project GLC2000 survey,(see Note 1),191a,,Operational
-Tile classes and groupings,,5001-32767, ,Reserved for additional land cover surveys,,,,Operational
-Tile classes and groupings,,32768-65534, ,Reserved for local use,,,,Operational
-Tile classes and groupings,,65535, ,Missing,,,,Operational
+Tile classes and groupings,,4023-4500,,Reserved for tile class entries for tile models using the European Commission-Global Land Cover Project GLC2000 survey,(see Note 1),191a,,Operational
+Tile classes and groupings,,4501-5000,,Reserved for tile grouping entries for tile models using the European Commission-Global Land Cover Project GLC2000 survey,(see Note 1),191a,,Operational
+Tile classes and groupings,,5001-32767,,Reserved for additional land cover surveys,,,,Operational
+Tile classes and groupings,,32768-65534,,Reserved for local use,,,,Operational
+Tile classes and groupings,,65535,,Missing,,,,Operational
