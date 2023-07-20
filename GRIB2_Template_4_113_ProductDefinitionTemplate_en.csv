@@ -6,7 +6,9 @@ Generalised tiles at a horizontal level or horizontal layer at a point in time,1
 Generalised tiles at a horizontal level or horizontal layer at a point in time,15,Number of used spatial tiles,,,,,Operational
 Generalised tiles at a horizontal level or horizontal layer at a point in time,16,Number of used tile attribute combinations for type of tile,,,,,Operational
 Generalised tiles at a horizontal level or horizontal layer at a point in time,17,Number of used tile attributes for tile attribute combination (NUTAFTAC),,,,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,18 - 18 + (NUTAFTAC-1),Attribute of tile,(see Code table 4.241),,2.241,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,,"Repeat the following octet for each attribute of tile (n=1,NUTAFTAC)",,,,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,18 + (n-1),Attribute of tile,(see Code table 4.241),,2.241,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,,End of repetition,,,,,Operational
 Generalised tiles at a horizontal level or horizontal layer at a point in time,19 + (NUTAFTAC-1),Total number of tile attribute combinations,,,,,Operational
 Generalised tiles at a horizontal level or horizontal layer at a point in time,20 + (NUTAFTAC-1),Tile index,,,,,Operational
 Generalised tiles at a horizontal level or horizontal layer at a point in time,21 + (NUTAFTAC-1) - 36 + (NUTAFTAC-1),UUID of data group,,,,,Operational
