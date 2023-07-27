@@ -553,6 +553,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",43,,Trapping layer top height,(see Note 6),132,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",44,,Mean vertical gradient of refractivity inside trapping layer,(see Note 6),132,m-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",45,,Minimum vertical gradient of refractivity inside trapping layer,(see Note 6),132,m-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",48,,Top of persistent contrails,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",49,,Base of persistent contrails,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",46-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",255,,Missing,,,,Operational
@@ -677,7 +679,10 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",14,,Upstream accumulated precipitation,,,kg m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",15,,Upstream accumulated snow melt,(see Note 4),16,kg m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",16,,Percolation rate,,,kg m-2 s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",17-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",17,,River outflow of water,,,m3 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",18,,Floodplain outflow of water,,,m3 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",19,,Floodpath outflow of water,,,m3 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",20-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",255,,Missing,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 1: hydrology probabilities",0,,Conditional per cent precipitation amount fractile for an overall period (Encoded as an accumulation),,,kg m-2,Operational
@@ -701,7 +706,9 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",12,,Salinity,,,kg/kg,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",13,,Cross-sectional area of flow in channel,,,m2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",14,,Snow temperature,,,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",15-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",15,,Lake depth,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",16,,River depth,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",17-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",255,,Missing,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 0: vegetation/biomass",0,,"Land cover (0 = sea, 1 = land)",,,Proportion,Operational
@@ -829,7 +836,16 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",24,,Combustion completeness,,,%,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",25,,Fuel moisture content,,,kg kg-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",26,,Wildfire potential (as defined by the US NOAA Global Systems Laboratory),,,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",27-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",27,,Live leaf fuel load,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",28,,Live wood fuel load,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",29,,Dead leaf fuel load,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",30,,Dead wood fuel load,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",31,,Live fuel  moisture content,,,kg kg-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",32,,Fine dead leaf moisture content,,,kg kg-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",33,,Dense dead leaf moisture content,,,kg kg-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",34,,Fine dead wood moisture content,,,kg kg-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",35,,Dense dead wood moisture content,,,kg kg-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",36-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",255,,Missing,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",0,,Glacier cover,(see Note),26,Proportion,Operational
@@ -1141,7 +1157,12 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",90,,u-component of surface momentum flux into ocean,,,N m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",91,,v-component of surface momentum flux into ocean,,,N m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",92,,Wave turbulent energy flux into ocean,,,W m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",93-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",93,,Envelop maximum individual wave height,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",94,,Time domain maximum individual crest height,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",95,,Time domain maximum individual wave height,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",96,,Space time maximum individual crest height,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",97,,Space time maximum individual wave height,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",98-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",255,,Missing,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 1: currents",0,,Current direction,,,degree true,Operational

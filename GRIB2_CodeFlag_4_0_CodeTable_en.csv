@@ -98,7 +98,9 @@ Product definition template number,,113,,"Generalised tiles at a horizontal leve
 Product definition template number,,114,,"Average, accumulation, and/or extreme values or other statistically processed values on generalised tiles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
 Product definition template number,,115,,"Individual ensemble forecast, control and perturbed on generalised tiles at a horizontal level or in a horizontal layer at a point in time",,,,Operational
 Product definition template number,,116,,"Individual ensemble forecast, control and perturbed on generalised tiles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
-Product definition template number,,117-253,,Reserved,,,,Operational
+Product definition template number,,117,,"Individual large ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,,,Operational
+Product definition template number,,118,,"Individual large ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous interval",,,,Operational
+Product definition template number,,119-253,,Reserved,,,,Operational
 Product definition template number,,254,,CCITT IA5 character string,,,,Operational
 Product definition template number,,255-999,,Reserved,,,,Operational
 Product definition template number,,1000,,Cross-section of analysis and forecast at a point in time,,,,Experimental
