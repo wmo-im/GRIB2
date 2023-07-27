@@ -94,8 +94,8 @@ Product definition template number,,109,,"Individual ensemble forecast, control 
 Product definition template number,,110,,"Average, accumulation, extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for generic optical products",,,,Operational
 Product definition template number,,111,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous interval for generic optical products",,,,Operational
 Product definition template number,,112,,"Anomalies, significance and other derived products as probability forecasts in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
-Product definition template number,,117,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,,,Operational
-Product definition template number,,118,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous interval",,,,Operational
+Product definition template number,,117,,"Individual large ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,,,Operational
+Product definition template number,,118,,"Individual large ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous interval",,,,Operational
 Product definition template number,,119-253,,Reserved,,,,Operational
 Product definition template number,,254,,CCITT IA5 character string,,,,Operational
 Product definition template number,,255-999,,Reserved,,,,Operational
