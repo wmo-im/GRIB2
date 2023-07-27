@@ -831,7 +831,16 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",24,,Combustion completeness,,,%,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",25,,Fuel moisture content,,,kg kg-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",26,,Wildfire potential (as defined by the US NOAA Global Systems Laboratory),,,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",27-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",27,,Live leaf fuel load,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",28,,Live wood fuel load,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",29,,Dead leaf fuel load,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",30,,Dead wood fuel load,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",31,,Live fuel  moisture content,,,kg kg-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",32,,Fine dead leaf moisture content,,,kg kg-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",33,,Dense dead leaf moisture content,,,kg kg-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",34,,Fine dead wood moisture content,,,kg kg-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",35,,Dense dead wood moisture content,,,kg kg-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",36-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",255,,Missing,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",0,,Glacier cover,(see Note),26,Proportion,Operational
