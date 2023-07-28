@@ -72,7 +72,8 @@ Fixed surface types and units,,168,,Ocean model level,,,Numeric,Operational
 Fixed surface types and units,,169,,Ocean level defined by water density (sigma-theta) difference from near-surface to level,(see Note 7),18,kg m-3,Operational
 Fixed surface types and units,,170,,Ocean level defined by water potential temperature difference from near-surface to level,(see Note 7),18,K,Operational
 Fixed surface types and units,,171,,Ocean level defined by vertical eddy diffusivity difference from near-surface to level,(see Note 7),18,m2 s-1,Operational
-Fixed surface types and units,,172-173,,Reserved,,,,Operational
+Fixed surface types and units,,172,,Reserved,,,,Operational
+Fixed surface types and units,,173,,"Top of snow over sea ice on sea, lake or river,,,-,Operational
 Fixed surface types and units,,174,,"Top surface of ice on sea, lake or river",,,-,Operational
 Fixed surface types and units,,175,,"Top surface of ice, under snow cover, on sea, lake or river",,,-,Operational
 Fixed surface types and units,,176,,"Bottom surface (underside) ice on sea, lake or river",,,-,Operational
@@ -84,6 +85,11 @@ Fixed surface types and units,,181,,Grid tile land fraction as a model surface,,
 Fixed surface types and units,,182,,Grid tile water fraction as a model surface,,,-,Operational
 Fixed surface types and units,,183,,"Grid tile ice fraction on sea, lake or river as a model surface",,,-,Operational
 Fixed surface types and units,,184,,Grid tile glacier ice and inland ice fraction as a model surface,,,-,Operational
-Fixed surface types and units,,185-191,,Reserved,,,,Operational
+Fixed surface types and units,,185,,Roof level,,,-,Operational
+Fixed surface types and units,,186,,Wall level,,,-,Operational
+Fixed surface types and units,,187,,Road level,,,-,Operational
+Fixed surface types and units,,188,,Melt pond top surface,,,-,Operational
+Fixed surface types and units,,189,,Melt pond bottom surface,,,-,Operational
+Fixed surface types and units,,190-191,,Reserved,,,,Operational
 Fixed surface types and units,,192-254,,Reserved for local use,,,,Operational
 Fixed surface types and units,,255,,Missing,,,,Operational
