@@ -7,7 +7,7 @@ Post-processed quantile forecasts at a horizontal level or in a horizontal layer
 Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,17,Type of generating process,(see Code table 4.3),,4.3,,Operational
 Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,18,Background generating process identifier (defined by originating centre),,,,,Operational
 Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,19,Forecast generating process identifier (defined by originating centre),,,,,Operational
-Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,20-21,Hours after reference time of data cut-off,(see Note),33,,,Operational
+Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,20-21,Hours after reference time of data cut-off,(see Note 4),33,,,Operational
 Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,22,Minutes after reference time of data cut-off,,,,,Operational
 Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,23,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
 Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,24-27,Forecast time in units defined by octet 23,,,,,Operational
