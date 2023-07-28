@@ -73,7 +73,7 @@ Fixed surface types and units,,169,,Ocean level defined by water density (sigma-
 Fixed surface types and units,,170,,Ocean level defined by water potential temperature difference from near-surface to level,(see Note 7),18,K,Operational
 Fixed surface types and units,,171,,Ocean level defined by vertical eddy diffusivity difference from near-surface to level,(see Note 7),18,m2 s-1,Operational
 Fixed surface types and units,,172,,Reserved,,,,Operational
-Fixed surface types and units,,173,,"Top of snow over sea ice on sea, lake or river,,,-,Operational
+Fixed surface types and units,,173,,"Top of snow over sea ice on sea, lake or river",,,-,Operational
 Fixed surface types and units,,174,,"Top surface of ice on sea, lake or river",,,-,Operational
 Fixed surface types and units,,175,,"Top surface of ice, under snow cover, on sea, lake or river",,,-,Operational
 Fixed surface types and units,,176,,"Bottom surface (underside) ice on sea, lake or river",,,-,Operational
