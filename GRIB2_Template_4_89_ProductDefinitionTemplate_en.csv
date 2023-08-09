@@ -10,7 +10,7 @@ Post-processed quantile forecasts at a horizontal level or in a horizontal layer
 Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,20-21,Hours after reference time of data cut-off,(see Note 4),33,,,Operational
 Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,22,Minutes after reference time of data cut-off,,,,,Operational
 Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,23,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
-Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,24-27,Forecast time in units defined by octet 23,,,,,Operational
+Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,24-27,Forecast time in units defined by octet 23,(see Note 5),111,,,Operational
 Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,28,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
 Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,29,Scale factor of first fixed surface,,,,,Operational
 Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time,30-33,Scaled value of first fixed surface,,,,,Operational
