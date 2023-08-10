@@ -1,0 +1,6 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+HEALPix rhomboids or points ordering,,0,,Ring ordering,,,,Operational
+HEALPix rhomboids or points ordering,,1,,Nested ordering,,,,Operational
+HEALPix rhomboids or points ordering,,2-191,,Reserved,,,,Operational
+HEALPix rhomboids or points ordering,,192-254,,Reserved for local use,,,,Operational
+HEALPix rhomboids or points ordering,,255,,Missing,,,,Operational
