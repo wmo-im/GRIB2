@@ -162,6 +162,6 @@ noteID,note
 162,"The units of the wave directions are degree true."
 163,"Wave periods should be specified in seconds."
 164,"See notes under Code table 4.101 for details."
-165,"'Number of reference period time range' is used to define an outer and, if needed, one or more inner loops. The outer loop gives the overall date and time range of the reference period and the inner loop(s) are used to specify a sub-period over all time instances defined in the outer loop in terms of the time unit defined by "Reference period indicator of unit for time increment". Typically the outer loop defines a number of years and inner loop defines the date and time range within each year: for instance 'every January for 30 years'.'
+165,"'Number of reference period time range' is used to define an outer and, if needed, one or more inner loops. The outer loop gives the overall date and time range of the reference period and the inner loop(s) are used to specify a sub-period over all time instances defined in the outer loop in terms of the time unit defined by 'Reference period indicator of unit for time increment'. Typically the outer loop defines a number of years and inner loop defines the date and time range within each year: for instance 'every January for 30 years'."
 iss197a,"The grid is composed of 12 rhomboids, each rhomboid has nsides**2 grid boxes within a rhomboid."
 iss197b,"Longitude of the first grid point of the first rhomboid given in microdegrees. For instance 45.0 degrees is encoded as 45,000,000."
