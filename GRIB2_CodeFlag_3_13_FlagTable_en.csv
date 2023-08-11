@@ -1,8 +1,8 @@
 Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
-HEALPix scanning mode,,1,0,"Points scan in +i direction, i.e. from North to South",,,,Operational
-HEALPix scanning mode,,1,1,"Points scan in -i direction, i.e. from South to North",,,,Operational
-HEALPix scanning mode,,2,0,"Points scan in +j direction, i.e. from West to East",,,,Operational
-HEALPix scanning mode,,2,1,"Points scan in -j direction, i.e. from East to West",,,,Operational
+HEALPix scanning mode,,1,0,"Points scan in +i (+x) direction",,,,Operational
+HEALPix scanning mode,,1,1,"Points scan in -i (-x) direction",,,,Operational
+HEALPix scanning mode,,2,0,"Points scan in -j (-y) direction",,,,Operational
+HEALPix scanning mode,,2,1,"Points scan in +j (+y) direction",,,,Operational
 HEALPix scanning mode,,3,0,Adjacent points in i direction are consecutive,,,,Operational
 HEALPix scanning mode,,3,1,Adjacent points in j direction are consecutive,,,,Operational
 HEALPix scanning mode,,4-8,,Reserved,,,,Operational
