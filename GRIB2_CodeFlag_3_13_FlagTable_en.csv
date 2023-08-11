@@ -3,6 +3,6 @@ HEALPix scanning mode,,1,0,"Points scan in +i (+x) direction",,,,Operational
 HEALPix scanning mode,,1,1,"Points scan in -i (-x) direction",,,,Operational
 HEALPix scanning mode,,2,0,"Points scan in -j (-y) direction",,,,Operational
 HEALPix scanning mode,,2,1,"Points scan in +j (+y) direction",,,,Operational
-HEALPix scanning mode,,3,0,Adjacent points in i direction are consecutive,,,,Operational
-HEALPix scanning mode,,3,1,Adjacent points in j direction are consecutive,,,,Operational
+HEALPix scanning mode,,3,0,Adjacent points in i (x) direction are consecutive,,,,Operational
+HEALPix scanning mode,,3,1,Adjacent points in j (y) direction are consecutive,,,,Operational
 HEALPix scanning mode,,4-8,,Reserved,,,,Operational
