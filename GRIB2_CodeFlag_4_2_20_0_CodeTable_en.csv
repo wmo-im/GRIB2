@@ -1,0 +1,13 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",0,,Universal thermal climate index,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",1,,Mean radiant temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",2,,Wet-bulb globe temperature,(see Note),53,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",3,,Globe temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",4,,Humidex,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",5,,Effective temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",6,,Normal effective temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",7,,Standard effective temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",8,,Physiological equivalent temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",9-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",255,,Missing,,,,Operational

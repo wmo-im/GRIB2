@@ -1,0 +1,14 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",0,,Scaled radiance,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",1,,Scaled albedo,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",2,,Scaled brightness temperature,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",3,,Scaled precipitable water,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",4,,Scaled lifted index,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",5,,Scaled cloud top pressure,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",6,,Scaled skin temperature,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",7,,Cloud mask,,,(Code table 4.217),Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",8,,Pixel scene type,,,(Code table 4.218),Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",9,,Fire detection indicator,,,(Code table 4.223),Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",10-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",255,,Missing,,,,Operational

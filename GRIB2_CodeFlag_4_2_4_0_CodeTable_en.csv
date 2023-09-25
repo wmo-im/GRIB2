@@ -1,0 +1,10 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",0,,Temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",1,,Electron temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",2,,Proton temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",3,,Ion temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",4,,Parallel temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",5,,Perpendicular temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",6-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 0: temperature",255,,Missing,,,,Operational

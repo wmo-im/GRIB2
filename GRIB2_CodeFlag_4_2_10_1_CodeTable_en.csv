@@ -1,0 +1,11 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 1: currents",0,,Current direction,,,degree true,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 1: currents",1,,Current speed,,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 1: currents",2,,u-component of current,,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 1: currents",3,,v-component of current,,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 1: currents",4,,Rip current occurrence probability,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 1: currents",5,,Eastward current,,,m s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 1: currents",6,,Northward current,,,m s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 1: currents",7-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 1: currents",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 1: currents",255,,Missing,,,,Operational

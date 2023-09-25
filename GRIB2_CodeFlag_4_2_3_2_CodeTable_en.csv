@@ -1,0 +1,27 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",0,,Clear sky probability,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",1,,Cloud top temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",2,,Cloud top pressure,,,Pa,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",3,,Cloud type,,,(Code table 4.218),Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",4,,Cloud phase,,,(Code table 4.218),Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",5,,Cloud optical depth,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",6,,Cloud particle effective radius,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",7,,Cloud liquid water path,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",8,,Cloud ice water path,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",9,,Cloud albedo,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",10,,Cloud emissivity,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",11,,Effective absorption optical depth ratio,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",30,,Measurement cost,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",31,,Upper layer cloud optical depth,"(see Note)",70,Numeric,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",32,,Upper layer cloud top pressure,"(see Note)",70,Pa,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",33,,Upper layer cloud effective radius,"(see Note)",70,m,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",34,,Error in upper layer cloud optical depth,"(see Note)",70,Numeric,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",35,,Error in upper layer cloud top pressure,"(see Note)",70,Pa,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",36,,Error in upper layer cloud effective radius,"(see Note)",70,m,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",37,,Lower layer cloud optical depth,"(see Note)",70,Numeric,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",38,,Lower layer cloud top pressure,"(see Note)",70,Pa,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",39,,Error in lower layer cloud optical depth,"(see Note)",70,Numeric,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",40,,Error in lower layer cloud top pressure,"(see Note)",70,Pa,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",41-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 2: cloud properties",255,,Missing,,,,Operational

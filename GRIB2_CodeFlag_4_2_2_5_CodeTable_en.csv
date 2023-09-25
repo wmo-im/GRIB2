@@ -1,0 +1,6 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",0,,Glacier cover,(see Note),26,Proportion,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",1,,Glacier temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",2-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",255,,Missing,,,,Operational

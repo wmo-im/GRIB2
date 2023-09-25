@@ -1,0 +1,35 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",0,,Soil type,,,(Code table 4.213),Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",1,,Upper layer soil temperature,"(see Note 1)",1,K,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",2,,Upper layer soil moisture,"(see Note 1)",1,kg m-3,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",3,,Lower layer soil moisture,"(see Note 1)",1,kg m-3,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",4,,Bottom layer soil temperature,"(see Note 1)",1,K,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",5,,Liquid volumetric soil moisture (non-frozen),(see Note 2),3,Proportion,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",6,,Number of soil layers in root zone,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",7,,Transpiration stress-onset (soil moisture),(see Note 2),3,Proportion,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",8,,Direct evaporation cease (soil moisture),(see Note 2),3,Proportion,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",9,,Soil porosity,(see Note 2),3,Proportion,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",10,,Liquid volumetric soil moisture (non-frozen),,,m3 m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",11,,Volumetric transpiration stress-onset (soil moisture),,,m3 m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",12,,Transpiration stress-onset (soil moisture),,,kg m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",13,,Volumetric direct evaporation cease (soil moisture),,,m3 m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",14,,Direct evaporation cease (soil moisture),,,kg m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",15,,Soil porosity,,,m3 m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",16,,Volumetric saturation of soil moisture,,,m3 m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",17,,Saturation of soil moisture,,,kg m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",18,,Soil temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",19,,Soil moisture,,,kg m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",20,,Column-integrated soil moisture,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",21,,Soil ice,,,kg m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",22,,Column-integrated soil ice,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",23,,Liquid water in snow pack,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",24,,Frost index,,,K day-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",25,,Snow depth at elevation bands,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",26,,Soil heat flux,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",27,,Soil depth,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",28,,Snow temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",29,,Ice temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",30,,Soil wetness index,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",31-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 3: soil products",255,,Missing,,,,Operational

@@ -1,0 +1,9 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 191: miscellaneous",0,,Seconds prior to initial reference time (defined in Section 1),,,s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 191: miscellaneous",1,,Meridional overturning stream function,,,m3/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 191: miscellaneous",2,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 191: miscellaneous",3,,Days since last observation,,,d,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 191: miscellaneous",4,,Barotropic stream function,,,m3 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 191: miscellaneous",5-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 191: miscellaneous",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 191: miscellaneous",255,,Missing,,,,Operational

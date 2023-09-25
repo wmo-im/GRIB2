@@ -1,0 +1,8 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 7: terrestrial electromagnetic emissions",0,,Limb intensity,,,J m-2 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 7: terrestrial electromagnetic emissions",1,,Disk intensity,,,J m-2 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 7: terrestrial electromagnetic emissions",2,,Disk intensity day,,,J m-2 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 7: terrestrial electromagnetic emissions",3,,Disk intensity night,,,J m-2 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 7: terrestrial electromagnetic emissions",4-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 7: terrestrial electromagnetic emissions",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 7: terrestrial electromagnetic emissions",255,,Missing,,,,Operational

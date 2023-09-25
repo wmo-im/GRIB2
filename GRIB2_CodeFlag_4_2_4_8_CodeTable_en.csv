@@ -1,0 +1,13 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",0,,X-ray radiance,,,W sr-1 m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",1,,EUV radiance,,,W sr-1 m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",2,,H-alpha radiance,,,W sr-1 m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",3,,White light radiance,,,W sr-1 m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",4,,CaII-K radiance,,,W sr-1 m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",5,,White light coronagraph radiance,,,W sr-1 m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",6,,Heliospheric radiance,,,W sr-1 m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",7,,Thematic mask,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",8,,Solar induced chlorophyll fluorescence,,,W m-2 sr-1 m-1, Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",9-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",255,,Missing,,,,Operational

@@ -1,0 +1,13 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 4: volcanic ash",0,,Volcanic ash probability,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 4: volcanic ash",1,,Volcanic ash cloud top temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 4: volcanic ash",2,,Volcanic ash cloud top pressure,,,Pa,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 4: volcanic ash",3,,Volcanic ash cloud top height,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 4: volcanic ash",4,,Volcanic ash cloud emissivity,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 4: volcanic ash",5,,Volcanic ash effective absorption optical depth ratio,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 4: volcanic ash",6,,Volcanic ash cloud optical depth,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 4: volcanic ash",7,,Volcanic ash column density,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 4: volcanic ash",8,,Volcanic ash particle effective radius,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 4: volcanic ash",9-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 4: volcanic ash",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 4: volcanic ash",255,,Missing,,,,Operational

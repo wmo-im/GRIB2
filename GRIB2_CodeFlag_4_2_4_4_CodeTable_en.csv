@@ -1,0 +1,11 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",0,,Proton flux (differential),,,(m2 s sr eV)-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",1,,Proton flux (integral),,,(m2 s sr )-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",2,,Electron flux (differential),,,(m2 s sr eV)-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",3,,Electron flux (integral),,,(m2 s sr)-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",4,,Heavy ion flux (differential),,,(m2 s sr eV/nuc)-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",5,,Heavy ion flux (integral),,,(m2 s sr)-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",6,,Cosmic ray neutron flux,,,h-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",7-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 4: energetic particles",255,,Missing,,,,Operational

@@ -1,0 +1,18 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",0,,Net long-wave radiation flux (surface),(see Note),1,W m-2,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",1,,Net long-wave radiation flux (top of atmosphere),(see Note),1,W m-2,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",2,,Long-wave radiation flux,(see Note),1,W m-2,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",3,,Downward long-wave radiation flux,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",4,,Upward long-wave radiation flux,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",5,,Net long-wave radiation flux,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",6,,"Net long-wave radiation flux, clear sky",,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",7,,Brightness temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",8,,"Downward long-wave radiation flux, clear sky",,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",9,,Near IR albedo for diffuse radiation,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",10,,Near IR albedo for direct radiation,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",11,,"Near IR albedo for direct radiation, geometric component",,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",12,,"Near IR albedo for direct radiation, isotropic component",,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",13,,"Near IR albedo for direct radiation, volumetric component",,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",14-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",255,,Missing,,,,Operational

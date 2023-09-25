@@ -1,0 +1,8 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 1: momentum",0,,Velocity magnitude (speed),,,m s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 1: momentum",1,,1st vector component of velocity (coordinate system dependent),,,m s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 1: momentum",2,,2nd vector component of velocity (coordinate system dependent),,,m s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 1: momentum",3,,3rd vector component of velocity (coordinate system dependent),,,m s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 1: momentum",4-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 1: momentum",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 1: momentum",255,,Missing,,,,Operational

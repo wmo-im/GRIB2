@@ -1,0 +1,10 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 6: solar radiation",0,,Global solar irradiance,"(see Note 1)",101,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 6: solar radiation",1,,Global solar exposure,(see Note 2),113,J m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 6: solar radiation",2,,Direct solar irradiance,(see Note 3),103,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 6: solar radiation",3,,Direct solar exposure,(see Note 4),112,J m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 6: solar radiation",4,,Diffuse solar irradiance,(see Note 5),102,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 6: solar radiation",5,,Diffuse solar exposure,(see Note 6),111,J m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 6: solar radiation",6-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 6: solar radiation",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 6: solar radiation",255,,Missing,,,,Operational

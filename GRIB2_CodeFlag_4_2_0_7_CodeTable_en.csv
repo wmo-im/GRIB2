@@ -1,0 +1,25 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",0,,Parcel lifted index (to 500 hPa),,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",1,,Best lifted index (to 500 hPa),,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",2,,K index,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",3,,KO index,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",4,,Total totals index,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",5,,Sweat index,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",6,,Convective available potential energy,,,J/kg,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",7,,Convective inhibition,,,J/kg,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",8,,Storm relative helicity,,,J/kg,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",9,,Energy helicity index,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",10,,Surface lifted index,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",11,,Best (4-layer) lifted index,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",12,,Richardson number,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",13,,Showalter index,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",14,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",15,,Updraught helicity,,,m2 s-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",16,,Bulk Richardson number,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",17,,Gradient Richardson number,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",18,,Flux Richardson number,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",19,,Convective available potential energy - shear,,,m2 s-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",20,,Thunderstorm intensity index,,,(Code table 4.246),Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",21-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",255,,Missing,,,,Operational

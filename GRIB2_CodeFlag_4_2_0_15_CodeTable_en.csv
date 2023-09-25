@@ -1,0 +1,21 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",0,,Base spectrum width,,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",1,,Base reflectivity,,,dB,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",2,,Base radial velocity,,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",3,,Vertically integrated liquid water (VIL),,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",4,,Layer-maximum base reflectivity,,,dB,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",5,,Precipitation,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",6,,Radar spectra (1),,,-,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",7,,Radar spectra (2),,,-,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",8,,Radar spectra (3),,,-,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",9,,Reflectivity of cloud droplets,,,dB,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",10,,Reflectivity of cloud ice,,,dB,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",11,,Reflectivity of snow,,,dB,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",12,,Reflectivity of rain,,,dB,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",13,,Reflectivity of graupel,,,dB,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",14,,Reflectivity of hail,,,dB,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",15,,Hybrid scan reflectivity,,,dB,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",16,,Hybrid scan reflectivity height,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",17-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",255,,Missing,,,,Operational

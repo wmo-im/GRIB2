@@ -1,0 +1,11 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",0,,Integrated solar irradiance,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",1,,Solar X-ray flux (XRS long),,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",2,,Solar X-ray flux (XRS short),,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",3,,Solar EUV irradiance,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",4,,Solar spectral irradiance,,,W m-2 nm-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",5,,F10.7,,,W m-2 Hz-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",6,,Solar radio emissions,,,W m-2 Hz-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",7-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 6: solar electromagnetic emissions",255,,Missing,,,,Operational
