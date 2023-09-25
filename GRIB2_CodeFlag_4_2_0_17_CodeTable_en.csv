@@ -5,6 +5,6 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",3,,Cloud-to-cloud lightning flash density,,,km-2 day-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",4,,Total lightning flash density,(see Note 2),104,km-2 day-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",5,,Subgrid-scale lightning potential index,(see Note 3),123,J kg-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",6-191,Reserved,,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",192-254,Reserved for local use,,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",255,Missing,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",6-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",255,,Missing,,,,Operational
