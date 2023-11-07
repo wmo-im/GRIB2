@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2023-02-15T13:42:09.233092">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2023-11-07T17:02:48.075688">
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 0.0 - Discipline of processed data in the GRIB message, number of GRIB Master table</Title_en>
 		<CodeFlag>0</CodeFlag>
@@ -368,7 +368,19 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 1.3 - Production status of data</Title_en>
-		<CodeFlag>12-191</CodeFlag>
+		<CodeFlag>12</CodeFlag>
+		<MeaningParameterDescription_en>Destination Earth</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 1.3 - Production status of data</Title_en>
+		<CodeFlag>13</CodeFlag>
+		<MeaningParameterDescription_en>Destination Earth test</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 1.3 - Production status of data</Title_en>
+		<CodeFlag>14-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -836,7 +848,19 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 3.1 - Grid definition template number</Title_en>
-		<CodeFlag>141-999</CodeFlag>
+		<CodeFlag>141-149</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 3.1 - Grid definition template number</Title_en>
+		<CodeFlag>150</CodeFlag>
+		<MeaningParameterDescription_en>Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 3.1 - Grid definition template number</Title_en>
+		<CodeFlag>151-999</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -1059,7 +1083,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Flag table 3.4 - Scanning mode</Title_en>
 		<CodeFlag>3</CodeFlag>
-		<MeaningParameterDescription_en>Adjacent points in j (y) direction is consecutive</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Adjacent points in j (y) direction are consecutive</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -1202,7 +1226,25 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 3.8 - Grid point position</Title_en>
-		<CodeFlag>3-191</CodeFlag>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Grid points at shape vertices</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 3.8 - Grid point position</Title_en>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>Grid points at centre of shapes</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 3.8 - Grid point position</Title_en>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>Grid points at midpoints of shape sides</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 3.8 - Grid point position</Title_en>
+		<CodeFlag>6-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -1312,6 +1354,78 @@
 		<Title_en>Code table 3.11 - Interpretation of list of numbers at end of section 3</Title_en>
 		<CodeFlag>255</CodeFlag>
 		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 3.12 - HEALPix rhomboids or points ordering</Title_en>
+		<CodeFlag>0</CodeFlag>
+		<MeaningParameterDescription_en>Ring ordering</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 3.12 - HEALPix rhomboids or points ordering</Title_en>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>Nested ordering</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 3.12 - HEALPix rhomboids or points ordering</Title_en>
+		<CodeFlag>2-191</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 3.12 - HEALPix rhomboids or points ordering</Title_en>
+		<CodeFlag>192-254</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for local use</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 3.12 - HEALPix rhomboids or points ordering</Title_en>
+		<CodeFlag>255</CodeFlag>
+		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Flag table 3.13 - HEALPix scanning mode</Title_en>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>Points scan in +i (+x) direction</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Flag table 3.13 - HEALPix scanning mode</Title_en>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>Points scan in -i (-x) direction</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Flag table 3.13 - HEALPix scanning mode</Title_en>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>Points scan in -j (-y) direction</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Flag table 3.13 - HEALPix scanning mode</Title_en>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>Points scan in +j (+y) direction</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Flag table 3.13 - HEALPix scanning mode</Title_en>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Adjacent points in i (x) direction are consecutive</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Flag table 3.13 - HEALPix scanning mode</Title_en>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Adjacent points in j (y) direction are consecutive</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Flag table 3.13 - HEALPix scanning mode</Title_en>
+		<CodeFlag>4-8</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -2006,8 +2120,14 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
-		<CodeFlag>89-90</CodeFlag>
-		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<CodeFlag>89</CodeFlag>
+		<MeaningParameterDescription_en>Post-processed quantile forecasts at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>90</CodeFlag>
+		<MeaningParameterDescription_en>Post-processed quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -2037,7 +2157,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<CodeFlag>95</CodeFlag>
-		<MeaningParameterDescription_en>Average, accumulation, extreme values or other statiscally processed value at a horizontal level or in a horizontal layer at a specified local time</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Average, accumulation, extreme values or other statistically processed value at a horizontal level or in a horizontal layer at a specified local time</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -2144,7 +2264,43 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
-		<CodeFlag>113-253</CodeFlag>
+		<CodeFlag>113</CodeFlag>
+		<MeaningParameterDescription_en>Generalised tiles at a horizontal level or horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>114</CodeFlag>
+		<MeaningParameterDescription_en>Average, accumulation, and/or extreme values or other statistically processed values on generalised tiles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>115</CodeFlag>
+		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed on generalised tiles at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>116</CodeFlag>
+		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed on generalised tiles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>117</CodeFlag>
+		<MeaningParameterDescription_en>Individual large ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>118</CodeFlag>
+		<MeaningParameterDescription_en>Individual large ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous interval</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>119-253</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -2690,7 +2846,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
-		<CodeFlag>3-191</CodeFlag>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Renewable energy sector</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
+		<CodeFlag>4-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -3932,7 +4094,19 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>168-191</CodeFlag>
+		<CodeFlag>168</CodeFlag>
+		<MeaningParameterDescription_en>Saturation specific humidity with respect to water</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>169</CodeFlag>
+		<MeaningParameterDescription_en>Total column integrated saturation specific humidity with respect to water</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>170-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -4174,13 +4348,13 @@
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>37</CodeFlag>
 		<MeaningParameterDescription_en>Northward turbulent surface stress</MeaningParameterDescription_en>
-		<Status>Operational</Status>
+		<Status>Deprecated</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>38</CodeFlag>
 		<MeaningParameterDescription_en>Eastward turbulent surface stress</MeaningParameterDescription_en>
-		<Status>Operational</Status>
+		<Status>Deprecated</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
@@ -4304,7 +4478,61 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>59-191</CodeFlag>
+		<CodeFlag>59</CodeFlag>
+		<MeaningParameterDescription_en>Vertical divergence</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>60</CodeFlag>
+		<MeaningParameterDescription_en>Drag thermal coefficient</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>61</CodeFlag>
+		<MeaningParameterDescription_en>Drag evaporation coefficient</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>62</CodeFlag>
+		<MeaningParameterDescription_en>Eastward turbulent surface stress</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>63</CodeFlag>
+		<MeaningParameterDescription_en>Northward turbulent surface stress</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>64</CodeFlag>
+		<MeaningParameterDescription_en>Eastward turbulent surface stress due to orographic form drag</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>65</CodeFlag>
+		<MeaningParameterDescription_en>Northward turbulent surface stress due to orographic form drag</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>66</CodeFlag>
+		<MeaningParameterDescription_en>Eastward turbulent surface stress due to surface roughness</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>67</CodeFlag>
+		<MeaningParameterDescription_en>Northward turbulent surface stress due to surface roughness</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>68-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -4598,7 +4826,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>46-191</CodeFlag>
+		<CodeFlag>46</CodeFlag>
+		<MeaningParameterDescription_en>Pressure departure from hydrostatic state</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>47-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -6032,7 +6266,31 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>46-191</CodeFlag>
+		<CodeFlag>46</CodeFlag>
+		<MeaningParameterDescription_en>Net radiation flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>47</CodeFlag>
+		<MeaningParameterDescription_en>Global irradiance on tilted surfaces</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>48</CodeFlag>
+		<MeaningParameterDescription_en>Top of persistent contrails</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>49</CodeFlag>
+		<MeaningParameterDescription_en>Base of persistent contrails</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>50-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -6590,7 +6848,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>22-191</CodeFlag>
+		<CodeFlag>22</CodeFlag>
+		<MeaningParameterDescription_en>Eady growth rate</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>23-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -6652,6 +6916,12 @@
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>3</CodeFlag>
 		<MeaningParameterDescription_en>Days since last observation</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>Tropical cyclone density track</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -6776,7 +7046,25 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>17-191</CodeFlag>
+		<CodeFlag>17</CodeFlag>
+		<MeaningParameterDescription_en>River outflow of water</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>18</CodeFlag>
+		<MeaningParameterDescription_en>Floodplain outflow of water</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>19</CodeFlag>
+		<MeaningParameterDescription_en>Floodpath outflow of water</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>20-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -6920,7 +7208,19 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>15-191</CodeFlag>
+		<CodeFlag>15</CodeFlag>
+		<MeaningParameterDescription_en>Lake depth</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>16</CodeFlag>
+		<MeaningParameterDescription_en>River depth</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>17-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -7310,7 +7610,19 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>62-191</CodeFlag>
+		<CodeFlag>62</CodeFlag>
+		<MeaningParameterDescription_en>Emissivity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>63</CodeFlag>
+		<MeaningParameterDescription_en>Canopy air temperature</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>64-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -7508,7 +7820,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>30-191</CodeFlag>
+		<CodeFlag>30</CodeFlag>
+		<MeaningParameterDescription_en>Soil wetness index</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>31-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -7688,7 +8006,61 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>27-191</CodeFlag>
+		<CodeFlag>27</CodeFlag>
+		<MeaningParameterDescription_en>Live leaf fuel load</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>28</CodeFlag>
+		<MeaningParameterDescription_en>Live wood fuel load</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>29</CodeFlag>
+		<MeaningParameterDescription_en>Dead leaf fuel load</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>30</CodeFlag>
+		<MeaningParameterDescription_en>Dead wood fuel load</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>31</CodeFlag>
+		<MeaningParameterDescription_en>Live fuel moisture content</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>32</CodeFlag>
+		<MeaningParameterDescription_en>Fine dead leaf moisture content</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>33</CodeFlag>
+		<MeaningParameterDescription_en>Dense dead leaf moisture content</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>34</CodeFlag>
+		<MeaningParameterDescription_en>Fine dead wood moisture content</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>35</CodeFlag>
+		<MeaningParameterDescription_en>Dense dead wood moisture content</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>36-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -7772,7 +8144,25 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>6-191</CodeFlag>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>Distance downward from roof surface</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>7</CodeFlag>
+		<MeaningParameterDescription_en>Distance inward from outer wall surface</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>8</CodeFlag>
+		<MeaningParameterDescription_en>Distance downward from road surface</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>9-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -8042,7 +8432,19 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>31-97</CodeFlag>
+		<CodeFlag>31</CodeFlag>
+		<MeaningParameterDescription_en>Cloudy reflectance</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>32</CodeFlag>
+		<MeaningParameterDescription_en>Clear reflectance</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>33-97</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -9560,7 +9962,37 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>93-191</CodeFlag>
+		<CodeFlag>93</CodeFlag>
+		<MeaningParameterDescription_en>Envelop maximum individual wave height</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>94</CodeFlag>
+		<MeaningParameterDescription_en>Time domain maximum individual crest height</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>95</CodeFlag>
+		<MeaningParameterDescription_en>Time domain maximum individual wave height</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>96</CodeFlag>
+		<MeaningParameterDescription_en>Space time maximum individual crest height</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>97</CodeFlag>
+		<MeaningParameterDescription_en>Space time maximum individual wave height</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>98-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -9782,7 +10214,19 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>24-191</CodeFlag>
+		<CodeFlag>24</CodeFlag>
+		<MeaningParameterDescription_en>x-component of ice drift</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>25</CodeFlag>
+		<MeaningParameterDescription_en>y-component of ice drift</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>26-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -9926,7 +10370,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>21-191</CodeFlag>
+		<CodeFlag>21</CodeFlag>
+		<MeaningParameterDescription_en>Salinity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>22-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -10184,7 +10634,67 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>42-191</CodeFlag>
+		<CodeFlag>42</CodeFlag>
+		<MeaningParameterDescription_en>Sea water meridional volume transport</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>43</CodeFlag>
+		<MeaningParameterDescription_en>Sea water zonal volume transport</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>44</CodeFlag>
+		<MeaningParameterDescription_en>Sea water column integrated meridional volume transport</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>45</CodeFlag>
+		<MeaningParameterDescription_en>Sea water column integrated zonal volume transport</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>46</CodeFlag>
+		<MeaningParameterDescription_en>Sea water meridional mass transport</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>47</CodeFlag>
+		<MeaningParameterDescription_en>Sea water zonal mass transport</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>48</CodeFlag>
+		<MeaningParameterDescription_en>Sea water column integrated meridional mass transport</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>49</CodeFlag>
+		<MeaningParameterDescription_en>Sea water column integrated zonal mass transport</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>50</CodeFlag>
+		<MeaningParameterDescription_en>Sea water column integrated practical salinity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>51</CodeFlag>
+		<MeaningParameterDescription_en>Sea water column integrated salinity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>52-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -10407,6 +10917,84 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>1-191</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>192-254</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for local use</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>255</CodeFlag>
+		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>0</CodeFlag>
+		<MeaningParameterDescription_en>Renewable power capacity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>Renewable power production rate</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>Wind power capacity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Wind power production rate</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>Solar photovoltaic (PV) power capacity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>Solar photovoltaic (PV) power production rate</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>Solar non-photovoltaic (PV) power capacity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>7</CodeFlag>
+		<MeaningParameterDescription_en>Solar non-photovoltaic (PV) power production rate</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>8</CodeFlag>
+		<MeaningParameterDescription_en>Concentrated solar power (CSP) power capacity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>9</CodeFlag>
+		<MeaningParameterDescription_en>Concentrated solar power (CSP) power production rate</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>10-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -11108,8 +11696,14 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
-		<CodeFlag>172-173</CodeFlag>
+		<CodeFlag>172</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
+		<CodeFlag>173</CodeFlag>
+		<MeaningParameterDescription_en>Top of snow over sea ice on sea, lake or river</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -11180,7 +11774,37 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
-		<CodeFlag>185-191</CodeFlag>
+		<CodeFlag>185</CodeFlag>
+		<MeaningParameterDescription_en>Roof level</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
+		<CodeFlag>186</CodeFlag>
+		<MeaningParameterDescription_en>Wall level</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
+		<CodeFlag>187</CodeFlag>
+		<MeaningParameterDescription_en>Road level</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
+		<CodeFlag>188</CodeFlag>
+		<MeaningParameterDescription_en>Melt pond top surface</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
+		<CodeFlag>189</CodeFlag>
+		<MeaningParameterDescription_en>Melt pond bottom surface</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
+		<CodeFlag>190-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -14198,7 +14822,25 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.241 - Coverage attributes</Title_en>
-		<CodeFlag>5-191</CodeFlag>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>With intercepted water</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.241 - Coverage attributes</Title_en>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>With intercepted snow</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.241 - Coverage attributes</Title_en>
+		<CodeFlag>7</CodeFlag>
+		<MeaningParameterDescription_en>Aggregated</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.241 - Coverage attributes</Title_en>
+		<CodeFlag>8-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -14234,7 +14876,25 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.242 - Tile classification</Title_en>
-		<CodeFlag>3-191</CodeFlag>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Land use classes according to ECOCLIMAP</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.242 - Tile classification</Title_en>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>Land use classes according to ECOCLIMAP-SG</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.242 - Tile classification</Title_en>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>Land use classes according to USGS EROS Global Land Cover Characterization (GLCC) v2.0 BATS Classification</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.242 - Tile classification</Title_en>
+		<CodeFlag>6-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -14787,6 +15447,972 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.251 - Wave direction and frequency formulae</Title_en>
 		<CodeFlag>255</CodeFlag>
+		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>0</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>Seas and oceans</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>Inland water bodies</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Bare areas</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>High vegetation</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>Low vegetation</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>Urban</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>7-1000</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for intercomparison tile classes/groupings</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1001</CodeFlag>
+		<MeaningParameterDescription_en>Sea and oceans</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1002</CodeFlag>
+		<MeaningParameterDescription_en>Lakes</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1003</CodeFlag>
+		<MeaningParameterDescription_en>Rivers</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1004</CodeFlag>
+		<MeaningParameterDescription_en>Bare land</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1005</CodeFlag>
+		<MeaningParameterDescription_en>Bare rock</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1006</CodeFlag>
+		<MeaningParameterDescription_en>Permanent snow</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1007</CodeFlag>
+		<MeaningParameterDescription_en>Boreal broadleaf deciduous</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1008</CodeFlag>
+		<MeaningParameterDescription_en>Temperate broadleaf deciduous</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1009</CodeFlag>
+		<MeaningParameterDescription_en>Tropical broadleaf deciduous</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1010</CodeFlag>
+		<MeaningParameterDescription_en>Temperate broadleaf evergreen</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1011</CodeFlag>
+		<MeaningParameterDescription_en>Tropical broadleaf evergreen</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1012</CodeFlag>
+		<MeaningParameterDescription_en>Boreal needleleaf evergreen</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1013</CodeFlag>
+		<MeaningParameterDescription_en>Temperate needleleaf evergreen</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1014</CodeFlag>
+		<MeaningParameterDescription_en>Boreal needleleaf deciduous</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1015</CodeFlag>
+		<MeaningParameterDescription_en>Shrubs</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1016</CodeFlag>
+		<MeaningParameterDescription_en>Boreal grassland</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1017</CodeFlag>
+		<MeaningParameterDescription_en>Temperate grassland</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1018</CodeFlag>
+		<MeaningParameterDescription_en>Tropical grassland</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1019</CodeFlag>
+		<MeaningParameterDescription_en>Winter C3 crops</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1020</CodeFlag>
+		<MeaningParameterDescription_en>Summer C3 crops</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1021</CodeFlag>
+		<MeaningParameterDescription_en>C4 crops</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1022</CodeFlag>
+		<MeaningParameterDescription_en>Flooded trees</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1023</CodeFlag>
+		<MeaningParameterDescription_en>Flooded grassland</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1024</CodeFlag>
+		<MeaningParameterDescription_en>Local climate zone 1: compact high-rise (buildings)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1025</CodeFlag>
+		<MeaningParameterDescription_en>Local climate zone 2: compact midrise (buildings)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1026</CodeFlag>
+		<MeaningParameterDescription_en>Local climate zone 3: compact low-rise (buildings)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1027</CodeFlag>
+		<MeaningParameterDescription_en>Local climate zone 4: open high-rise (buildings)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1028</CodeFlag>
+		<MeaningParameterDescription_en>Local climate zone 5: open midrise (buildings)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1029</CodeFlag>
+		<MeaningParameterDescription_en>Local climate zone 6: open low-rise (buildings)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1030</CodeFlag>
+		<MeaningParameterDescription_en>Local climate zone 7: lightweight low-rise (buildings)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1031</CodeFlag>
+		<MeaningParameterDescription_en>Local climate zone 8: large low-rise (buildings)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1032</CodeFlag>
+		<MeaningParameterDescription_en>Local climate zone 9: sparsely built (buildings)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1033</CodeFlag>
+		<MeaningParameterDescription_en>Local climate zone 10: heavy industry (buildings)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1034</CodeFlag>
+		<MeaningParameterDescription_en>Urban temperate broadleaf deciduous</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1035</CodeFlag>
+		<MeaningParameterDescription_en>Urban tropical broadleaf deciduous</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1036</CodeFlag>
+		<MeaningParameterDescription_en>Urban temperate broadleaf evergreen</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1037</CodeFlag>
+		<MeaningParameterDescription_en>Urban tropical broadleaf evergreen</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1038</CodeFlag>
+		<MeaningParameterDescription_en>Urban boreal needleleaf evergreen</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1039</CodeFlag>
+		<MeaningParameterDescription_en>Urban temperate needleleaf evergreen</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1040</CodeFlag>
+		<MeaningParameterDescription_en>Urban boreal needleleaf deciduous</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1041-1500</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for tile class entries for tile models using the ECOCLIMAP-SG land cover survey</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1501</CodeFlag>
+		<MeaningParameterDescription_en>Nature grouping (NO + ROCK + SNOW + BOBD + TEBD + TRBD + TEBE + TRBE + BONE + TENE + BOND + SHRB + BOGR + GRAS + TROG + C3W + C3S + C4 + FLTR + FLGR)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1502</CodeFlag>
+		<MeaningParameterDescription_en>Non-forest grouping (NO + ROCK + SNOW + BOGR + GRAS + TROG + C3W + C3S + C4 + FLTR + FLGR)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1503</CodeFlag>
+		<MeaningParameterDescription_en>Forest grouping (BOBD + TEBD + TRBD + TEBE + TRBE + BONE + TENE + BOND + SHRB)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1504</CodeFlag>
+		<MeaningParameterDescription_en>Non-vegetated grouping (NO + ROCK + SNOW)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1505</CodeFlag>
+		<MeaningParameterDescription_en>Trees grouping (BOBD + TEBD + TRBD + TEBE + TRBE + BONE + TENE + BOND + SHRB + FLTR)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1506</CodeFlag>
+		<MeaningParameterDescription_en>Low vegetation grouping (BOGR + GRAS + TROG + C3W + C3S + C4 + FLGR)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1507</CodeFlag>
+		<MeaningParameterDescription_en>Non-flooded low vegetation grouping (BOGR + GRAS + TROG + C3W + C3S + C4)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1508</CodeFlag>
+		<MeaningParameterDescription_en>Crops grouping (C3W + C3S + C4)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1509</CodeFlag>
+		<MeaningParameterDescription_en>Grassland grouping (BOGR + GRAS + TROG)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1510</CodeFlag>
+		<MeaningParameterDescription_en>Bare and rock grouping (NO + ROCK)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1511</CodeFlag>
+		<MeaningParameterDescription_en>C3 crops grouping (C3W + C3S)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1512</CodeFlag>
+		<MeaningParameterDescription_en>Broadleaf forest grouping (BOBD + TEBD + TRBD + TEBE + TRBE + SHRB)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1513</CodeFlag>
+		<MeaningParameterDescription_en>Needleleaf forest grouping (BONE + TENE + BOND)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1514</CodeFlag>
+		<MeaningParameterDescription_en>Deciduous broadleaf forest grouping (BOBD + TEBD + TRBD + TEBE + SHRB)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1515</CodeFlag>
+		<MeaningParameterDescription_en>Temperate grassland grouping (BOGR + GRAS)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1516</CodeFlag>
+		<MeaningParameterDescription_en>Non-forest (no FLTR) grouping (NO + ROCK + SNOW + BOGR + GRAS + TROG + C3W + C3S + C4 + FLGR)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1517</CodeFlag>
+		<MeaningParameterDescription_en>Broadleaf forest (with FLTR) grouping (BOBD + TEBD + TRBD + TEBE + TRBE + SHRB + FLTR)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1518</CodeFlag>
+		<MeaningParameterDescription_en>Broadleaf trees grouping (BOBD + TEBD + TRBD + TEBE + TRBE + FLTR)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1519</CodeFlag>
+		<MeaningParameterDescription_en>C3/C4 grasslands grouping (BOGR + GRAS + FLGR)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1520</CodeFlag>
+		<MeaningParameterDescription_en>Broadleaf deciduous trees grouping (BOBD + TEBD + TRBD + FLTR)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1521</CodeFlag>
+		<MeaningParameterDescription_en>Broadleaf evergreen trees grouping (TEBE + TRBE)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1522</CodeFlag>
+		<MeaningParameterDescription_en>Needleleaf evergreen trees grouping (BONE + TENE)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1523</CodeFlag>
+		<MeaningParameterDescription_en>LCZ or urban grouping (LCZ1 + LCZ2 + LCZ3 + LCZ4 + LCZ5 + LCZ6 + LCZ7 + LCZ8 + LCZ9 + LCZ10)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1524</CodeFlag>
+		<MeaningParameterDescription_en>Inland water grouping (LAKE + RIVE)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1525</CodeFlag>
+		<MeaningParameterDescription_en>Urban parks and gardens TEBD grouping (NO + GRAS + TEBDU)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1526</CodeFlag>
+		<MeaningParameterDescription_en>Urban parks and gardens TRBD grouping (NO + GRAS + TRBDU)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1527</CodeFlag>
+		<MeaningParameterDescription_en>Urban parks and gardens TEBE grouping (NO + GRAS + TEBEU)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1528</CodeFlag>
+		<MeaningParameterDescription_en>Urban parks and gardens TRBE grouping (NO + GRAS + TRBEU)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1529</CodeFlag>
+		<MeaningParameterDescription_en>Urban parks and gardens BONE grouping (NO + GRAS + BONEU)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1530</CodeFlag>
+		<MeaningParameterDescription_en>Urban parks and gardens TENE grouping (NO + GRAS + TENEU)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1531</CodeFlag>
+		<MeaningParameterDescription_en>Urban parks and gardens BOND grouping (NO + GRAS + BONDU)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>1532-2000</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for tile grouping entries for tile models using the ECOCLIMAP-SG land cover survey</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2001</CodeFlag>
+		<MeaningParameterDescription_en>Crops, mixed farming</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2002</CodeFlag>
+		<MeaningParameterDescription_en>Short grass</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2003</CodeFlag>
+		<MeaningParameterDescription_en>Evergreen needleleaf trees</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2004</CodeFlag>
+		<MeaningParameterDescription_en>Deciduous needleleaf trees</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2005</CodeFlag>
+		<MeaningParameterDescription_en>Deciduous broadleaf trees</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2006</CodeFlag>
+		<MeaningParameterDescription_en>Evergreen broadleaf trees</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2007</CodeFlag>
+		<MeaningParameterDescription_en>Tall grass</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2008</CodeFlag>
+		<MeaningParameterDescription_en>Desert</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2009</CodeFlag>
+		<MeaningParameterDescription_en>Tundra</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2010</CodeFlag>
+		<MeaningParameterDescription_en>Irrigated crops</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2011</CodeFlag>
+		<MeaningParameterDescription_en>Semidesert</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2012</CodeFlag>
+		<MeaningParameterDescription_en>Ice caps and glaciers</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2013</CodeFlag>
+		<MeaningParameterDescription_en>Bogs and marshes</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2014</CodeFlag>
+		<MeaningParameterDescription_en>Inland water</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2015</CodeFlag>
+		<MeaningParameterDescription_en>Ocean</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2016</CodeFlag>
+		<MeaningParameterDescription_en>Evergreen shrubs</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2017</CodeFlag>
+		<MeaningParameterDescription_en>Deciduous shrubs</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2018</CodeFlag>
+		<MeaningParameterDescription_en>Mixed forest/woodland</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2019</CodeFlag>
+		<MeaningParameterDescription_en>Interrupted forest</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2020</CodeFlag>
+		<MeaningParameterDescription_en>Water and land mixtures</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2021</CodeFlag>
+		<MeaningParameterDescription_en>Bare soil</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2022</CodeFlag>
+		<MeaningParameterDescription_en>Urban</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2023</CodeFlag>
+		<MeaningParameterDescription_en>Low-rise building</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2024</CodeFlag>
+		<MeaningParameterDescription_en>High-rise building</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2025-2500</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for tile class entries for tile models using the GLCC v2.0 BATS Classification survey</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2501</CodeFlag>
+		<MeaningParameterDescription_en>Low vegetation grouping (CRMF + SHGR + TAGR + TUND + IRCR + SEDE + BOMA + EVSH + DESH + WLMI)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2502</CodeFlag>
+		<MeaningParameterDescription_en>High vegetation grouping (EVNE + DENE + DEBR + EVBR + MFWO + INFO)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>2503-3000</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for tile grouping entries for tile models using the GLCC v2.0 BATS Classification survey</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3001</CodeFlag>
+		<MeaningParameterDescription_en>Post-flooding or irrigated croplands</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3002</CodeFlag>
+		<MeaningParameterDescription_en>Rainfed croplands</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3003</CodeFlag>
+		<MeaningParameterDescription_en>Mosaic cropland (50-70%) / vegetation (grassland, shrubland, forest) (20-50%)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3004</CodeFlag>
+		<MeaningParameterDescription_en>Mosaic vegetation (grassland, shrubland, forest) (50-70%) / cropland (20-50%)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3005</CodeFlag>
+		<MeaningParameterDescription_en>Closed to open (&gt;15%) broadleaved evergreen and/or semi-deciduous forest (&gt;5m)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3006</CodeFlag>
+		<MeaningParameterDescription_en>Closed (&gt;40%) broadleaved deciduous forest (&gt;5m)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3007</CodeFlag>
+		<MeaningParameterDescription_en>Open (15-40%) broadleaved deciduous forest (&gt;5m)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3008</CodeFlag>
+		<MeaningParameterDescription_en>Closed (&gt;40%) needleleaved evergreen forest (&gt;5m)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3009</CodeFlag>
+		<MeaningParameterDescription_en>Open (15-40%) needleleaved deciduous or evergreen forest (&gt;5m)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3010</CodeFlag>
+		<MeaningParameterDescription_en>Closed to open (&gt;15%) mixed broadleaved and needleleaved forest (&gt;5m)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3011</CodeFlag>
+		<MeaningParameterDescription_en>Mosaic forest/shrubland (50-70%) / grassland (20-50%)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3012</CodeFlag>
+		<MeaningParameterDescription_en>Mosaic grassland (50-70%) / forest / shrubland (20-50%)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3013</CodeFlag>
+		<MeaningParameterDescription_en>Closed to open (&gt;15%) shrubland (&lt;5m)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3014</CodeFlag>
+		<MeaningParameterDescription_en>Closed to open (&gt;15%) herbaceous vegetation</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3015</CodeFlag>
+		<MeaningParameterDescription_en>Sparse (&lt;15%) vegetation (woody vegetation, shrubs, grassland)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3016</CodeFlag>
+		<MeaningParameterDescription_en>Closed to open (&gt;15%) broadleaved forest regularly flooded (semi-permanently or temporarily) - fresh or brackish water</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3017</CodeFlag>
+		<MeaningParameterDescription_en>Closed (&gt;40%) broadleaved forest or shrubland permanently flooded - saline or brackish water</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3018</CodeFlag>
+		<MeaningParameterDescription_en>Closed to open (&gt;15%) vegetation (grassland, shrubland, woody vegetation) on regularly flooded or waterlogged soil - fresh, brackish or saline water</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3019</CodeFlag>
+		<MeaningParameterDescription_en>Artificial surfaces and associated areas (urban areas &gt;50%)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3020</CodeFlag>
+		<MeaningParameterDescription_en>Bare areas</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3021</CodeFlag>
+		<MeaningParameterDescription_en>Water bodies</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3022</CodeFlag>
+		<MeaningParameterDescription_en>Permanent snow and ice</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3023-3500</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for tile class entries for tile models using the ESA-GlobCover GCV2009 survey</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3501</CodeFlag>
+		<MeaningParameterDescription_en>Grouping using the dominant tiles approach (dominant tile varies per gridbox)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>3502-4000</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for tile grouping entries for tile models using the ESA-GlobCover GCV2009 survey</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4001</CodeFlag>
+		<MeaningParameterDescription_en>Tree cover, broadleaved evergreen, closed to open (&gt;15%)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4002</CodeFlag>
+		<MeaningParameterDescription_en>Tree cover, broadleaved deciduous, closed (&gt;40%)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4003</CodeFlag>
+		<MeaningParameterDescription_en>Tree cover, broadleaved deciduous, open (15-40%)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4004</CodeFlag>
+		<MeaningParameterDescription_en>Tree cover, needleleaved evergreen, closed to open (&gt;15%)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4005</CodeFlag>
+		<MeaningParameterDescription_en>Tree cover, needleleaved decidous, closed to open (&gt;15%)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4006</CodeFlag>
+		<MeaningParameterDescription_en>Tree cover, mixed leaftype, closed to open (&gt;15%)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4007</CodeFlag>
+		<MeaningParameterDescription_en>Tree cover, closed to open (&gt;15%), regularly flooded, fresh or brackish water: swamp forests</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4008</CodeFlag>
+		<MeaningParameterDescription_en>Tree cover, closed to open (&gt;15%), regularly flooded, saline water: mangrove forests</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4009</CodeFlag>
+		<MeaningParameterDescription_en>Mosaic of tree cover and other natural vegetation (crop component possible)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4010</CodeFlag>
+		<MeaningParameterDescription_en>Tree Cover, burnt (mainly boreal forests)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4011</CodeFlag>
+		<MeaningParameterDescription_en>Shrubcover, closed to open (&gt;15%), evergreen (broadleaved or needleleaved)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4012</CodeFlag>
+		<MeaningParameterDescription_en>Shrubcover, closed to open (&gt;15%), deciduous (broadleaved)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4013</CodeFlag>
+		<MeaningParameterDescription_en>Herbaceous cover, closed to open (&gt;15%)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4014</CodeFlag>
+		<MeaningParameterDescription_en>Sparse herbaceous or sparse shrub cover</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4015</CodeFlag>
+		<MeaningParameterDescription_en>Regularly flooded (&gt;2 month) shrub or herbaceous cover, closed to open</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4016</CodeFlag>
+		<MeaningParameterDescription_en>Cropland (upland crops or inundated/ flooded crops)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4017</CodeFlag>
+		<MeaningParameterDescription_en>Mosaic of cropland / tree cover/ other natural vegetation</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4018</CodeFlag>
+		<MeaningParameterDescription_en>Mosaic of cropland / shrub or herbaceous cover</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4019</CodeFlag>
+		<MeaningParameterDescription_en>Bare areas</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4020</CodeFlag>
+		<MeaningParameterDescription_en>Water bodies (natural or artificial)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4021</CodeFlag>
+		<MeaningParameterDescription_en>Snow or ice (natural or artificial)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4022</CodeFlag>
+		<MeaningParameterDescription_en>Urban areas</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4023-4500</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for tile class entries for tile models using the European Commission-Global Land Cover Project GLC2000 survey</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>4501-5000</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for tile grouping entries for tile models using the European Commission-Global Land Cover Project GLC2000 survey</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>5001-32767</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for additional land cover surveys</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>32768-65534</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for local use</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
+		<CodeFlag>65535</CodeFlag>
 		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
