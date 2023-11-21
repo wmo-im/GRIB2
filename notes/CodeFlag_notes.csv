@@ -138,3 +138,5 @@ noteID,note
 141,"See Appendix XYZ."
 142,"In the ring ordering scheme, the 12 rhomboids are not considered and the scanning mode applies to the grid in its entirety."
 143,"In the nested ordering scheme, the 12 rhomboids are scanned in order defined in Gorsky et al. 2015. The flag bits then refer to how the points are scanned within a rhomboid."
+144,"This is the Julian day of the year that surface melt begins."
+145,"This is the Julian day of the year that surface freeze begins."
