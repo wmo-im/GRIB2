@@ -698,7 +698,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",17,,River outflow of water,,,m3 s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",18,,Floodplain outflow of water,,,m3 s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",19,,Floodpath outflow of water,,,m3 s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",20-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",20,,Depth of water on surface,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",21-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",255,,Missing,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 1: hydrology probabilities",0,,Conditional per cent precipitation amount fractile for an overall period (Encoded as an accumulation),,,kg m-2,Operational
@@ -1225,7 +1226,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",23,,Sea ice fraction tendency due to parameterization,,,s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",24,,x-component of ice drift,,,m s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",25,,y-component of ice drift,,,m s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",26-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",26,,Sea ice salinity,,,g kg-1,operational 
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",27-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",255,,Missing,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",0,,Water temperature,,,K,Operational
