@@ -1,0 +1,25 @@
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,10,Parameter category,(see Code table 4.1),,4.1,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,11,Parameter number,(see Code table 4.2),,4.2,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,12,Type of generating process,(see Code table 4.3),,4.3,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,13,Background generating process identifier (defined by originating centre),,,,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,14,Forecast generating process identifier (defined by originating centre),,,,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,15-16,Hours after reference time of data cut-off,(see Note),33,,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,17,Minutes after reference time of data cut-off,,,,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,18,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,19-22,Forecast time in units defined by octet 18,,,,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,23,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,24,Scale factor of first fixed surface,,,,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,25-28,Scaled value of first fixed surface,,,,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,29,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,30,Scale factor of second fixed surface,,,,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,31-34,Scaled value of second fixed surface,,,,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,35,Type of ensemble forecast,(see Code table 4.6),,4.6,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,36-39,Number of forecasts in ensemble,,,,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,40,Forecast probability number,,,,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,41,Total number of forecast probabilities,,,,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,42,Probability type,(see Code table 4.9),,4.9,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,43,Scale factor of lower limit,,,,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,44-47,Scaled value of lower limit,,,,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,48,Scale factor of upper limit,,,,,Operational
+probability forecasts from large ensemble at a horizontal level or in a horizontal layer at a point in time,49-52,Scaled value of upper limit,,,,,Operational
