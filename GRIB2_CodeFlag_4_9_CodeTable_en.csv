@@ -8,6 +8,7 @@ Probability type,,5,,Probability of event equal to lower limit,,,,Operational
 Probability type,,6,,Probability of event in above normal category,(see Notes 1 and 2),"7,9",,Operational
 Probability type,,7,,Probability of event in near normal category,(see Notes 1 and 2),"7,9",,Operational
 Probability type,,8,,Probability of event in below normal category,(see Notes 1 and 2),"7,9",,Operational
+Probability type,,9,,Probability based on counts of categorical boolean,(see Note 3),225d,,Operational
 Probability type,,9-191,,Reserved,,,,Operational
 Probability type,,192-254,,Reserved for local use,,,,Operational
 Probability type,,255,,Missing,,,,Operational
