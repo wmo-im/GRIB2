@@ -1,8 +1,8 @@
 Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
 Spatial vicinity type,,0,,Circle[m],(see Note),225a,,Operational
-Spatial vicinity type,,1,,Rectangle [m,m],(see Note),225a,,Operational
+Spatial vicinity type,,1,,"Rectangle [m,m]",(see Note),225a,,Operational
 Spatial vicinity type,,2,,Square [m],(see Note),225a,,Operational
-Spatial vicinity type,,3,,Wedge [m, degree, degree],(see Note),225a,,Operational
+Spatial vicinity type,,3,,"Wedge [m, degree, degree]",(see Note),225a,,Operational
 Spatial vicinity type,,4,,span of grid boxes centered around grid box i,j [x,y],(see Note),225a,,Operational
 Spatial vicinity type,,5-191,,Reserved,,,,Operational
 Spatial vicinity type,,192-254,,Reserved for local use,,,,Operational
