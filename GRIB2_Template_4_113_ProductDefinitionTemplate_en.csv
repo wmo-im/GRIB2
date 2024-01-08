@@ -7,21 +7,21 @@ Generalised tiles at a horizontal level or horizontal layer at a point in time,1
 Generalised tiles at a horizontal level or horizontal layer at a point in time,16,Number of used tile attribute combinations for type of tile,,,,,Operational
 Generalised tiles at a horizontal level or horizontal layer at a point in time,17,Number of used tile attributes for tile attribute combination (NUTAFTAC),,,,,Operational
 Generalised tiles at a horizontal level or horizontal layer at a point in time,,"Repeat the following octet for each attribute of tile (n=1,NUTAFTAC)",,,,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,18 + (n-1),Attribute of tile,(see Code table 4.241),,2.241,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,18+(n-1),Attribute of tile,(see Code table 4.241),,2.241,,Operational
 Generalised tiles at a horizontal level or horizontal layer at a point in time,,End of repetition,,,,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,19 + (NUTAFTAC-1),Total number of tile attribute combinations,,,,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,20 + (NUTAFTAC-1),Tile index,,,,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,21 + (NUTAFTAC-1) - 36 + (NUTAFTAC-1),UUID of data group,,,,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,37 + (NUTAFTAC-1),Type of generating process,,,,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,38 + (NUTAFTAC-1),Background process,,,,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,39 + (NUTAFTAC-1),Generating process identifier,,,,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,40 + (NUTAFTAC-1) - 41 + (NUTAFTAC-1),Hours after data cut-off,,,,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,42 + (NUTAFTAC-1),Minutes after data cut-off,,,,,operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,43 + (NUTAFTAC-1),Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,44 + (NUTAFTAC-1) - 47 + (NUTAFTAC-1),Forecast time,,,,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,48 + (NUTAFTAC-1),Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,49 + (NUTAFTAC-1),Scale factor of first fixed surface,,,,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,50 + (NUTAFTAC-1) - 53 + (NUTAFTAC-1),Scaled value of first fixed surface,,,,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,54 + (NUTAFTAC-1),Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,55 + (NUTAFTAC-1),Scale factor of second fixed surface,,,,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,56 + (NUTAFTAC-1) - 59 + (NUTAFTAC-1),Scaled value of second fixed surface,,,,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,19+(NUTAFTAC-1),Total number of tile attribute combinations,,,,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,20+(NUTAFTAC-1),Tile index,,,,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,21+(NUTAFTAC-1) - 36 + (NUTAFTAC-1),UUID of data group,,,,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,37+(NUTAFTAC-1),Type of generating process,,,,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,38+(NUTAFTAC-1),Background process,,,,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,39+(NUTAFTAC-1),Generating process identifier,,,,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,40+(NUTAFTAC-1) to 41+(NUTAFTAC-1),Hours after data cut-off,,,,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,42+(NUTAFTAC-1),Minutes after data cut-off,,,,,operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,43+(NUTAFTAC-1),Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,44+(NUTAFTAC-1) to 47+(NUTAFTAC-1),Forecast time,,,,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,48+(NUTAFTAC-1),Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,49+(NUTAFTAC-1),Scale factor of first fixed surface,,,,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,50+(NUTAFTAC-1) to 53+(NUTAFTAC-1),Scaled value of first fixed surface,,,,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,54+(NUTAFTAC-1),Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,55+(NUTAFTAC-1),Scale factor of second fixed surface,,,,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,56+(NUTAFTAC-1) to 59+(NUTAFTAC-1),Scaled value of second fixed surface,,,,,Operational
