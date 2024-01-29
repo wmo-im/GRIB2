@@ -11,7 +11,7 @@ Generalised tiles at a horizontal level or horizontal layer at a point in time,1
 Generalised tiles at a horizontal level or horizontal layer at a point in time,,End of repetition,,,,,Operational
 Generalised tiles at a horizontal level or horizontal layer at a point in time,19+(NUTAFTAC-1),Total number of tile attribute combinations,,,,,Operational
 Generalised tiles at a horizontal level or horizontal layer at a point in time,20+(NUTAFTAC-1),Tile index,,,,,Operational
-Generalised tiles at a horizontal level or horizontal layer at a point in time,21+(NUTAFTAC-1) - 36 + (NUTAFTAC-1),UUID of data group,,,,,Operational
+Generalised tiles at a horizontal level or horizontal layer at a point in time,21+(NUTAFTAC-1)-36+(NUTAFTAC-1),UUID of data group,,,,,Operational
 Generalised tiles at a horizontal level or horizontal layer at a point in time,37+(NUTAFTAC-1),Type of generating process,,,,,Operational
 Generalised tiles at a horizontal level or horizontal layer at a point in time,38+(NUTAFTAC-1),Background process,,,,,Operational
 Generalised tiles at a horizontal level or horizontal layer at a point in time,39+(NUTAFTAC-1),Generating process identifier,,,,,Operational
