@@ -720,7 +720,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",8,,"Land cover (0 = water, 1 = land)",,,Proportion,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",9,,Shape factor with respect to salinity profile,,,-,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",10,,Shape factor with respect to temperature profile in thermocline,,,-,Operational
-Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",11,,Attenuation coefficient of water with respect to solar radiation,,,/m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",11,,Attenuation coefficient of water with respect to solar radiation,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",12,,Salinity,,,kg/kg,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",13,,Cross-sectional area of flow in channel,,,m2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",14,,Snow temperature,,,K,Operational
@@ -1196,7 +1196,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",95,,Time domain maximum individual wave height,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",96,,Space time maximum individual crest height,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",97,,Space time maximum individual wave height,,,m,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",98,,Goda peakedness factor,,,numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",98,,Goda peakedness factor,,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",99-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",255,,Missing,,,,Operational
