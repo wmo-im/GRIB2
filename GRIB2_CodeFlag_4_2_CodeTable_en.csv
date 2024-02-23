@@ -1218,7 +1218,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",6,,Ice growth rate,,,m/s,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",7,,Ice divergence,,,/s,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",8,,Ice temperature,,,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",9,,Module of ice internal pressure,(see Note),57,Pa m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",9,,Module of ice internal pressure,(see Note 1),57,Pa m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",10,,Zonal vector component of vertically integrated ice internal pressure,,,Pa m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",11,,Meridional vector component of vertically integrated ice internal pressure,,,Pa m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",12,,Compressive ice strength,,,N/m,Operational
@@ -1235,7 +1235,11 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",23,,Sea ice fraction tendency due to parameterization,,,s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",24,,x-component of ice drift,,,m s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",25,,y-component of ice drift,,,m s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",26-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",26,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",27,,Freezing/melting potential,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",28,,Melt onset date,"(see Note 2)",144,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",29,,Freeze onset date,"(see Note 3)",145,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",30-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 2: ice",255,,Missing,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",0,,Water temperature,,,K,Operational
