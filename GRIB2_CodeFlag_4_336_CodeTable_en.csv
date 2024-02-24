@@ -1,0 +1,13 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+NWP model,,1,,AROME (Meso scale NWP, Meteo-France),,,,Operational
+NWP model,,2,,ARPEGE (Global scale NWP. Meteo-France),,,,Operational
+NWP model,,3,,GFS (Global forecast system, NCEP),,,,Operational
+NWP model,,4,,HARMONIE (HIRLAM-ALADIN Research on Mesoscale Operational NWP),,,,Operational
+NWP model,,5,,HIRLAM (HIgh resolution Limited Area Model),,,,Operational
+NWP model,,6,IFS (Integrated Forecast System),,,,Operational
+NWP model,,7,,GEM GDPS (Canadian Global Deterministic Prediction System),,,,Operational
+NWP model,,8,,GEM RDPS (Canadian Regional Deterministic Prediction System),,,,Operational
+NWP model,,9,,GEM HRDPS (Canadian High Resolution Deterministic Prediction System),,,,Operational
+NWP model,,10,,WRF (Weather Research and Forecasting),,,,Operational
+NWP model,,11-254,,Reserved,,,,Operational
+NWP model,,255,,Missing value,,,,Operational
