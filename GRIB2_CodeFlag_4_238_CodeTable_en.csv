@@ -29,7 +29,6 @@ Source or sink,,26,,Road transportation,,,,Operational
 Source or sink,,27,,Off-road transportation,,,,Operational
 Source or sink,,28,,Nuclear power plant,,,,Operational
 Source or sink,,29,,Nuclear weapon,,,,Operational
-Source or sink,,27,,Off-road transportation,,,,Operational
-Source or sink,,28-191,,Reserved,,,,Operational
+Source or sink,,30-191,,Reserved,,,,Operational
 Source or sink,,192-254,,Reserved for local use,,,,Operational
 Source or sink,,255,,Missing,,,,Operational
