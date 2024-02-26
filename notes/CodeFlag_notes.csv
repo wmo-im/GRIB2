@@ -143,3 +143,4 @@ noteID,note
 226a,"This entry is intended to be used with templates 4.112 and 4.123. Instead of having the probability of the exceedance of the anomaly (code number 0) of the limits specified in the message, it specifies probabilities which were calculated for the forecast and for the reference dataset with the given specification listed in the meta-data. The anomaly is calculated between the two derived probabilities."
 220a,"This level differs from entry 13 which is vertically accumulated from the surface while this entry is not."
 173a,"For use with downstream models (from NWP) such as dispersion modeling or air quality."
+173b,Use the radionuclide release start date as baseline to determine activity arrival or activity end.

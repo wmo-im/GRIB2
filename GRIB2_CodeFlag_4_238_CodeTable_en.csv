@@ -26,8 +26,9 @@ Source or sink,,23,,Solvents,,,,Operational
 Source or sink,,24,,Ships,,,,Operational
 Source or sink,,25,,Wastes (solid and water),,,,Operational
 Source or sink,,26,,Road transportation,,,,Operational
-Source or sink,,27,,Nuclear power plant,,,,Operational
-Source or sink,,28,,Nuclear weapon,,,,Operational
+Source or sink,,27,,Off-road transportation,,,,Operational
+Source or sink,,28,,Nuclear power plant,,,,Operational
+Source or sink,,29,,Nuclear weapon,,,,Operational
 Source or sink,,27,,Off-road transportation,,,,Operational
 Source or sink,,28-191,,Reserved,,,,Operational
 Source or sink,,192-254,,Reserved for local use,,,,Operational
