@@ -104,11 +104,14 @@ Product definition template number,,115,,"Individual ensemble forecast, control 
 Product definition template number,,116,,"Individual ensemble forecast, control and perturbed on generalised tiles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
 Product definition template number,,117,,"Individual large ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,,,Operational
 Product definition template number,,118,,"Individual large ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous interval",,,,Operational
+Product definition template number,,119,,"Probability forecasts from large ensembles at a horizontal level or in a horizontal layer at a point in time",,,,Operational
+Product definition template number,,120,,"Probability forecasts from large ensembles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
+Product definition template number,,123,,"Probability forecasts from large ensembles with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
 Product definition template number,,124,,Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides",,,,Operational
 Product definition template number,,125,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",,,,Operational
 Product definition template number,,126,,"Average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for radionuclides",,,,Operational
 Product definition template number,,127,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for radionuclides",,,,Operational
-Product definition template number,,119-253,,Reserved,,,,Operational
+Product definition template number,,128-253,,Reserved,,,,Operational
 Product definition template number,,254,,CCITT IA5 character string,,,,Operational
 Product definition template number,,255-999,,Reserved,,,,Operational
 Product definition template number,,1000,,Cross-section of analysis and forecast at a point in time,,,,Experimental
