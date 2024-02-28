@@ -1,6 +1,6 @@
 Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
 NWP model,,1,,"AROME (Meso scale NWP, Meteo-France)",,,,Operational
-NWP model,,2,,ARPEGE (Global scale NWP, Meteo-France),,,,Operational
+NWP model,,2,,"ARPEGE (Global scale NWP, Meteo-France)",,,,Operational
 NWP model,,3,,"GFS (Global forecast system, NCEP)",,,,Operational
 NWP model,,4,,HARMONIE (HIRLAM-ALADIN Research on Mesoscale Operational NWP),,,,Operational
 NWP model,,5,,HIRLAM (HIgh resolution Limited Area Model),,,,Operational
