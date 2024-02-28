@@ -522,7 +522,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",22,,Cloud activity ended,(see Note 3),173b,s,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",23,,Effective dose rate,,,nSv h-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",24,,Thyroid dose rate,,,nSv h-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",25,,Gamma dose rate,,,nSv h-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",25,,Gamma dose rate (adult),,,nSv h-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",26,,Activity emission,,,Bq s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",27-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",192-254,,Reserved for local use,,,,Operational
