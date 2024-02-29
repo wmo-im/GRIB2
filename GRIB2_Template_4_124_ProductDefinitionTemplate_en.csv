@@ -25,7 +25,7 @@ Analysis or forecast at a horizontal level or in a horizontal layer at a point i
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,40-41,Hours of observational data cut-off after reference time,(see Note),33,,,Operational
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,42,Minutes of observational data cut-off after reference time,,,,,Operational
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,43,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,44-47,Forecast time in units defined by octet 21,,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,44-47,Forecast time in units defined by octet 43,,,,,Operational
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,48,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,49,Scale factor of first fixed surface,,,,,Operational
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,50-53,Scaled value of first fixed surface,,,,,Operational
