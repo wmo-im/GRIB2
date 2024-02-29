@@ -3,10 +3,10 @@ Analysis or forecast at a horizontal level or in a horizontal layer at a point i
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,11,Parameter number,(see Code table 4.2),,4.2,,Operational
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,12-13,Atmospheric chemical constituent type,(see Code table 4.230),,4.230,,Operational
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,14,Source or sink,(see Code table 4.238),,4.238,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,15-16,Transport model used,(See Code table 4.333),,4.333,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,17-18,Requested by entity,(See Code table common/c-11),,c-11,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,19-20,Scenario origin,(See Code table 4.335),,4.335,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,21-22,NWP used,(See Code table 4.336),,4.336,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,15-16,Transport model used,(see Code table 4.333),,4.333,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,17-18,Requested by entity,(see Common Code table  C-11),,c-11,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,19-20,Scenario origin,(see Code table 4.335),,4.335,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,21-22,NWP used,(see Code table 4.336),,4.336,,Operational
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,23-24,Release start year,,,,,Operational
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,25,Release start month,,,,,Operational
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,26,Release start day,,,,,Operational
