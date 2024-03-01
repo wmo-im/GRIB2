@@ -1,0 +1,37 @@
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",10,Parameter category,(see Code table 4.1),,4.1,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",11,Parameter number,(see Code table 4.2),,4.2,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",12-13,Atmospheric chemical constituent type,(see Code table 4.230),,4.230,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",14,Source or sink,(see Code table 4.238),,4.238,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",15-16,Transport model used,(See Code table 4.333),,4.333,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",17-18,Requested by entity,(see Common Code table  C-11),,c-11,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",19-20,Scenario origin,(See Code table 4.335),,4.335,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",21-22,NWP used,(See Code table 4.336),,4.336,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",23-24,Release start year,,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",25,Release start month,,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",26,Release start day,,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",27,Release start hour,,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",28,Release start minute,,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",29,Release start second,,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",30-31,Wall clock initial time of execution (year),,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",32,Wall clock initial time of execution (month),,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",33,Wall clock initial time of execution (day),,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",34,Wall clock initial time of execution (hour),,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",35,Wall clock initial time of execution (minute),,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",36,Wall clock initial time of execution (second),,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",37,Type of generating process,(see Code table 4.3),,4.3,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",38,Background generating process identifier (defined by originating centre),,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",39,Forecast generating process identifier (defined by originating centre),,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",40-41,Hours after reference time of data cut-off,(see Note),33,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",42,Minutes after reference time of data cut-off,,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",43,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",44-47,Forecast time in units defined by octet 43,,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",48,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",49,Scale factor of first fixed surface,,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",50-53,Scaled value of first fixed surface,,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",54,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",55,Scale factor of second fixed surface,,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",56-59,Scaled value of second fixed surface,,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",60,Type of ensemble forecast,(see Code table 4.6),,4.6,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",61,Perturbation number,,,,,Operational
+"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides",62,Number of forecasts in ensemble,,,,,Operational
