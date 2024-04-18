@@ -1,0 +1,7 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Emission scenario origin,,1,,ARGOS (Accident Reporting and Guiding Operational System),,,,Operational
+Emission scenario origin,,2,,JRODOS (Java version of Real time Online Decision SuppOrt System),,,,Operational
+Emission scenario origin,,3,,Assimilated (Scenario retrieved from measurements),,,,Operational
+Emission scenario origin,,4,,Centre (scenario by originating centre),,,,Operational
+Emission scenario origin,,5-254,,Reserved,,,,Operational
+Emission scenario origin,,255,,Missing value,,,,Operational
