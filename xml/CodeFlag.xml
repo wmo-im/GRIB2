@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2023-11-07T17:02:48.075688">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2024-04-22T12:29:48.963481">
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 0.0 - Discipline of processed data in the GRIB message, number of GRIB Master table</Title_en>
 		<CodeFlag>0</CodeFlag>
@@ -278,7 +278,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 1.2 - Significance of reference time</Title_en>
-		<CodeFlag>5-191</CodeFlag>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>Simulation start</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 1.2 - Significance of reference time</Title_en>
+		<CodeFlag>6-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -2300,7 +2306,61 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
-		<CodeFlag>119-253</CodeFlag>
+		<CodeFlag>119</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts from large ensembles at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>120</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts from large ensembles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>121</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts from large ensembles with spatiotemporal processing based on focal (moving window) statistics at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>122</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts from large ensembles with spatiotemporal processing based on focal (moving window) statistics at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>123</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts from large ensembles with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>124</CodeFlag>
+		<MeaningParameterDescription_en>Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>125</CodeFlag>
+		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for radionuclides</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>126</CodeFlag>
+		<MeaningParameterDescription_en>Average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for radionuclides</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>127</CodeFlag>
+		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for radionuclides</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>128-253</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -2504,7 +2564,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
-		<CodeFlag>22-189</CodeFlag>
+		<CodeFlag>22</CodeFlag>
+		<MeaningParameterDescription_en>Drought indices</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
+		<CodeFlag>23-189</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -5859,55 +5925,55 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>0</CodeFlag>
-		<MeaningParameterDescription_en>Air concentration of caesium 137</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Air activity concentration of caesium 137</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>1</CodeFlag>
-		<MeaningParameterDescription_en>Air concentration of iodine 131</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Air activity concentration of iodine 131</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>2</CodeFlag>
-		<MeaningParameterDescription_en>Air concentration of radioactive pollutant</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Air activity concentration of radioactive pollutant</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>3</CodeFlag>
-		<MeaningParameterDescription_en>Ground deposition of caesium 137</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Ground deposition activity of caesium 137</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>4</CodeFlag>
-		<MeaningParameterDescription_en>Ground deposition of iodine 131</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Ground deposition activity of iodine 131</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>5</CodeFlag>
-		<MeaningParameterDescription_en>Ground deposition of radioactive pollutant</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Ground deposition activity of radioactive pollutant</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>6</CodeFlag>
-		<MeaningParameterDescription_en>Time-integrated air concentration of caesium pollutant</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Time-integrated air activity concentration of caesium pollutant</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>7</CodeFlag>
-		<MeaningParameterDescription_en>Time-integrated air concentration of iodine pollutant</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Time-integrated air activity concentration of iodine pollutant</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>8</CodeFlag>
-		<MeaningParameterDescription_en>Time-integrated air concentration of radioactive pollutant</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Time-integrated air activity concentration of radioactive pollutant</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -5919,25 +5985,25 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>10</CodeFlag>
-		<MeaningParameterDescription_en>Air concentration</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Air activity concentration</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>11</CodeFlag>
-		<MeaningParameterDescription_en>Wet deposition</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Wet deposition activity</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>12</CodeFlag>
-		<MeaningParameterDescription_en>Dry deposition</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Dry deposition activity</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>13</CodeFlag>
-		<MeaningParameterDescription_en>Total deposition (wet + dry)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Total deposition activity (wet + dry)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -5949,30 +6015,78 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>15</CodeFlag>
-		<MeaningParameterDescription_en>Maximum of air concentration in layer</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Maximum of air activity concentration in layer</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>16</CodeFlag>
-		<MeaningParameterDescription_en>Height of maximum air concentration</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Height of maximum air activity concentration</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>17</CodeFlag>
-		<MeaningParameterDescription_en>Column-integrated air concentration</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Column-integrated air activity concentration</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>18</CodeFlag>
-		<MeaningParameterDescription_en>Column-averaged air concentration in layer</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Column-averaged air activity concentration in layer</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>19-191</CodeFlag>
+		<CodeFlag>19</CodeFlag>
+		<MeaningParameterDescription_en>Deposition activity arrival</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>20</CodeFlag>
+		<MeaningParameterDescription_en>Deposition activity ended</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>21</CodeFlag>
+		<MeaningParameterDescription_en>Cloud activity arrival</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>22</CodeFlag>
+		<MeaningParameterDescription_en>Cloud activity ended</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>23</CodeFlag>
+		<MeaningParameterDescription_en>Effective dose rate</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>24</CodeFlag>
+		<MeaningParameterDescription_en>Thyroid dose rate (adult)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>25</CodeFlag>
+		<MeaningParameterDescription_en>Gamma dose rate (adult)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>26</CodeFlag>
+		<MeaningParameterDescription_en>Activity emission</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>27-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -6290,7 +6404,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>50-191</CodeFlag>
+		<CodeFlag>50</CodeFlag>
+		<MeaningParameterDescription_en>Convectively-induced turbulence (CIT) (eddy dissipation rate)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>51-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -6873,6 +6993,66 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>0</CodeFlag>
+		<MeaningParameterDescription_en>Standard Precipitation Index (SPI)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>Standardized Precipitation Evapotranspiration Index (SPEI)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>Standardized Streamflow index (SSFI)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Standardized Reservoir Supply Index (SRSI)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>Standardized Water-level Index (SWI)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>Standardized Snowmelt and Rain Index (SMRI)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>Streamflow Drought Index (SDI)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>7-191</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>192-254</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for local use</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>255</CodeFlag>
+		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>0</CodeFlag>
 		<MeaningParameterDescription_en>Arbitrary text string</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -6926,7 +7106,25 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>4-191</CodeFlag>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>Hurricane track in spatiotemporal vicinity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>Tropical storm track in spatiotemporal vicinity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>7</CodeFlag>
+		<MeaningParameterDescription_en>Tropical depression track in spatiotemporal vicinity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>8-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -7023,7 +7221,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>13</CodeFlag>
-		<MeaningParameterDescription_en>Depth of water on soil surface</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Water on soil surface</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -7064,7 +7262,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>20-191</CodeFlag>
+		<CodeFlag>20</CodeFlag>
+		<MeaningParameterDescription_en>Water on surface</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>21-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -7220,7 +7424,49 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>17-191</CodeFlag>
+		<CodeFlag>17</CodeFlag>
+		<MeaningParameterDescription_en>Floodplain depth</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>18</CodeFlag>
+		<MeaningParameterDescription_en>Floodplain flooded fraction</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>19</CodeFlag>
+		<MeaningParameterDescription_en>FLoodplain flooded area</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>20</CodeFlag>
+		<MeaningParameterDescription_en>River fraction</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>21</CodeFlag>
+		<MeaningParameterDescription_en>River area</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>22</CodeFlag>
+		<MeaningParameterDescription_en>Fraction of river coverage plus river related flooding</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>23</CodeFlag>
+		<MeaningParameterDescription_en>Area of river coverage plus river related flooding</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>24-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -8060,7 +8306,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>36-191</CodeFlag>
+		<CodeFlag>36</CodeFlag>
+		<MeaningParameterDescription_en>Fire radiative power</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>37-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -9992,7 +10244,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>98-191</CodeFlag>
+		<CodeFlag>98</CodeFlag>
+		<MeaningParameterDescription_en>Goda peakedness factor</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>99-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -10226,7 +10484,31 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>26-191</CodeFlag>
+		<CodeFlag>26</CodeFlag>
+		<MeaningParameterDescription_en>Sea ice salinity</MeaningParameterDescription_en>
+		<Status>operational </Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>27</CodeFlag>
+		<MeaningParameterDescription_en>Freezing/melting potential</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>28</CodeFlag>
+		<MeaningParameterDescription_en>Melt onset date</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>29</CodeFlag>
+		<MeaningParameterDescription_en>Freeze onset date</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>30-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -11373,7 +11655,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
 		<CodeFlag>19</CodeFlag>
-		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Lowest level where cloud cover exceeds the specified percentage</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -11697,7 +11979,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
 		<CodeFlag>172</CodeFlag>
-		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Ocean level defined by water density (rho) difference from near-surface to level</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -11930,7 +12212,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.7 - Derived forecast</Title_en>
-		<CodeFlag>10-191</CodeFlag>
+		<CodeFlag>10</CodeFlag>
+		<MeaningParameterDescription_en>Variance of all ensemble members</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.7 - Derived forecast</Title_en>
+		<CodeFlag>11-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -12032,7 +12320,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.9 - Probability type</Title_en>
-		<CodeFlag>9-191</CodeFlag>
+		<CodeFlag>9</CodeFlag>
+		<MeaningParameterDescription_en>Probability based on counts of categorical boolean</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.9 - Probability type</Title_en>
+		<CodeFlag>10-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -12128,7 +12422,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.10 - Type of statistical processing</Title_en>
-		<CodeFlag>13-99</CodeFlag>
+		<CodeFlag>13</CodeFlag>
+		<MeaningParameterDescription_en>Median</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.10 - Type of statistical processing</Title_en>
+		<CodeFlag>14-99</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -12146,7 +12446,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.10 - Type of statistical processing</Title_en>
-		<CodeFlag>102-191</CodeFlag>
+		<CodeFlag>102</CodeFlag>
+		<MeaningParameterDescription_en>Index processing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.10 - Type of statistical processing</Title_en>
+		<CodeFlag>103-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -12590,7 +12896,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.101 - Type of relationship to reference dataset</Title_en>
-		<CodeFlag>3-19</CodeFlag>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Climatology</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.101 - Type of relationship to reference dataset</Title_en>
+		<CodeFlag>4-19</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -12608,7 +12920,19 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.101 - Type of relationship to reference dataset</Title_en>
-		<CodeFlag>22-191</CodeFlag>
+		<CodeFlag>22</CodeFlag>
+		<MeaningParameterDescription_en>Anomaly of probabilities</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.101 - Type of relationship to reference dataset</Title_en>
+		<CodeFlag>23</CodeFlag>
+		<MeaningParameterDescription_en>Standardized Drought Index</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.101 - Type of relationship to reference dataset</Title_en>
+		<CodeFlag>24-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -12668,7 +12992,73 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
-		<CodeFlag>21-191</CodeFlag>
+		<CodeFlag>21</CodeFlag>
+		<MeaningParameterDescription_en>Index based on normal distribution</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
+		<CodeFlag>22</CodeFlag>
+		<MeaningParameterDescription_en>Index based on log-normal distribution</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
+		<CodeFlag>23</CodeFlag>
+		<MeaningParameterDescription_en>Index based on generalised log-normal distribution</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
+		<CodeFlag>24</CodeFlag>
+		<MeaningParameterDescription_en>Index based on gamma distribution</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
+		<CodeFlag>25</CodeFlag>
+		<MeaningParameterDescription_en>Index based on logistic distribution</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
+		<CodeFlag>26</CodeFlag>
+		<MeaningParameterDescription_en>Index based on log-logistic distribution</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
+		<CodeFlag>27</CodeFlag>
+		<MeaningParameterDescription_en>Index based on generalised logistic distribution</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
+		<CodeFlag>28</CodeFlag>
+		<MeaningParameterDescription_en>Index based on Weibull distribution</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
+		<CodeFlag>29</CodeFlag>
+		<MeaningParameterDescription_en>Index based on generalised extreme value distribution</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
+		<CodeFlag>30</CodeFlag>
+		<MeaningParameterDescription_en>Index based on Pearson III distribution</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
+		<CodeFlag>31</CodeFlag>
+		<MeaningParameterDescription_en>Index based on empirical distribution</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
+		<CodeFlag>32-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -12680,6 +13070,168 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
+		<CodeFlag>255</CodeFlag>
+		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.103 - Spatial vicinity type</Title_en>
+		<CodeFlag>0</CodeFlag>
+		<MeaningParameterDescription_en>Circle [m]</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.103 - Spatial vicinity type</Title_en>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>Rectangle [m,m]</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.103 - Spatial vicinity type</Title_en>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>Square [m]</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.103 - Spatial vicinity type</Title_en>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Wedge [m, degree, degree]</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.103 - Spatial vicinity type</Title_en>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>Span of grid boxes centered around grid box i,j [x,y]</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.103 - Spatial vicinity type</Title_en>
+		<CodeFlag>5-191</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.103 - Spatial vicinity type</Title_en>
+		<CodeFlag>192-254</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for local use</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.103 - Spatial vicinity type</Title_en>
+		<CodeFlag>255</CodeFlag>
+		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.104 - Spatial and temporal vicinity processing</Title_en>
+		<CodeFlag>0</CodeFlag>
+		<MeaningParameterDescription_en>Average</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.104 - Spatial and temporal vicinity processing</Title_en>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.104 - Spatial and temporal vicinity processing</Title_en>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>Maximum</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.104 - Spatial and temporal vicinity processing</Title_en>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Minimum</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.104 - Spatial and temporal vicinity processing</Title_en>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>Range</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.104 - Spatial and temporal vicinity processing</Title_en>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.104 - Spatial and temporal vicinity processing</Title_en>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>Standard deviation</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.104 - Spatial and temporal vicinity processing</Title_en>
+		<CodeFlag>7-10</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.104 - Spatial and temporal vicinity processing</Title_en>
+		<CodeFlag>11</CodeFlag>
+		<MeaningParameterDescription_en>Sum</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.104 - Spatial and temporal vicinity processing</Title_en>
+		<CodeFlag>12-189</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.104 - Spatial and temporal vicinity processing</Title_en>
+		<CodeFlag>190</CodeFlag>
+		<MeaningParameterDescription_en>Quantile</MeaningParameterDescription_en>
+		<Status>Opertional</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.104 - Spatial and temporal vicinity processing</Title_en>
+		<CodeFlag>191</CodeFlag>
+		<MeaningParameterDescription_en>Categorical (boolean)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.104 - Spatial and temporal vicinity processing</Title_en>
+		<CodeFlag>192-254</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for local use</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.104 - Spatial and temporal vicinity processing</Title_en>
+		<CodeFlag>255</CodeFlag>
+		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.105 - Spatial and temporal vicinity missing data</Title_en>
+		<CodeFlag>0</CodeFlag>
+		<MeaningParameterDescription_en>Ignore missing data</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.105 - Spatial and temporal vicinity missing data</Title_en>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>No data</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.105 - Spatial and temporal vicinity missing data</Title_en>
+		<CodeFlag>2-189</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.105 - Spatial and temporal vicinity missing data</Title_en>
+		<CodeFlag>192-254</CodeFlag>
+		<MeaningParameterDescription_en>Reserved for local use</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.105 - Spatial and temporal vicinity missing data</Title_en>
 		<CodeFlag>255</CodeFlag>
 		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
 		<Status>Operational</Status>
@@ -14606,7 +15158,19 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.238 - Source or sink</Title_en>
-		<CodeFlag>28-191</CodeFlag>
+		<CodeFlag>28</CodeFlag>
+		<MeaningParameterDescription_en>Nuclear power plant</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.238 - Source or sink</Title_en>
+		<CodeFlag>29</CodeFlag>
+		<MeaningParameterDescription_en>Nuclear weapon</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.238 - Source or sink</Title_en>
+		<CodeFlag>30-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -16414,6 +16978,180 @@
 		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
 		<CodeFlag>65535</CodeFlag>
 		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.333 - Transport dispersion model</Title_en>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>DERMA (Danish Emergency Response Model of the Atmosphere)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.333 - Transport dispersion model</Title_en>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>E-EMEP (Emergency EMEP model)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.333 - Transport dispersion model</Title_en>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>FLEXPART (Particle dispersion model)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.333 - Transport dispersion model</Title_en>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>MLDP (Modèle lagrangien de dispersion de particules)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.333 - Transport dispersion model</Title_en>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>MATCH (Multi-scale Atmospheric Transport Model)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.333 - Transport dispersion model</Title_en>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>SILAM (System for Integrated modeLling of Atmospheric composition)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.333 - Transport dispersion model</Title_en>
+		<CodeFlag>7</CodeFlag>
+		<MeaningParameterDescription_en>SNAP (Severe Nuclear Accident Program)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.333 - Transport dispersion model</Title_en>
+		<CodeFlag>8</CodeFlag>
+		<MeaningParameterDescription_en>WRF-Chem (Weather Research and Forecasting Chemical model)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.333 - Transport dispersion model</Title_en>
+		<CodeFlag>9</CodeFlag>
+		<MeaningParameterDescription_en>Trajectoire (Trajectory model)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.333 - Transport dispersion model</Title_en>
+		<CodeFlag>10-254</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.333 - Transport dispersion model</Title_en>
+		<CodeFlag>255</CodeFlag>
+		<MeaningParameterDescription_en>Missing value</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.335 - Emission scenario origin</Title_en>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>ARGOS (Accident Reporting and Guiding Operational System)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.335 - Emission scenario origin</Title_en>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>JRODOS (Java version of Real time Online Decision SuppOrt System)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.335 - Emission scenario origin</Title_en>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Assimilated (Scenario retrieved from measurements)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.335 - Emission scenario origin</Title_en>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>Centre (scenario by originating centre)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.335 - Emission scenario origin</Title_en>
+		<CodeFlag>5-254</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.335 - Emission scenario origin</Title_en>
+		<CodeFlag>255</CodeFlag>
+		<MeaningParameterDescription_en>Missing value</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.336 - NWP model</Title_en>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>AROME (Meso scale NWP, Meteo-France)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.336 - NWP model</Title_en>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>ARPEGE (Global scale NWP, Meteo-France)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.336 - NWP model</Title_en>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>GFS (Global forecast system, NCEP)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.336 - NWP model</Title_en>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>HARMONIE (HIRLAM-ALADIN Research on Mesoscale Operational NWP)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.336 - NWP model</Title_en>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>HIRLAM (HIgh resolution Limited Area Model)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.336 - NWP model</Title_en>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>IFS (Integrated Forecast System)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.336 - NWP model</Title_en>
+		<CodeFlag>7</CodeFlag>
+		<MeaningParameterDescription_en>GEM GDPS (Canadian Global Deterministic Prediction System)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.336 - NWP model</Title_en>
+		<CodeFlag>8</CodeFlag>
+		<MeaningParameterDescription_en>GEM RDPS (Canadian Regional Deterministic Prediction System)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.336 - NWP model</Title_en>
+		<CodeFlag>9</CodeFlag>
+		<MeaningParameterDescription_en>GEM HRDPS (Canadian High Resolution Deterministic Prediction System)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.336 - NWP model</Title_en>
+		<CodeFlag>10</CodeFlag>
+		<MeaningParameterDescription_en>WRF (Weather Research and Forecasting)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.336 - NWP model</Title_en>
+		<CodeFlag>11-254</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.336 - NWP model</Title_en>
+		<CodeFlag>255</CodeFlag>
+		<MeaningParameterDescription_en>Missing value</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
