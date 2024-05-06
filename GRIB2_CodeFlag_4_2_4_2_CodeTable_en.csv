@@ -1,0 +1,18 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",0,,Particle number density,,,m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",1,,Electron density,,,m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",2,,Proton density,,,m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",3,,Ion density,,,m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",4,,Vertical total electron content,,,TECU,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",5,,HF absorption frequency,,,Hz,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",6,,HF absorption,,,dB,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",7,,Spread F,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",8,,h'F,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",9,,Critical frequency,,,Hz,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",10,,Maximal usable frequency (MUF),,,Hz,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",11,,Peak height (hm),,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",12,,Peak density (Nm),,,m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",13,,Equivalent slab thickness (tau),,,km,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",14-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 2: charged particle mass and number",255,,Missing,,,,Operational

@@ -1,0 +1,38 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",0,,Estimated precipitation,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",1,,Instantaneous rain rate,,,kg m-2 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",2,,Cloud top height,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",3,,Cloud top height quality indicator,,,(Code table 4.219),Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",4,,Estimated u-component of wind,,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",5,,Estimated v-component of wind,,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",6,,Number of pixel used,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",7,,Solar zenith angle,,,deg,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",8,,Relative azimuth angle,,,deg,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",9,,Reflectance in 0.6 micron channel,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",10,,Reflectance in 0.8 micron channel,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",11,,Reflectance in 1.6 micron channel,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",12,,Reflectance in 3.9 micron channel,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",13,,Atmospheric divergence,,,/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",14,,Cloudy brightness temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",15,,Clear-sky brightness temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",16,,Cloudy radiance (with respect to wave number),,,W m-1 sr-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",17,,Clear-sky radiance (with respect to wave number),,,W m-1 sr-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",18,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",19,,Wind speed,,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",20,,Aerosol optical thickness at 0.635 μm,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",21,,Aerosol optical thickness at 0.810 μm,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",22,,Aerosol optical thickness at 1.640 μm,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",23,,Angstrom coefficient,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",24-26,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",27,,Bidirectional reflectance factor,(see Note 1),98,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",28,,Brightness temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",29,,Scaled radiance,(see Note 2),114,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",30,,Reflectance in 0.4 micron channel,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",31,,Cloudy reflectance,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",32,,Clear reflectance,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",33-97,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",98,,Correlation coefficient between MPE rain-rates for the co-located IR data and the microwave data rain-rates,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",99,,Standard deviation between MPE rain-rates for the co-located IR data and the microwave data rain-rates,,,kg m-2 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",100-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",255,,Missing,,,,Operational

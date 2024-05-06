@@ -1,0 +1,72 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",0,,Wind direction (from which blowing),,,degree true,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",1,,Wind speed,,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",2,,u-component of wind,,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",3,,v-component of wind,,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",4,,Stream function,,,m2/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",5,,Velocity potential,,,m2/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",6,,Montgomery stream function,,,m2 s-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",7,,Sigma coordinate vertical velocity,,,/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",8,,Vertical velocity (pressure),,,Pa/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",9,,Vertical velocity (geometric),,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",10,,Absolute vorticity,,,/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",11,,Absolute divergence,,,/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",12,,Relative vorticity,,,/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",13,,Relative divergence,,,/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",14,,Potential vorticity,,,K m2 kg-1 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",15,,Vertical u-component shear,,,/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",16,,Vertical v-component shear,,,/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",17,,"Momentum flux, u-component",,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",18,,"Momentum flux, v-component",,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",19,,Wind mixing energy,,,J,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",20,,Boundary layer dissipation,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",21,,Maximum wind speed,"(see Note 1)",1,m/s,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",22,,Wind speed (gust),,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",23,,u-component of wind (gust),,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",24,,v-component of wind (gust),,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",25,,Vertical speed shear,,,/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",26,,Horizontal momentum flux,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",27,,u-component storm motion,,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",28,,v-component storm motion,,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",29,,Drag coefficient,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",30,,Frictional velocity,,,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",31,,Turbulent diffusion coefficient for momentum,,,m2/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",32,,Eta coordinate vertical velocity,,,/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",33,,Wind fetch,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",34,,Normal wind component,(see Note 2),15,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",35,,Tangential wind component,(see Note 2),15,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",36,,Amplitude function for Rossby wave envelope for meridional wind,(see Note 3),110,m/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",37,,Northward turbulent surface stress,(see Notes 4 and 7),"6,140",N m-2 s,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",38,,Eastward turbulent surface stress,(see Notes 4 and 7),"6,140",N m-2 s,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",39,,Eastward wind tendency due to parameterization,,,m s-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",40,,Northward wind tendency due to parameterization,,,m s-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",41,,u-component of geostrophic wind,,,m s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",42,,v-component of geostrophic wind,,,m s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",43,,Geostrophic wind direction,,,degree true,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",44,,Geostrophic wind speed,,,m s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",45,,Unbalanced component of divergence,,,s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",46,,Vorticity advection,,,s-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",47,,Surface roughness for heat,(see Note 5),79,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",48,,Surface roughness for moisture,(see Note 6),80,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",49,,Wind stress,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",50,,Eastward wind stress,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",51,,Northward wind stress,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",52,,u-component of wind stress,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",53,,v-component of wind stress,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",54,,Natural logarithm of surface roughness length for heat,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",55,,Natural logarithm of surface roughness length for moisture,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",56,,u-component of neutral wind,,,m s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",57,,v-component of neutral wind,,,m s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",58,,Magnitude of turbulent surface stress,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",59,,Vertical divergence,,,s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",60,,Drag thermal coefficient,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",61,,Drag evaporation coefficient,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",62,,Eastward turbulent surface stress,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",63,,Northward turbulent surface stress,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",64,,Eastward turbulent surface stress due to orographic form drag,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",65,,Northward turbulent surface stress due to orographic form drag,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",66,,Eastward turbulent surface stress due to surface roughness,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",67,,Northward turbulent surface stress due to surface roughness,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",68-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",255,,Missing,,,,Operational

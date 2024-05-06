@@ -1,0 +1,12 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",0,,Scintillation index (sigma phi),,,rad,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",1,,Scintillation index S4,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",2,,Rate of change of TEC index (ROTI),,,TECU/min,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",3,,Disturbance ionosphere index spatial gradient (DIXSG),,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",4,,Along arc TEC rate (AATR),,,TECU/min,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",5,,Kp,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",6,,Equatorial disturbance storm time index (Dst),,,nT,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",7,,Auroral electrojet (AE),,,nT,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",8-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 10: space weather indices",255,,Missing,,,,Operational

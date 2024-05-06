@@ -1,0 +1,51 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",0,,Cloud ice,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",1,,Total cloud cover,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",2,,Convective cloud cover,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",3,,Low cloud cover,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",4,,Medium cloud cover,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",5,,High cloud cover,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",6,,Cloud water,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",7,,Cloud amount,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",8,,Cloud type,,,(Code table 4.203),Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",9,,Thunderstorm maximum tops,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",10,,Thunderstorm coverage,,,(Code table 4.204),Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",11,,Cloud base,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",12,,Cloud top,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",13,,Ceiling,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",14,,Non-convective cloud cover,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",15,,Cloud work function,,,J/kg,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",16,,Convective cloud efficiency,,,Proportion,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",17,,Total condensate,(see Note 1),4,kg/kg,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",18,,Total column-integrated cloud water,(see Note 1),4,kg m-2,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",19,,Total column-integrated cloud ice,(see Note 1),4,kg m-2,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",20,,Total column-integrated condensate,(see Note 1),4,kg m-2,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",21,,Ice fraction of total condensate,,,Proportion,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",22,,Cloud cover,,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",23,,Cloud ice mixing ratio,(see Note 1),4,kg/kg,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",24,,Sunshine,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",25,,Horizontal extent of cumulonimbus (CB),,,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",26,,Height of convective cloud base,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",27,,Height of convective cloud top,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",28,,Number of cloud droplets per unit mass of air,,,/kg,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",29,,Number of cloud ice particles per unit mass of air,,,/kg,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",30,,Number density of cloud droplets,,,m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",31,,Number density of cloud ice particles,,,m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",32,,Fraction of cloud cover,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",33,,Sunshine duration,,,s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",34,,Surface long-wave effective total cloudiness,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",35,,Surface short-wave effective total cloudiness,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",36,,Fraction of stratiform precipitation cover,,,Proportion,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",37,,Fraction of convective precipitation cover,,,Proportion,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",38,,Mass density of cloud droplets,,,kg m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",39,,Mass density of cloud ice,,,kg m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",40,,Mass density of convective cloud water droplets,,,kg m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",41-46,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",47,,Volume fraction of cloud water droplets,(see Note 2),11,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",48,,Volume fraction of cloud ice particles,(see Note 2),11,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",49,,Volume fraction of cloud (ice and/or water),(see Note 2),11,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",50,,Fog,(see Note 3),49,%,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",51,,Sunshine duration fraction,(see Note 4),131,Proportion,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",52-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 6: cloud",255,,Missing,,,,Operational

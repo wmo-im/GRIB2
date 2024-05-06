@@ -1,0 +1,51 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",0,,Pressure,,,Pa,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",1,,Pressure reduced to MSL,,,Pa,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",2,,Pressure tendency,,,Pa/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",3,,ICAO Standard Atmosphere Reference Height,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",4,,Geopotential,,,m2 s-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",5,,Geopotential height,,,gpm,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",6,,Geometric height,"(see Note)",124,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",7,,Standard deviation of height,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",8,,Pressure anomaly,,,Pa,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",9,,Geopotential height anomaly,,,gpm,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",10,,Density,,,kg m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",11,,Altimeter setting,,,Pa,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",12,,Thickness,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",13,,Pressure altitude,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",14,,Density altitude,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",15,,5-wave geopotential height,,,gpm,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",16,,Zonal flux of gravity wave stress,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",17,,Meridional flux of gravity wave stress,,,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",18,,Planetary boundary layer height,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",19,,5-wave geopotential height anomaly,,,gpm,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",20,,Standard deviation of sub-grid scale orography,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",21,,Angle of sub-gridscale orography,,,rad,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",22,,Slope of sub-gridscale orography,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",23,,Gravity wave dissipation,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",24,,Anisotropy of sub-gridscale orography,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",25,,Natural logarithm of pressure in Pa,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",26,,Exner pressure,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",27,,Updraught mass flux,,,kg m-2 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",28,,Downdraught mass flux,,,kg m-2 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",29,,Updraught detrainment rate,,,kg m-3 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",30,,Downdraught detrainment rate,,,kg m-3 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",31,,Unbalanced component of logarithm of surface pressure,,,-,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",32,,Saturation water vapour pressure,,,Pa,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",33,,Geometric altitude above mean sea level,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",34,,Geometric height above ground level,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",35,,Column integrated divergence of total mass flux,,,kg m-2 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",36,,Column integrated eastward total mass flux,,,kg m-1 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",37,,Column integrated northward total mass flux,,,kg m-1 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",38,,Standard deviation of filtered subgrid orography,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",39,,Column integrated mass of atmosphere,,,kg m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",40,,Column integrated eastward geopotential flux,,,W m-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",41,,Column integrated northward geopotential flux,,,W m-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",42,,Column integrated divergence of water geopotential flux,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",43,,Column integrated divergence of geopotential flux,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",44,,Height of zero-degree wet-bulb temperature,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",45,,Height of one-degree wet-bulb temperature,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",46,,Pressure departure from hydrostatic state,,,Pa,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",47-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",255,,Missing,,,,Operational
