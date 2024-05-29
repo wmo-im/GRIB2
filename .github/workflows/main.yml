@@ -13,7 +13,7 @@ jobs:
         ref: ${{ github.ref }}
     - name: create xml files and push
       run: |
-        apt-get install -y python3-pip
+        sudo apt-get install -y python3-pip
         pip3 install dicttoxml
         python3 scripts/create_master_lists.py
         ls xml
