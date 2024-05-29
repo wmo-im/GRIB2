@@ -12,8 +12,10 @@ jobs:
       with: 
         ref: ${{ github.ref }}
     - name: create xml files and push
-      run: | 
-        python scripts/create_master_lists.py
+      run: |
+        apt-get install -y python3-pip
+        pip3 install dicttoxml
+        python3 scripts/create_master_lists.py
         ls xml
         git config --global user.email "efucile@wmo.int"
         git config --global user.name "Enrico Fucile"
