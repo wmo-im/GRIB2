@@ -2,13 +2,16 @@ name: CI
 
 on: [ push , pull_request ]
 
+permissions:
+    contents: write
+
 jobs:
   make_xml:
     runs-on: ubuntu-latest
     
     steps:
     - name: checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with: 
         ref: ${{ github.ref }}
     - name: create xml files and push
