@@ -1,0 +1,12 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",0,,Magnetic field magnitude,,,T,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",1,,1st vector component of magnetic field,,,T,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",2,,2nd vector component of magnetic field,,,T,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",3,,3rd vector component of magnetic field,,,T,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",4,,Electric field magnitude,,,V m-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",5,,1st vector component of electric field,,,V m-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",6,,2nd vector component of electric field,,,V m-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",7,,3rd vector component of electric field,,,V m-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",8-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 3: electric and magnetic fields",255,,Missing,,,,Operational

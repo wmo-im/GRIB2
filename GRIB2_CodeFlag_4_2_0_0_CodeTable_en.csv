@@ -1,0 +1,37 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",0,,Temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",1,,Virtual temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",2,,Potential temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",3,,Pseudo-adiabatic potential temperature or equivalent potential temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",4,,Maximum temperature,"(see Note 1)",1,K,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",5,,Minimum temperature,"(see Note 1)",1,K,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",6,,Dewpoint temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",7,,Dewpoint depression (or deficit),,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",8,,Lapse rate,,,K/m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",9,,Temperature anomaly,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",10,,Latent heat net flux,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",11,,Sensible heat net flux,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",12,,Heat index,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",13,,Wind chill factor,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",14,,Minimum dewpoint depression,"(see Note 1)",1,K,Deprecated
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",15,,Virtual potential temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",16,,Snow phase change heat flux,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",17,,Skin temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",18,,Snow temperature (top of snow),,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",19,,Turbulent transfer coefficient for heat,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",20,,Turbulent diffusion coefficient for heat,,,m2/s,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",21,,Apparent temperature,(see Note 2),30,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",22,,Temperature tendency due to short-wave radiation,,,K s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",23,,Temperature tendency due to long-wave radiation,,,K s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",24,,"Temperature tendency due to short-wave radiation, clear sky",,,K s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",25,,"Temperature tendency due to long-wave radiation, clear sky",,,K s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",26,,Temperature tendency due to parameterization,,,K s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",27,,Wet-bulb temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",28,,Unbalanced component of temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",29,,Temperature advection,,,K s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",30,,Latent heat net flux due to evaporation,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",31,,Latent heat net flux due to sublimation,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",32,,Wet-bulb potential temperature,,,K,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",33-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 0: temperature",255,,Missing,,,,Operational

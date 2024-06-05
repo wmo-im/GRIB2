@@ -1,0 +1,10 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",0,,Equivalent radar reflectivity factor for rain,,,mm6 m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",1,,Equivalent radar reflectivity factor for snow,,,mm6 m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",2,,Equivalent radar reflectivity factor for parameterized convection,,,mm6 m-3,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",3,,Echo top,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",4,,Reflectivity,,,dB,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",5,,Composite reflectivity,,,dB,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",6-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",255,,Missing,,,,Operational

@@ -1,0 +1,14 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",0,,Renewable power capacity,,,W,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",1,,Renewable power production rate,,,W,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",2,,Wind power capacity,,,W,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",3,,Wind power production rate,,,W,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",4,,Solar photovoltaic (PV) power capacity,,,W,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",5,,Solar photovoltaic (PV) power production rate,,,W,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",6,,Solar non-photovoltaic (PV) power capacity,,,W,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",7,,Solar non-photovoltaic (PV) power production rate,,,W,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",8,,Concentrated solar power (CSP) power capacity,,,W,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",9,,Concentrated solar power (CSP) power production rate,,,W,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",10-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",255,,Missing,,,,Operational

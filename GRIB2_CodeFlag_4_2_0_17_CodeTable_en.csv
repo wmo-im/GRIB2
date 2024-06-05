@@ -1,0 +1,10 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",0,,Lightning strike density,,,m-2 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",1,,Lightning potential index (LPI),(see Note 1),43,J kg-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",2,,Cloud-to-ground lightning flash density,,,km-2 day-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",3,,Cloud-to-cloud lightning flash density,,,km-2 day-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",4,,Total lightning flash density,(see Note 2),104,km-2 day-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",5,,Subgrid-scale lightning potential index,(see Note 3),123,J kg-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",6-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",255,,Missing,,,,Operational

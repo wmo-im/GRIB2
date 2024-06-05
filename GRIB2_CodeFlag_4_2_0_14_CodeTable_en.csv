@@ -1,0 +1,7 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 14: trace gases",0,,Total ozone,,,DU,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 14: trace gases",1,,Ozone mixing ratio,,,kg/kg,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 14: trace gases",2,,Total column integrated ozone,,,DU,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 14: trace gases",3-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 14: trace gases",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 14: trace gases",255,,Missing,,,,Operational
