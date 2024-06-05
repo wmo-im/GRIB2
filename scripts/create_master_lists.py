@@ -74,11 +74,18 @@ def process_files(files,pattern,writers,title_prefix):
     rows=[]
     for f in files:
         #print(f)
-        m=re.match(r"{}_(\d+)_(\d+)_(.*)_en\.csv".format(pattern),f)
-            
-        major_nr = m.group(1)
-        minor_nr = m.group(2)
-        title_prefix = m.group(3)
+        m1=re.match(r"GRIB2_(CodeFlag|Template)_(\d+)_(\d+)_(\d+)_(\d+)_(.*)_en\.csv".format(pattern),f)
+        if m1 is not None:
+           print(m1)
+           major_nr = m1.group(2)
+           minor_nr = m1.group(3)
+           title_prefix = m1.group(6)
+        else:
+            m2=re.match(r"GRIB2_(CodeFlag|Template)_(\d+)_(\d+)_(.*)_en\.csv".format(pattern),f)
+            print(m2)
+            major_nr = m2.group(2)
+            minor_nr = m2.group(3)
+            title_prefix = m2.group(4)
         
         # 
         r = re.findall('[A-Z]',title_prefix)
