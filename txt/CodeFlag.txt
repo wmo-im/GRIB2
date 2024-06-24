@@ -445,7 +445,8 @@ Code table 4.1 - Parameter category by product discipline,Product discipline 2 -
 Code table 4.1 - Parameter category by product discipline,Product discipline 2 - Land surface products,4,,Fire weather products,,,,Operational
 Code table 4.1 - Parameter category by product discipline,Product discipline 2 - Land surface products,5,,Glaciers and inland ice,,,,Operational
 Code table 4.1 - Parameter category by product discipline,Product discipline 2 - Land surface products,6,,Urban areas,,,,Operational
-Code table 4.1 - Parameter category by product discipline,Product discipline 2 - Land surface products,7-191,,Reserved,,,,Operational
+Code table 4.1 - Parameter category by product discipline,Product discipline 2 - Land surface products,7,,Thermodynamic properties,,,,Operational
+Code table 4.1 - Parameter category by product discipline,Product discipline 2 - Land surface products,8-191,,Reserved,,,,Operational
 Code table 4.1 - Parameter category by product discipline,Product discipline 2 - Land surface products,192-254,,Reserved for local use,,,,Operational
 Code table 4.1 - Parameter category by product discipline,Product discipline 2 - Land surface products,255,,Missing,,,,Operational
 Code table 4.1 - Parameter category by product discipline,"Product discipline 3 - Satellite remote sensing products (formerly ""Space products"")",0,,Image format products,(see Note 1),40,,Operational
@@ -765,7 +766,9 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",65,,Northward turbulent surface stress due to orographic form drag,,,N m-2,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",66,,Eastward turbulent surface stress due to surface roughness,,,N m-2,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",67,,Northward turbulent surface stress due to surface roughness,,,N m-2,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",68-191,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",68,,Convective gust,,,m s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",69,,Turbulent gust,,,m s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",70-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",255,,Missing,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",0,,Pressure,,,Pa,Operational
@@ -847,7 +850,8 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",59,,"UV visible albedo for direct radiation, volumetric component",,,%,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",60,,"Photosynthetically active radiation flux, clear sky",,,W m-2,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",61,,"Direct short-wave radiation flux, clear sky",,,W m-2,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",62-191,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",62,,"Direct normal short-wave radiation flux, clear sky",,,W m-2,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",63-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 4: short-wave radiation",255,,Missing,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 5: long-wave radiation",0,,Net long-wave radiation flux (surface),(see Note),1,W m-2,Deprecated
@@ -1070,7 +1074,8 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",48,,Top of persistent contrails,,,m,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",49,,Base of persistent contrails,,,m,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",50,,Convectively-induced turbulence (CIT) (eddy dissipation rate),,,m2/3 s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",51-191,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",51,,Visibility through precipitation,,,m,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",52-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",255,,Missing,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",0,,Mass density (concentration),,,kg m-3,Operational
@@ -1407,6 +1412,12 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 6: urban areas",9-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 6: urban areas",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 6: urban areas",255,,Missing,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: Thermodynamic properties",0,,Heat net flux,(see Note),251a,W m-2,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: Thermodynamic properties",1,,Latent heat net flux,,,W m-2,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: Thermodynamic properties",2,,Sensible heat net flux,,,W m-2,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: Thermodynamic properties",3-191,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: Thermodynamic properties",192-254,,Reserved for local use,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: Thermodynamic properties",255,,Missing,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",0,,Scaled radiance,,,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",1,,Scaled albedo,,,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",2,,Scaled brightness temperature,,,Numeric,Operational
@@ -1444,7 +1455,8 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",21,,Aerosol optical thickness at 0.810 μm,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",22,,Aerosol optical thickness at 1.640 μm,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",23,,Angstrom coefficient,,,,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",24-26,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",24,,Cosine of the solar zenith angle,,,Numeric,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",25-26,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",27,,Bidirectional reflectance factor,(see Note 1),98,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",28,,Brightness temperature,,,K,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",29,,Scaled radiance,(see Note 2),114,Numeric,Operational
