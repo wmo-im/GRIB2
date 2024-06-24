@@ -2071,7 +2071,8 @@ Code table 4.9 - Probability type,,6,,Probability of event in above normal categ
 Code table 4.9 - Probability type,,7,,Probability of event in near normal category,(see Notes 1 and 2),"7,9",,Operational
 Code table 4.9 - Probability type,,8,,Probability of event in below normal category,(see Notes 1 and 2),"7,9",,Operational
 Code table 4.9 - Probability type,,9,,Probability based on counts of categorical boolean,(see Note 3),155,,Operational
-Code table 4.9 - Probability type,,10-191,,Reserved,,,,Operational
+Code table 4.9 - Probability type,,10,,Probability of event within the quantile of the PDF,(see Note 4),247a,,Operational§
+Code table 4.9 - Probability type,,11-191,,Reserved,,,,Operational
 Code table 4.9 - Probability type,,192-254,,Reserved for local use,,,,Operational
 Code table 4.9 - Probability type,,255,,Missing,,,,Operational
 Code table 4.10 - Type of statistical processing,,0,,Average,,,,Operational
