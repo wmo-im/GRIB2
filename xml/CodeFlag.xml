@@ -2360,7 +2360,61 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
-		<CodeFlag>128-253</CodeFlag>
+		<CodeFlag>128</CodeFlag>
+		<MeaningParameterDescription_en>Anomalies significance and other derived products from an analysis or forecast in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>129</CodeFlag>
+		<MeaningParameterDescription_en>Anomalies significance and other derived products from an individual ensemble forecast, control and perturbed in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>130</CodeFlag>
+		<MeaningParameterDescription_en>Anomalies significance and other derived products from derived forecasts based on all ensemble members in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>131</CodeFlag>
+		<MeaningParameterDescription_en>Anomalies significance and other derived products as probability forecasts in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>132</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>133</CodeFlag>
+		<MeaningParameterDescription_en>Post-processed quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>134</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>135</CodeFlag>
+		<MeaningParameterDescription_en>Post-processed quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>136&quot;</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts of anomalies, significance and other derived products in relation to a reference period with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>137-253</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
