@@ -311,13 +311,13 @@ Code table 4.0 - Product definition template number,,40,,Analysis or forecast at
 Code table 4.0 - Product definition template number,,41,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents",,,,Operational
 Code table 4.0 - Product definition template number,,42,,"Average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents",,,,Operational
 Code table 4.0 - Product definition template number,,43,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents",,,,Operational
-Code table 4.0 - Product definition template number,,44,,Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,,,,Operational
+Code table 4.0 - Product definition template number,,44,,Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,,,,Deprecated
 Code table 4.0 - Product definition template number,,45,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol",,,,Operational
 Code table 4.0 - Product definition template number,,46,,"Average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol",,,,Operational
 Code table 4.0 - Product definition template number,,47,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol",,,,Operational
 Code table 4.0 - Product definition template number,,48,,Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,,,,Operational
 Code table 4.0 - Product definition template number,,49,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol",,,,Operational
-Code table 4.0 - Product definition template number,,50,,Reserved,,,,Operational
+Code table 4.0 - Product definition template number,,50,,Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,,,,Operational
 Code table 4.0 - Product definition template number,,51,,Categorical forecasts at a horizontal level or in a horizontal layer at a point in time,,,,Operational
 Code table 4.0 - Product definition template number,,52,,Reserved,,,,Operational
 Code table 4.0 - Product definition template number,,53,,Partitioned parameters at a horizontal level or in a horizontal layer at a point in time,,,,Operational
