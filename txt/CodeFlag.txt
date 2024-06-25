@@ -45,7 +45,7 @@ Code table 1.2 - Significance of reference time,,1,,Start of forecast,,,,Operati
 Code table 1.2 - Significance of reference time,,2,,Verifying time of forecast,,,,Operational
 Code table 1.2 - Significance of reference time,,3,,Observation time,,,,Operational
 Code table 1.2 - Significance of reference time,,4,,Local time,,,,Operational
-Code table 1.2 - Significance of reference time,,5,,Simulation start,(see Note),150,,Operational
+Code table 1.2 - Significance of reference time,,5,,Simulation start,(see Note),173a,,Operational
 Code table 1.2 - Significance of reference time,,6-191,,Reserved,,,,Operational
 Code table 1.2 - Significance of reference time,,192-254,,Reserved for local use,,,,Operational
 Code table 1.2 - Significance of reference time,,255,,Missing,,,,Operational
@@ -1008,10 +1008,10 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",16,,Height of maximum air activity concentration,,,m,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",17,,Column-integrated air activity concentration,,,Bq m-2,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",18,,Column-averaged air activity concentration in layer,,,Bq m-3,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",19,,Deposition activity arrival,(see Note 3),151,s,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",20,,Deposition activity ended,(see Note 3),151,s,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",21,,Cloud activity arrival,(see Note 3),151,s,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",22,,Cloud activity ended,(see Note 3),151,s,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",19,,Deposition activity arrival,(see Note 3),173b,s,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",20,,Deposition activity ended,(see Note 3),173b,s,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",21,,Cloud activity arrival,(see Note 3),173b,s,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",22,,Cloud activity ended,(see Note 3),173b,s,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",23,,Effective dose rate,,,nSv h-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",24,,Thyroid dose rate (adult),,,nSv h-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",25,,Gamma dose rate (adult),,,nSv h-1,Operational
@@ -1167,7 +1167,7 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 21: thermodynamic properties",23-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 21: thermodynamic properties",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 21: thermodynamic properties",255,,Missing,,,,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",0,,Standard Precipitation Index (SPI),(see Note),147,dimensionless,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",0,,Standard Precipitation Index (SPI),(see Note),221b,dimensionless,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",1,,Standardized Precipitation Evapotranspiration Index (SPEI),,,dimensionless,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",2,,Standardized Streamflow index (SSFI),,,dimensionless,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",3,,Standardized Reservoir Supply Index (SRSI),,,dimensionless,Operational
@@ -1186,9 +1186,9 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 191: miscellaneous",2,,Geographical longitude,,,deg E,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 191: miscellaneous",3,,Days since last observation,,,d,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 191: miscellaneous",4,,Tropical cyclone density track,,,Numeric,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 191: miscellaneous",5,,Hurricane track in spatiotemporal vicinity,(see Note),154,boolean,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 191: miscellaneous",6,,Tropical storm track in spatiotemporal vicinity,(see Note),154,boolean,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 191: miscellaneous",7,,Tropical depression track in spatiotemporal vicinity,(see Note),154,boolean,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 191: miscellaneous",5,,Hurricane track in spatiotemporal vicinity,(see Note),225c,boolean,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 191: miscellaneous",6,,Tropical storm track in spatiotemporal vicinity,(see Note),225c,boolean,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 191: miscellaneous",7,,Tropical depression track in spatiotemporal vicinity,(see Note),225c,boolean,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 191: miscellaneous",8-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 191: miscellaneous",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 191: miscellaneous",255,,Missing,,,,Operational
@@ -1959,7 +1959,7 @@ Code table 4.5 - Fixed surface types and units,,15,,Convective condensation leve
 Code table 4.5 - Fixed surface types and units,,16,,Level of neutral buoyancy or equilibrium level (LNB),,,-,Operational
 Code table 4.5 - Fixed surface types and units,,17,,Departure level of the most unstable parcel of air (MUDL),,,-,Operational
 Code table 4.5 - Fixed surface types and units,,18,,Departure level of a mixed layer parcel of air with specified layer depth,,,Pa,Operational
-Code table 4.5 - Fixed surface types and units,,19,,Lowest level where cloud cover exceeds the specified percentage,(see Note 9),149,%,Operational
+Code table 4.5 - Fixed surface types and units,,19,,Lowest level where cloud cover exceeds the specified percentage,(see Note 9),220a,%,Operational
 Code table 4.5 - Fixed surface types and units,,20,,Isothermal level,,,K,Operational
 Code table 4.5 - Fixed surface types and units,,21,,Lowest level where mass density exceeds the specified value (base for a given threshold of mass density),,,kg m-3,Operational
 Code table 4.5 - Fixed surface types and units,,22,,Highest level where mass density exceeds the specified value (top for a given threshold of mass density),,,kg m-3,Operational
@@ -2070,7 +2070,7 @@ Code table 4.9 - Probability type,,5,,Probability of event equal to lower limit,
 Code table 4.9 - Probability type,,6,,Probability of event in above normal category,(see Notes 1 and 2),"7,9",,Operational
 Code table 4.9 - Probability type,,7,,Probability of event in near normal category,(see Notes 1 and 2),"7,9",,Operational
 Code table 4.9 - Probability type,,8,,Probability of event in below normal category,(see Notes 1 and 2),"7,9",,Operational
-Code table 4.9 - Probability type,,9,,Probability based on counts of categorical boolean,(see Note 3),155,,Operational
+Code table 4.9 - Probability type,,9,,Probability based on counts of categorical boolean,(see Note 3),225d,,Operational
 Code table 4.9 - Probability type,,10-191,,Reserved,,,,Operational
 Code table 4.9 - Probability type,,192-254,,Reserved for local use,,,,Operational
 Code table 4.9 - Probability type,,255,,Missing,,,,Operational
@@ -2091,7 +2091,7 @@ Code table 4.10 - Type of statistical processing,,13,,Median,,,,Operational
 Code table 4.10 - Type of statistical processing,,14-99,,Reserved,,,,Operational
 Code table 4.10 - Type of statistical processing,,100,,Severity,,,,Operational
 Code table 4.10 - Type of statistical processing,,101,,Mode,,,,Operational
-Code table 4.10 - Type of statistical processing,,102,,Index processing,(see Note 4),146,,Operational
+Code table 4.10 - Type of statistical processing,,102,,Index processing,(see Note 4),221a,,Operational
 Code table 4.10 - Type of statistical processing,,103-191,,Reserved,,,,Operational
 Code table 4.10 - Type of statistical processing,,192-254,,Reserved for local use,,,,Operational
 Code table 4.10 - Type of statistical processing,,255,,Missing,,,,Operational
@@ -2170,8 +2170,8 @@ Code table 4.101 - Type of relationship to reference dataset,,3,,Climatology,,,,
 Code table 4.101 - Type of relationship to reference dataset,,4-19,,Reserved,,,,Operational
 Code table 4.101 - Type of relationship to reference dataset,,20,,Extreme Forecast Index (EFI),(see Note 3),137,,Operational
 Code table 4.101 - Type of relationship to reference dataset,,21,,Shift of Tails (SOT),(see Note 4),138,,Operational
-Code table 4.101 - Type of relationship to reference dataset,,22,,Anomaly of probabilities,(see Note 5),148,,Operational
-Code table 4.101 - Type of relationship to reference dataset,,23,,Standardized Drought Index,(see Note 6),147,,Operational
+Code table 4.101 - Type of relationship to reference dataset,,22,,Anomaly of probabilities,(see Note 5),226a,,Operational
+Code table 4.101 - Type of relationship to reference dataset,,23,,Standardized Drought Index,(see Note 6),221b,,Operational
 Code table 4.101 - Type of relationship to reference dataset,,24-191,,Reserved,,,,Operational
 Code table 4.101 - Type of relationship to reference dataset,,192-254,,Reserved for local use,,,,Operational
 Code table 4.101 - Type of relationship to reference dataset,,255,,Missing,,,,Operational
@@ -2196,11 +2196,11 @@ Code table 4.102 - Statistical processing of reference period,,31,,Index based o
 Code table 4.102 - Statistical processing of reference period,,32-191,,Reserved,,,,Operational
 Code table 4.102 - Statistical processing of reference period,,192-254,,Reserved for local use,,,,Operational
 Code table 4.102 - Statistical processing of reference period,,255,,Missing,,,,Operational
-Code table 4.103 - Spatial vicinity type,,0,,Circle [m],(see Note),152,,Operational
-Code table 4.103 - Spatial vicinity type,,1,,"Rectangle [m,m]",(see Note),152,,Operational
-Code table 4.103 - Spatial vicinity type,,2,,Square [m],(see Note),152,,Operational
-Code table 4.103 - Spatial vicinity type,,3,,"Wedge [m, degree, degree]",(see Note),152,,Operational
-Code table 4.103 - Spatial vicinity type,,4,,"Span of grid boxes centered around grid box i,j [x,y]",(see Note),152,,Operational
+Code table 4.103 - Spatial vicinity type,,0,,Circle [m],(see Note),225a,,Operational
+Code table 4.103 - Spatial vicinity type,,1,,"Rectangle [m,m]",(see Note),225a,,Operational
+Code table 4.103 - Spatial vicinity type,,2,,Square [m],(see Note),225a,,Operational
+Code table 4.103 - Spatial vicinity type,,3,,"Wedge [m, degree, degree]",(see Note),225a,,Operational
+Code table 4.103 - Spatial vicinity type,,4,,"Span of grid boxes centered around grid box i,j [x,y]",(see Note),225a,,Operational
 Code table 4.103 - Spatial vicinity type,,5-191,,Reserved,,,,Operational
 Code table 4.103 - Spatial vicinity type,,192-254,,Reserved for local use,,,,Operational
 Code table 4.103 - Spatial vicinity type,,255,,Missing,,,,Operational
@@ -2214,7 +2214,7 @@ Code table 4.104 - Spatial and temporal vicinity processing,,6,,Standard deviati
 Code table 4.104 - Spatial and temporal vicinity processing,,7-10,,Reserved,,,,Operational
 Code table 4.104 - Spatial and temporal vicinity processing,,11,,Sum,,,,Operational
 Code table 4.104 - Spatial and temporal vicinity processing,,12-189,,Reserved,,,,Operational
-Code table 4.104 - Spatial and temporal vicinity processing,,190,,Quantile,(see Note),153,,Opertional
+Code table 4.104 - Spatial and temporal vicinity processing,,190,,Quantile,(see Note),225b,,Opertional
 Code table 4.104 - Spatial and temporal vicinity processing,,191,,Categorical (boolean),,,,Operational
 Code table 4.104 - Spatial and temporal vicinity processing,,192-254,,Reserved for local use,,,,Operational
 Code table 4.104 - Spatial and temporal vicinity processing,,255,,Missing,,,,Operational

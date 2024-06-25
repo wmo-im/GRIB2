@@ -6,8 +6,8 @@ Type of relationship to reference dataset,,3,,Climatology,,,,Operational
 Type of relationship to reference dataset,,4-19,,Reserved,,,,Operational
 Type of relationship to reference dataset,,20,,Extreme Forecast Index (EFI),(see Note 3),137,,Operational
 Type of relationship to reference dataset,,21,,Shift of Tails (SOT),(see Note 4),138,,Operational
-Type of relationship to reference dataset,,22,,Anomaly of probabilities,(see Note 5),148,,Operational
-Type of relationship to reference dataset,,23,,Standardized Drought Index,(see Note 6),147,,Operational
+Type of relationship to reference dataset,,22,,Anomaly of probabilities,(see Note 5),226a,,Operational
+Type of relationship to reference dataset,,23,,Standardized Drought Index,(see Note 6),221b,,Operational
 Type of relationship to reference dataset,,24-191,,Reserved,,,,Operational
 Type of relationship to reference dataset,,192-254,,Reserved for local use,,,,Operational
 Type of relationship to reference dataset,,255,,Missing,,,,Operational

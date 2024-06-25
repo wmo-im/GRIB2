@@ -16,7 +16,7 @@ Type of statistical processing,,13,,Median,,,,Operational
 Type of statistical processing,,14-99,,Reserved,,,,Operational
 Type of statistical processing,,100,,Severity,,,,Operational
 Type of statistical processing,,101,,Mode,,,,Operational
-Type of statistical processing,,102,,Index processing,(see Note 4),146,,Operational
+Type of statistical processing,,102,,Index processing,(see Note 4),221a,,Operational
 Type of statistical processing,,103-191,,Reserved,,,,Operational
 Type of statistical processing,,192-254,,Reserved for local use,,,,Operational
 Type of statistical processing,,255,,Missing,,,,Operational
