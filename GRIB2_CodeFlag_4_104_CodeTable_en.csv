@@ -9,7 +9,7 @@ Spatial and temporal vicinity processing,,6,,Standard deviation,,,,Operational
 Spatial and temporal vicinity processing,,7-10,,Reserved,,,,Operational
 Spatial and temporal vicinity processing,,11,,Sum,,,,Operational
 Spatial and temporal vicinity processing,,12-189,,Reserved,,,,Operational
-Spatial and temporal vicinity processing,,190,,Quantile,(see Note),225b,,Opertional
+Spatial and temporal vicinity processing,,190,,Quantile,(see Note),153,,Opertional
 Spatial and temporal vicinity processing,,191,,Categorical (boolean),,,,Operational
 Spatial and temporal vicinity processing,,192-254,,Reserved for local use,,,,Operational
 Spatial and temporal vicinity processing,,255,,Missing,,,,Operational
