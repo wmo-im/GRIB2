@@ -1125,20 +1125,24 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",79,,Column integrated northward mass flux,,,kg m-1 s-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",80,,Column integrated divergence of mass flux,,,kg m-2 s-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",81,,Column integrated net source,(see Note 3),129,kg m-2 s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",82-99,,Reserved,,,,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",100,,Surface area density (aerosol),,,/m,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",82,,Sink/loss mass flux,,,kg m-2 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",83,,Source/gain mass flux,,,kg m-2 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",84,,Volume-mean total column mixing ratio,,,mol mol-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",85-99,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",100,,Surface area density (aerosol),,,m-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",101,,Vertical visual range,,,m,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",102,,Aerosol optical thickness,,,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",103,,Single scattering albedo,,,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",104,,Asymmetry factor,,,Numeric,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",105,,Aerosol extinction coefficient,,,/m,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",106,,Aerosol absorption coefficient,,,/m,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",105,,Aerosol extinction coefficient,,,m-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",106,,Aerosol absorption coefficient,,,m-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",107,,Aerosol lidar backscatter from satellite,,,m-1 sr-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",108,,Aerosol lidar backscatter from the ground,,,m-1 sr-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",109,,Aerosol lidar extinction from satellite,,,/m,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",110,,Aerosol lidar extinction from the ground,,,/m,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",109,,Aerosol lidar extinction from satellite,,,m-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",110,,Aerosol lidar extinction from the ground,,,m-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",111,,Angstrom exponent,,,Numeric,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",112-191,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",112,,Absorption aerosol optical thickness,,,Numeric,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",113-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",255,,Missing,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 21: thermodynamic properties",0,,Column integrated potential + internal energy,,,J m-2,Operational
@@ -2545,7 +2549,16 @@ Code table 4.238 - Source or sink,,26,,Road transportation,,,,Operational
 Code table 4.238 - Source or sink,,27,,Off-road transportation,,,,Operational
 Code table 4.238 - Source or sink,,28,,Nuclear power plant,,,,Operational
 Code table 4.238 - Source or sink,,29,,Nuclear weapon,,,,Operational
-Code table 4.238 - Source or sink,,30-191,,Reserved,,,,Operational
+Code table 4.238 - Source or sink,,30,,Commercial buildings heating,,,,Operational
+Code table 4.238 - Source or sink,,31,,Residential heating,,,,Operational
+Code table 4.238 - Source or sink,,32,,Oil refineries and transformation industry,,,,Operational
+Code table 4.238 - Source or sink,,33,,Gas production,,,,Operational
+Code table 4.238 - Source or sink,,34,,Vegetation,,,,Operational
+Code table 4.238 - Source or sink,,35,,Biomass burning,,,,Operational
+Code table 4.238 - Source or sink,,36,,Settlements,,,,Operational
+Code table 4.238 - Source or sink,,37,,Soil,,,,Operational
+Code table 4.238 - Source or sink,,38,,Wild animals,,,,Operational
+Code table 4.238 - Source or sink,,39-191,,Reserved,,,,Operational
 Code table 4.238 - Source or sink,,192-254,,Reserved for local use,,,,Operational
 Code table 4.238 - Source or sink,,255,,Missing,,,,Operational
 Code table 4.239 - Wetland Type,,0,,Reserved,,,,Operational
