@@ -6758,7 +6758,25 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>82-99</CodeFlag>
+		<CodeFlag>82</CodeFlag>
+		<MeaningParameterDescription_en>Sink/loss mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>83</CodeFlag>
+		<MeaningParameterDescription_en>Source/gain mass flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>84</CodeFlag>
+		<MeaningParameterDescription_en>Volume-mean total column mixing ratio</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>85-99</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -6836,7 +6854,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>112-191</CodeFlag>
+		<CodeFlag>112</CodeFlag>
+		<MeaningParameterDescription_en>Absorption aerosol optical thickness</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>113-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -15278,7 +15302,61 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.238 - Source or sink</Title_en>
-		<CodeFlag>30-191</CodeFlag>
+		<CodeFlag>30</CodeFlag>
+		<MeaningParameterDescription_en>Commercial buildings heating</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.238 - Source or sink</Title_en>
+		<CodeFlag>31</CodeFlag>
+		<MeaningParameterDescription_en>Residential heating</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.238 - Source or sink</Title_en>
+		<CodeFlag>32</CodeFlag>
+		<MeaningParameterDescription_en>Oil refineries and transformation industry</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.238 - Source or sink</Title_en>
+		<CodeFlag>33</CodeFlag>
+		<MeaningParameterDescription_en>Gas production</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.238 - Source or sink</Title_en>
+		<CodeFlag>34</CodeFlag>
+		<MeaningParameterDescription_en>Vegetation</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.238 - Source or sink</Title_en>
+		<CodeFlag>35</CodeFlag>
+		<MeaningParameterDescription_en>Biomass burning</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.238 - Source or sink</Title_en>
+		<CodeFlag>36</CodeFlag>
+		<MeaningParameterDescription_en>Settlements</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.238 - Source or sink</Title_en>
+		<CodeFlag>37</CodeFlag>
+		<MeaningParameterDescription_en>Soil</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.238 - Source or sink</Title_en>
+		<CodeFlag>38</CodeFlag>
+		<MeaningParameterDescription_en>Wild animals</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.238 - Source or sink</Title_en>
+		<CodeFlag>39-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
