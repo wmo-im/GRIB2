@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2024-07-02T12:54:37.854177">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="2024-07-10T11:49:55.278702">
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 0.0 - Discipline of processed data in the GRIB message, number of GRIB Master table</Title_en>
 		<CodeFlag>0</CodeFlag>
@@ -12436,7 +12436,7 @@
 		<Title_en>Code table 4.9 - Probability type</Title_en>
 		<CodeFlag>10</CodeFlag>
 		<MeaningParameterDescription_en>Probability of event within the quantile of the probability distribution function</MeaningParameterDescription_en>
-		<Status>Operational§</Status>
+		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.9 - Probability type</Title_en>
