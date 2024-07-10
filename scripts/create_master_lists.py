@@ -35,7 +35,7 @@ class CSVWriter:
     
 class XMLWriter:
 
-    xmlheader = '<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="{}">'.format( datetime.now().isoformat() )
+    xmlheader = '<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">'
 
 
     def __init__(self,outfile,elements,item_name):
