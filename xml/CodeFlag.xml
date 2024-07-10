@@ -6759,13 +6759,13 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>82</CodeFlag>
-		<MeaningParameterDescription_en>Sink/loss mass flux</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Sink mass flux</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>83</CodeFlag>
-		<MeaningParameterDescription_en>Source/gain mass flux</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Source mass flux</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
