@@ -13040,7 +13040,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.101 - Type of relationship to reference dataset</Title_en>
-		<CodeFlag>24-191</CodeFlag>
+		<CodeFlag>24</CodeFlag>
+		<MeaningParameterDescription_en>Crossing Point Forecast (CPF) (see Note 7)</MeaningParameterDescription_en>
+		<Status/>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.101 - Type of relationship to reference dataset</Title_en>
+		<CodeFlag>25-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
