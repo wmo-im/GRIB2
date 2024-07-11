@@ -40161,16 +40161,6 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.136 - Probability forecasts of anomalies, significance and other derived products in relation to a reference period with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in at a point in time75+NA*5+(nr-1)*6</Title_en>
-		<OctetNo>Number of spatial vicinity values (NSV)</OctetNo>
-		<Contents_en/>
-		<Note_en/>
-		<noteIDs/>
-		<codeTable/>
-		<flagTable>Operational</flagTable>
-		<Status/>
-	</GRIB2_Template_en>
-	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.136 - Probability forecasts of anomalies, significance and other derived products in relation to a reference period with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in at a point in time</Title_en>
 		<OctetNo/>
 		<Contents_en>The next entry repeats nsv=1:NSV times</Contents_en>
@@ -40403,7 +40393,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.136 - Probability forecasts of anomalies, significance and other derived products in relation to a reference period with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in at a point in time</Title_en>
 		<OctetNo>48</OctetNo>
-		<Contents_en>Scale factor of lower limit</Contents_en>
+		<Contents_en>Scale factor of upper limit</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -40413,7 +40403,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.136 - Probability forecasts of anomalies, significance and other derived products in relation to a reference period with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in at a point in time</Title_en>
 		<OctetNo>49-52</OctetNo>
-		<Contents_en>Scaled value of lower limit</Contents_en>
+		<Contents_en>Scaled value of upper limit</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -40587,6 +40577,16 @@
 		<Note_en>(see Code table 4.103)</Note_en>
 		<noteIDs/>
 		<codeTable>4.103</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.136 - Probability forecasts of anomalies, significance and other derived products in relation to a reference period with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in at a point in time</Title_en>
+		<OctetNo>75+NA*5+(nr-1)*6</OctetNo>
+		<Contents_en>Number of spatial vicinity values (NSV)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
