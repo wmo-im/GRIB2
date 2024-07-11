@@ -151,3 +151,4 @@ noteID,note
 154,"These parameters are intended to be used with templates 4.121 and 4.122 in which the spatiotemporal criteria is encoded used to get a categorical yes/no per grid point of each ensemble member."
 155,"Scale Factor of Lower Limit, Scaled Value of Lower Limit, Scale Factor of Upper Limit and Scaled Value of Upper Limit must be set to missing. This entry is intended for, but not limited to, entries 5 to 7 in Code table 4.2 discipline 0 category 191."
 253a,In relation to local coordinate axes at a (grid) cell edge.
+247a,"When using entry 10, the lower limit is used to encode the quantile q (must be an integer between 0 and Q) while the upper limit is used to encode the total number of quantiles Q. This defines the probability of the parameter falling within quantile q. For instance, to encode the probability of falling within the 10th percentile, then q=10 and Q=100; to encode the probability of falling within the 1st tercile, then q=1 and Q=3."
