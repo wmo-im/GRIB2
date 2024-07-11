@@ -38103,7 +38103,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.131 - Anomalies, significance and other derived products as probability forecasts in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>43</OctetNo>
-		<Contents_en>Scale factor of lower limit</Contents_en>
+		<Contents_en>Scale factor of upper limit</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -38113,7 +38113,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.131 - Anomalies, significance and other derived products as probability forecasts in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>44 - 47</OctetNo>
-		<Contents_en>Scaled value of lower limit</Contents_en>
+		<Contents_en>Scaled value of upper limit</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
