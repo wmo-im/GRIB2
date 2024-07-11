@@ -13534,7 +13534,7 @@
 		<Title_en>Product definition template 4.50 - analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol</Title_en>
 		<OctetNo>28-29</OctetNo>
 		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
-		<Note_en>(see Note 1)</Note_en>
+		<Note_en>(see Note)</Note_en>
 		<noteIDs>33</noteIDs>
 		<codeTable/>
 		<flagTable/>
