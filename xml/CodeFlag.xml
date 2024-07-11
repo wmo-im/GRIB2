@@ -1875,7 +1875,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<CodeFlag>44</CodeFlag>
-		<MeaningParameterDescription_en>Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol (deprecated)</MeaningParameterDescription_en>
 		<Status>Deprecated</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
