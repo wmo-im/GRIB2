@@ -39053,6 +39053,16 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.134 - Quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo/>
+		<Contents_en>51-62 Specification of the outermost (or only) time range over which statistical processing is done</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.134 - Quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
+		<OctetNo/>
 		<Contents_en>The next two entries are repeated NA times na=0:NA - can be 0 times if no parameters are necessary</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -39334,16 +39344,6 @@
 		<Title_en>Product definition template 4.134 - Quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>47-50</OctetNo>
 		<Contents_en>Total number of data values missing in the statistical process</Contents_en>
-		<Note_en/>
-		<noteIDs/>
-		<codeTable/>
-		<flagTable/>
-		<Status>Operational</Status>
-	</GRIB2_Template_en>
-	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.134 - Quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
-		<OctetNo>51-62</OctetNo>
-		<Contents_en>Specification of the outermost (or only) time range over which statistical processing is done</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
