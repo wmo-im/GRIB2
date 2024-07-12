@@ -1,7 +1,7 @@
 Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: Thermodynamic properties",0,,Heat net flux,(see Note),251a,W m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: Thermodynamic properties",1,,Latent heat net flux,,,W m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: Thermodynamic properties",2,,Sensible heat net flux,,,W m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: Thermodynamic properties",3-191,,Reserved,,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: Thermodynamic properties",192-254,,Reserved for local use,,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: Thermodynamic properties",255,,Missing,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: thermodynamic properties",0,,Heat net flux,(see Note),251a,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: thermodynamic properties",1,,Latent heat net flux,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: thermodynamic properties",2,,Sensible heat net flux,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: thermodynamic properties",3-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: thermodynamic properties",192-254,,Reserved for local use,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: thermodynamic properties",255,,Missing,,,,Operational
