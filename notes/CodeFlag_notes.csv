@@ -156,3 +156,6 @@ noteID,note
 249d,Ensemble members are initialised from different initial condition.
 249e,"Model physics are perturbed (for example, with methods like SPPT, SPP, SKEB, etc.)."
 249f,Combination of 7 and 8.
+248a,"Ben Bouallègue, Z. (2021). On the verification of the crossing-point forecast. Tellus A: Dynamic Meteorology and Oceanography, 73(1), 1–10. [https://doi.org/10.1080/16000870.2021.1913007]"
+253a,In relation to local coordinate axes at a (grid) cell edge.
+247a,"When using entry 10, the lower limit is used to encode the quantile q (must be an integer between 0 and Q) while the upper limit is used to encode the total number of quantiles Q. This defines the probability of the parameter falling within quantile q. For instance, to encode the probability of falling within the 10th percentile, then q=10 and Q=100; to encode the probability of falling within the 1st tercile, then q=1 and Q=3."

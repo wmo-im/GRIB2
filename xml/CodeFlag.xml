@@ -1887,8 +1887,8 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<CodeFlag>44</CodeFlag>
-		<MeaningParameterDescription_en>Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol</MeaningParameterDescription_en>
-		<Status>Operational</Status>
+		<MeaningParameterDescription_en>Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol (deprecated)</MeaningParameterDescription_en>
+		<Status>Deprecated</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
@@ -1923,7 +1923,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<CodeFlag>50</CodeFlag>
-		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -2372,7 +2372,61 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
-		<CodeFlag>128-253</CodeFlag>
+		<CodeFlag>128</CodeFlag>
+		<MeaningParameterDescription_en>Anomalies significance and other derived products from an analysis or forecast in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>129</CodeFlag>
+		<MeaningParameterDescription_en>Anomalies significance and other derived products from an individual ensemble forecast, control and perturbed in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>130</CodeFlag>
+		<MeaningParameterDescription_en>Anomalies significance and other derived products from derived forecasts based on all ensemble members in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>131</CodeFlag>
+		<MeaningParameterDescription_en>Anomalies significance and other derived products as probability forecasts in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>132</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>133</CodeFlag>
+		<MeaningParameterDescription_en>Post-processed quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>134</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>135</CodeFlag>
+		<MeaningParameterDescription_en>Post-processed quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>136</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts of anomalies, significance and other derived products in relation to a reference period with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<CodeFlag>137-253</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -11096,7 +11150,25 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<CodeFlag>52-191</CodeFlag>
+		<CodeFlag>52</CodeFlag>
+		<MeaningParameterDescription_en>Mixed layer depth</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>53</CodeFlag>
+		<MeaningParameterDescription_en>Normal component of water velocity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>54</CodeFlag>
+		<MeaningParameterDescription_en>Tangential component of water velocity</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>55-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -12482,7 +12554,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.9 - Probability type</Title_en>
-		<CodeFlag>10-191</CodeFlag>
+		<CodeFlag>10</CodeFlag>
+		<MeaningParameterDescription_en>Probability of event within the quantile of the probability distribution function</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.9 - Probability type</Title_en>
+		<CodeFlag>11-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -13088,7 +13166,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.101 - Type of relationship to reference dataset</Title_en>
-		<CodeFlag>24-191</CodeFlag>
+		<CodeFlag>24</CodeFlag>
+		<MeaningParameterDescription_en>Crossing Point Forecast (CPF) (see Note 7)</MeaningParameterDescription_en>
+		<Status/>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.101 - Type of relationship to reference dataset</Title_en>
+		<CodeFlag>25-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
