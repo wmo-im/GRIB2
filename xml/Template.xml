@@ -38914,7 +38914,7 @@
 		<Title_en>Product definition template 4.133 - Post-processed quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>46</OctetNo>
 		<Contents_en>Number of additional parameter for reference period - NA</Contents_en>
-		<Note_en>(see Note 2)</Note_en>
+		<Note_en>(see Note 6)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
 		<flagTable/>
@@ -39014,7 +39014,7 @@
 		<Title_en>Product definition template 4.133 - Post-processed quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>58+NA*5</OctetNo>
 		<Contents_en>Number of reference period time range - NR</Contents_en>
-		<Note_en>(see Note 3)</Note_en>
+		<Note_en>(see Note 7)</Note_en>
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
@@ -39984,7 +39984,7 @@
 		<Title_en>Product definition template 4.135 - Post-processed quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>70+(NT-1)*12</OctetNo>
 		<Contents_en>Number of additional parameter for reference period - NA</Contents_en>
-		<Note_en>(see Note 2)</Note_en>
+		<Note_en>(see Note 7)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
 		<flagTable/>
@@ -40084,7 +40084,7 @@
 		<Title_en>Product definition template 4.135 - Post-processed quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>82+(NT-1)*12+NA*5</OctetNo>
 		<Contents_en>Number of reference period time range - NR</Contents_en>
-		<Note_en>(see Note 3)</Note_en>
+		<Note_en>(see Note 8)</Note_en>
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
