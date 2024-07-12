@@ -2236,7 +2236,9 @@ Code table 4.201 - Precipitation type,,9,,Graupel,,,,Operational
 Code table 4.201 - Precipitation type,,10,,Hail,,,,Operational
 Code table 4.201 - Precipitation type,,11,,Drizzle,,,,Operational
 Code table 4.201 - Precipitation type,,12,,Freezing drizzle,,,,Operational
-Code table 4.201 - Precipitation type,,13-191,,Reserved,,,,Operational
+Code table 4.201 - Precipitation type,,13,,Hail (less than 5 mm),,,,Operational
+Code table 4.201 - Precipitation type,,14,,Hail (greater than or equal to 5 mm),,,,Operational
+Code table 4.201 - Precipitation type,,15-191,,Reserved,,,,Operational
 Code table 4.201 - Precipitation type,,192-254,,Reserved for local use,,,,Operational
 Code table 4.201 - Precipitation type,,255,,Missing,,,,Operational
 Code table 4.202 - Precipitable water category,,0-191,,Reserved,,,,Operational
