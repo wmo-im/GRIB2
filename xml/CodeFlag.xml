@@ -459,7 +459,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 1.4 - Type of data</Title_en>
 		<CodeFlag>9</CodeFlag>
-		<MeaningParameterDescription_en>Example Data</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Example data</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -11546,13 +11546,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.3 - Type of generating process</Title_en>
-		<CodeFlag>23</CodeFlag>
-		<MeaningParameterDescription_en>Blended Forecast</MeaningParameterDescription_en>
+		<CodeFlag>22</CodeFlag>
+		<MeaningParameterDescription_en>Blended forecast</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.3 - Type of generating process</Title_en>
-		<CodeFlag>24-191</CodeFlag>
+		<CodeFlag>23-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
