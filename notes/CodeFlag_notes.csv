@@ -154,7 +154,7 @@ noteID,note
 249b,Forecast from Machine Learning (ML) model.
 249c,"Combination of different forecast products to produce a smooth, continuous forecast by applying weights to each individual prediction system which depend on the lead time and forecast skill (for example, seamless prediction using nowcasting to short-range to medium-range)."
 249d,Ensemble members are initialised from different initial condition.
-249e,"Model physics are perturbed (for example, with methods like SPPT, SPP, SKEB, etc.)."
+249e,"Model physics are perturbed (for example, with methods like SPPT, SPP and SKEB."
 249f,Combination of 7 and 8.
 248a,"Ben Bouallègue, Z. (2021). On the verification of the crossing-point forecast. Tellus A: Dynamic Meteorology and Oceanography, 73(1), 1–10. [https://doi.org/10.1080/16000870.2021.1913007]"
 253a,In relation to local coordinate axes at a (grid) cell edge.
