@@ -12357,7 +12357,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.6 - Type of ensemble forecast</Title_en>
 		<CodeFlag>9</CodeFlag>
-		<MeaningParameterDescription_en>Initial conditions + model physics perturbations</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Initial conditions and model physics perturbations</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
