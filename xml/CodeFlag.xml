@@ -458,7 +458,19 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 1.4 - Type of data</Title_en>
-		<CodeFlag>9-191</CodeFlag>
+		<CodeFlag>9</CodeFlag>
+		<MeaningParameterDescription_en>Example data</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 1.4 - Type of data</Title_en>
+		<CodeFlag>10</CodeFlag>
+		<MeaningParameterDescription_en>ML based forecast</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 1.4 - Type of data</Title_en>
+		<CodeFlag>11-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -11630,7 +11642,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.3 - Type of generating process</Title_en>
-		<CodeFlag>22-191</CodeFlag>
+		<CodeFlag>22</CodeFlag>
+		<MeaningParameterDescription_en>Blended forecast</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.3 - Type of generating process</Title_en>
+		<CodeFlag>23-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -12338,7 +12356,37 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.6 - Type of ensemble forecast</Title_en>
-		<CodeFlag>5-191</CodeFlag>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>Unpertubed forecast</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.6 - Type of ensemble forecast</Title_en>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>Perturbed forecast</MeaningParameterDescription_en>
+		<Status>Operationaal</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.6 - Type of ensemble forecast</Title_en>
+		<CodeFlag>7</CodeFlag>
+		<MeaningParameterDescription_en>Initial conditions perturbations</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.6 - Type of ensemble forecast</Title_en>
+		<CodeFlag>8</CodeFlag>
+		<MeaningParameterDescription_en>Model physics pertubations</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.6 - Type of ensemble forecast</Title_en>
+		<CodeFlag>9</CodeFlag>
+		<MeaningParameterDescription_en>Initial conditions and model physics perturbations</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.6 - Type of ensemble forecast</Title_en>
+		<CodeFlag>10-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
