@@ -459,7 +459,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 1.4 - Type of data</Title_en>
 		<CodeFlag>9</CodeFlag>
-		<MeaningParameterDescription_en>Example data</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Experimental data</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
