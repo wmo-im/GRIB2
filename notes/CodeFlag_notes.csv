@@ -150,6 +150,7 @@ noteID,note
 153,"The option quantile needs two additional arguments: 1) The total number of quantiles and 2) the quantile value."
 154,"These parameters are intended to be used with templates 4.121 and 4.122 in which the spatiotemporal criteria is encoded used to get a categorical yes/no per grid point of each ensemble member."
 155,"Scale Factor of Lower Limit, Scaled Value of Lower Limit, Scale Factor of Upper Limit and Scaled Value of Upper Limit must be set to missing. This entry is intended for, but not limited to, entries 5 to 7 in Code table 4.2 discipline 0 category 191."
+251a,Heat net flux is the sum of latent heat net flux and sensible heat net flux.
 249a,Data for demonstrational purposes only.
 249b,Forecast from Machine Learning (ML) model.
 249c,"Combination of different forecast products to produce a smooth, continuous forecast by applying weights to each individual prediction system which depend on the lead time and forecast skill (for example, seamless prediction using nowcasting to short-range to medium-range)."
