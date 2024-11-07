@@ -8,6 +8,8 @@ Type of data,,5,,Control and perturbed forecast products,,,,Operational
 Type of data,,6,,Processed satellite observations,,,,Operational
 Type of data,,7,,Processed radar observations,,,,Operational
 Type of data,,8,,Event probability,,,,Operational
-Type of data,,9-191,,Reserved,,,,Operational
+Type of data,,9,,Experimental data,(see Note 2),249a,,Operational
+Type of data,,10,,ML based forecast,(see Note 3),249b,,Operational
+Type of data,,11-191,,Reserved,,,,Operational
 Type of data,,192-254,,Reserved for local use,,,,Operational
 Type of data,,255,,Missing,,,,Operational

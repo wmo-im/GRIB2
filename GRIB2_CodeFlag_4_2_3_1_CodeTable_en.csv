@@ -23,7 +23,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",21,,Aerosol optical thickness at 0.810 μm,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",22,,Aerosol optical thickness at 1.640 μm,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",23,,Angstrom coefficient,,,,Operational
-Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",24-26,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",24,,Cosine of the solar zenith angle,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",25-26,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",27,,Bidirectional reflectance factor,(see Note 1),98,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",28,,Brightness temperature,,,K,Operational
 Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 1: quantitative products",29,,Scaled radiance,(see Note 2),114,Numeric,Operational
