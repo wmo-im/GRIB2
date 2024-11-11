@@ -1,2 +1,2 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-Grid point data - IEEE floating point data,6-nn,Binary data values,,,,,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Grid point data - IEEE floating point data,6-nn,,Binary data values,,,,,Operational

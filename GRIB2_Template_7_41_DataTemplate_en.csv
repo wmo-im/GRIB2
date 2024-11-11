@@ -1,2 +1,2 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-Grid point data - Portable Network Graphics (PNG) format,6-nn,PNG encoded image,,,,,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Grid point data - Portable Network Graphics (PNG) format,6-nn,,PNG encoded image,,,,,Operational
