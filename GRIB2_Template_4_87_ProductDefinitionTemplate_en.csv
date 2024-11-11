@@ -1,36 +1,36 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,10,Parameter category,(see Code table 4.1),,4.1,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,11,Parameter number,(see Code table 4.2),,4.2,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,12,Type of generating process,(see Code table 4.3),,4.3,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,13,Background generating process identifier (defined by originating centre),,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,14,Forecast generating process identifier (defined by originating centre),,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,15-16,Hours after reference time of data cut-off,(see Note 1),33,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,17,Minutes after reference time for data cut-off,,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,18,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,19-22,Forecast time in units defined by previous octet,(see Note 2),111,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,23,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,24,Scale factor of first fixed surface,,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,25-28,Scaled value of first fixed surface,,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,29,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,30,Scale factor of second fixed surface,,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,31-34,Scaled value of second fixed surface,,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,35-36, Total number of quantiles q,,,,,Operational 
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,37-38, Quantile value (between 0 and q),,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,39-40,Year of end of overall time interval,,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,41,Month of end of overall time interval,,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,42,Day of end of overall time interval,,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,43,Hour of end of overall time interval,,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,44,Minute of end of overall time interval,,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,45,Second of end of overall time interval,,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,46,n - number of time range specifications describing the time intervals used to calculate the statistically processed field,,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,47-50,Total number of data values missing in the statistical process,,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,51-62,Specification of the outermost (or only) time range over which statistical processing is done,,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,51,Statistical process used to calculate the processed field from the field at each time increment during the time range,(see Code table 4.10),,4.10,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,52,Type of time increment between successive fields used in the statistical processing,(see Code table 4.11),,4.11,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,53,Indicator of unit of time for time range over which statistical processing is done,(see Code table 4.4),,4.4,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,54-57,Length of the time range over which statistical processing is done in units defined by the previous octet,,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,58,Indicator of unit of time for the increment between the successive fields used,(see Code table 4.4),,4.4,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,59-62,Time increment between successive fields in units defined by the previous octet,(see Note 3),7,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,"63-nn   These octets are included only if n > 1, where nn = 50 + 12 x n",,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,63-74,"As octets 51-62, next innermost step of processing",,,,,Operational
-quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,75-nn,"Additional time range specifications, included in accordance with the value of n. Contents as octets 51 to 62, repeated as necessary.",,,,,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,10,,Parameter category,(see Code table 4.1),,4.1,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,11,,Parameter number,(see Code table 4.2),,4.2,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,12,,Type of generating process,(see Code table 4.3),,4.3,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,13,,Background generating process identifier (defined by originating centre),,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,14,,Forecast generating process identifier (defined by originating centre),,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,15-16,,Hours after reference time of data cut-off,(see Note 1),33,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,17,,Minutes after reference time for data cut-off,,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,18,,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,19-22,,Forecast time in units defined by previous octet,(see Note 2),111,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,23,,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,24,,Scale factor of first fixed surface,,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,25-28,,Scaled value of first fixed surface,,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,29,,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,30,,Scale factor of second fixed surface,,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,31-34,,Scaled value of second fixed surface,,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,35-36,, Total number of quantiles q,,,,,Operational 
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,37-38,, Quantile value (between 0 and q),,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,39-40,,Year of end of overall time interval,,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,41,,Month of end of overall time interval,,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,42,,Day of end of overall time interval,,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,43,,Hour of end of overall time interval,,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,44,,Minute of end of overall time interval,,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,45,,Second of end of overall time interval,,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,46,,n - number of time range specifications describing the time intervals used to calculate the statistically processed field,,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,47-50,,Total number of data values missing in the statistical process,,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,51-62,,Specification of the outermost (or only) time range over which statistical processing is done,,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,51,,Statistical process used to calculate the processed field from the field at each time increment during the time range,(see Code table 4.10),,4.1,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,52,,Type of time increment between successive fields used in the statistical processing,(see Code table 4.11),,4.11,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,53,,Indicator of unit of time for time range over which statistical processing is done,(see Code table 4.4),,4.4,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,54-57,,Length of the time range over which statistical processing is done in units defined by the previous octet,,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,58,,Indicator of unit of time for the increment between the successive fields used,(see Code table 4.4),,4.4,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,59-62,,Time increment between successive fields in units defined by the previous octet,(see Note 3),7,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,,"63-nn   These octets are included only if n > 1, where nn = 50 + 12 x n",,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,63-74,,"As octets 51-62, next innermost step of processing",,,,,Operational
+quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,75-nn,,"Additional time range specifications, included in accordance with the value of n. Contents as octets 51 to 62, repeated as necessary.",,,,,Operational

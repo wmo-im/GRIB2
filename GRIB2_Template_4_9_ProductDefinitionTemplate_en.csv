@@ -1,41 +1,41 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,10,Parameter category,(see Code table 4.1),,4.1,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,11,Parameter number,(see Code table 4.2),,4.2,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,12,Type of generating process,(see Code table 4.3),,4.3,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,13,Background generating process identifier (defined by originating centre),,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,14,Forecast generating process identifier (defined by originating centre),,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,15-16,Hours after reference time of data cut-off,(see Note 1),33,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,17,Minutes after reference time of data cut-off,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,18,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,19-22,Forecast time in units defined by octet 18,(see Note 2),111,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,23,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,24,Scale factor of first fixed surface,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,25-28,Scaled value of first fixed surface,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,29,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,30,Scale factor of second fixed surface,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,31-34,Scaled value of second fixed surface,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,35,Forecast probability number,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,36,Total number of forecast probabilities,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,37,Probability type,(see Code table 4.9),,4.9,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,38,Scale factor of lower limit,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,39-42,Scaled value of lower limit,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,43,Scale factor of upper limit,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,44-47,Scaled value of upper limit,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,48-49,Year of end of overall time interval,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,50,Month of end of overall time interval,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,51,Day of end of overall time interval,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,52,Hour of end of overall time interval,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,53,Minute of end of overall time interval,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,54,Second of end of overall time interval,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,55,n - number of time range specifications describing the time intervals used to calculate the statistically processed field,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,56-59,Total number of data values missing in the statistical process,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,60-71   Specification of the outermost (or only) time range over which statistical processing is done,,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,60,Statistical process used to calculate the processed field from the field at each time increment during the time range,(see Code table 4.10),,4.10,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,61,Type of time increment between successive fields used in the statistical processing,(see Code table 4.11),,4.11,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,62,Indicator of unit of time for time range over which statistical processing is done,(see Code table 4.4),,4.4,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,63-66,"Length of the time range over which statistical processing is done, in units defined by the previous octet",,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,67,Indicator of unit of time for the increment between the successive fields used,(see Code table 4.4),,4.4,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,68-71,"Time increment between successive fields, in units defined by the previous octet",(see Notes 3 and 4),"7,95",,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,"72-nn   These octets are included only if n > 1, where nn = 59 + 12 x n",,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,72-83,"As octets 60 to 71, next innermost step of processing",,,,,Operational
-probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,84-nn,"Additional time range specifications, included in accordance with the value of n. Contents as octets 60 to 71, repeated as necessary.",,,,,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,10,,Parameter category,(see Code table 4.1),,4.1,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,11,,Parameter number,(see Code table 4.2),,4.2,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,12,,Type of generating process,(see Code table 4.3),,4.3,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,13,,Background generating process identifier (defined by originating centre),,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,14,,Forecast generating process identifier (defined by originating centre),,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,15-16,,Hours after reference time of data cut-off,(see Note 1),33,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,17,,Minutes after reference time of data cut-off,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,18,,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,19-22,,Forecast time in units defined by octet 18,(see Note 2),111,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,23,,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,24,,Scale factor of first fixed surface,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,25-28,,Scaled value of first fixed surface,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,29,,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,30,,Scale factor of second fixed surface,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,31-34,,Scaled value of second fixed surface,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,35,,Forecast probability number,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,36,,Total number of forecast probabilities,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,37,,Probability type,(see Code table 4.9),,4.9,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,38,,Scale factor of lower limit,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,39-42,,Scaled value of lower limit,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,43,,Scale factor of upper limit,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,44-47,,Scaled value of upper limit,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,48-49,,Year of end of overall time interval,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,50,,Month of end of overall time interval,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,51,,Day of end of overall time interval,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,52,,Hour of end of overall time interval,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,53,,Minute of end of overall time interval,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,54,,Second of end of overall time interval,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,55,,n - number of time range specifications describing the time intervals used to calculate the statistically processed field,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,56-59,,Total number of data values missing in the statistical process,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,,60-71   Specification of the outermost (or only) time range over which statistical processing is done,,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,60,,Statistical process used to calculate the processed field from the field at each time increment during the time range,(see Code table 4.10),,4.1,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,61,,Type of time increment between successive fields used in the statistical processing,(see Code table 4.11),,4.11,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,62,,Indicator of unit of time for time range over which statistical processing is done,(see Code table 4.4),,4.4,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,63-66,,"Length of the time range over which statistical processing is done, in units defined by the previous octet",,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,67,,Indicator of unit of time for the increment between the successive fields used,(see Code table 4.4),,4.4,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,68-71,,"Time increment between successive fields, in units defined by the previous octet",(see Notes 3 and 4),"7,95",,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,,,"72-nn   These octets are included only if n > 1, where nn = 59 + 12 x n",,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,72-83,,"As octets 60 to 71, next innermost step of processing",,,,,Operational
+probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval,84-nn,,"Additional time range specifications, included in accordance with the value of n. Contents as octets 60 to 71, repeated as necessary.",,,,,Operational

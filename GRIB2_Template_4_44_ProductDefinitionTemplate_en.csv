@@ -1,22 +1,22 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,10,Parameter category,(see Code table 4.1),,4.1,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,11,Parameter number,(see Code table 4.2),,4.2,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,12-13,Aerosol type,(see Code table 4.233),,4.233,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,14,Type of interval for first and second sizes,(see Code table 4.91),,4.91,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,15,Scale factor of first size,,,,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,16-19,Scaled value of first size in metres,,,,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,20,Scale factor of second size,,,,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,21-24,Scaled value of second size in metres,,,,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,25,Type of generating process,(see Code table 4.3),,4.3,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,26,Background generating process identifier (defined by originating centre),,,,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,27,Analysis or forecast generating process identifier (defined by originating centre),,,,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,28-29,Hours of observational data cut-off after reference time,(see Note 1),33,,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,30,Minutes of observational data cut-off after reference time,,,,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,31,Indicator of unit of time range,(see Code table 4.4),,4.4,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,32-33,Forecast time in units defined by octet 31,,,,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,34,Type of first fixed surface,(see Code table 4.5),,4.5,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,35,Scale factor of first fixed surface,,,,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,36-39,Scaled value of first fixed surface,,,,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,40,Type of second fixed surface,(see Code table 4.5),,4.5,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,41,Scale factor of second fixed surface,,,,,Deprecated
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,42-45,Scaled value of second fixed surface,,,,,Deprecated
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,10,,Parameter category,(see Code table 4.1),,4.1,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,11,,Parameter number,(see Code table 4.2),,4.2,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,13-Dec,,Aerosol type,(see Code table 4.233),,4.233,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,14,,Type of interval for first and second sizes,(see Code table 4.91),,4.91,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,15,,Scale factor of first size,,,,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,16-19,,Scaled value of first size in metres,,,,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,20,,Scale factor of second size,,,,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,21-24,,Scaled value of second size in metres,,,,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,25,,Type of generating process,(see Code table 4.3),,4.3,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,26,,Background generating process identifier (defined by originating centre),,,,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,27,,Analysis or forecast generating process identifier (defined by originating centre),,,,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,28-29,,Hours of observational data cut-off after reference time,(see Note 1),33,,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,30,,Minutes of observational data cut-off after reference time,,,,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,31,,Indicator of unit of time range,(see Code table 4.4),,4.4,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,32-33,,Forecast time in units defined by octet 31,,,,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,34,,Type of first fixed surface,(see Code table 4.5),,4.5,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,35,,Scale factor of first fixed surface,,,,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,36-39,,Scaled value of first fixed surface,,,,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,40,,Type of second fixed surface,(see Code table 4.5),,4.5,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,41,,Scale factor of second fixed surface,,,,,Deprecated
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,42-45,,Scaled value of second fixed surface,,,,,Deprecated

@@ -1,13 +1,13 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-satellite product with or without associated quality values,10,Parameter category,(see Code table 4.1),,4.1,,Operational
-satellite product with or without associated quality values,11,Parameter number,(see Code table 4.2),,4.2,,Operational
-satellite product with or without associated quality values,12,Type of generating process,(see Code table 4.3),,4.3,,Operational
-satellite product with or without associated quality values,13,Observation generating process identifier (defined by originating centres),,,,,Operational
-satellite product with or without associated quality values,14,Quality value associated with parameter,(see Code table 4.16),,4.16,,Operational
-satellite product with or without associated quality values,15,Number of contributing spectral bands (NB),,,,,Operational
-satellite product with or without associated quality values,,"16-   Repeat the following 11 octets for each contributing band (nb = 1,NB)",,,,,Operational
-satellite product with or without associated quality values,(16+11(nb-1))-(17+11(nb-1)),Satellite series of band nb (code table defined by originating/generating centre),(see Note),14,,,Operational
-satellite product with or without associated quality values,(18+11(nb-1))-(19+11(nb-1)),Satellite numbers of band nb (code table defined by originating/generating centre),(see Note),14,,,Operational
-satellite product with or without associated quality values,(20+11(nb-1))-(21+11(nb-1)),Instrument types of band nb (code table defined by originating/generating centre),(see Note),14,,,Operational
-satellite product with or without associated quality values,(22+11(nb-1)),Scale factor of central wave number of band nb,,,,,Operational
-satellite product with or without associated quality values,(23+11(nb-1))-(26+11(nb-1)),Scaled value of central wave number of band nb (units: m-1),,,,,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+satellite product with or without associated quality values,10,,Parameter category,(see Code table 4.1),,4.1,,Operational
+satellite product with or without associated quality values,11,,Parameter number,(see Code table 4.2),,4.2,,Operational
+satellite product with or without associated quality values,12,,Type of generating process,(see Code table 4.3),,4.3,,Operational
+satellite product with or without associated quality values,13,,Observation generating process identifier (defined by originating centres),,,,,Operational
+satellite product with or without associated quality values,14,,Quality value associated with parameter,(see Code table 4.16),,4.16,,Operational
+satellite product with or without associated quality values,15,,Number of contributing spectral bands (NB),,,,,Operational
+satellite product with or without associated quality values,,,"16-   Repeat the following 11 octets for each contributing band (nb = 1,NB)",,,,,Operational
+satellite product with or without associated quality values,(16+11(nb-1))-(17+11(nb-1)),,Satellite series of band nb (code table defined by originating/generating centre),(see Note),14,,,Operational
+satellite product with or without associated quality values,(18+11(nb-1))-(19+11(nb-1)),,Satellite numbers of band nb (code table defined by originating/generating centre),(see Note),14,,,Operational
+satellite product with or without associated quality values,(20+11(nb-1))-(21+11(nb-1)),,Instrument types of band nb (code table defined by originating/generating centre),(see Note),14,,,Operational
+satellite product with or without associated quality values,(22+11(nb-1)),,Scale factor of central wave number of band nb,,,,,Operational
+satellite product with or without associated quality values,(23+11(nb-1))-(26+11(nb-1)),,Scaled value of central wave number of band nb (units: m-1),,,,,Operational

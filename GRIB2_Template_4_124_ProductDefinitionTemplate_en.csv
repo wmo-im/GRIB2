@@ -1,34 +1,34 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,10,Parameter category,(see Code table 4.1),,4.1,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,11,Parameter number,(see Code table 4.2),,4.2,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,12-13,Atmospheric chemical constituent type,(see Code table 4.230),,4.230,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,14,Source or sink,(see Code table 4.238),,4.238,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,15-16,Transport model used,(see Code table 4.333),,4.333,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,17-18,Requested by entity,(see Common Code table  C-11),,c-11,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,19-20,Scenario origin,(see Code table 4.335),,4.335,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,21-22,NWP used,(see Code table 4.336),,4.336,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,23-24,Release start year,,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,25,Release start month,,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,26,Release start day,,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,27,Release start hour,,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,28,Release start minute,,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,29,Release start second,,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,30-31,Wall clock initial time of execution (Year),,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,32,Wall clock initial time of execution (month),,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,33,Wall clock initial time of execution (day),,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,34,Wall clock initial time of execution (hour),,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,35,Wall clock initial time of execution (minute),,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,36,Wall clock initial time of execution (second),,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,37,Type of generating process,(see Code table 4.3),,4.3,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,38,Background generating process identifier (defined by originating centre),,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,39,Analysis or forecast generating process identifier (defined by originating centre),,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,40-41,Hours of observational data cut-off after reference time,(see Note),33,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,42,Minutes of observational data cut-off after reference time,,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,43,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,44-47,Forecast time in units defined by octet 43,,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,48,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,49,Scale factor of first fixed surface,,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,50-53,Scaled value of first fixed surface,,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,54,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,55,Scale factor of second fixed surface,,,,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,56-59,Scaled value of second fixed surface,,,,,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,10,,Parameter category,(see Code table 4.1),,4.1,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,11,,Parameter number,(see Code table 4.2),,4.2,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,13-Dec,,Atmospheric chemical constituent type,(see Code table 4.230),,4.23,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,14,,Source or sink,(see Code table 4.238),,4.238,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,15-16,,Transport model used,(see Code table 4.333),,4.333,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,17-18,,Requested by entity,(see Common Code table  C-11),,c-11,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,19-20,,Scenario origin,(see Code table 4.335),,4.335,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,21-22,,NWP used,(see Code table 4.336),,4.336,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,23-24,,Release start year,,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,25,,Release start month,,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,26,,Release start day,,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,27,,Release start hour,,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,28,,Release start minute,,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,29,,Release start second,,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,30-31,,Wall clock initial time of execution (Year),,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,32,,Wall clock initial time of execution (month),,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,33,,Wall clock initial time of execution (day),,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,34,,Wall clock initial time of execution (hour),,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,35,,Wall clock initial time of execution (minute),,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,36,,Wall clock initial time of execution (second),,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,37,,Type of generating process,(see Code table 4.3),,4.3,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,38,,Background generating process identifier (defined by originating centre),,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,39,,Analysis or forecast generating process identifier (defined by originating centre),,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,40-41,,Hours of observational data cut-off after reference time,(see Note),33,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,42,,Minutes of observational data cut-off after reference time,,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,43,,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,44-47,,Forecast time in units defined by octet 43,,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,48,,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,49,,Scale factor of first fixed surface,,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,50-53,,Scaled value of first fixed surface,,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,54,,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,55,,Scale factor of second fixed surface,,,,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,56-59,,Scaled value of second fixed surface,,,,,Operational

@@ -1,22 +1,22 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,10,Parameter category,(see Code table 4.1),,4.1,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,11,Parameter number,(see Code table 4.2),,4.2,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,12-13,Aerosol type,(see Code table 4.233),,4.233,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,14,Type of interval for first and second sizes,(see Code table 4.91),,4.91,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,15,Scale factor of first size,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,16-19,Scaled value of first size in metres,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,20,Scale factor of second size,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,21-24,Scaled value of second size in metres,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,25,Type of generating process,(see Code table 4.3),,4.3,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,26,Background generating process identifier (defined by originating centre),,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,27,Analysis or forecast generating process identifier (defined by originating centre),,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,28-29,Hours of observational data cut-off after reference time,(see Note),33,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,30,Minutes of observational data cut-off after reference time,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,31,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,32-35,Forecast time in units defined by octet 31,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,36,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,37,Scale factor of first fixed surface,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,38-41,Scaled value of first fixed surface,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,42,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,43,Scale factor of second fixed surface,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,44-47,Scaled value of second fixed surface,,,,,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,10,,Parameter category,(see Code table 4.1),,4.1,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,11,,Parameter number,(see Code table 4.2),,4.2,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,13-Dec,,Aerosol type,(see Code table 4.233),,4.233,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,14,,Type of interval for first and second sizes,(see Code table 4.91),,4.91,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,15,,Scale factor of first size,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,16-19,,Scaled value of first size in metres,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,20,,Scale factor of second size,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,21-24,,Scaled value of second size in metres,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,25,,Type of generating process,(see Code table 4.3),,4.3,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,26,,Background generating process identifier (defined by originating centre),,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,27,,Analysis or forecast generating process identifier (defined by originating centre),,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,28-29,,Hours of observational data cut-off after reference time,(see Note),33,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,30,,Minutes of observational data cut-off after reference time,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,31,,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,32-35,,Forecast time in units defined by octet 31,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,36,,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,37,,Scale factor of first fixed surface,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,38-41,,Scaled value of first fixed surface,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,42,,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,43,,Scale factor of second fixed surface,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol,44-47,,Scaled value of second fixed surface,,,,,Operational
