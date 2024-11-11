@@ -1,7 +1,7 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
 "post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",10,,Parameter category,(see Code table 4.1),,4.1,,Operational
 "post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",11,,Parameter number,(see Code table 4.2),,4.2,,Operational
-"post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",13-Dec,,Input process identifier,(see Note 1),82,,,Operational
+"post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",12-13,,Input process identifier,(see Note 1),82,,,Operational
 "post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",14-15,,Input originating centre,(see Common Code table C-11 and Note 2),81,CCT-11,,Operational
 "post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",16,,Type of post-processing,(see Note 3),126,,,Operational
 "post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",17,,Type of generating process,(see Code table 4.3),,4.3,,Operational
