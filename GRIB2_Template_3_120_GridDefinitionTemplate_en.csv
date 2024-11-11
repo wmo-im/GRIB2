@@ -1,11 +1,11 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-azimuth-range projection,15-18,Nb - number of data bins along radials,(see Note),1,,,Operational
-azimuth-range projection,19-22,Nr - number of radials,,,,,Operational
-azimuth-range projection,23-26,La1 - latitude of centre point,,,,,Operational
-azimuth-range projection,27-30,Lo1 - longitude of centre point,,,,,Operational
-azimuth-range projection,31-34,Dx - spacing of bins along radials,,,,,Operational
-azimuth-range projection,35-38,Dstart - offset from origin to inner bound,,,,,Operational
-azimuth-range projection,39,Scanning mode,(see Flag table 3.4),,,3.4,Operational
-azimuth-range projection,,40-(39+4Nr)   For each of Nr radials,,,,,Operational
-azimuth-range projection,(40+4(X-1))-(41+4(X-1)),"Azi - starting azimuth, degrees x 10 (degrees as north)",,,,,Operational
-azimuth-range projection,(42+4(X-1))-(43+4(X-1)),"Adelta - azimuthal width, degrees x 100 (+ clockwise, - counterclockwise), with X = 1 to Nr",,,,,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+azimuth-range projection,15-18,,Nb - number of data bins along radials,(see Note),1,,,Operational
+azimuth-range projection,19-22,,Nr - number of radials,,,,,Operational
+azimuth-range projection,23-26,,La1 - latitude of centre point,,,,,Operational
+azimuth-range projection,27-30,,Lo1 - longitude of centre point,,,,,Operational
+azimuth-range projection,31-34,,Dx - spacing of bins along radials,,,,,Operational
+azimuth-range projection,35-38,,Dstart - offset from origin to inner bound,,,,,Operational
+azimuth-range projection,39,,Scanning mode,(see Flag table 3.4),,,3.4,Operational
+azimuth-range projection,,,40-(39+4Nr)   For each of Nr radials,,,,,Operational
+azimuth-range projection,(40+4(X-1))-(41+4(X-1)),,"Azi - starting azimuth, degrees x 10 (degrees as north)",,,,,Operational
+azimuth-range projection,(42+4(X-1))-(43+4(X-1)),,"Adelta - azimuthal width, degrees x 100 (+ clockwise, - counterclockwise), with X = 1 to Nr",,,,,Operational

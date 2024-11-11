@@ -1,5 +1,5 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-stretched spherical harmonic coefficients,15-28,Same as grid definition template 3.50,,,,,Operational
-stretched spherical harmonic coefficients,29-32,Latitude of the pole of stretching,,,,,Operational
-stretched spherical harmonic coefficients,33-36,Longitude of the pole of stretching,,,,,Operational
-stretched spherical harmonic coefficients,37-40,Stretching factor,,,,,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+stretched spherical harmonic coefficients,15-28,,Same as grid definition template 3.50,,,,,Operational
+stretched spherical harmonic coefficients,29-32,,Latitude of the pole of stretching,,,,,Operational
+stretched spherical harmonic coefficients,33-36,,Longitude of the pole of stretching,,,,,Operational
+stretched spherical harmonic coefficients,37-40,,Stretching factor,,,,,Operational
