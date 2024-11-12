@@ -4,11 +4,11 @@ Type of ensemble forecast,,1,,Unperturbed low-resolution control forecast,,,,Ope
 Type of ensemble forecast,,2,,Negatively perturbed forecast,,,,Operational
 Type of ensemble forecast,,3,,Positively perturbed forecast,,,,Operational
 Type of ensemble forecast,,4,,Multi-model forecast,,,,Operational
-Type of ensemble forecast,,5,,Unpertubed forecast,,,,Operational
+Type of ensemble forecast,,5,,Unperturbed forecast,,,,Operational
 Type of ensemble forecast,,6,,Perturbed forecast,,,,Operationaal
-Type of ensemble forecast,,7,,Initial conditions perturbations,(see Note 1),249d,,Operational
-Type of ensemble forecast,,8,,Model physics pertubations,(see Note 2),249e,,Operational
-Type of ensemble forecast,,9,,Initial conditions and model physics perturbations,(see Note 3),249f,,Operational
+Type of ensemble forecast,,7,,Initial conditions perturbations,(see Note 1),160,,Operational
+Type of ensemble forecast,,8,,Model physics perturbations,(see Note 2),165,,Operational
+Type of ensemble forecast,,9,,Initial conditions and model physics perturbations,(see Note 3),161,,Operational
 Type of ensemble forecast,,10-191,,Reserved,,,,Operational
 Type of ensemble forecast,,192-254,,Reserved for local use,,,,Operational
 Type of ensemble forecast,,255,,Missing,,,,Operational

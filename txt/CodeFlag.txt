@@ -75,8 +75,8 @@ Code table 1.4 - Type of data,,5,,Control and perturbed forecast products,,,,Ope
 Code table 1.4 - Type of data,,6,,Processed satellite observations,,,,Operational
 Code table 1.4 - Type of data,,7,,Processed radar observations,,,,Operational
 Code table 1.4 - Type of data,,8,,Event probability,,,,Operational
-Code table 1.4 - Type of data,,9,,Experimental data,(see Note 2),249a,,Operational
-Code table 1.4 - Type of data,,10,,ML based forecast,(see Note 3),249b,,Operational
+Code table 1.4 - Type of data,,9,,Experimental data,(see Note 2),157,,Operational
+Code table 1.4 - Type of data,,10,,ML based forecast,(see Note 3),158,,Operational
 Code table 1.4 - Type of data,,11-191,,Reserved,,,,Operational
 Code table 1.4 - Type of data,,192-254,,Reserved for local use,,,,Operational
 Code table 1.4 - Type of data,,255,,Missing,,,,Operational
@@ -1427,7 +1427,7 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 6: urban areas",9-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 6: urban areas",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 6: urban areas",255,,Missing,,,,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: thermodynamic properties",0,,Heat net flux,(see Note),251a,W m-2,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: thermodynamic properties",0,,Heat net flux,(see Note),156,W m-2,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: thermodynamic properties",1,,Latent heat net flux,,,W m-2,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: thermodynamic properties",2,,Sensible heat net flux,,,W m-2,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 7: thermodynamic properties",3-191,,Reserved,,,,Operational
@@ -1951,7 +1951,7 @@ Code table 4.3 - Type of generating process,,18,,Difference between two forecast
 Code table 4.3 - Type of generating process,,19,,First guess,,,,Operational
 Code table 4.3 - Type of generating process,,20,,Analysis increment,(see Note 2),29,,Operational
 Code table 4.3 - Type of generating process,,21,,Initialization increment for analysis,(see Note 3),61,,Operational
-Code table 4.3 - Type of generating process,,22,,Blended forecast,(See Note 4),249c,,Operational
+Code table 4.3 - Type of generating process,,22,,Blended forecast,(See Note 4),159,,Operational
 Code table 4.3 - Type of generating process,,23-191,,Reserved,,,,Operational
 Code table 4.3 - Type of generating process,,192-254,,Reserved for local use,,,,Operational
 Code table 4.3 - Type of generating process,,255,,Missing,,,,Operational
