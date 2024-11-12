@@ -1874,8 +1874,8 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",50,,Sea water column integrated practical salinity,,,g kg-1 m,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",51,,Sea water column integrated salinity,,,kg kg-1 m,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",52,,Mixed layer depth,,,m,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",53,,Normal component of water velocity,(see Note 3),253a,m s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",54,,Tangential component of water velocity,(see Note 3),253a,m s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",53,,Normal component of water velocity,(see Note 3),163,m s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",54,,Tangential component of water velocity,(see Note 3),163,m s-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",55-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",255,,Missing,,,,Operational
@@ -2070,11 +2070,11 @@ Code table 4.6 - Type of ensemble forecast,,1,,Unperturbed low-resolution contro
 Code table 4.6 - Type of ensemble forecast,,2,,Negatively perturbed forecast,,,,Operational
 Code table 4.6 - Type of ensemble forecast,,3,,Positively perturbed forecast,,,,Operational
 Code table 4.6 - Type of ensemble forecast,,4,,Multi-model forecast,,,,Operational
-Code table 4.6 - Type of ensemble forecast,,5,,Unpertubed forecast,,,,Operational
+Code table 4.6 - Type of ensemble forecast,,5,,Unperturbed forecast,,,,Operational
 Code table 4.6 - Type of ensemble forecast,,6,,Perturbed forecast,,,,Operationaal
-Code table 4.6 - Type of ensemble forecast,,7,,Initial conditions perturbations,(see Note 1),249d,,Operational
-Code table 4.6 - Type of ensemble forecast,,8,,Model physics pertubations,(see Note 2),249e,,Operational
-Code table 4.6 - Type of ensemble forecast,,9,,Initial conditions and model physics perturbations,(see Note 3),249f,,Operational
+Code table 4.6 - Type of ensemble forecast,,7,,Initial conditions perturbations,(see Note 1),160,,Operational
+Code table 4.6 - Type of ensemble forecast,,8,,Model physics perturbations,(see Note 2),165,,Operational
+Code table 4.6 - Type of ensemble forecast,,9,,Initial conditions and model physics perturbations,(see Note 3),161,,Operational
 Code table 4.6 - Type of ensemble forecast,,10-191,,Reserved,,,,Operational
 Code table 4.6 - Type of ensemble forecast,,192-254,,Reserved for local use,,,,Operational
 Code table 4.6 - Type of ensemble forecast,,255,,Missing,,,,Operational
@@ -2107,7 +2107,7 @@ Code table 4.9 - Probability type,,6,,Probability of event in above normal categ
 Code table 4.9 - Probability type,,7,,Probability of event in near normal category,(see Notes 1 and 2),"7,9",,Operational
 Code table 4.9 - Probability type,,8,,Probability of event in below normal category,(see Notes 1 and 2),"7,9",,Operational
 Code table 4.9 - Probability type,,9,,Probability based on counts of categorical boolean,(see Note 3),155,,Operational
-Code table 4.9 - Probability type,,10,,Probability of event within the quantile of the probability distribution function,(see Note 4),247a,,Operational
+Code table 4.9 - Probability type,,10,,Probability of event within the quantile of the probability distribution function,(see Note 4),164,,Operational
 Code table 4.9 - Probability type,,11-191,,Reserved,,,,Operational
 Code table 4.9 - Probability type,,192-254,,Reserved for local use,,,,Operational
 Code table 4.9 - Probability type,,255,,Missing,,,,Operational
@@ -2209,7 +2209,7 @@ Code table 4.101 - Type of relationship to reference dataset,,20,,Extreme Foreca
 Code table 4.101 - Type of relationship to reference dataset,,21,,Shift of Tails (SOT),(see Note 4),138,,Operational
 Code table 4.101 - Type of relationship to reference dataset,,22,,Anomaly of probabilities,(see Note 5),148,,Operational
 Code table 4.101 - Type of relationship to reference dataset,,23,,Standardized Drought Index,(see Note 6),147,,Operational
-Code table 4.101 - Type of relationship to reference dataset,,24,,Crossing Point Forecast (CPF) (see Note 7),248a,,Operational,
+Code table 4.101 - Type of relationship to reference dataset,,24,,Crossing Point Forecast (CPF),(see Note 7),162,,Operational
 Code table 4.101 - Type of relationship to reference dataset,,25-191,,Reserved,,,,Operational
 Code table 4.101 - Type of relationship to reference dataset,,192-254,,Reserved for local use,,,,Operational
 Code table 4.101 - Type of relationship to reference dataset,,255,,Missing,,,,Operational
