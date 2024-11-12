@@ -9,7 +9,7 @@ Probability type,,6,,Probability of event in above normal category,(see Notes 1 
 Probability type,,7,,Probability of event in near normal category,(see Notes 1 and 2),"7,9",,Operational
 Probability type,,8,,Probability of event in below normal category,(see Notes 1 and 2),"7,9",,Operational
 Probability type,,9,,Probability based on counts of categorical boolean,(see Note 3),155,,Operational
-Probability type,,10,,Probability of event within the quantile of the probability distribution function,(see Note 4),247a,,Operational
+Probability type,,10,,Probability of event within the quantile of the probability distribution function,(see Note 4),164,,Operational
 Probability type,,11-191,,Reserved,,,,Operational
 Probability type,,192-254,,Reserved for local use,,,,Operational
 Probability type,,255,,Missing,,,,Operational

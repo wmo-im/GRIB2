@@ -12429,7 +12429,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.6 - Type of ensemble forecast</Title_en>
 		<CodeFlag>5</CodeFlag>
-		<MeaningParameterDescription_en>Unpertubed forecast</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Unperturbed forecast</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -12447,7 +12447,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.6 - Type of ensemble forecast</Title_en>
 		<CodeFlag>8</CodeFlag>
-		<MeaningParameterDescription_en>Model physics pertubations</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Model physics perturbations</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -13263,8 +13263,8 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.101 - Type of relationship to reference dataset</Title_en>
 		<CodeFlag>24</CodeFlag>
-		<MeaningParameterDescription_en>Crossing Point Forecast (CPF) (see Note 7)</MeaningParameterDescription_en>
-		<Status/>
+		<MeaningParameterDescription_en>Crossing Point Forecast (CPF)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.101 - Type of relationship to reference dataset</Title_en>
