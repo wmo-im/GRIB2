@@ -1,7 +1,7 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,10,,Parameter category,(see Code table 4.1),,4.1,,Operational
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,11,,Parameter number,(see Code table 4.2),,4.2,,Operational
-Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,12-13,,Atmospheric chemical constituent type,(see Code table 4.230),,4.23,,Operational
+Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,12-13,,Atmospheric chemical constituent type,(see Code table 4.230),,4.230,,Operational
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,14,,Source or sink,(see Code table 4.238),,4.238,,Operational
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,15-16,,Transport model used,(see Code table 4.333),,4.333,,Operational
 Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for radionuclides,17-18,,Requested by entity,(see Common Code table  C-11),,c-11,,Operational

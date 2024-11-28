@@ -1,7 +1,7 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
 "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents",10,,Parameter category,(see Code table 4.1),,4.1,,Operational
 "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents",11,,Parameter number,(see Code table 4.2),,4.2,,Operational
-"individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents",12-13,,Atmospheric chemical constituent type,(see Code table 4.230),,4.23,,Operational
+"individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents",12-13,,Atmospheric chemical constituent type,(see Code table 4.230),,4.230,,Operational
 "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents",14,,Type of generating process,(see Code table 4.3),,4.3,,Operational
 "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents",15,,Background generating process identifier (defined by originating centre),,,,,Operational
 "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents",16,,Forecast generating process identifier (defined by originating centre),,,,,Operational

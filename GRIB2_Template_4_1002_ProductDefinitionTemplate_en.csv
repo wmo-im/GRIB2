@@ -8,9 +8,9 @@ Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Stat
 "cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",17,,Minutes of observational data cut-off after reference time,,,,,Experimental
 "cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",18,,Indicator of unit of time range,(see Code table 4.4),,4.4,,Experimental
 "cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",19-22,,Forecast time in units defined by octet 18,,,,,Experimental
-"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",23,,Horizontal dimension processed,(see Code table 4.220),,4.22,,Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",23,,Horizontal dimension processed,(see Code table 4.220),,4.220,,Experimental
 "cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",24,,Treatment of missing data (e.g. below ground),(see Code table 4.221),,4.221,,Experimental
-"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",25,,Type of statistical processing,(see Code table 4.10),,4.1,,Experimental
+"cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",25,,Type of statistical processing,(see Code table 4.10),,4.10,,Experimental
 "cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",26-29,,Start of range,,,,,Experimental
 "cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",30-33,,End of range,,,,,Experimental
 "cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude",34-35,,Number of values,,,,,Experimental
