@@ -1,20 +1,20 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-radar product,10,Parameter category,(see Code table 4.1),,4.1,,Operational
-radar product,11,Parameter number,(see Code table 4.2),,4.2,,Operational
-radar product,12,Type of generating process,(see Code table 4.3),,4.3,,Operational
-radar product,13,Number of radar sites used,,,,,Operational
-radar product,14,Indicator of unit of time range,,,,,Operational
-radar product,15-18,Site latitude (in 10-6 degree),,,,,Operational
-radar product,19-22,Site longitude (in 10-6 degree),,,,,Operational
-radar product,23-24,Site elevation (metres),,,,,Operational
-radar product,25-28,Site ID (alphanumeric),,,,,Operational
-radar product,29-30,Site ID (numeric),,,,,Operational
-radar product,31,Operating mode,(see Code table 4.12),,4.12,,Operational
-radar product,32,Reflectivity calibration constant (tenths of dB),,,,,Operational
-radar product,33,Quality control indicator,(see Code table 4.13),,4.13,,Operational
-radar product,34,Clutter filter indicator,(see Code table 4.14),,4.14,,Operational
-radar product,35,Constant antenna elevation angle (tenths of degree true),,,,,Operational
-radar product,36-37,Accumulation interval (minutes),,,,,Operational
-radar product,38,Reference reflectivity for echo top (dB),,,,,Operational
-radar product,39-41,Range bin spacing (metres),,,,,Operational
-radar product,42-43,Radial angular spacing (tenths of degree true),,,,,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+radar product,10,,Parameter category,(see Code table 4.1),,4.1,,Operational
+radar product,11,,Parameter number,(see Code table 4.2),,4.2,,Operational
+radar product,12,,Type of generating process,(see Code table 4.3),,4.3,,Operational
+radar product,13,,Number of radar sites used,,,,,Operational
+radar product,14,,Indicator of unit of time range,,,,,Operational
+radar product,15-18,,Site latitude (in 10-6 degree),,,,,Operational
+radar product,19-22,,Site longitude (in 10-6 degree),,,,,Operational
+radar product,23-24,,Site elevation (metres),,,,,Operational
+radar product,25-28,,Site ID (alphanumeric),,,,,Operational
+radar product,29-30,,Site ID (numeric),,,,,Operational
+radar product,31,,Operating mode,(see Code table 4.12),,4.12,,Operational
+radar product,32,,Reflectivity calibration constant (tenths of dB),,,,,Operational
+radar product,33,,Quality control indicator,(see Code table 4.13),,4.13,,Operational
+radar product,34,,Clutter filter indicator,(see Code table 4.14),,4.14,,Operational
+radar product,35,,Constant antenna elevation angle (tenths of degree true),,,,,Operational
+radar product,36-37,,Accumulation interval (minutes),,,,,Operational
+radar product,38,,Reference reflectivity for echo top (dB),,,,,Operational
+radar product,39-41,,Range bin spacing (metres),,,,,Operational
+radar product,42-43,,Radial angular spacing (tenths of degree true),,,,,Operational

@@ -1,9 +1,9 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-Grid point data - CCSDS recommended lossless compression,12-15,Reference value (R) (IEEE 32-bit floating-point value),,,,,Operational
-Grid point data - CCSDS recommended lossless compression,16-17,Binary scale factor (E),,,,,Operational
-Grid point data - CCSDS recommended lossless compression,18-19,Decimal scale factor (D),,,,,Operational
-Grid point data - CCSDS recommended lossless compression,20,Number of bits required to hold the resulting scaled and referenced data values,(see Note 1),83,,,Operational
-Grid point data - CCSDS recommended lossless compression,21,Type of original field values,(see Code table 5.1),,5.1,,Operational
-Grid point data - CCSDS recommended lossless compression,22,CCSDS compression options mask,(see Note 3),48,,,Operational
-Grid point data - CCSDS recommended lossless compression,23,Block size,,,,,Operational
-Grid point data - CCSDS recommended lossless compression,24-25,Reference sample interval,,,,,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Grid point data - CCSDS recommended lossless compression,12-15,,Reference value (R) (IEEE 32-bit floating-point value),,,,,Operational
+Grid point data - CCSDS recommended lossless compression,16-17,,Binary scale factor (E),,,,,Operational
+Grid point data - CCSDS recommended lossless compression,18-19,,Decimal scale factor (D),,,,,Operational
+Grid point data - CCSDS recommended lossless compression,20,,Number of bits required to hold the resulting scaled and referenced data values,(see Note 1),83,,,Operational
+Grid point data - CCSDS recommended lossless compression,21,,Type of original field values,(see Code table 5.1),,5.1,,Operational
+Grid point data - CCSDS recommended lossless compression,22,,CCSDS compression options mask,(see Note 3),48,,,Operational
+Grid point data - CCSDS recommended lossless compression,23,,Block size,,,,,Operational
+Grid point data - CCSDS recommended lossless compression,24-25,,Reference sample interval,,,,,Operational

@@ -1,14 +1,14 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-"Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix)",15,Shape of the Earth,(see Code table 3.2),,3.2,,Operational
-"Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix)",16,Scale factor of radius of spherical Earth,,,,,Operational
-"Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix)",17-20,Scaled value of radius of spherical Earth,,,,,Operational
-"Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix)",21,Scale factor of major axis of oblate spheroid Earth,,,,,Operational
-"Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix)",22-25,Scaled value of major axis of oblate spheroid Earth,,,,,Operational
-"Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix)",26,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational
-"Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix)",27-30,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational
-"Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix)",31,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational
-"Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix)",32-35,nsides - number of sides within a rhomboid shape,(see note 1),197a,,,Operational
-"Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix)",36-39,Lo - Longitude of the centre line of the first rhomboid,(see note 2),197b,,,Operational
-"Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix)",40,Grid point position,(see Code table 3.8),,,3.8,Operational
-"Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix)",41,Numbering order,(see Code table 3.12),,,3.12,Operational
-"Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix)",42,Scanning mode,(see Flag table 3.13),,,3.13,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix),15,,Shape of the Earth,(see Code table 3.2),,3.2,,Operational
+Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix),16,,Scale factor of radius of spherical Earth,,,,,Operational
+Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix),17-20,,Scaled value of radius of spherical Earth,,,,,Operational
+Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix),21,,Scale factor of major axis of oblate spheroid Earth,,,,,Operational
+Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix),22-25,,Scaled value of major axis of oblate spheroid Earth,,,,,Operational
+Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix),26,,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational
+Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix),27-30,,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational
+Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix),31,,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational
+Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix),32-35,,nsides - number of sides within a rhomboid shape,(see note 1),197a,,,Operational
+Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix),36-39,,Lo - Longitude of the centre line of the first rhomboid,(see note 2),197b,,,Operational
+Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix),40,,Grid point position,(see Code table 3.8),,,3.8,Operational
+Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix),41,,Numbering order,(see Code table 3.12),,,3.12,Operational
+Hierarchical Equal Area isoLatitude Pixelization grid (HEALPix),42,,Scanning mode,(see Flag table 3.13),,,3.13,Operational

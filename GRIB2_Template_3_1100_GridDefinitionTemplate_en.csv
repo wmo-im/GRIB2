@@ -1,30 +1,30 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-Hovmöller diagram grid with points equally spaced on the horizontal,15,Shape of the Earth,(see Code table 3.2),,3.2,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,16,Scale factor of radius of spherical Earth,,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,17-20,Scaled value of radius of spherical Earth,,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,21,Scale factor of major axis of oblate spheroid Earth,,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,22-25,Scaled value of major axis of oblate spheroid Earth,,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,26,Scale factor of minor axis of oblate spheroid Earth,,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,27-30,Scaled value of minor axis of oblate spheroid Earth,,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,31-34,Number of horizontal points,,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,35-38,Basic angle of the initial production domain,(see Note 1),9,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,39-42,Subdivisions of basic angle used to define extreme longitudes and latitudes,(see Note 1),9,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,43-46,La1 - latitude of first grid point,(see Note 1),9,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,47-50,Lo1 - longitude of first grid point,(see Note 1),9,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,51,Scanning mode,(see Flag table 3.4),,,3.4,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,52-55,La2 - latitude of last grid point,(see Note 1),9,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,56-59,Lo2 - longitude of last grid point,(see Note 1),9,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,60,Type of horizontal line,(see Code table 3.20),,3.20,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,61-64,NT - number of time steps,,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,65,Unit of offset from reference time,(see Code table 4.4),,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,66-69,Offset from reference of first time (negative value when first bit set),,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,70,Type of time increment,(see Code table 4.11),,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,71,Unit of time increment,(see Code table 4.4),,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,72-75,Time increment (negative value when first bit set),,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,,76-82   Last date/time,,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,76-77,Year,,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,78,Month,,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,79,Day,,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,80,Hour,,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,81,Minute,,,,,Experimental
-Hovmöller diagram grid with points equally spaced on the horizontal,82,Second,,,,,Experimental
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Hovmöller diagram grid with points equally spaced on the horizontal,15,,Shape of the Earth,(see Code table 3.2),,3.2,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,16,,Scale factor of radius of spherical Earth,,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,17-20,,Scaled value of radius of spherical Earth,,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,21,,Scale factor of major axis of oblate spheroid Earth,,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,22-25,,Scaled value of major axis of oblate spheroid Earth,,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,26,,Scale factor of minor axis of oblate spheroid Earth,,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,27-30,,Scaled value of minor axis of oblate spheroid Earth,,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,31-34,,Number of horizontal points,,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,35-38,,Basic angle of the initial production domain,(see Note 1),9,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,39-42,,Subdivisions of basic angle used to define extreme longitudes and latitudes,(see Note 1),9,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,43-46,,La1 - latitude of first grid point,(see Note 1),9,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,47-50,,Lo1 - longitude of first grid point,(see Note 1),9,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,51,,Scanning mode,(see Flag table 3.4),,,3.4,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,52-55,,La2 - latitude of last grid point,(see Note 1),9,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,56-59,,Lo2 - longitude of last grid point,(see Note 1),9,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,60,,Type of horizontal line,(see Code table 3.20),,3.20,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,61-64,,NT - number of time steps,,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,65,,Unit of offset from reference time,(see Code table 4.4),,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,66-69,,Offset from reference of first time (negative value when first bit set),,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,70,,Type of time increment,(see Code table 4.11),,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,71,,Unit of time increment,(see Code table 4.4),,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,72-75,,Time increment (negative value when first bit set),,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,,,76-82   Last date/time,,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,76-77,,Year,,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,78,,Month,,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,79,,Day,,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,80,,Hour,,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,81,,Minute,,,,,Experimental
+Hovmöller diagram grid with points equally spaced on the horizontal,82,,Second,,,,,Experimental

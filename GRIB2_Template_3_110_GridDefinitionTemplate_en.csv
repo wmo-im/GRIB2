@@ -1,17 +1,17 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-equatorial azimuthal equidistant projection,15,Shape of the Earth,(see Code table 3.2),,3.2,,Operational
-equatorial azimuthal equidistant projection,16,Scale factor of radius of spherical Earth,,,,,Operational
-equatorial azimuthal equidistant projection,17-20,Scaled value of radius of spherical Earth,,,,,Operational
-equatorial azimuthal equidistant projection,21,Scale factor of major axis of oblate spheroid Earth,,,,,Operational
-equatorial azimuthal equidistant projection,22-25,Scaled value of major axis of oblate spheroid Earth,,,,,Operational
-equatorial azimuthal equidistant projection,26,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational
-equatorial azimuthal equidistant projection,27-30,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational
-equatorial azimuthal equidistant projection,31-34,Nx - number of points along x-axis,,,,,Operational
-equatorial azimuthal equidistant projection,35-38,Ny - number of points along y-axis,,,,,Operational
-equatorial azimuthal equidistant projection,39-42,La1 - latitude of tangency point (centre of grid),,,,,Operational
-equatorial azimuthal equidistant projection,43-46,Lo1 - longitude of tangency point,,,,,Operational
-equatorial azimuthal equidistant projection,47,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational
-equatorial azimuthal equidistant projection,48-51,Dx - x-direction grid length in units of 10-3 m as measured at the point of the axis,,,,,Operational
-equatorial azimuthal equidistant projection,52-55,Dy - y-direction grid length in units of 10-3 m as measured at the point of the axis,,,,,Operational
-equatorial azimuthal equidistant projection,56,Projection centre flag,,,,,Operational
-equatorial azimuthal equidistant projection,57,Scanning mode,(see Flag table 3.4),,,3.4,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+equatorial azimuthal equidistant projection,15,,Shape of the Earth,(see Code table 3.2),,3.2,,Operational
+equatorial azimuthal equidistant projection,16,,Scale factor of radius of spherical Earth,,,,,Operational
+equatorial azimuthal equidistant projection,17-20,,Scaled value of radius of spherical Earth,,,,,Operational
+equatorial azimuthal equidistant projection,21,,Scale factor of major axis of oblate spheroid Earth,,,,,Operational
+equatorial azimuthal equidistant projection,22-25,,Scaled value of major axis of oblate spheroid Earth,,,,,Operational
+equatorial azimuthal equidistant projection,26,,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational
+equatorial azimuthal equidistant projection,27-30,,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational
+equatorial azimuthal equidistant projection,31-34,,Nx - number of points along x-axis,,,,,Operational
+equatorial azimuthal equidistant projection,35-38,,Ny - number of points along y-axis,,,,,Operational
+equatorial azimuthal equidistant projection,39-42,,La1 - latitude of tangency point (centre of grid),,,,,Operational
+equatorial azimuthal equidistant projection,43-46,,Lo1 - longitude of tangency point,,,,,Operational
+equatorial azimuthal equidistant projection,47,,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational
+equatorial azimuthal equidistant projection,48-51,,Dx - x-direction grid length in units of 10-3 m as measured at the point of the axis,,,,,Operational
+equatorial azimuthal equidistant projection,52-55,,Dy - y-direction grid length in units of 10-3 m as measured at the point of the axis,,,,,Operational
+equatorial azimuthal equidistant projection,56,,Projection centre flag,,,,,Operational
+equatorial azimuthal equidistant projection,57,,Scanning mode,(see Flag table 3.4),,,3.4,Operational

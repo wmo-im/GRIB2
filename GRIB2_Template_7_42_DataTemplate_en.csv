@@ -1,2 +1,2 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-Grid point data - CCSDS recommended lossless compression,6-nn,CCSDS recommended standard for lossless data compression code stream,,,,,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+Grid point data - CCSDS recommended lossless compression,6-nn,,CCSDS recommended standard for lossless data compression code stream,,,,,Operational
