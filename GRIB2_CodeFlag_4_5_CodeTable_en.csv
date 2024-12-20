@@ -90,6 +90,7 @@ Fixed surface types and units,,186,,Wall level,,,-,Operational
 Fixed surface types and units,,187,,Road level,,,-,Operational
 Fixed surface types and units,,188,,Melt pond top surface,,,-,Operational
 Fixed surface types and units,,189,,Melt pond bottom surface,,,-,Operational
-Fixed surface types and units,,190-191,,Reserved,,,,Operational
+Fixed surface types and units,,190,,Reserved,,,,Operational
+Fixed surface types and units,,191,,Abstract level with no vertical localization,(see Note 9),281a,-,Operational
 Fixed surface types and units,,192-254,,Reserved for local use,,,,Operational
 Fixed surface types and units,,255,,Missing,,,,Operational
