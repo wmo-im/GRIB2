@@ -160,3 +160,7 @@ noteID,note
 163,In relation to local coordinate axes at a (grid) cell edge.
 164,"When using entry 10, the lower limit is used to encode the quantile q (must be an integer between 0 and Q) while the upper limit is used to encode the total number of quantiles Q. This defines the probability of the parameter falling within quantile q. For instance, to encode the probability of falling within the 10th percentile, then q=10 and Q=100; to encode the probability of falling within the 1st tercile, then q=1 and Q=3."
 165,"Model physics are perturbed (for example, with methods like SPPT, SPP and SKEB."
+287a,"Spatially analyzed quality indicator, according to OPERA II (Holleman I., Michelson D., Galli G., Germann U., and Peura M., 2006: Quality information for radars and radar data. OPERA II deliverable OPERA_2005_19), normalized to between 0 (poorest quality) to 1 (best quality)."
+287b,"'Undetected' means that the received radar signal is at or below noise level."
+287c,"‘No data’ describes that a data point is out of range or in a blanked sector."
+287d,"‘Implausible data / outliers’ refers to values that are not physically plausible."
