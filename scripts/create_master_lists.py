@@ -68,7 +68,28 @@ class XMLWriter:
             xmlfile.write(xml)            
 
   
+def parse_octet_length(octet_str):
+    # attempt to compute the length for simple cases
+    # fallback if expression is more complex
+    if any(sym in octet_str for sym in ['(', ')', '+', '*', 'ND', 'NF']):
+        return "Expression: " + octet_str
     
+    total_length = 0
+    parts = [p.strip() for p in octet_str.split(',')]
+    for p in parts:
+        range_match = re.match(r'^(\d+)-(\d+)$', p)
+        single_match = re.match(r'^(\d+)$', p)
+        if range_match:
+            start = int(range_match.group(1))
+            end = int(range_match.group(2))
+            total_length += (end - start + 1)
+        elif single_match:
+            total_length += 1
+        else:
+            return "Expression: " + octet_str
+    return str(total_length)
+
+
 def process_files(files,pattern,writers,title_prefix):
         
     rows=[]
@@ -141,6 +162,13 @@ def process_files(files,pattern,writers,title_prefix):
     rows = [row for *_,row in decorated]
     
     
+
+    # For Template rows, add computed Length
+    if pattern == 'GRIB2_Template':
+        for row in rows:
+            octet_str = row.get("OctetNo", "")
+            row["Length"] = parse_octet_length(octet_str)
+    
     for row in rows:
         for writer in writers:
             writer.write_row(row)            
@@ -176,13 +204,12 @@ if __name__ == "__main__":
     # Template tables
     template_files = load_files("GRIB2_Template",basedir=".")
 
-    fieldnames=["Title_en","OctetNo","Contents_en","Note_en","noteIDs","codeTable","flagTable","Status"]    
+    #  Added "Length" to both fieldnames and xml_elements
+    fieldnames=["Title_en","OctetNo","Contents_en","Note_en","noteIDs","codeTable","flagTable","Length","Status"]
     csv_writer = CSVWriter("txt/Template.txt",fieldnames)
     
-    xml_elements=["Title_en","OctetNo","Contents_en","Note_en","noteIDs","codeTable","flagTable","Status"]
+    xml_elements=["Title_en","OctetNo","Contents_en","Note_en","noteIDs","codeTable","flagTable","Length","Status"]
     xml_writer = XMLWriter("xml/Template.xml",xml_elements,"GRIB2_Template_en")
 
     writers = [csv_writer,xml_writer]
     process_files(template_files,"GRIB2_Template",writers,"Identification template")
-
-
