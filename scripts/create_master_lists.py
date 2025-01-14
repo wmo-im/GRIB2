@@ -23,7 +23,10 @@ class CSVWriter:
         
         
     def write_row(self,row):
-    
+        # remove any keys not in 'fieldnames' to avoid ValueError
+        for key in list(row.keys()):
+            if key not in self.csvwriter.fieldnames:
+                del row[key]
         self.csvwriter.writerow(row)
 
 
