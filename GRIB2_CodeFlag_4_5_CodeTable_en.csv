@@ -27,7 +27,8 @@ Fixed surface types and units,,24,,Highest level where air concentration exceeds
 Fixed surface types and units,,25,,Highest level where radar reflectivity exceeds the specified value (echo top for a given threshold of reflectivity),,,dBZ,Operational
 Fixed surface types and units,,26,,Convective cloud layer base,,,m,Operational
 Fixed surface types and units,,27,,Convective cloud layer top,,,m,Operational
-Fixed surface types and units,,28-29,,Reserved,,,,Operational
+Fixed surface types and units,,28,,Freezing level,,,m,Operational
+Fixed surface types and units,,29,,Reserved,,,,Operational
 Fixed surface types and units,,30,,Specified radius from the centre of the Sun,,,m,Operational
 Fixed surface types and units,,31,,Solar photosphere,,,,Operational
 Fixed surface types and units,,32,,Ionospheric D-region level,,,,Operational
@@ -93,3 +94,4 @@ Fixed surface types and units,,189,,Melt pond bottom surface,,,-,Operational
 Fixed surface types and units,,190-191,,Reserved,,,,Operational
 Fixed surface types and units,,192-254,,Reserved for local use,,,,Operational
 Fixed surface types and units,,255,,Missing,,,,Operational
+
