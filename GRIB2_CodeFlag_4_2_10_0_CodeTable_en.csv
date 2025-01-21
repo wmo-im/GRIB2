@@ -98,6 +98,10 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",96,,Space time maximum individual crest height,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",97,,Space time maximum individual wave height,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",98,,Goda peakedness factor,,,Numeric,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",99-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",99,,Benjamin-Feir index 2D (BFI2D),(see Note 4),283a,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",100,,Crest-trough correlation,(see Note 5),283b,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",101,,X component of the wave radiative stress to sea-ice,(see Note 6),283d,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",102,,Y component of the wave radiative stress to sea-ice,(see Note 6),283d,N m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",103-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 0: waves",255,,Missing,,,,Operational
