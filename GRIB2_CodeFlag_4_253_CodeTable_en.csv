@@ -1,5 +1,4 @@
 Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
 Hazard index,,0,,Undefined,,,,Operational
-Hazard index,,1-191,,Reserved,(see Note),285a,,Operational
-Hazard index,,192-254,,Reserved for local use,,,,Operational
+Hazard index,,1-65534,,Reserved,(see Note),285a,,Operational
 Hazard index,,65535,,Missing,,,,Operational
