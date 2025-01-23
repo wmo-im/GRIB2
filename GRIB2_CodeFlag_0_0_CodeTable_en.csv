@@ -8,6 +8,7 @@ Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteI
 "Discipline of processed data in the GRIB message, number of GRIB Master table",,10,,Oceanographic products,,,,Operational
 "Discipline of processed data in the GRIB message, number of GRIB Master table",,11-19,,Reserved,,,,Operational
 "Discipline of processed data in the GRIB message, number of GRIB Master table",,20,,Health and socioeconomic impacts,,,,Operational
-"Discipline of processed data in the GRIB message, number of GRIB Master table",,21-191,,Reserved,,,,Operational
+"Discipline of processed data in the GRIB message, number of GRIB Master table",,21-190,,Reserved,,,,Operational
+"Discipline of processed data in the GRIB message, number of GRIB Master table",,191,,Compatational parameters,,,,Operational
 "Discipline of processed data in the GRIB message, number of GRIB Master table",,192-254,,Reserved for local use,,,,Operational
 "Discipline of processed data in the GRIB message, number of GRIB Master table",,255,,Missing,,,,Operational
