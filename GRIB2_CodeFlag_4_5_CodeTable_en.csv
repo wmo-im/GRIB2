@@ -34,7 +34,8 @@ Fixed surface types and units,,32,,Ionospheric D-region level,,,,Operational
 Fixed surface types and units,,33,,Ionospheric E-region level,,,,Operational
 Fixed surface types and units,,34,,Ionospheric F1-region level,,,,Operational
 Fixed surface types and units,,35,,Ionospheric F2-region level,,,,Operational
-Fixed surface types and units,,36-99,,Reserved,,,,Operational
+Fixed surface types and units,,36,,Stratopause,,,,Operational
+Fixed surface types and units,,37-99,,Reserved,,,,Operational
 Fixed surface types and units,,100,,Isobaric surface,,,Pa,Operational
 Fixed surface types and units,,101,,Mean sea level,,,,Operational
 Fixed surface types and units,,102,,Specific altitude above mean sea level,,,m,Operational
