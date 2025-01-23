@@ -17,6 +17,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",15,,Hybrid scan reflectivity,,,dB,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",16,,Hybrid scan reflectivity height,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",17,,Precipitation rate,,,kg m-2 s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",18-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",18,,Radar data quality index,(see Note 1),287a,proportion,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",19,,Radar data quality flag,,,Code Table 4.106,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",20-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",255,,Missing,,,,Operational
