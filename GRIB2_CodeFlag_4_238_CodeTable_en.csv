@@ -38,6 +38,11 @@ Source or sink,,35,,Biomass burning,,,,Operational
 Source or sink,,36,,Settlements,,,,Operational
 Source or sink,,37,,Soil,,,,Operational
 Source or sink,,38,,Wild animals,,,,Operational
-Source or sink,,39-191,,Reserved,,,,Operational
+Source or sink,,39,,Savannah,,,,Operational
+Source or sink,,40,,Tropical forest,,,,Operational
+Source or sink,,41,,Boreal forest,,,,Operational
+Source or sink,,42,,Peatland,,,,Operational
+Source or sink,,43,,Deforestation,,,,Operational
+Source or sink,,44-191,,Reserved,,,,Operational
 Source or sink,,192-254,,Reserved for local use,,,,Operational
 Source or sink,,255,,Missing,,,,Operational
