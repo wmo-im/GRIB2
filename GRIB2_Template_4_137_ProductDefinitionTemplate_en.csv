@@ -17,7 +17,7 @@ Derived reforecast based on all ensemble members at a horizontal level or in a h
 Derived reforecast based on all ensemble members at a horizontal level or in a horizontal layer at a point in time,35,1,Derived forecast,(see Code table 4.7),,4.7,,Operational
 Derived reforecast based on all ensemble members at a horizontal level or in a horizontal layer at a point in time,36-39,4,Number of forecasts in ensemble,,,,,Operational
 Derived reforecast based on all ensemble members at a horizontal level or in a horizontal layer at a point in time,40-41,2,Year of model version date,,,,,Operational
-Derived reforecast based on all ensemble members at a horizontal level or in a horizontal layer at a point in time,42,1,Monthof model version date,,,,,Operational
+Derived reforecast based on all ensemble members at a horizontal level or in a horizontal layer at a point in time,42,1,Month of model version date,,,,,Operational
 Derived reforecast based on all ensemble members at a horizontal level or in a horizontal layer at a point in time,43,1,Day of model version date,,,,,Operational
 Derived reforecast based on all ensemble members at a horizontal level or in a horizontal layer at a point in time,44,1,Hour of model version date,,,,,Operational
 Derived reforecast based on all ensemble members at a horizontal level or in a horizontal layer at a point in time,45,1,Minute of model version date,,,,,Operational
