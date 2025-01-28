@@ -125,7 +125,8 @@ Product definition template number,,139,,"Verification scores for individual ens
 Product definition template number,,140,,"Verification scores for individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
 Product definition template number,,141,,"Verification scores for derived forecast based on all ensemble members at a horizontal level or in a horizontal layer at a point in time",,,,Operational
 Product definition template number,,142,,"Verification scores for derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
-Product definition template number,,143-253,,Reserved,,,,Operational
+Product definition template number,,143,,"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",,,,Operatinal
+Product definition template number,,144-253,,Reserved,,,,Operational
 Product definition template number,,254,,CCITT IA5 character string,,,,Operational
 Product definition template number,,255-999,,Reserved,,,,Operational
 Product definition template number,,1000,,Cross-section of analysis and forecast at a point in time,,,,Experimental
