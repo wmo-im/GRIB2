@@ -70,12 +70,12 @@ class XMLWriter:
             
             xmlfile.write(xml)            
 
-  
+
 def parse_octet_length(octet_str):
     # attempt to compute the length for simple cases
     # fallback if expression is more complex
-    if any(sym in octet_str for sym in ['(', ')', '+', '*', 'ND', 'NF']):
-        return "Expression: " + octet_str
+    if any(sym in octet_str for sym in ['(', ')', '+', '*', 'ND', 'NF', 'n']):
+        return ""
     
     total_length = 0
     parts = [p.strip() for p in octet_str.split(',')]
@@ -89,7 +89,7 @@ def parse_octet_length(octet_str):
         elif single_match:
             total_length += 1
         else:
-            return "Expression: " + octet_str
+            return ""
     return str(total_length)
 
 
