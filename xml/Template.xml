@@ -261,7 +261,7 @@
 		<noteIDs>4,15,124</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 73-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -316,7 +316,7 @@
 		<noteIDs>4,124</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 85-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -371,7 +371,7 @@
 		<noteIDs>4,124</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 85-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -459,7 +459,7 @@
 		<noteIDs>4,124</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 97-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -470,7 +470,7 @@
 		<noteIDs>9,85</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (ii+1)-jj</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -624,7 +624,7 @@
 		<noteIDs>9,85</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 49-ii</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -635,7 +635,7 @@
 		<noteIDs>9,26</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (ii+1)-jj</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -690,7 +690,7 @@
 		<noteIDs>9,26</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 61-ii</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -910,7 +910,7 @@
 		<noteIDs>4,124,136</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 73-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -1163,7 +1163,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: [nn+1]-[nn+4]</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -1174,7 +1174,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: [nn+5]-[nn+8]</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -1185,7 +1185,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: [nn+9]-[nn+12]</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -1196,7 +1196,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: [nn+13]-[nn+16]</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -1207,7 +1207,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 15-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -2219,7 +2219,7 @@
 		<noteIDs>4,124</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 73-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -2274,7 +2274,7 @@
 		<noteIDs>4,124</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 85-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -2329,7 +2329,7 @@
 		<noteIDs>4,124</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 85-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -2417,7 +2417,7 @@
 		<noteIDs>4,124</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 97-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -4012,7 +4012,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -4100,7 +4100,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (40+4(X-1))-(41+4(X-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -4111,7 +4111,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (42+4(X-1))-(43+4(X-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -4672,7 +4672,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 67-(66+NCx4)</Length>
+		<Length/>
 		<Status>Experimental</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -4683,7 +4683,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Experimental</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -5002,7 +5002,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Experimental</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -5189,7 +5189,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 43-(42+NCx4)</Length>
+		<Length/>
 		<Status>Experimental</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -6091,7 +6091,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 69-(68+Nc)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -6432,7 +6432,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 65-(64+Nc)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -7026,7 +7026,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -7037,7 +7037,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -7378,7 +7378,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 71-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -7389,7 +7389,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -7400,7 +7400,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -7818,7 +7818,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 84-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -7829,7 +7829,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Experimental</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -7840,7 +7840,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Experimental</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -8192,7 +8192,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 72-nn</Length>
+		<Length/>
 		<Status>Experimental</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -8203,7 +8203,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -8214,7 +8214,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -8588,7 +8588,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 74-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -8599,7 +8599,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -8610,7 +8610,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -8973,7 +8973,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 73-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -8984,7 +8984,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -8995,7 +8995,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -9006,7 +9006,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (nn+1)-(nn+NC)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -9523,7 +9523,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 105-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -9534,7 +9534,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -9545,7 +9545,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -9556,7 +9556,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (nn+1)-(nn+NC)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10062,7 +10062,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 111-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10480,7 +10480,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Deprecated</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10546,7 +10546,7 @@
 		<noteIDs>14</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (15+10(nb-1))-(16+10(nb-1))</Length>
+		<Length/>
 		<Status>Deprecated</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10557,7 +10557,7 @@
 		<noteIDs>14</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (17+10(nb-1))-(18+10(nb-1))</Length>
+		<Length/>
 		<Status>Deprecated</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10568,7 +10568,7 @@
 		<noteIDs>14</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (19+10(nb-1))</Length>
+		<Length/>
 		<Status>Deprecated</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10579,7 +10579,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (20+10(nb-1))</Length>
+		<Length/>
 		<Status>Deprecated</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10590,7 +10590,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (21+10(nb-1))-(24+10(nb-1))</Length>
+		<Length/>
 		<Status>Deprecated</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10601,7 +10601,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10667,7 +10667,7 @@
 		<noteIDs>14</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (15+11(nb-1))-(16+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10678,7 +10678,7 @@
 		<noteIDs>14</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (17+11(nb-1))-(18+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10689,7 +10689,7 @@
 		<noteIDs>14</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (19+11(nb-1))-(20+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10700,7 +10700,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (21+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10711,7 +10711,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (22+11(nb-1))-(25+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10722,7 +10722,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10843,7 +10843,7 @@
 		<noteIDs>14</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (24+11(nb-1))-(25+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10854,7 +10854,7 @@
 		<noteIDs>14</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (26+11(nb-1))-(27+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10865,7 +10865,7 @@
 		<noteIDs>14</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (28+11(nb-1))-(29+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10876,7 +10876,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (30 +11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10887,7 +10887,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (31+11(nb-1))-(34+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -10898,7 +10898,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11019,7 +11019,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (24+11(nb-1))-(25+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11030,7 +11030,7 @@
 		<noteIDs/>
 		<codeTable>4.6</codeTable>
 		<flagTable/>
-		<Length>Expression: (24+11NB)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11041,7 +11041,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (24+11NB+1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11052,7 +11052,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (24+11NB+2)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11063,7 +11063,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (26+11(nb-1))-(27+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11074,7 +11074,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (28+11(nb-1))-(29+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11085,7 +11085,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (30+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11096,7 +11096,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (31+11(nb-1))-(34+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11107,7 +11107,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11118,7 +11118,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11239,7 +11239,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (24+11(nb-1))-(25+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11250,7 +11250,7 @@
 		<noteIDs/>
 		<codeTable>4.6</codeTable>
 		<flagTable/>
-		<Length>Expression: (24+11NB)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11261,7 +11261,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (25+11NB)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11272,7 +11272,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (26+11(nb-1))-(27+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11283,7 +11283,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (26+11NB)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11294,7 +11294,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (27+11NB)-(28+11NB)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11305,7 +11305,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (28+11(nb-1))-(29+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11316,7 +11316,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (29+11NB)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11327,7 +11327,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (30+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11338,7 +11338,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (30+11NB)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11349,7 +11349,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (31+11(nb-1))-(34+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11360,7 +11360,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (31+11NB)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11371,7 +11371,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (32+11NB)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11382,7 +11382,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (33+11NB)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11393,7 +11393,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (34+11NB)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11404,7 +11404,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (35+11NB)-(38+11NB)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11415,7 +11415,7 @@
 		<noteIDs/>
 		<codeTable>4.10</codeTable>
 		<flagTable/>
-		<Length>Expression: (39+11NB+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11426,7 +11426,7 @@
 		<noteIDs/>
 		<codeTable>4.11</codeTable>
 		<flagTable/>
-		<Length>Expression: (40+11NB+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11437,7 +11437,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: (41+11NB+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11448,7 +11448,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (42+11NB+12(i-1))-(45+11NB+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11459,7 +11459,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: (46+11NB+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11470,7 +11470,7 @@
 		<noteIDs>7,98</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (47+11NB+12(i-1))-(50+11NB+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11481,7 +11481,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11558,7 +11558,7 @@
 		<noteIDs>14</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (16+11(nb-1))-(17+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11569,7 +11569,7 @@
 		<noteIDs>14</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (18+11(nb-1))-(19+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11580,7 +11580,7 @@
 		<noteIDs>14</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (20+11(nb-1))-(21+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11591,7 +11591,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (22+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11602,7 +11602,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (23+11(nb-1))-(26+11(nb-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -11998,7 +11998,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -12009,7 +12009,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -12361,7 +12361,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 73-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -12372,7 +12372,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -12383,7 +12383,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -12768,7 +12768,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 76-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -13274,7 +13274,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -13285,7 +13285,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -13692,7 +13692,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 84-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -13703,7 +13703,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -13714,7 +13714,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -14154,7 +14154,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 87-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15001,7 +15001,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15188,7 +15188,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (36+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15199,7 +15199,7 @@
 		<noteIDs/>
 		<codeTable>4.91</codeTable>
 		<flagTable/>
-		<Length>Expression: (37+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15210,7 +15210,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (38+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15221,7 +15221,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (39+12(i-1))-(42+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15232,7 +15232,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (43+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15243,7 +15243,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (44+12(i-1))-(47+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15298,7 +15298,7 @@
 		<noteIDs>6</noteIDs>
 		<codeTable>4.PTN</codeTable>
 		<flagTable/>
-		<Length>Expression: 14-(14+2NP-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15309,7 +15309,7 @@
 		<noteIDs>121</noteIDs>
 		<codeTable>4.PTN</codeTable>
 		<flagTable/>
-		<Length>Expression: (14+2NP)-(15+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15320,7 +15320,7 @@
 		<noteIDs/>
 		<codeTable>4.3</codeTable>
 		<flagTable/>
-		<Length>Expression: (16+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15331,7 +15331,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (17+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15342,7 +15342,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (18+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15353,7 +15353,7 @@
 		<noteIDs>6</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (19+2NP)-(20+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15364,7 +15364,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (21+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15375,7 +15375,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: (22+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15386,7 +15386,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (23+2NP)-(26+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15397,7 +15397,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: (27+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15408,7 +15408,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (28+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15419,7 +15419,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (29+2NP)-(32+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15430,7 +15430,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: (33+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15441,7 +15441,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (34+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15452,7 +15452,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (35+2NP)-(38+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15507,7 +15507,7 @@
 		<noteIDs>6</noteIDs>
 		<codeTable>4.PTN</codeTable>
 		<flagTable/>
-		<Length>Expression: 14-(14+2NP-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15518,7 +15518,7 @@
 		<noteIDs>121</noteIDs>
 		<codeTable>4.PTN</codeTable>
 		<flagTable/>
-		<Length>Expression: (14+2NP)-(15+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15529,7 +15529,7 @@
 		<noteIDs/>
 		<codeTable>4.3</codeTable>
 		<flagTable/>
-		<Length>Expression: (16+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15540,7 +15540,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (17+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15551,7 +15551,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (18+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15562,7 +15562,7 @@
 		<noteIDs>6</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (19+2NP)-(20+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15573,7 +15573,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (21+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15584,7 +15584,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: (22+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15595,7 +15595,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (23+2NP)-(26+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15606,7 +15606,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: (27+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15617,7 +15617,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (28+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15628,7 +15628,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (29+2NP)-(32+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15639,7 +15639,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: (33+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15650,7 +15650,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (34+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15661,7 +15661,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (35+2NP)-(38+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15672,7 +15672,7 @@
 		<noteIDs/>
 		<codeTable>4.6</codeTable>
 		<flagTable/>
-		<Length>Expression: (39+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15683,7 +15683,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (40+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -15694,7 +15694,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (41+2NP)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16189,7 +16189,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16277,7 +16277,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 21+5(n-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16288,7 +16288,7 @@
 		<noteIDs/>
 		<codeTable>4.3</codeTable>
 		<flagTable/>
-		<Length>Expression: 21+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16299,7 +16299,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (22+5(n-1))-(25+5(n-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16310,7 +16310,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 22+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16321,7 +16321,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 23+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16332,7 +16332,7 @@
 		<noteIDs>33</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (24+5Np)-(25+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16343,7 +16343,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 26+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16354,7 +16354,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 27+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16365,7 +16365,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (28+5Np)-(31+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16376,7 +16376,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 32+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16387,7 +16387,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 33+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16398,7 +16398,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (34+5Np)-(37+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16409,7 +16409,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 38+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16420,7 +16420,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 39+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16431,7 +16431,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (40+5Np)-(43+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16442,7 +16442,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16530,7 +16530,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 21+5(n-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16541,7 +16541,7 @@
 		<noteIDs/>
 		<codeTable>4.3</codeTable>
 		<flagTable/>
-		<Length>Expression: 21+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16552,7 +16552,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (22+5(n-1))-(25+5(n-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16563,7 +16563,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 22+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16574,7 +16574,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 23+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16585,7 +16585,7 @@
 		<noteIDs>33</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (24+5Np)-(25+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16596,7 +16596,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 26+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16607,7 +16607,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 27+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16618,7 +16618,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (28+5Np)-(31+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16629,7 +16629,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 32+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16640,7 +16640,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 33+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16651,7 +16651,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (34+5Np)-(37+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16662,7 +16662,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 38+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16673,7 +16673,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 39+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16684,7 +16684,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (40+5Np)-(43+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16695,7 +16695,7 @@
 		<noteIDs/>
 		<codeTable>4.6</codeTable>
 		<flagTable/>
-		<Length>Expression: 44+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16706,7 +16706,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 45+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -16717,7 +16717,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 46+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -17256,7 +17256,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -17267,7 +17267,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -17707,7 +17707,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 81-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -17718,7 +17718,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -17729,7 +17729,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18136,7 +18136,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 77-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18147,7 +18147,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18158,7 +18158,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18598,7 +18598,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 80-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18609,7 +18609,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18620,7 +18620,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18631,7 +18631,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18719,7 +18719,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 21+5(n-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18730,7 +18730,7 @@
 		<noteIDs/>
 		<codeTable>4.3</codeTable>
 		<flagTable/>
-		<Length>Expression: 21+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18741,7 +18741,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (22+5(n-1))-(25+5(n-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18752,7 +18752,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 22+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18763,7 +18763,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 23+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18774,7 +18774,7 @@
 		<noteIDs>33</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (24+5Np)-(25+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18785,7 +18785,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 26+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18796,7 +18796,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 27+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18807,7 +18807,7 @@
 		<noteIDs>111</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (28+5Np)-(31+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18818,7 +18818,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 32+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18829,7 +18829,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 33+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18840,7 +18840,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (34+5Np)-(37+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18851,7 +18851,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 38+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18862,7 +18862,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 39+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18873,7 +18873,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (40+5Np)-(43+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18884,7 +18884,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (44+5Np)-(45+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18895,7 +18895,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (46+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18906,7 +18906,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (47+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18917,7 +18917,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (48+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18928,7 +18928,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (49+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18939,7 +18939,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (50+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18950,7 +18950,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (51+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18961,7 +18961,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (52+5Np)-(55+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18972,7 +18972,7 @@
 		<noteIDs/>
 		<codeTable>4.10</codeTable>
 		<flagTable/>
-		<Length>Expression: (56+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18983,7 +18983,7 @@
 		<noteIDs/>
 		<codeTable>4.11</codeTable>
 		<flagTable/>
-		<Length>Expression: (57+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -18994,7 +18994,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: (58+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19005,7 +19005,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (59+5Np)-(62+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19016,7 +19016,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: (63+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19027,7 +19027,7 @@
 		<noteIDs>7,110</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (64+5Np)-(67+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19038,7 +19038,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (68+5Np)-(79+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19049,7 +19049,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (80+5Np)-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19060,7 +19060,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19071,7 +19071,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19082,7 +19082,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19170,7 +19170,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 21+5(n-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19181,7 +19181,7 @@
 		<noteIDs/>
 		<codeTable>4.3</codeTable>
 		<flagTable/>
-		<Length>Expression: 21+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19192,7 +19192,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (22+5(n-1))-(25+5(n-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19203,7 +19203,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 22+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19214,7 +19214,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 23+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19225,7 +19225,7 @@
 		<noteIDs>33</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (24+5Np)-(25+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19236,7 +19236,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 26+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19247,7 +19247,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 27+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19258,7 +19258,7 @@
 		<noteIDs>111</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (28+5Np)-(31+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19269,7 +19269,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 32+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19280,7 +19280,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 33+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19291,7 +19291,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (34+5Np)-(37+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19302,7 +19302,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 38+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19313,7 +19313,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 39+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19324,7 +19324,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (40+5Np)-(43+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19335,7 +19335,7 @@
 		<noteIDs/>
 		<codeTable>4.6</codeTable>
 		<flagTable/>
-		<Length>Expression: 44+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19346,7 +19346,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 45+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19357,7 +19357,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 46+5Np</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19368,7 +19368,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (47+5Np)-(48+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19379,7 +19379,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (49+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19390,7 +19390,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (50+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19401,7 +19401,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (51+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19412,7 +19412,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (52+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19423,7 +19423,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (53+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19434,7 +19434,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (54+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19445,7 +19445,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (55+5Np)-(58+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19456,7 +19456,7 @@
 		<noteIDs/>
 		<codeTable>4.10</codeTable>
 		<flagTable/>
-		<Length>Expression: (59+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19467,7 +19467,7 @@
 		<noteIDs/>
 		<codeTable>4.11</codeTable>
 		<flagTable/>
-		<Length>Expression: (60+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19478,7 +19478,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: (61+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19489,7 +19489,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (62+5Np)-(65+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19500,7 +19500,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: (66+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19511,7 +19511,7 @@
 		<noteIDs>7,110</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (67+5Np)-(70+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19522,7 +19522,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (71+5Np)-(82+5Np)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19533,7 +19533,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (83+5Np)-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19973,7 +19973,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -19984,7 +19984,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -20358,7 +20358,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 76-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -20369,7 +20369,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -20380,7 +20380,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -20787,7 +20787,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 79-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -21205,7 +21205,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -21216,7 +21216,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -21579,7 +21579,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 74-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -21590,7 +21590,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -21601,7 +21601,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -21997,7 +21997,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 77-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -22635,7 +22635,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -22646,7 +22646,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -23064,7 +23064,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 85-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -23075,7 +23075,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -23086,7 +23086,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -23537,7 +23537,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 88-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -23548,7 +23548,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -23559,7 +23559,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -24010,7 +24010,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 88-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -24021,7 +24021,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -24032,7 +24032,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -24472,7 +24472,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 87-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -24670,7 +24670,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -25044,7 +25044,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 75-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -25055,7 +25055,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -25066,7 +25066,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -25341,7 +25341,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 47-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -25572,7 +25572,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -25583,7 +25583,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -25979,7 +25979,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 80-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -25990,7 +25990,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26001,7 +26001,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26012,7 +26012,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26199,7 +26199,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (36+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26210,7 +26210,7 @@
 		<noteIDs/>
 		<codeTable>4.91</codeTable>
 		<flagTable/>
-		<Length>Expression: (37+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26221,7 +26221,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (38+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26232,7 +26232,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (39+12(i-1))-(42+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26243,7 +26243,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (43+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26254,7 +26254,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (44+12(i-1))-(47+12(i-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26265,7 +26265,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (48+12(NC-1))-(49+12(NC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26276,7 +26276,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (50+12(NC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26287,7 +26287,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (51+12(NC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26298,7 +26298,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (52+12(NC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26309,7 +26309,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (53+12(NC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26320,7 +26320,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (54+12(NC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26331,7 +26331,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (55+12(NC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26342,7 +26342,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (56+12(NC-1))-(59+12(NC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26353,7 +26353,7 @@
 		<noteIDs/>
 		<codeTable>4.10</codeTable>
 		<flagTable/>
-		<Length>Expression: (60+12(NC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26364,7 +26364,7 @@
 		<noteIDs/>
 		<codeTable>4.11</codeTable>
 		<flagTable/>
-		<Length>Expression: (61+12(NC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26375,7 +26375,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: (62+12(NC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26386,7 +26386,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (63+12(NC-1))-(66+12(NC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26397,7 +26397,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: (67+12(NC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26408,7 +26408,7 @@
 		<noteIDs>7,157</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (68+12(NC-1))-(71+12(NC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26419,7 +26419,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (72+12(NC-1))-(83+12(NC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26430,7 +26430,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (84+12(NC-1))-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26441,7 +26441,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26452,7 +26452,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26760,7 +26760,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 50-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26771,7 +26771,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -26782,7 +26782,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -27090,7 +27090,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 52-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -27101,7 +27101,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -27112,7 +27112,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -27453,7 +27453,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 55-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -27464,7 +27464,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -27475,7 +27475,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -27794,7 +27794,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 54-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -27805,7 +27805,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -27816,7 +27816,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -28168,7 +28168,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 57-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -28179,7 +28179,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -28190,7 +28190,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -28542,7 +28542,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 59-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -28553,7 +28553,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -28564,7 +28564,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -28949,7 +28949,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 62-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -28960,7 +28960,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -28971,7 +28971,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29136,7 +29136,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (32+(ND-1)*4)-(35+(ND-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29147,7 +29147,7 @@
 		<noteIDs>162</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 36+(ND-1)*4</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29158,7 +29158,7 @@
 		<noteIDs>161</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (37+(ND-1)*4+(NF-1)*4)-(40+(ND-1)*4+(NF-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29169,7 +29169,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29180,7 +29180,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29378,7 +29378,7 @@
 		<noteIDs>162</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (35+(ND-1)*4)-(38+(ND-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29389,7 +29389,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 39+(ND-1)*4</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29400,7 +29400,7 @@
 		<noteIDs>161</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (40+(ND-1)*4+(NF-1)*4)-(43+(ND-1)*4+(NF-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29411,7 +29411,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29422,7 +29422,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29598,7 +29598,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 33+(NDSP-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29609,7 +29609,7 @@
 		<noteIDs/>
 		<codeTable>4.251</codeTable>
 		<flagTable/>
-		<Length>Expression: 33+NDSP*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29620,7 +29620,7 @@
 		<noteIDs>162</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (34+(NDSP-1)*5)-(37+(NDSP-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29631,7 +29631,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 34+NDSP*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29642,7 +29642,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 35+NDSP*5+(NFSP-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29653,7 +29653,7 @@
 		<noteIDs>161</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (36+NDSP*5+(NFSP-1)*5)-(39+NDSP*5+(NFSP-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29664,7 +29664,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29675,7 +29675,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29884,7 +29884,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 36+(NDSP-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29895,7 +29895,7 @@
 		<noteIDs/>
 		<codeTable>4.251</codeTable>
 		<flagTable/>
-		<Length>Expression: 36+NDSP*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29906,7 +29906,7 @@
 		<noteIDs>162</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (37+(NDSP-1)*5)-(40+(NDSP-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29917,7 +29917,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 37+NDSP*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29928,7 +29928,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 38+NDSP*5+(NFSP-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -29939,7 +29939,7 @@
 		<noteIDs>161</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (39+NDSP*5+(NFSP-1)*5)-(42+NDSP*5+(NFSP-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30423,7 +30423,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30434,7 +30434,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30445,7 +30445,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30456,7 +30456,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30467,7 +30467,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30478,7 +30478,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30742,7 +30742,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 47+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30753,7 +30753,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 48+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30764,7 +30764,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 49+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30775,7 +30775,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (50+(nt-1)*12)-(53+(nt-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30786,7 +30786,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 54+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30797,7 +30797,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (55+(nt-1)*12)-(58+(nt-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30808,7 +30808,7 @@
 		<noteIDs/>
 		<codeTable>4.100</codeTable>
 		<flagTable/>
-		<Length>Expression: 59+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30819,7 +30819,7 @@
 		<noteIDs/>
 		<codeTable>4.101</codeTable>
 		<flagTable/>
-		<Length>Expression: 60+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30830,7 +30830,7 @@
 		<noteIDs>164</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 61+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30841,7 +30841,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 62+(NT-1)*12+(na-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30852,7 +30852,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (62+(NT-1)*12+NA*5)-(63+(NT-1)*12+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30863,7 +30863,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (63+(NT-1)*12+(na-1)*5)-(66+(NT-1)*12+(na-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30874,7 +30874,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 64+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30885,7 +30885,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 65+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30896,7 +30896,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 66+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30907,7 +30907,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 67+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30918,7 +30918,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 68+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30929,7 +30929,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (69+(NT-1)*12+NA*5)-(72+(NT-1)*12+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30940,7 +30940,7 @@
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 73+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30951,7 +30951,7 @@
 		<noteIDs/>
 		<codeTable>4.102</codeTable>
 		<flagTable/>
-		<Length>Expression: 74+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30962,7 +30962,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 75+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30973,7 +30973,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (76+(NT-1)*12+NA*5+(nr-1)*6)-(79+(NT-1)*12+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30984,7 +30984,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -30995,7 +30995,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31006,7 +31006,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31017,7 +31017,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31028,7 +31028,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31039,7 +31039,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31303,7 +31303,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 47+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31314,7 +31314,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 48+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31325,7 +31325,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 49+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31336,7 +31336,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (50+(nt-1)*12)-(53+(nt-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31347,7 +31347,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 54+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31358,7 +31358,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (55+(nt-1)*12)-(58+(nt-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31369,7 +31369,7 @@
 		<noteIDs/>
 		<codeTable>4.6</codeTable>
 		<flagTable/>
-		<Length>Expression: 59+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31380,7 +31380,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 60+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31391,7 +31391,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 61+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31402,7 +31402,7 @@
 		<noteIDs/>
 		<codeTable>4.100</codeTable>
 		<flagTable/>
-		<Length>Expression: 62+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31413,7 +31413,7 @@
 		<noteIDs/>
 		<codeTable>4.101</codeTable>
 		<flagTable/>
-		<Length>Expression: 63+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31424,7 +31424,7 @@
 		<noteIDs>164</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 64+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31435,7 +31435,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 65+(NT-1)*12+(na-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31446,7 +31446,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (65+(NT-1)*12+NA*5)-(66+(NT-1)*12+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31457,7 +31457,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (66+(NT-1)*12+(na-1)*5)-(69+(NT-1)*12+(na-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31468,7 +31468,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 67+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31479,7 +31479,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 68+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31490,7 +31490,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 69+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31501,7 +31501,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 70+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31512,7 +31512,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 71+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31523,7 +31523,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 72+(NT-1)*12+NA*5 to 75+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31534,7 +31534,7 @@
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 76+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31545,7 +31545,7 @@
 		<noteIDs/>
 		<codeTable>4.102</codeTable>
 		<flagTable/>
-		<Length>Expression: 77+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31556,7 +31556,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 78+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31567,7 +31567,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (79+(NT-1)*12+NA*5+(nr-1)*6)-(82+(NT-1)*12+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31578,7 +31578,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31589,7 +31589,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31600,7 +31600,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31611,7 +31611,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31622,7 +31622,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31633,7 +31633,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31897,7 +31897,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 47+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31908,7 +31908,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 48+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31919,7 +31919,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 49+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31930,7 +31930,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (50+(nt-1)*12)-(53+(nt-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31941,7 +31941,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 54+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31952,7 +31952,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (55+(nt-1)*12)-(58+(nt-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31963,7 +31963,7 @@
 		<noteIDs/>
 		<codeTable>4.7</codeTable>
 		<flagTable/>
-		<Length>Expression: 59+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31974,7 +31974,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 60+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31985,7 +31985,7 @@
 		<noteIDs/>
 		<codeTable>4.100</codeTable>
 		<flagTable/>
-		<Length>Expression: 61+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -31996,7 +31996,7 @@
 		<noteIDs/>
 		<codeTable>4.101</codeTable>
 		<flagTable/>
-		<Length>Expression: 62+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32007,7 +32007,7 @@
 		<noteIDs>164</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 63+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32018,7 +32018,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 64+(NT-1)*12+(na-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32029,7 +32029,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (64+(NT-1)*12+NA*5)-(65+(NT-1)*12+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32040,7 +32040,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (65+(NT-1)*12+(na-1)*5)-(68+(NT-1)*12+(na-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32051,7 +32051,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 66+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32062,7 +32062,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 67+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32073,7 +32073,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 68+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32084,7 +32084,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 69+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32095,7 +32095,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 70+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32106,7 +32106,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (71+(NT-1)*12+NA*5)-(74+(NT-1)*12+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32117,7 +32117,7 @@
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 75+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32128,7 +32128,7 @@
 		<noteIDs/>
 		<codeTable>4.102</codeTable>
 		<flagTable/>
-		<Length>Expression: 76+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32139,7 +32139,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 77+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32150,7 +32150,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (78+(NT-1)*12+NA*5+(nr-1)*6)-(81+(NT-1)*12+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32634,7 +32634,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -32645,7 +32645,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33041,7 +33041,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 72-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33052,7 +33052,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33063,7 +33063,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33492,7 +33492,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 75-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33503,7 +33503,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33514,7 +33514,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33525,7 +33525,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33536,7 +33536,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33547,7 +33547,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33558,7 +33558,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33822,7 +33822,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 47+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33833,7 +33833,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 48+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33844,7 +33844,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 49+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33855,7 +33855,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (50+(nt-1)*12)-(53+(nt-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33866,7 +33866,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 54+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33877,7 +33877,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (55+(nt-1)*12)-(58+(nt-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33888,7 +33888,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 59+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33899,7 +33899,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 60+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33910,7 +33910,7 @@
 		<noteIDs/>
 		<codeTable>4.9</codeTable>
 		<flagTable/>
-		<Length>Expression: 61+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33921,7 +33921,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 62+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33932,7 +33932,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (63+(NT-1)*12)-(66+(NT-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33943,7 +33943,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 67+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33954,7 +33954,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (68+(NT-1)*12)-(71+(NT-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33965,7 +33965,7 @@
 		<noteIDs/>
 		<codeTable>4.100</codeTable>
 		<flagTable/>
-		<Length>Expression: 72+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33976,7 +33976,7 @@
 		<noteIDs/>
 		<codeTable>4.101</codeTable>
 		<flagTable/>
-		<Length>Expression: 73+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33987,7 +33987,7 @@
 		<noteIDs>164</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 74+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -33998,7 +33998,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 75+(NT-1)*12+(na-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34009,7 +34009,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (75+(NT-1)*12+NA*5)-(76+(NT-1)*12+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34020,7 +34020,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (76+(NT-1)*12+(na-1)*5)-(79+(NT-1)*12+(na-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34031,7 +34031,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 77+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34042,7 +34042,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 78+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34053,7 +34053,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 79+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34064,7 +34064,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 80+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34075,7 +34075,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 81+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34086,7 +34086,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (82+(NT-1)*12+NA*5)-(85+(NT-1)*12+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34097,7 +34097,7 @@
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 86+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34108,7 +34108,7 @@
 		<noteIDs/>
 		<codeTable>4.102</codeTable>
 		<flagTable/>
-		<Length>Expression: 87+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34119,7 +34119,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 88+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34130,7 +34130,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (89+(NT-1)*12+NA*5+(nr-1)*6)-(92+(NT-1)*12+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34141,7 +34141,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34152,7 +34152,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34240,7 +34240,7 @@
 		<noteIDs/>
 		<codeTable>2.241</codeTable>
 		<flagTable/>
-		<Length>Expression: 18+(n-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34251,7 +34251,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 19+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34262,7 +34262,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 20+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34273,7 +34273,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (21+(NUTAFTAC-1))-(36+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34284,7 +34284,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 37+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34295,7 +34295,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 38+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34306,7 +34306,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 39+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34317,7 +34317,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (40+(NUTAFTAC-1))-(41+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34328,7 +34328,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 42+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34339,7 +34339,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 43+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34350,7 +34350,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (44+(NUTAFTAC-1))-(47+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34361,7 +34361,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 48+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34372,7 +34372,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 49+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34383,7 +34383,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (50+(NUTAFTAC-1))-(53+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34394,7 +34394,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 54+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34405,7 +34405,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 55+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34416,7 +34416,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (56+(NUTAFTAC-1))-(59+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34427,7 +34427,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34438,7 +34438,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34526,7 +34526,7 @@
 		<noteIDs/>
 		<codeTable>2.241</codeTable>
 		<flagTable/>
-		<Length>Expression: 18+(n-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34537,7 +34537,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 19+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34548,7 +34548,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 20+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34559,7 +34559,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (21+(NUTAFTAC-1))-(36+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34570,7 +34570,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 37+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34581,7 +34581,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 38+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34592,7 +34592,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 39+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34603,7 +34603,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (40+(NUTAFTAC-1))-(41+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34614,7 +34614,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 42+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34625,7 +34625,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 43+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34636,7 +34636,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (44+(NUTAFTAC-1))-(47+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34647,7 +34647,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 48+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34658,7 +34658,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 49+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34669,7 +34669,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (50+(NUTAFTAC-1))-(53+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34680,7 +34680,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 54+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34691,7 +34691,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 55+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34702,7 +34702,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (56+(NUTAFTAC-1))-(59+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34713,7 +34713,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (60+(NUTAFTAC-1))-(61+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34724,7 +34724,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 62+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34735,7 +34735,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 63+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34746,7 +34746,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 64+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34757,7 +34757,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 65+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34768,7 +34768,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 66+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34779,7 +34779,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 67+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34790,7 +34790,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (68+(NUTAFTAC-1))-(71+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34801,7 +34801,7 @@
 		<noteIDs/>
 		<codeTable>4.10</codeTable>
 		<flagTable/>
-		<Length>Expression: 72+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34812,7 +34812,7 @@
 		<noteIDs/>
 		<codeTable>4.11</codeTable>
 		<flagTable/>
-		<Length>Expression: 73+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34823,7 +34823,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 74+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34834,7 +34834,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (75+(NUTAFTAC-1))-(78+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34845,7 +34845,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 79+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34856,7 +34856,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (80+(NUTAFTAC-1))-(83+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34867,7 +34867,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34878,7 +34878,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34966,7 +34966,7 @@
 		<noteIDs/>
 		<codeTable>2.241</codeTable>
 		<flagTable/>
-		<Length>Expression: 18+(n-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34977,7 +34977,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 19+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34988,7 +34988,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 20+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -34999,7 +34999,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (21+(NUTAFTAC-1))-(36+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35010,7 +35010,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 37+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35021,7 +35021,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 38+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35032,7 +35032,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 39+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35043,7 +35043,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (40+(NUTAFTAC-1))-(41+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35054,7 +35054,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 42+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35065,7 +35065,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 43+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35076,7 +35076,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (44+(NUTAFTAC-1))-(47+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35087,7 +35087,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 48+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35098,7 +35098,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 49+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35109,7 +35109,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (50+(NUTAFTAC-1))-(53+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35120,7 +35120,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 54+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35131,7 +35131,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 55+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35142,7 +35142,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (56+(NUTAFTAC-1))-(59+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35153,7 +35153,7 @@
 		<noteIDs/>
 		<codeTable>4.6</codeTable>
 		<flagTable/>
-		<Length>Expression: 60+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35164,7 +35164,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (61+(NUTAFTAC-1))-(64+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35175,7 +35175,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (65+(NUTAFTAC-1))-(68+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35186,7 +35186,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35197,7 +35197,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35285,7 +35285,7 @@
 		<noteIDs/>
 		<codeTable>2.241</codeTable>
 		<flagTable/>
-		<Length>Expression: 18+(n-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35296,7 +35296,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 19+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35307,7 +35307,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 20+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35318,7 +35318,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (21+(NUTAFTAC-1))-(36+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35329,7 +35329,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 37+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35340,7 +35340,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 38+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35351,7 +35351,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 39+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35362,7 +35362,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (40+(NUTAFTAC-1))-(41+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35373,7 +35373,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 42+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35384,7 +35384,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 43+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35395,7 +35395,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (44+(NUTAFTAC-1))-(47+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35406,7 +35406,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 48+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35417,7 +35417,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 49+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35428,7 +35428,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (50+(NUTAFTAC-1))-(53+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35439,7 +35439,7 @@
 		<noteIDs/>
 		<codeTable>4.5</codeTable>
 		<flagTable/>
-		<Length>Expression: 54+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35450,7 +35450,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 55+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35461,7 +35461,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (56+(NUTAFTAC-1))-(59+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35472,7 +35472,7 @@
 		<noteIDs/>
 		<codeTable>4.6</codeTable>
 		<flagTable/>
-		<Length>Expression: 60+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35483,7 +35483,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (61+(NUTAFTAC-1))-(64+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35494,7 +35494,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (65+(NUTAFTAC-1))-(68+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35505,7 +35505,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (69+(NUTAFTAC-1))-(70+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35516,7 +35516,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 71+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35527,7 +35527,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 72+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35538,7 +35538,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 73+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35549,7 +35549,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 74+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35560,7 +35560,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 75+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35571,7 +35571,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 76+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35582,7 +35582,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (77+(NUTAFTAC-1))-(80+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35593,7 +35593,7 @@
 		<noteIDs/>
 		<codeTable>4.10</codeTable>
 		<flagTable/>
-		<Length>Expression: 81+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35604,7 +35604,7 @@
 		<noteIDs/>
 		<codeTable>4.11</codeTable>
 		<flagTable/>
-		<Length>Expression: 82+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35615,7 +35615,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 83+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35626,7 +35626,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (84+(NUTAFTAC-1))-(87+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35637,7 +35637,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 88+(NUTAFTAC-1)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35648,7 +35648,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (89+(NUTAFTAC-1))-(92+(NUTAFTAC-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35857,7 +35857,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -35868,7 +35868,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -36242,7 +36242,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 80-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -36517,7 +36517,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -36528,7 +36528,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -36968,7 +36968,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 89-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -36979,7 +36979,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37276,7 +37276,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (55+(nsv-1)*4)-(58+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37287,7 +37287,7 @@
 		<noteIDs/>
 		<codeTable>4.104</codeTable>
 		<flagTable/>
-		<Length>Expression: 59+(nsv-1)*4</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37298,7 +37298,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (60+(nsv-1)*4)-(61+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37309,7 +37309,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (62+(nsv-1)*4)-(63+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37320,7 +37320,7 @@
 		<noteIDs/>
 		<codeTable>4.105</codeTable>
 		<flagTable/>
-		<Length>Expression: 64+(nsv-1)*4</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37331,7 +37331,7 @@
 		<noteIDs/>
 		<codeTable>4.104</codeTable>
 		<flagTable/>
-		<Length>Expression: (65+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37342,7 +37342,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: (66+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37353,7 +37353,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (67+(nsv-1)*4)-(70+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37364,7 +37364,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (71+(nsv-1)*4)-(74+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37375,7 +37375,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37386,7 +37386,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37397,7 +37397,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37408,7 +37408,7 @@
 		<noteIDs/>
 		<codeTable>4.103</codeTable>
 		<flagTable/>
-		<Length>Expression: nn + 1</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37419,7 +37419,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: nn + 2</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37430,7 +37430,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (nn + 3+(nsv-1)*4)-(nn + 6+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37441,7 +37441,7 @@
 		<noteIDs/>
 		<codeTable>4.104</codeTable>
 		<flagTable/>
-		<Length>Expression: nn + 7+(nsv-1)*4</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37452,7 +37452,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (nn + 8+(nsv-1)*4)-(nn + 9+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37474,7 +37474,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (nn + 10+(nsv-1)*4)-(nn + 11+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37507,7 +37507,7 @@
 		<noteIDs/>
 		<codeTable>4.105</codeTable>
 		<flagTable/>
-		<Length>Expression: nn + 12+(nsv-1)*4</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37529,7 +37529,7 @@
 		<noteIDs/>
 		<codeTable>4.104</codeTable>
 		<flagTable/>
-		<Length>Expression: (nn + 13+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37551,7 +37551,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: (nn + 14+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37573,7 +37573,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (nn + 15+(nsv-1)*4)-(nn + 18+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37617,7 +37617,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (nn + 19+(nsv-1)*4)-(nn + 22+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37958,7 +37958,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 89-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37969,7 +37969,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37980,7 +37980,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -37991,7 +37991,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38002,7 +38002,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38013,7 +38013,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38024,7 +38024,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38035,7 +38035,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38299,7 +38299,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 47+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38310,7 +38310,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 48+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38321,7 +38321,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 49+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38332,7 +38332,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (50+(nt-1)*12)-(53+(nt-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38343,7 +38343,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 54+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38354,7 +38354,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (55+(nt-1)*12)-(58+(nt-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38365,7 +38365,7 @@
 		<noteIDs/>
 		<codeTable>4.6</codeTable>
 		<flagTable/>
-		<Length>Expression: 59+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38376,7 +38376,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (60+(NT-1)*12)-(63+(NT-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38387,7 +38387,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 64+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38398,7 +38398,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 65+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38409,7 +38409,7 @@
 		<noteIDs/>
 		<codeTable>4.9</codeTable>
 		<flagTable/>
-		<Length>Expression: 66+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38420,7 +38420,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 67+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38431,7 +38431,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (68+(NT-1)*12)-(71+(NT-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38442,7 +38442,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 72+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38453,7 +38453,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (73+(NT-1)*12)-(76+(NT-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38464,7 +38464,7 @@
 		<noteIDs/>
 		<codeTable>4.100</codeTable>
 		<flagTable/>
-		<Length>Expression: 77+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38475,7 +38475,7 @@
 		<noteIDs/>
 		<codeTable>4.101</codeTable>
 		<flagTable/>
-		<Length>Expression: 78+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38486,7 +38486,7 @@
 		<noteIDs>164</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 79+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38497,7 +38497,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 80+(NT-1)*12+(na-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38508,7 +38508,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (80+(NT-1)*12+NA*5)-(81+(NT-1)*12+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38519,7 +38519,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (81+(NT-1)*12+(na-1)*5)-(84+(NT-1)*12+(na-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38530,7 +38530,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 82+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38541,7 +38541,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 83+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38552,7 +38552,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 84+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38563,7 +38563,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 85+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38574,7 +38574,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 86+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38585,7 +38585,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (87+(NT-1)*12+NA*5)-(90+ (NT-1)*12+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38596,7 +38596,7 @@
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 91+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38607,7 +38607,7 @@
 		<noteIDs/>
 		<codeTable>4.102</codeTable>
 		<flagTable/>
-		<Length>Expression: 92+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38618,7 +38618,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 93+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38629,7 +38629,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (94+(NT-1)*12+NA*5+(nr-1)*6)-(97+(NT-1)*12+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38640,7 +38640,7 @@
 		<noteIDs/>
 		<codeTable>4.103</codeTable>
 		<flagTable/>
-		<Length>Expression: 98+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38651,7 +38651,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 99+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38662,7 +38662,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (100+(nsv-1)*4+(NT-1)*12+NA*5+(nr-1)*6)-(103+(nsv-1)*4+(NT-1)*12+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38673,7 +38673,7 @@
 		<noteIDs/>
 		<codeTable>4.104</codeTable>
 		<flagTable/>
-		<Length>Expression: 104+(nsv-1)*4+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38684,7 +38684,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (105+(nsv-1)*4+(NT-1)*12+NA*5+(nr-1)*6)-(106+(nsv-1)*4+(NT-1)*12+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38695,7 +38695,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (107+(nsv-1)*4+(NT-1)*12+NA*5+(nr-1)*6)-(108+(nsv-1)*4+(NT-1)*12+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38706,7 +38706,7 @@
 		<noteIDs/>
 		<codeTable>4.105</codeTable>
 		<flagTable/>
-		<Length>Expression: 109+(nsv-1)*4+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38717,7 +38717,7 @@
 		<noteIDs/>
 		<codeTable>4.104</codeTable>
 		<flagTable/>
-		<Length>Expression: 110+(nsv-1)*4+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38728,7 +38728,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 111+(nsv-1)*4+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38739,7 +38739,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (112+(nsv-1)*4+(NT-1)*12+NA*5+(nr-1)*6)-(115+(nsv-1)*4+(NT-1)*12+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -38750,7 +38750,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (116+(nsv-1)*4+(NT-1)*12+NA*5+(nr-1)*6)-(119+(nsv-1)*4+(NT-1)*12+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -39520,7 +39520,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -39531,7 +39531,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40070,7 +40070,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 96-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40081,7 +40081,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40092,7 +40092,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40664,7 +40664,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 99-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40675,7 +40675,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40686,7 +40686,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40697,7 +40697,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40708,7 +40708,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40917,7 +40917,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 38+(na-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40928,7 +40928,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (38+NA*5)-(39+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40939,7 +40939,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (39+(na-1)*5)-(42+(na-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40950,7 +40950,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 40+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40961,7 +40961,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 41+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40972,7 +40972,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 42+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40983,7 +40983,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 43+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -40994,7 +40994,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 44+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41005,7 +41005,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (45+NA*5)-(48+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41016,7 +41016,7 @@
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 49+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41027,7 +41027,7 @@
 		<noteIDs/>
 		<codeTable>4.102</codeTable>
 		<flagTable/>
-		<Length>Expression: 50+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41038,7 +41038,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 51+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41049,7 +41049,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (52+NA*5+(nr-1)*6)-(55+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41060,7 +41060,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41071,7 +41071,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41082,7 +41082,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41093,7 +41093,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41335,7 +41335,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 41+(na-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41346,7 +41346,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (41+NA*5)-(42+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41357,7 +41357,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (42+(na-1)*5)-(45+(na-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41368,7 +41368,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 43+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41379,7 +41379,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 44+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41390,7 +41390,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 45+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41401,7 +41401,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 46+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41412,7 +41412,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 47+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41423,7 +41423,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (48+NA*5)-(51+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41434,7 +41434,7 @@
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 52+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41445,7 +41445,7 @@
 		<noteIDs/>
 		<codeTable>4.102</codeTable>
 		<flagTable/>
-		<Length>Expression: 53+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41456,7 +41456,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 54+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41467,7 +41467,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (55+NA*5+(nr-1)*6)-(58+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41478,7 +41478,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41489,7 +41489,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41500,7 +41500,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41511,7 +41511,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41742,7 +41742,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 40+(na-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41753,7 +41753,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (40+NA*5)-(41+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41764,7 +41764,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (41+(na-1)*5)-(44+(na-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41775,7 +41775,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 42+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41786,7 +41786,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 43+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41797,7 +41797,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 44+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41808,7 +41808,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 45+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41819,7 +41819,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 46+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41830,7 +41830,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (47+NA*5)-(50+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41841,7 +41841,7 @@
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 51+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41852,7 +41852,7 @@
 		<noteIDs/>
 		<codeTable>4.102</codeTable>
 		<flagTable/>
-		<Length>Expression: 52+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41863,7 +41863,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 53+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41874,7 +41874,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (54+NA*5+(nr-1)*6)-(57+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41885,7 +41885,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41896,7 +41896,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41907,7 +41907,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -41918,7 +41918,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42138,7 +42138,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 39 - 42</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42160,7 +42160,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 44 - 47</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42204,7 +42204,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 51+(na-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42215,7 +42215,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (51+NA*5)-(52+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42226,7 +42226,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (52+(na-1)*5)-(55+(na-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42237,7 +42237,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 53+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42248,7 +42248,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 54+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42259,7 +42259,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 55+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42270,7 +42270,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 56+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42281,7 +42281,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 57+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42292,7 +42292,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (58+NA*5)-(61+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42303,7 +42303,7 @@
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 62+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42314,7 +42314,7 @@
 		<noteIDs/>
 		<codeTable>4.102</codeTable>
 		<flagTable/>
-		<Length>Expression: 63+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42325,7 +42325,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 64+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42336,7 +42336,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (65+NA*5+(nr-1)*6)-(68+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42347,7 +42347,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42358,7 +42358,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42369,7 +42369,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42380,7 +42380,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42611,7 +42611,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 42+(na-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42622,7 +42622,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (42+NA*5)-(43+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42633,7 +42633,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (43+(na-1)*5)-(46+(na-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42644,7 +42644,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 44+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42655,7 +42655,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 45+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42666,7 +42666,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 46+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42677,7 +42677,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 47+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42688,7 +42688,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 48+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42699,7 +42699,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (49+NA*5)-(52+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42710,7 +42710,7 @@
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 53+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42721,7 +42721,7 @@
 		<noteIDs/>
 		<codeTable>4.102</codeTable>
 		<flagTable/>
-		<Length>Expression: 54+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42732,7 +42732,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 55+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42743,7 +42743,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (56+NA*5+(nr-1)*6)-(59+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42754,7 +42754,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42765,7 +42765,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42776,7 +42776,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -42787,7 +42787,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43051,7 +43051,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 47+(na-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43062,7 +43062,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (47+NA*5)-(48+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43073,7 +43073,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (48+(na-1)*5)-(51+(na-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43084,7 +43084,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 49+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43095,7 +43095,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 50+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43106,7 +43106,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 51+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43117,7 +43117,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 52+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43128,7 +43128,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 53+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43139,7 +43139,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (54+NA*5)-(57+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43150,7 +43150,7 @@
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 58+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43161,7 +43161,7 @@
 		<noteIDs/>
 		<codeTable>4.102</codeTable>
 		<flagTable/>
-		<Length>Expression: 59+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43172,7 +43172,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 60+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43183,7 +43183,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (61+NA*5+(nr-1)*6)-(64+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43194,7 +43194,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43205,7 +43205,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43216,7 +43216,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43227,7 +43227,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43238,7 +43238,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43524,7 +43524,7 @@
 		<noteIDs/>
 		<codeTable>4.10</codeTable>
 		<flagTable/>
-		<Length>Expression: 51+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43535,7 +43535,7 @@
 		<noteIDs/>
 		<codeTable>4.11</codeTable>
 		<flagTable/>
-		<Length>Expression: 52+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43546,7 +43546,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 53+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43557,7 +43557,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 54+(nt-1)*12-57+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43568,7 +43568,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 58+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43579,7 +43579,7 @@
 		<noteIDs>7</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 59+(nt-1)*12-62+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43590,7 +43590,7 @@
 		<noteIDs/>
 		<codeTable>4.100</codeTable>
 		<flagTable/>
-		<Length>Expression: 63+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43601,7 +43601,7 @@
 		<noteIDs/>
 		<codeTable>4.101</codeTable>
 		<flagTable/>
-		<Length>Expression: 64+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43612,7 +43612,7 @@
 		<noteIDs>164</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 65+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43623,7 +43623,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 66+(NT-1)*12+(na-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43634,7 +43634,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (66+(NT-1)*12+NA*5)-(67+(NT-1)*12+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43645,7 +43645,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (67+(NT-1)*12+(na-1)*5)-(70+(NT-1)*12+(na-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43656,7 +43656,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 68+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43667,7 +43667,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 69+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43678,7 +43678,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 70+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43689,7 +43689,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 71+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43700,7 +43700,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 72+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43711,7 +43711,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (73+(NT-1)*12+NA*5)-(76+(NT-1)*12+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43722,7 +43722,7 @@
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 77+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43733,7 +43733,7 @@
 		<noteIDs/>
 		<codeTable>4.102</codeTable>
 		<flagTable/>
-		<Length>Expression: 78+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43744,7 +43744,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 79+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43755,7 +43755,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (80+(NT-1)*12+NA*5+(nr-1)*6)-(83+(NT-1)*12+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43766,7 +43766,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43777,7 +43777,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43788,7 +43788,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43799,7 +43799,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -43810,7 +43810,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44129,7 +44129,7 @@
 		<noteIDs/>
 		<codeTable>4.10</codeTable>
 		<flagTable/>
-		<Length>Expression: 56+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44140,7 +44140,7 @@
 		<noteIDs/>
 		<codeTable>4.11</codeTable>
 		<flagTable/>
-		<Length>Expression: 57+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44151,7 +44151,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 58+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44162,7 +44162,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (59+(nt-1)*12) - (62+(nt-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44173,7 +44173,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 63+(nt-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44184,7 +44184,7 @@
 		<noteIDs>7</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (64+(nt-1)*12) - (67+(nt-1)*12)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44195,7 +44195,7 @@
 		<noteIDs/>
 		<codeTable>4.100</codeTable>
 		<flagTable/>
-		<Length>Expression: 68+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44206,7 +44206,7 @@
 		<noteIDs/>
 		<codeTable>4.101</codeTable>
 		<flagTable/>
-		<Length>Expression: 69+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44217,7 +44217,7 @@
 		<noteIDs>164</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 70+(NT-1)*12</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44228,7 +44228,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 71+(NT-1)*12+(na-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44239,7 +44239,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (71+(NT-1)*12+NA*5)-(72+(NT-1)*12+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44250,7 +44250,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (72+(NT-1)*12+(na-1)*5)-(75+(NT-1)*12+(na-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44261,7 +44261,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 73+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44272,7 +44272,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 74+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44283,7 +44283,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 75+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44294,7 +44294,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 76+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44305,7 +44305,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 77+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44316,7 +44316,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (78+(NT-1)*12+NA*5)-(81+ (NT-1)*12+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44327,7 +44327,7 @@
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 82+(NT-1)*12+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44338,7 +44338,7 @@
 		<noteIDs/>
 		<codeTable>4.102</codeTable>
 		<flagTable/>
-		<Length>Expression: 83+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44349,7 +44349,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 84+(NT-1)*12+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44360,7 +44360,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (85+(NT-1)*12+NA*5+(nr-1)*6)-(88+(NT-1)*12+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44371,7 +44371,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44382,7 +44382,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44393,7 +44393,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44404,7 +44404,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44415,7 +44415,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44723,7 +44723,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 56+(na-1)*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44734,7 +44734,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (56+NA*5)-(57+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44745,7 +44745,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (57+(na-1)*5)-(60+(na-1)*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44756,7 +44756,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 58+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44767,7 +44767,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 59+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44778,7 +44778,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 60+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44789,7 +44789,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 61+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44800,7 +44800,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 62+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44811,7 +44811,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (63+NA*5)-(66+NA*5)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44822,7 +44822,7 @@
 		<noteIDs>165</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 67+NA*5</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44833,7 +44833,7 @@
 		<noteIDs/>
 		<codeTable>4.102</codeTable>
 		<flagTable/>
-		<Length>Expression: 68+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44844,7 +44844,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 69+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44855,7 +44855,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (70+NA*5+(nr-1)*6)-(73+NA*5+(nr-1)*6)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44866,7 +44866,7 @@
 		<noteIDs/>
 		<codeTable>4.103</codeTable>
 		<flagTable/>
-		<Length>Expression: 74+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44877,7 +44877,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 75+NA*5+(nr-1)*6</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44888,7 +44888,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (76+NA*5+(nr-1)*6+(nsv-1)*4)-(79+NA*5+(nr-1)*6+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44899,7 +44899,7 @@
 		<noteIDs/>
 		<codeTable>4.104</codeTable>
 		<flagTable/>
-		<Length>Expression: 80+NA*5+(nr-1)*6+(nsv-1)*4</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44910,7 +44910,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (81+NA*5+(nr-1)*6+(nsv-1)*4)-(82+NA*5+(nr-1)*6+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44921,7 +44921,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (83+NA*5+(nr-1)*6+(nsv-1)*4)-(84+NA*5+(nr-1)*6+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44932,7 +44932,7 @@
 		<noteIDs/>
 		<codeTable>4.105</codeTable>
 		<flagTable/>
-		<Length>Expression: 85+NA*5+(nr-1)*6+(nsv-1)*4</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44943,7 +44943,7 @@
 		<noteIDs/>
 		<codeTable>4.104</codeTable>
 		<flagTable/>
-		<Length>Expression: 86+NA*5+(nr-1)*6+(nsv-1)*4</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44954,7 +44954,7 @@
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
-		<Length>Expression: 87+NA*5+(nr-1)*6+(nsv-1)*4</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44965,7 +44965,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (88+NA*5+(nr-1)*6+(nsv-1)*4)-(91+NA*5+(nr-1)*6+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -44976,7 +44976,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (92+NA*5+(nr-1)*6+(nsv-1)*4)-(95+NA*5+(nr-1)*6+(nsv-1)*4)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46043,7 +46043,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 37-(36+NC1x4)</Length>
+		<Length/>
 		<Status>Experimental</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46054,7 +46054,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (37+NC1x4)-(36+4(NC1+NC2))</Length>
+		<Length/>
 		<Status>Experimental</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46813,7 +46813,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 18-(19+2(lv-1))</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46824,7 +46824,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 6-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46835,7 +46835,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 6-nn</Length>
+		<Length/>
 		<Status>Experimental</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46846,7 +46846,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: [xx+1]-yy</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46857,7 +46857,7 @@
 		<noteIDs>76</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: [yy+1]-zz</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46868,7 +46868,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: [zz+1]-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46879,7 +46879,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 6-xx</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46890,7 +46890,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: [ww+1]-xx</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46901,7 +46901,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: [xx+1]-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46912,7 +46912,7 @@
 		<noteIDs>64</noteIDs>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 6-ww</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46923,7 +46923,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 6-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46934,7 +46934,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 6-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46945,7 +46945,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 6-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46956,7 +46956,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 6-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46967,7 +46967,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 6-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46978,7 +46978,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 6-(5+IxTS)</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -46989,7 +46989,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (6+IxTS)-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -47000,7 +47000,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: 6-(5+IxTS) </Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
@@ -47011,7 +47011,7 @@
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Length>Expression: (6+IxTS)-nn</Length>
+		<Length/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 </dataroot>
