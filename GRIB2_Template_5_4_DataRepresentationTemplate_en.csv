@@ -1,2 +1,2 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-Grid point data - IEEE floating point data,12,,Precision,(see Code table 5.7),,5.7,,Operational
+Grid point data - IEEE floating point data,12,1,Precision,(see Code table 5.7),,5.7,,Operational

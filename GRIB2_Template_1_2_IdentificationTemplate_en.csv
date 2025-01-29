@@ -1,3 +1,3 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-calendar definition and paleontological offset,24,,Type of calendar,(see Code table 1.6),,1.6,,Operational
-calendar definition and paleontological offset,25-26,,Number of tens of thousands of years of offset,,,,,Operational
+calendar definition and paleontological offset,24,1,Type of calendar,(see Code table 1.6),,1.6,,Operational
+calendar definition and paleontological offset,25-26,2,Number of tens of thousands of years of offset,,,,,Operational

@@ -1,6 +1,6 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-polar stereographic with modelling subdomains definition,15-65,,Same as grid definition template 3.20,,,,,Operational
-polar stereographic with modelling subdomains definition,66-69,,Nux - size of model forecast subdomain in x-direction (number of grid points),,,,,Operational
-polar stereographic with modelling subdomains definition,70-73,,Ncx - width of coupling area within forecast domain in x-direction (number of grid points),,,,,Operational
-polar stereographic with modelling subdomains definition,74-77,,Nuy - size of model forecast subdomain in y-direction (number of grid points),,,,,Operational
-polar stereographic with modelling subdomains definition,78-81,,Ncy - width of coupling area within forecast domain in y-direction (number of grid points),,,,,Operational
+polar stereographic with modelling subdomains definition,15-65,51,Same as grid definition template 3.20,,,,,Operational
+polar stereographic with modelling subdomains definition,66-69,4,Nux - size of model forecast subdomain in x-direction (number of grid points),,,,,Operational
+polar stereographic with modelling subdomains definition,70-73,4,Ncx - width of coupling area within forecast domain in x-direction (number of grid points),,,,,Operational
+polar stereographic with modelling subdomains definition,74-77,4,Nuy - size of model forecast subdomain in y-direction (number of grid points),,,,,Operational
+polar stereographic with modelling subdomains definition,78-81,4,Ncy - width of coupling area within forecast domain in y-direction (number of grid points),,,,,Operational

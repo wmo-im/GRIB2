@@ -1,6 +1,6 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-rotated Gaussian latitude/longitude,15-72,,Same as grid definition template 3.40,(see Note 1),9,,,Operational
-rotated Gaussian latitude/longitude,73-76,,Latitude of the southern pole of projection,,,,,Operational
-rotated Gaussian latitude/longitude,77-80,,Longitude of the southern pole of projection,,,,,Operational
-rotated Gaussian latitude/longitude,81-84,,Angle of rotation of projection,,,,,Operational
+rotated Gaussian latitude/longitude,15-72,58,Same as grid definition template 3.40,(see Note 1),9,,,Operational
+rotated Gaussian latitude/longitude,73-76,4,Latitude of the southern pole of projection,,,,,Operational
+rotated Gaussian latitude/longitude,77-80,4,Longitude of the southern pole of projection,,,,,Operational
+rotated Gaussian latitude/longitude,81-84,4,Angle of rotation of projection,,,,,Operational
 rotated Gaussian latitude/longitude,85-nn,,List of number of points along each meridian or parallel,(see Notes 4 and 5),"4,124",,,Operational

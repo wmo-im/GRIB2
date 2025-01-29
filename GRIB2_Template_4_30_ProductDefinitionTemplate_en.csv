@@ -1,9 +1,9 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-satellite product,10,,Parameter category,(see Code table 4.1),,4.1,,Deprecated
-satellite product,11,,Parameter number,(see Code table 4.2),,4.2,,Deprecated
-satellite product,12,,Type of generating process,(see Code table 4.3),,4.3,,Deprecated
-satellite product,13,,Observation generating process identifier (defined by originating centres),,,,,Deprecated
-satellite product,14,,Number of contributing spectral bands (NB),,,,,Deprecated
+satellite product,10,1,Parameter category,(see Code table 4.1),,4.1,,Deprecated
+satellite product,11,1,Parameter number,(see Code table 4.2),,4.2,,Deprecated
+satellite product,12,1,Type of generating process,(see Code table 4.3),,4.3,,Deprecated
+satellite product,13,1,Observation generating process identifier (defined by originating centres),,,,,Deprecated
+satellite product,14,1,Number of contributing spectral bands (NB),,,,,Deprecated
 satellite product,,,"15-   Repeat the following 10 octets for each contributing band (nb = 1, NB)",,,,,Deprecated
 satellite product,(15+10(nb-1))-(16+10(nb-1)),,Satellite series of band nb (code table defined by originating/generating centre),(see Note 2),14,,,Deprecated
 satellite product,(17+10(nb-1))-(18+10(nb-1)),,Satellite numbers of band nb (code table defined by originating/generating centre),(see Note 2),14,,,Deprecated

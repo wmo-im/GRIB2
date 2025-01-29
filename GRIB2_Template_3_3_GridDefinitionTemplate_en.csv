@@ -1,9 +1,9 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",15-72,Same as grid definition template 3.0,(see Note 1),9,,,Operational
-"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",73-76,Latitude of the southern pole of projection,,,,,Operational
-"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",77-80,Longitude of the southern pole of projection,,,,,Operational
-"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",81-84,Angle of rotation of projection,,,,,Operational
-"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",85-88,Latitude of the pole of stretching,,,,,Operational
-"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",89-92,Longitude of the pole of stretching,,,,,Operational
-"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",93-96,Stretching factor,,,,,Operational
-"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",97-nn,List of number of points along each meridian or parallel,(see Notes 3 and 4),"4,124",,,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",15-72,58,Same as grid definition template 3.0,(see Note 1),9,,,Operational
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",73-76,4,Latitude of the southern pole of projection,,,,,Operational
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",77-80,4,Longitude of the southern pole of projection,,,,,Operational
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",81-84,4,Angle of rotation of projection,,,,,Operational
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",85-88,4,Latitude of the pole of stretching,,,,,Operational
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",89-92,4,Longitude of the pole of stretching,,,,,Operational
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",93-96,4,Stretching factor,,,,,Operational
+"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",97-nn,,List of number of points along each meridian or parallel,(see Notes 3 and 4),"4,124",,,Operational

@@ -1,13 +1,13 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-Grid point data - complex packing,12-21,,Same as data representation template 5.0,,,,,Operational
-Grid point data - complex packing,22,,Group splitting method used,(see Code table 5.4),,5.4,,Operational
-Grid point data - complex packing,23,,Missing value management used,(see Code table 5.5),,5.5,,Operational
-Grid point data - complex packing,24-27,,Primary missing value substitute,,,,,Operational
-Grid point data - complex packing,28-31,,Secondary missing value substitute,,,,,Operational
-Grid point data - complex packing,32-35,,NG - number of groups of data values into which field is split,,,,,Operational
-Grid point data - complex packing,36,,Reference for group widths,(see Note 12),79,,,Operational
-Grid point data - complex packing,37,,Number of bits used for the group widths (after the reference value in octet 36 has been removed),,,,,Operational
-Grid point data - complex packing,38-41,,Reference for group lengths,(see Note 13),78,,,Operational
-Grid point data - complex packing,42,,Length increment for the group lengths,(see Note 14),76,,,Operational
-Grid point data - complex packing,43-46,,True length of last group,,,,,Operational
-Grid point data - complex packing,47,,Number of bits used for the scaled group lengths (after subtraction of the reference value given in octets 38-41 and division by the length increment given in octet 42),,,,,Operational
+Grid point data - complex packing,12-21,10,Same as data representation template 5.0,,,,,Operational
+Grid point data - complex packing,22,1,Group splitting method used,(see Code table 5.4),,5.4,,Operational
+Grid point data - complex packing,23,1,Missing value management used,(see Code table 5.5),,5.5,,Operational
+Grid point data - complex packing,24-27,4,Primary missing value substitute,,,,,Operational
+Grid point data - complex packing,28-31,4,Secondary missing value substitute,,,,,Operational
+Grid point data - complex packing,32-35,4,NG - number of groups of data values into which field is split,,,,,Operational
+Grid point data - complex packing,36,1,Reference for group widths,(see Note 12),79,,,Operational
+Grid point data - complex packing,37,1,Number of bits used for the group widths (after the reference value in octet 36 has been removed),,,,,Operational
+Grid point data - complex packing,38-41,4,Reference for group lengths,(see Note 13),78,,,Operational
+Grid point data - complex packing,42,1,Length increment for the group lengths,(see Note 14),76,,,Operational
+Grid point data - complex packing,43-46,4,True length of last group,,,,,Operational
+Grid point data - complex packing,47,1,Number of bits used for the scaled group lengths (after subtraction of the reference value given in octets 38-41 and division by the length increment given in octet 42),,,,,Operational

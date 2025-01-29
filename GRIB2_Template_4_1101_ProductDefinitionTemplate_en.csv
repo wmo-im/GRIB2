@@ -1,23 +1,23 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-Hovmöller-type grid with averaging or other statistical processing,10,,Parameter category,(see Code table 4.1),,4.1,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,11,,Parameter number,(see Code table 4.2),,4.2,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,12,,Type of generating process,(see Code table 4.3),,4.3,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,13,,Background generating process identifier (defined by originating centre),,,,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,14,,Analysis or forecast generating process identifier (defined by originating centre),,,,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,15-16,,Hours of observational data cut-off after reference time,(see Note 1),33,,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,17,,Minutes of observational data cut-off after reference time,,,,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,18,,Indicator of unit of time range,(see Code table 4.4),,4.4,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,19-22,,Forecast time in units defined by octet 18,(see Note 2),63,,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,23,,Type of first fixed surface,(see Code table 4.5),,4.5,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,24,,Scale factor of first fixed surface,,,,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,25-28,,Scaled value of first fixed surface,,,,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,29,,Type of second fixed surface,(see Code table 4.5),,4.5,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,30,,Scale factor of second fixed surface,,,,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,31-34,,Scaled value of second fixed surface,,,,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,35-38,,Total number of data values missing in the statistical process,,,,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,39,,Statistical process used to calculate the processed field from the field at each time increment during the time range,(see Code table 4.10),,4.10,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,40,,Type of time increment between successive fields used in the statistical processing,(see Code table 4.11),,4.11,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,41,,Indicator of unit of time for time range over which statistical processing is done,(see Code table 4.4),,4.4,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,42-45,,"Length of the time range over which statistical processing is done, in units defined by the previous octet",,,,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,46,,Indicator of unit of time for increment between the successive fields used,(see Code table 4.4),,4.4,,Experimental
-Hovmöller-type grid with averaging or other statistical processing,47-50,,"Time increment between successive fields, in units defined by the previous octet",(see Note 3),7,,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,10,1,Parameter category,(see Code table 4.1),,4.1,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,11,1,Parameter number,(see Code table 4.2),,4.2,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,12,1,Type of generating process,(see Code table 4.3),,4.3,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,13,1,Background generating process identifier (defined by originating centre),,,,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,14,1,Analysis or forecast generating process identifier (defined by originating centre),,,,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,15-16,2,Hours of observational data cut-off after reference time,(see Note 1),33,,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,17,1,Minutes of observational data cut-off after reference time,,,,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,18,1,Indicator of unit of time range,(see Code table 4.4),,4.4,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,19-22,4,Forecast time in units defined by octet 18,(see Note 2),63,,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,23,1,Type of first fixed surface,(see Code table 4.5),,4.5,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,24,1,Scale factor of first fixed surface,,,,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,25-28,4,Scaled value of first fixed surface,,,,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,29,1,Type of second fixed surface,(see Code table 4.5),,4.5,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,30,1,Scale factor of second fixed surface,,,,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,31-34,4,Scaled value of second fixed surface,,,,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,35-38,4,Total number of data values missing in the statistical process,,,,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,39,1,Statistical process used to calculate the processed field from the field at each time increment during the time range,(see Code table 4.10),,4.10,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,40,1,Type of time increment between successive fields used in the statistical processing,(see Code table 4.11),,4.11,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,41,1,Indicator of unit of time for time range over which statistical processing is done,(see Code table 4.4),,4.4,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,42-45,4,"Length of the time range over which statistical processing is done, in units defined by the previous octet",,,,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,46,1,Indicator of unit of time for increment between the successive fields used,(see Code table 4.4),,4.4,,Experimental
+Hovmöller-type grid with averaging or other statistical processing,47-50,4,"Time increment between successive fields, in units defined by the previous octet",(see Note 3),7,,,Experimental

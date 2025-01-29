@@ -1,19 +1,19 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,10,,Parameter category,(see Code table 4.1),,4.1,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,11,,Parameter number,(see Code table 4.2),,4.2,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,12-13,,Input process identifier,(see Note 1),82,,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,14-15,,Input originating centre,(see Common Code table C-11 and Note 2),81,CCT-11,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,16,,Type of post-processing,(see Note 3),126,,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,17,,Type of generating process,(see Code table 4.3),,4.3,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,18,,Background generating process identifier (defined by originating centre),,,,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,19,,Analysis or forecast generating process identifier (defined by originating centre),,,,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,20-21,,Hours of observational data cut-off after reference time,(see Note 4),33,,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,22,,Minutes of observational data cut-off after reference time,,,,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,23,,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,24-27,,Forecast time in units defined by octet 23,,,,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,28,,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,29,,Scale factor of first fixed surface,,,,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,30-33,,Scaled value of first fixed surface,,,,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,34,,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,35,,Scale factor of second fixed surface,,,,,Operational
-post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,36-39,,Scaled value of second fixed surface,,,,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,10,1,Parameter category,(see Code table 4.1),,4.1,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,11,1,Parameter number,(see Code table 4.2),,4.2,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,12-13,2,Input process identifier,(see Note 1),82,,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,14-15,2,Input originating centre,(see Common Code table C-11 and Note 2),81,CCT-11,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,16,1,Type of post-processing,(see Note 3),126,,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,17,1,Type of generating process,(see Code table 4.3),,4.3,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,18,1,Background generating process identifier (defined by originating centre),,,,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,19,1,Analysis or forecast generating process identifier (defined by originating centre),,,,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,20-21,2,Hours of observational data cut-off after reference time,(see Note 4),33,,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,22,1,Minutes of observational data cut-off after reference time,,,,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,23,1,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,24-27,4,Forecast time in units defined by octet 23,,,,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,28,1,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,29,1,Scale factor of first fixed surface,,,,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,30-33,4,Scaled value of first fixed surface,,,,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,34,1,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,35,1,Scale factor of second fixed surface,,,,,Operational
+post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time,36-39,4,Scaled value of second fixed surface,,,,,Operational
