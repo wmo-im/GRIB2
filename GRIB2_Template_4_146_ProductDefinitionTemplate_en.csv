@@ -23,7 +23,7 @@ Verification scores for analysis or forecast at a horizontal level or in a horiz
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time, , ,The next two entries are repeated NA times na=0:NA – can be 0 times if no parameters are necessary (na=0),,,,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,42 + (na-1)*5,1,Scale factor of additional argument for verification,,,,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,43 + (na-1)*5 to 47+(na-1)*5,4,Scaled value of additional argument for verification,,,,,Operational
-Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,42 + NA5 to 43+ NA5,2,Year of start Of verification period,,,,,Operational
+Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,42 + NA5 to 43+ NA5,2,Year of start of verification period,,,,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,44 + NA*5,1,Month of start of verification period,,,,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,45 + NA*5,1,Day of start of verification period,,,,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,46 + NA*5,1,Hour of start of verification period,,,,,Operational
