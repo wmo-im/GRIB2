@@ -166,11 +166,11 @@ def process_files(files,pattern,writers,title_prefix):
     
     
 
-    # For Template rows, add computed Length
+    # For Template rows, add computed OctetNumer
     if pattern == 'GRIB2_Template':
         for row in rows:
             octet_str = row.get("OctetNo", "")
-            row["Length"] = parse_octet_length(octet_str)
+            row["OctetCount"] = parse_octet_length(octet_str)
     
     for row in rows:
         for writer in writers:
@@ -207,11 +207,11 @@ if __name__ == "__main__":
     # Template tables
     template_files = load_files("GRIB2_Template",basedir=".")
 
-    #  Added "Length" to both fieldnames and xml_elements
-    fieldnames=["Title_en","OctetNo","Contents_en","Note_en","noteIDs","codeTable","flagTable","Length","Status"]
+    #  Added "OctetCount" to both fieldnames
+    fieldnames=["Title_en","OctetNo","Contents_en","Note_en","noteIDs","codeTable","flagTable","OctetCount","Status"]
     csv_writer = CSVWriter("txt/Template.txt",fieldnames)
     
-    xml_elements=["Title_en","OctetNo","Contents_en","Note_en","noteIDs","codeTable","flagTable","Length","Status"]
+    xml_elements=["Title_en","OctetNo","Contents_en","Note_en","noteIDs","codeTable","flagTable","Status"]
     xml_writer = XMLWriter("xml/Template.xml",xml_elements,"GRIB2_Template_en")
 
     writers = [csv_writer,xml_writer]

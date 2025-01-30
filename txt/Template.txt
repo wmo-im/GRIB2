@@ -1,4 +1,4 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Length,Status
+Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,OctetCount,Status
 Identification template 1.0 - calendar definition,24,Type of calendar,(see Code table 1.6),,1.6,,1,Operational
 Identification template 1.1 - paleontological offset,24-25,Number of tens of thousands of years of offset,,,,,2,Operational
 Identification template 1.2 - calendar definition and paleontological offset,24,Type of calendar,(see Code table 1.6),,1.6,,1,Operational
