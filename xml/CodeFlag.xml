@@ -386,7 +386,19 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 1.3 - Production status of data</Title_en>
-		<CodeFlag>14-191</CodeFlag>
+		<CodeFlag>14</CodeFlag>
+		<MeaningParameterDescription_en>Lead Centre for Global Climate Reanalyses (LC-GCR)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 1.3 - Production status of data</Title_en>
+		<CodeFlag>15</CodeFlag>
+		<MeaningParameterDescription_en>Lead Centre for Global Climate Reanalyses (LC-GCR) test</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 1.3 - Production status of data</Title_en>
+		<CodeFlag>16-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
