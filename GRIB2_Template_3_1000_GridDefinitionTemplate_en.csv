@@ -14,7 +14,8 @@ cross-section grid with points equally spaced on the horizontal,47-50,4,Lo1 - lo
 cross-section grid with points equally spaced on the horizontal,51,1,Scanning mode,(flags - see Flag table 3.4),,,3.4,Experimental
 cross-section grid with points equally spaced on the horizontal,52-55,4,La2 - latitude of last grid point,(see Note 1),9,,,Experimental
 cross-section grid with points equally spaced on the horizontal,56-59,4,Lo2 - longitude of last grid point,(see Note 1),9,,,Experimental
-cross-section grid with points equally spaced on the horizontal,60,1,Type of horizontal line,(see Code table 3.20),,3.2,,Experimental
+cross-section grid with points equally spaced on the horizontal,60,1,Type of horizontal line,(see Code table 3.20),,3.20,,Experimental
+
 cross-section grid with points equally spaced on the horizontal,61-62,2,Number of vertical points,,,,,Experimental
 cross-section grid with points equally spaced on the horizontal,63,1,Physical meaning of vertical coordinate,(see Code table 3.15),,,,Experimental
 cross-section grid with points equally spaced on the horizontal,64,1,Vertical dimension coordinate values definition,(see Code table 3.21),,,,Experimental
