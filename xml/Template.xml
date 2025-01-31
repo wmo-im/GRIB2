@@ -4196,7 +4196,7 @@
 		<Contents_en>Type of horizontal line</Contents_en>
 		<Note_en>(see Code table 3.20)</Note_en>
 		<noteIDs/>
-		<codeTable>3.2</codeTable>
+		<codeTable>3.20</codeTable>
 		<flagTable/>
 		<Status>Experimental</Status>
 	</GRIB2_Template_en>
