@@ -1,27 +1,27 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,10,,Parameter category,(see Code table 4.1),,4.1,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,11,,Parameter number,(see Code table 4.2),,4.2,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,12-13,,Aerosol type,(see Common Code table C-14),,CCT-14,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,14,,Type of interval for first and second size,(see Code table 4.91),,4.91,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,15,,Scale factor of first size,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,16-19,,Scaled value of first size in metres,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,20,,Scale factor of second size ,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,21-24,,Scaled value of second size in metres,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,25,,Type of interval for first and second wavelength,(see Code table 4.91),,4.91,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,26,,Scale factor of first wavelength,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,27-30,,Scaled value of first wavelength in metres,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,31,,Scale factor of second wavelength,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,32-35,,Scaled value of second wavelength in metres,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,36,,Type of generating process,(see Code table 4.3),,4.3,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,37,,Background generating process identifier (defined by originating centre),,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,38,,Analysis or forecast generating process identifier (defined by originating centre),,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,39-40,,Hours of observational data cut-off after reference time,(see Note),33,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,41,,Minutes of observational data cut-off after reference time,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,42,,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,43-46,,Forecast time in units defined by octet 42,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,47,,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,48,,Scale factor of first fixed surface,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,49-52,,Scaled value of first fixed surface,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,53,,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,54,,Scale factor of second fixed surface,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,55-58,,Scaled value of second fixed surface,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,10,1,Parameter category,(see Code table 4.1),,4.1,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,11,1,Parameter number,(see Code table 4.2),,4.2,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,12-13,2,Aerosol type,(see Common Code table C-14),,CCT-14,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,14,1,Type of interval for first and second size,(see Code table 4.91),,4.91,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,15,1,Scale factor of first size,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,16-19,4,Scaled value of first size in metres,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,20,1,Scale factor of second size ,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,21-24,4,Scaled value of second size in metres,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,25,1,Type of interval for first and second wavelength,(see Code table 4.91),,4.91,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,26,1,Scale factor of first wavelength,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,27-30,4,Scaled value of first wavelength in metres,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,31,1,Scale factor of second wavelength,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,32-35,4,Scaled value of second wavelength in metres,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,36,1,Type of generating process,(see Code table 4.3),,4.3,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,37,1,Background generating process identifier (defined by originating centre),,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,38,1,Analysis or forecast generating process identifier (defined by originating centre),,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,39-40,2,Hours of observational data cut-off after reference time,(see Note),33,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,41,1,Minutes of observational data cut-off after reference time,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,42,1,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,43-46,4,Forecast time in units defined by octet 42,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,47,1,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,48,1,Scale factor of first fixed surface,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,49-52,4,Scaled value of first fixed surface,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,53,1,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,54,1,Scale factor of second fixed surface,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol,55-58,4,Scaled value of second fixed surface,,,,,Operational

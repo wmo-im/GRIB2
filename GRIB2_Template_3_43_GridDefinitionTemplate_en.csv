@@ -1,9 +1,9 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-stretched and rotated Gaussian latitude/longitude,15-72,,Same as grid definition template 3.40,(see Note 1),9,,,Operational
-stretched and rotated Gaussian latitude/longitude,73-76,,Latitude of the southern pole of projection,,,,,Operational
-stretched and rotated Gaussian latitude/longitude,77-80,,Longitude of the southern pole of projection,,,,,Operational
-stretched and rotated Gaussian latitude/longitude,81-84,,Angle of rotation of projection,,,,,Operational
-stretched and rotated Gaussian latitude/longitude,85-88,,Latitude of the pole of stretching,,,,,Operational
-stretched and rotated Gaussian latitude/longitude,89-92,,Longitude of the pole of stretching,,,,,Operational
-stretched and rotated Gaussian latitude/longitude,93-96,,Stretching factor,,,,,Operational
+stretched and rotated Gaussian latitude/longitude,15-72,58,Same as grid definition template 3.40,(see Note 1),9,,,Operational
+stretched and rotated Gaussian latitude/longitude,73-76,4,Latitude of the southern pole of projection,,,,,Operational
+stretched and rotated Gaussian latitude/longitude,77-80,4,Longitude of the southern pole of projection,,,,,Operational
+stretched and rotated Gaussian latitude/longitude,81-84,4,Angle of rotation of projection,,,,,Operational
+stretched and rotated Gaussian latitude/longitude,85-88,4,Latitude of the pole of stretching,,,,,Operational
+stretched and rotated Gaussian latitude/longitude,89-92,4,Longitude of the pole of stretching,,,,,Operational
+stretched and rotated Gaussian latitude/longitude,93-96,4,Stretching factor,,,,,Operational
 stretched and rotated Gaussian latitude/longitude,97-nn,,List of number of points along each meridian or parallel,(see Notes 5 and 6),"4,124",,,Operational

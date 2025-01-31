@@ -1,22 +1,23 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-cross-section grid with points equally spaced on the horizontal,15,,Shape of the Earth,(see Code table 3.2),,3.2,,Experimental
-cross-section grid with points equally spaced on the horizontal,16,,Scale factor of radius of spherical Earth,,,,,Experimental
-cross-section grid with points equally spaced on the horizontal,17-20,,Scaled value of radius of spherical Earth,,,,,Experimental
-cross-section grid with points equally spaced on the horizontal,21,,Scale factor of major axis of oblate spheroid Earth,,,,,Experimental
-cross-section grid with points equally spaced on the horizontal,22-25,,Scaled value of major axis of oblate spheroid Earth,,,,,Experimental
-cross-section grid with points equally spaced on the horizontal,26,,Scale factor of minor axis of oblate spheroid Earth,,,,,Experimental
-cross-section grid with points equally spaced on the horizontal,27-30,,Scaled value of minor axis of oblate spheroid Earth,,,,,Experimental
-cross-section grid with points equally spaced on the horizontal,31-34,,Number of horizontal points,,,,,Experimental
-cross-section grid with points equally spaced on the horizontal,35-38,,Basic angle of the initial production domain,(see Note 1),9,,,Experimental
-cross-section grid with points equally spaced on the horizontal,39-42,,Subdivisions of basic angle used to define extreme longitudes and latitudes,(see Note 1),9,,,Experimental
-cross-section grid with points equally spaced on the horizontal,43-46,,La1 - latitude of first grid point,(see Note 1),9,,,Experimental
-cross-section grid with points equally spaced on the horizontal,47-50,,Lo1 - longitude of first grid point,(see Note 1),9,,,Experimental
-cross-section grid with points equally spaced on the horizontal,51,,Scanning mode,(flags - see Flag table 3.4),,,3.4,Experimental
-cross-section grid with points equally spaced on the horizontal,52-55,,La2 - latitude of last grid point,(see Note 1),9,,,Experimental
-cross-section grid with points equally spaced on the horizontal,56-59,,Lo2 - longitude of last grid point,(see Note 1),9,,,Experimental
-cross-section grid with points equally spaced on the horizontal,60,,Type of horizontal line,(see Code table 3.20),,3.2,,Experimental
-cross-section grid with points equally spaced on the horizontal,61-62,,Number of vertical points,,,,,Experimental
-cross-section grid with points equally spaced on the horizontal,63,,Physical meaning of vertical coordinate,(see Code table 3.15),,,,Experimental
-cross-section grid with points equally spaced on the horizontal,64,,Vertical dimension coordinate values definition,(see Code table 3.21),,,,Experimental
-cross-section grid with points equally spaced on the horizontal,65-66,,NC - number of coefficients or values used to specify vertical coordinates,,,,,Experimental
+cross-section grid with points equally spaced on the horizontal,15,1,Shape of the Earth,(see Code table 3.2),,3.2,,Experimental
+cross-section grid with points equally spaced on the horizontal,16,1,Scale factor of radius of spherical Earth,,,,,Experimental
+cross-section grid with points equally spaced on the horizontal,17-20,4,Scaled value of radius of spherical Earth,,,,,Experimental
+cross-section grid with points equally spaced on the horizontal,21,1,Scale factor of major axis of oblate spheroid Earth,,,,,Experimental
+cross-section grid with points equally spaced on the horizontal,22-25,4,Scaled value of major axis of oblate spheroid Earth,,,,,Experimental
+cross-section grid with points equally spaced on the horizontal,26,1,Scale factor of minor axis of oblate spheroid Earth,,,,,Experimental
+cross-section grid with points equally spaced on the horizontal,27-30,4,Scaled value of minor axis of oblate spheroid Earth,,,,,Experimental
+cross-section grid with points equally spaced on the horizontal,31-34,4,Number of horizontal points,,,,,Experimental
+cross-section grid with points equally spaced on the horizontal,35-38,4,Basic angle of the initial production domain,(see Note 1),9,,,Experimental
+cross-section grid with points equally spaced on the horizontal,39-42,4,Subdivisions of basic angle used to define extreme longitudes and latitudes,(see Note 1),9,,,Experimental
+cross-section grid with points equally spaced on the horizontal,43-46,4,La1 - latitude of first grid point,(see Note 1),9,,,Experimental
+cross-section grid with points equally spaced on the horizontal,47-50,4,Lo1 - longitude of first grid point,(see Note 1),9,,,Experimental
+cross-section grid with points equally spaced on the horizontal,51,1,Scanning mode,(flags - see Flag table 3.4),,,3.4,Experimental
+cross-section grid with points equally spaced on the horizontal,52-55,4,La2 - latitude of last grid point,(see Note 1),9,,,Experimental
+cross-section grid with points equally spaced on the horizontal,56-59,4,Lo2 - longitude of last grid point,(see Note 1),9,,,Experimental
+cross-section grid with points equally spaced on the horizontal,60,1,Type of horizontal line,(see Code table 3.20),,3.20,,Experimental
+
+cross-section grid with points equally spaced on the horizontal,61-62,2,Number of vertical points,,,,,Experimental
+cross-section grid with points equally spaced on the horizontal,63,1,Physical meaning of vertical coordinate,(see Code table 3.15),,,,Experimental
+cross-section grid with points equally spaced on the horizontal,64,1,Vertical dimension coordinate values definition,(see Code table 3.21),,,,Experimental
+cross-section grid with points equally spaced on the horizontal,65-66,2,NC - number of coefficients or values used to specify vertical coordinates,,,,,Experimental
 cross-section grid with points equally spaced on the horizontal,67-(66+NCx4),,"Coefficients to define vertical dimension coordinate values in functional form, or the explicit coordinate values (IEEE 32-bit floating-point values)",,,,,Experimental

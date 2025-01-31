@@ -1,28 +1,28 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,10,,Parameter category,(see Code table 4.1),,4.1,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,11,,Parameter number,(see Code table 4.2),,4.2,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,12,,Type of generating process,(see Code table 4.3),,4.3,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,13,,Background generating process identifier (defined by originating centre),,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,14,,Analysis or forecast generating process identifier (defined by originating centre),,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,15,,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,16,,Scale factor of first fixed surface,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,17-20,,Scaled value of first fixed surface,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,21,,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,22,,Scale factor of second fixed surface,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,23-26,,Scaled value of second fixed surface,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,27,,Method used to derive the data field values at the local time specified in section 1,(see Code table 4.248),,4.248,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,28,,n - number of analyses or forecasts used to create the composite data field at the local time specified in section 1 (n >= 1),,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,10,1,Parameter category,(see Code table 4.1),,4.1,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,11,1,Parameter number,(see Code table 4.2),,4.2,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,12,1,Type of generating process,(see Code table 4.3),,4.3,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,13,1,Background generating process identifier (defined by originating centre),,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,14,1,Analysis or forecast generating process identifier (defined by originating centre),,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,15,1,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,16,1,Scale factor of first fixed surface,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,17-20,4,Scaled value of first fixed surface,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,21,1,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,22,1,Scale factor of second fixed surface,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,23-26,4,Scaled value of second fixed surface,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,27,1,Method used to derive the data field values at the local time specified in section 1,(see Code table 4.248),,4.248,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,28,1,n - number of analyses or forecasts used to create the composite data field at the local time specified in section 1 (n >= 1),,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,,,Octets 29-46 Specification of the analysis or forecast used in the processing (n = 1),,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,29-30,,Year of the analysis or forecast used in the processing,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,31,,Month of the analysis or forecast used in the processing,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,32,,Day of the analysis or forecast used in the processing,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,33,,Hour of the analysis or forecast used in the processing,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,34,,Minute of the analysis or forecast used in the processing,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,35,,Second of the analysis or forecast used in the processing,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,36,,Indicator of units of forecast time,(see Note and Code table 4.4),70,4.4,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,37-40,,Forecast time,(see Note),70,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,41,,Number of time increments of the forecast used in the processing,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,42,,Indicator of units of time for the time increments,,,,,Operational
-analysis or forecast at a horizontal level or in a horizontal layer at a local time,43-46,,Time increments between successive forecast times,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,29-30,2,Year of the analysis or forecast used in the processing,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,31,1,Month of the analysis or forecast used in the processing,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,32,1,Day of the analysis or forecast used in the processing,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,33,1,Hour of the analysis or forecast used in the processing,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,34,1,Minute of the analysis or forecast used in the processing,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,35,1,Second of the analysis or forecast used in the processing,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,36,1,Indicator of units of forecast time,(see Note and Code table 4.4),70,4.4,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,37-40,4,Forecast time,(see Note),70,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,41,1,Number of time increments of the forecast used in the processing,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,42,1,Indicator of units of time for the time increments,,,,,Operational
+analysis or forecast at a horizontal level or in a horizontal layer at a local time,43-46,4,Time increments between successive forecast times,,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,,,Octets 47-nn are included only if n > 1 where nn = 28 + 18 x n,,,,,Operational
 analysis or forecast at a horizontal level or in a horizontal layer at a local time,47-nn,,(n-1) repetitions of sequence of octets 29-46 describing the next analyses or forecasts used in the processing,,,,,Operational

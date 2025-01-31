@@ -1,7 +1,7 @@
-Title_en,OctetNo,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-variable resolution rotated latitude/longitude,15-48,Same as grid definition template 3.4,(see Note 1),9,,,Operational
-variable resolution rotated latitude/longitude,49-52,Latitude of the southern pole of projection,(see Note 4),65,,,Operational
-variable resolution rotated latitude/longitude,53-56,Longitude of the southern pole of projection,(see Note 4),65,,,Operational
-variable resolution rotated latitude/longitude,57-60,Angle of rotation of projection,(see Note 4),65,,,Operational
-variable resolution rotated latitude/longitude,61-ii,List of longitudes,(see Notes 1 and 3),"9,26",,,Operational
-variable resolution rotated latitude/longitude,(ii+1)-jj,List of latitudes,(see Notes 1 and 3),"9,26",,,Operational
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+variable resolution rotated latitude/longitude,15-48,34,Same as grid definition template 3.4,(see Note 1),9,,,Operational
+variable resolution rotated latitude/longitude,49-52,4,Latitude of the southern pole of projection,(see Note 4),65,,,Operational
+variable resolution rotated latitude/longitude,53-56,4,Longitude of the southern pole of projection,(see Note 4),65,,,Operational
+variable resolution rotated latitude/longitude,57-60,4,Angle of rotation of projection,(see Note 4),65,,,Operational
+variable resolution rotated latitude/longitude,61-ii,,List of longitudes,(see Notes 1 and 3),"9,26",,,Operational
+variable resolution rotated latitude/longitude,(ii+1)-jj,,List of latitudes,(see Notes 1 and 3),"9,26",,,Operational

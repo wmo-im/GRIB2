@@ -1,22 +1,22 @@
 Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-space view perspective or orthographic,15,,Shape of the Earth,(see Code table 3.2),,3.2,,Operational
-space view perspective or orthographic,16,,Scale factor of radius of spherical Earth,,,,,Operational
-space view perspective or orthographic,17-20,,Scaled value of radius of spherical Earth,,,,,Operational
-space view perspective or orthographic,21,,Scale factor of major axis of oblate spheroid Earth,,,,,Operational
-space view perspective or orthographic,22-25,,Scaled value of major axis of oblate spheroid Earth,,,,,Operational
-space view perspective or orthographic,26,,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational
-space view perspective or orthographic,27-30,,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational
-space view perspective or orthographic,31-34,,Nx - number of points along x-axis (columns),,,,,Operational
-space view perspective or orthographic,35-38,,Ny - number of points along y-axis (rows or lines),,,,,Operational
-space view perspective or orthographic,39-42,,Lap - latitude of sub-satellite point,,,,,Operational
-space view perspective or orthographic,43-46,,Lop - longitude of sub-satellite point,,,,,Operational
-space view perspective or orthographic,47,,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational
-space view perspective or orthographic,48-51,,"dx - apparent diameter of Earth in grid lengths, in x-direction",,,,,Operational
-space view perspective or orthographic,52-55,,"dy - apparent diameter of Earth in grid lengths, in y-direction",,,,,Operational
-space view perspective or orthographic,56-59,,Xp - x-coordinate of sub-satellite point (in units of 10-3 grid length expressed as an integer),,,,,Operational
-space view perspective or orthographic,60-63,,Yp - y-coordinate of sub-satellite point (in units of 10-3 grid length expressed as an integer),,,,,Operational
-space view perspective or orthographic,64,,Scanning mode,(see Flag table 3.4),,,3.4,Operational
-space view perspective or orthographic,65-68,,Orientation of the grid; i.e. the angle between the increasing y-axis and the meridian of the sub-satellite point in the direction of increasing latitude,(see Note 3),46,,,Operational
-space view perspective or orthographic,69-72,,"Nr - altitude of the camera from the Earth's centre, measured in units of the Earth's (equatorial) radius multiplied by a scale factor of 106","(see Notes 2, 4 and 5)","59,22,73",,,Operational
-space view perspective or orthographic,73-76,,Xo - x-coordinate of origin of sector image,,,,,Operational
-space view perspective or orthographic,77-80,,Yo - y-coordinate of origin of sector image,,,,,Operational
+space view perspective or orthographic,15,1,Shape of the Earth,(see Code table 3.2),,3.2,,Operational
+space view perspective or orthographic,16,1,Scale factor of radius of spherical Earth,,,,,Operational
+space view perspective or orthographic,17-20,4,Scaled value of radius of spherical Earth,,,,,Operational
+space view perspective or orthographic,21,1,Scale factor of major axis of oblate spheroid Earth,,,,,Operational
+space view perspective or orthographic,22-25,4,Scaled value of major axis of oblate spheroid Earth,,,,,Operational
+space view perspective or orthographic,26,1,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational
+space view perspective or orthographic,27-30,4,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational
+space view perspective or orthographic,31-34,4,Nx - number of points along x-axis (columns),,,,,Operational
+space view perspective or orthographic,35-38,4,Ny - number of points along y-axis (rows or lines),,,,,Operational
+space view perspective or orthographic,39-42,4,Lap - latitude of sub-satellite point,,,,,Operational
+space view perspective or orthographic,43-46,4,Lop - longitude of sub-satellite point,,,,,Operational
+space view perspective or orthographic,47,1,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational
+space view perspective or orthographic,48-51,4,"dx - apparent diameter of Earth in grid lengths, in x-direction",,,,,Operational
+space view perspective or orthographic,52-55,4,"dy - apparent diameter of Earth in grid lengths, in y-direction",,,,,Operational
+space view perspective or orthographic,56-59,4,Xp - x-coordinate of sub-satellite point (in units of 10-3 grid length expressed as an integer),,,,,Operational
+space view perspective or orthographic,60-63,4,Yp - y-coordinate of sub-satellite point (in units of 10-3 grid length expressed as an integer),,,,,Operational
+space view perspective or orthographic,64,1,Scanning mode,(see Flag table 3.4),,,3.4,Operational
+space view perspective or orthographic,65-68,4,Orientation of the grid; i.e. the angle between the increasing y-axis and the meridian of the sub-satellite point in the direction of increasing latitude,(see Note 3),46,,,Operational
+space view perspective or orthographic,69-72,4,"Nr - altitude of the camera from the Earth's centre, measured in units of the Earth's (equatorial) radius multiplied by a scale factor of 106","(see Notes 2, 4 and 5)","59,22,73",,,Operational
+space view perspective or orthographic,73-76,4,Xo - x-coordinate of origin of sector image,,,,,Operational
+space view perspective or orthographic,77-80,4,Yo - y-coordinate of origin of sector image,,,,,Operational
