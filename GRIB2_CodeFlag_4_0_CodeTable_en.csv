@@ -119,7 +119,13 @@ Product definition template number,,133,,"Post-processed quantile forecasts of a
 Product definition template number,,134,,"Quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
 Product definition template number,,135,,"Post-processed quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
 Product definition template number,,136,,"Probability forecasts of anomalies, significance and other derived products in relation to a reference period with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in at a point in time",,,,Operational
-Product definition template number,,143,,"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",,,,Operational
+Product definition template number,,137,,"Derived reforecast based on all ensemble members at a horizontal level or in a horizontal layer at a point in time",,,,Operational
+Product definition template number,,138,,"Derived reforecast based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
+Product definition template number,,139,,"Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",,,,Operational
+Product definition template number,,140,,"Individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",,,,Operational
+Product definition template number,,141,,"Reforecast at a horizontal level or in a horizontal layer at a point in time for wave 2D spectra with explicit list of frequencies and directions",,,,Operational
+Product definition template number,,142,,"Individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for wave 2D spectra with explicit list of frequencies and directions",,,,Operational
+Product definition template number,,143,,"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",,,,Operatinal
 Product definition template number,,144-253,,Reserved,,,,Operational
 Product definition template number,,254,,CCITT IA5 character string,,,,Operational
 Product definition template number,,255-999,,Reserved,,,,Operational
