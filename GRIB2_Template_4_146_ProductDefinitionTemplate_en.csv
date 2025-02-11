@@ -23,6 +23,7 @@ Verification scores for analysis or forecast at a horizontal level or in a horiz
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time, , ,The next two entries are repeated NA times na=0: NA - can be 0 times if no parameters are necessary (na=0),,,,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,42 + (na-1)*5,1,Scale factor of additional argument for verification,,,,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,(43 + (na-1)*5) - (46 + (na-1)*5),4,Scaled value of additional argument for verification,,,,,Operational
+Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time, , ,End of sequence repeated NA times.,,,,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,(42 + NA*5) - (43 + NA*5),2,Year of start of verification period,,,,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,44 + NA*5,1,Month of start of verification period,,,,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,45 + NA*5,1,Day of start of verification period,,,,,Operational
@@ -30,10 +31,11 @@ Verification scores for analysis or forecast at a horizontal level or in a horiz
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,47 + NA*5,1,Minute of start of verification period,,,,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,48 + NA*5,1,Second of start of verification period,,,,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,49 + NA*5,1,Number of verification period time ranges (NV),,,,,Operational
-Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time, , ,The next three entries are repeated NR times nv=1:NV,,,,,Operational
+Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time, , ,The next five entries are repeated NV times nv=1:NV,,,,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,50 + NA*5 + (nv-1)*11,1,Type of statistical processing for time range for verification period,(see Code table 4.10),,4.10,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,51 + NA*5 + (nv-1)*11,1,Indicator of unit for time range for verification period,(see Code table 4.4),,4.4,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,(52 + NA*5 + (nv-1)*11) - (55 + NA*5 + (nv-1)*11),4,Length of time range for verification period,,,,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,56 + NA*5 + (nv-1)*11,1,Indicator of unit for time increment for verification period,(see Code table 4.4),,4.4,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,(57 + NA*5 + (nv-1)*11) - (60 + NA*5 + (nv-1)*11),4,Time increment for verification period,,,,,Operational
+Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time, , ,End of sequence repeated NV times,,,,,Operational
 Verification scores for analysis or forecast at a horizontal level or in a horizontal layer at a point in time,(61 + NA*5 + NV*11) - (62 + NA*5 + NV*11),2,Number of forecasts in verification,,,,,Operational
