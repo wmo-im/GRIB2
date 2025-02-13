@@ -1,0 +1,18 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Verification scores,,0,,Mean error,,,,Operational
+Verification scores,,1,,Root mean squared error,,,,Operational
+Verification scores,,2,,Continuous ranked probability score (CRPS),,,,Operational
+Verification scores,,3,,Fair continuous ranked probability score,,,,Operational
+Verification scores,,4,,Continuous logarithmic ignorance score,,,,Operational
+Verification scores,,5,,Fair continuous logarithmic ignorance score,,,,Operational
+Verification scores,,6,,Ranked probability score,,,,Operational
+Verification scores,,4-99,,Reserved for future use,,,,Operational
+Verification scores,,100,,Contingency Table (deterministic) - hits,,,,Operational
+Verification scores,,101,,Contingency Table (deterministic) - false alarms,,,,Operational
+Verification scores,,102,,Contingency Table (deterministic) - misses,,,,Operational
+Verification scores,,103,,Contingency Table (deterministic) - correct negatives,,,,Operational
+Verification scores,,104,,Contingency Table (probabilistic) - Forecast-by-n-members and observed,,,,Operational
+Verification scores,,105,,Contingency Table (probabilistic) - Forecast-by-n-members and not observed,,,,Operational
+Verification scores,,106-62999,,Reserved,,,,Operational
+Verification scores,,63000-65534,,Reserved for local use,,,,Operational
+Verification scores,,65535,,Missing,,,,Operational
