@@ -34793,7 +34793,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.123 - Probability forecasts from large ensembles with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>42</OctetNo>
-		<Contents_en>Number of time range</Contents_en>
+		<Contents_en>Number of time range (NT)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
