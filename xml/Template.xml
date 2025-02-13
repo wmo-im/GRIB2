@@ -37563,7 +37563,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.129 - Anomalies, significance and other derived products from an individual ensemble forecast, control and perturbed in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>40</OctetNo>
-		<Contents_en>Number of additional parameter for reference period - NA</Contents_en>
+		<Contents_en>Number of additional parameter for reference period (NA)</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
@@ -37663,7 +37663,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.129 - Anomalies, significance and other derived products from an individual ensemble forecast, control and perturbed in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>52+NA*5</OctetNo>
-		<Contents_en>Number of reference period time range - NR</Contents_en>
+		<Contents_en>Number of reference period time range (NR)</Contents_en>
 		<Note_en>(see Note 3)</Note_en>
 		<noteIDs>165</noteIDs>
 		<codeTable/>
