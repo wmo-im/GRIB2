@@ -126,7 +126,9 @@ Product definition template number,,140,,"Individual ensemble reforecast, contro
 Product definition template number,,141,,"Reforecast at a horizontal level or in a horizontal layer at a point in time for wave 2D spectra with explicit list of frequencies and directions",,,,Operational
 Product definition template number,,142,,"Individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for wave 2D spectra with explicit list of frequencies and directions",,,,Operational
 Product definition template number,,143,,"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",,,,Operatinal
-Product definition template number,,144-253,,Reserved,,,,Operational
+Product definition template number,,144,,"Analysis or forecast at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range",,,,Operational
+Product definition template number,,145,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range",,,,Operational
+Product definition template number,,146-253,,Reserved,,,,Operational
 Product definition template number,,254,,CCITT IA5 character string,,,,Operational
 Product definition template number,,255-999,,Reserved,,,,Operational
 Product definition template number,,1000,,Cross-section of analysis and forecast at a point in time,,,,Experimental
