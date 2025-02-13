@@ -13,6 +13,6 @@ Verification scores,,102,,Contingency Table (deterministic) - misses,,,,Operatio
 Verification scores,,103,,Contingency Table (deterministic) - correct negatives,,,,Operational
 Verification scores,,104,,Contingency Table (probabilistic) - Forecast-by-n-members and observed,,,,Operational
 Verification scores,,105,,Contingency Table (probabilistic) - Forecast-by-n-members and not observed,,,,Operational
-Verification scores,,106-191,,Reserved,,,,Operational
-Verification scores,,192-254,,Reserved for local use,,,,Operational
-Verification scores,,255,,Missing,,,,Operational
+Verification scores,,106-62999,,Reserved,,,,Operational
+Verification scores,,63000-65534,,Reserved for local use,,,,Operational
+Verification scores,,65535,,Missing,,,,Operational
