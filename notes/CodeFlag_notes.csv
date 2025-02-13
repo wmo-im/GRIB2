@@ -160,6 +160,7 @@ noteID,note
 163,In relation to local coordinate axes at a (grid) cell edge.
 164,"When using entry 10, the lower limit is used to encode the quantile q (must be an integer between 0 and Q) while the upper limit is used to encode the total number of quantiles Q. This defines the probability of the parameter falling within quantile q. For instance, to encode the probability of falling within the 10th percentile, then q=10 and Q=100; to encode the probability of falling within the 1st tercile, then q=1 and Q=3."
 165,"Model physics are perturbed (for example, with methods like SPPT, SPP and SKEB."
+255a,"This Anomaly entry should only be used as part of a verification/score field. To properly encode an anomaly and specify the coresponding climatology, please use one of the template designed specifically for anomalies."
 285a,"The hazard index can be locally defined by the centre."
 281a,"This level has no defined location along the vertical axis. Scale factor and scaled values of first and second fixed surface should be set to 'missing' if not used."
 281b,"Buizza, R., M. Miller, and T. N. Palmer, 1999: Stochastic representation of model uncertainties in the ECMWF ensemble prediction system. Quart. J. Roy. Meteor. Soc., 125, 2887-2908"
