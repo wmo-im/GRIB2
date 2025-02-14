@@ -1,0 +1,9 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Type of reference dataset for verification,,0,,Analysis interpolated on forecast grid,,,,Operational
+Type of reference dataset for verification,,1,,	Analysis with forecast interpolated on analysis grid,,,,Operational
+Type of reference dataset for verification,,2,,Analysis interpolated on a common grid with the forecast but different to original grid,,,,Operational
+Type of reference dataset for verification,,3,,Gridded observation on forecast grid,,,,Operational
+Type of reference dataset for verification,,4,,Gridded observation with forecast interpolated on observation grid,,,,Operational
+Type of reference dataset for verification,,5-191,,Reserved,,,,Operational
+Type of reference dataset for verification,,192-254,,Reserved for local use,,,,Operational
+Type of reference dataset for verification,,255,,Missing,,,,Operational

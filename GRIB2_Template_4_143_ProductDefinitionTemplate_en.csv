@@ -1,0 +1,27 @@
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",10,1,Parameter category,(see Code table 4.1),,4.1,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",11,1,Parameter number,(see Code table 4.2),,4.2,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",12,1,Type of generating process,(see Code table 4.3),,4.3,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",13,1,Background generating process identifier (defined by originating centre),,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",14,1,Forecast generating process identifier (defined by originating centre),,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",15-16,2,Hours after reference time of data cut-off,(see Note),33,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",17,1,Minutes after reference time of data cut-off,,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",18,1,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",19-22,4,Forecast time in units defined by octet 18,,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",23-24,2,Random field number,,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",25-26,2,Total number of random fields,,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",27-28,2,Spatio-temporal scale number,,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",29-30,2,Total number of spatio-temporal scales,,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",31-34,4,Scaled value of spatial scale,,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",35,1,Scale factor of spatial scale,,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",36-39,4,Scaled value of temporal scale,,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",40,1,Scale factor of temporal scale,,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",41,1,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",42,1,Scale factor of first fixed surface,,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",43-46,4,Scaled value of first fixed surface,,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",47,1,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",48,1,Scale factor of second fixed surface,,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",49-52,4,Scaled value of second fixed surface,,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",53,1,Type of ensemble forecast,(see Code table 4.6),,4.6,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",54-57,4,Perturbation number,,,,,Operational
+"Random fields used in an ensemble forecast, at a horizontal level or in a horizontal layer at a point in time",58-61,4,Number of forecasts in ensemble,,,,,Operational
