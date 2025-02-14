@@ -6,7 +6,7 @@ Verification scores,,3,,Fair continuous ranked probability score,,,,Operational
 Verification scores,,4,,Continuous logarithmic ignorance score,,,,Operational
 Verification scores,,5,,Fair continuous logarithmic ignorance score,,,,Operational
 Verification scores,,6,,Ranked probability score,,,,Operational
-Verification scores,,4-99,,Reserved for future use,,,,Operational
+Verification scores,,7-99,,Reserved for future use,,,,Operational
 Verification scores,,100,,Contingency Table (deterministic) - hits,,,,Operational
 Verification scores,,101,,Contingency Table (deterministic) - false alarms,,,,Operational
 Verification scores,,102,,Contingency Table (deterministic) - misses,,,,Operational
