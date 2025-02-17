@@ -1,8 +1,8 @@
 Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
 Radar data quality flags,,0,,Normal operating data,,,,Operational
-Radar data quality flags,,1,,No data,(see Note 1),287b,,Operational
-Radar data quality flags,,2,,Undetected,(see Note 2),287c,,Operational
-Radar data quality flags,,3,,Implausible data/outliers,(see Note 3),287d,,Operational
+Radar data quality flags,,1,,No data,(see Note 1),176,,Operational
+Radar data quality flags,,2,,Undetected,(see Note 2),177,,Operational
+Radar data quality flags,,3,,Implausible data/outliers,(see Note 3),178,,Operational
 Radar data quality flags,,4,,Beam overshooting,,,,Operational
 Radar data quality flags,,5,,Beam blocking,,,,Operational
 Radar data quality flags,,6,,Ground clutter,,,,Operational

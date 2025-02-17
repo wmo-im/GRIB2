@@ -22,7 +22,7 @@ Type of generating process,,19,,First guess,,,,Operational
 Type of generating process,,20,,Analysis increment,(see Note 2),29,,Operational
 Type of generating process,,21,,Initialization increment for analysis,(see Note 3),61,,Operational
 Type of generating process,,22,,Blended forecast,(See Note 4),159,,Operational
-Type of generating process,,23,,Anomaly,(see Note 5),255a,,Operational
+Type of generating process,,23,,Anomaly,(see Note 5),166,,Operational
 Type of generating process,,24-191,,Reserved,,,,Operational
 Type of generating process,,192-254,,Reserved for local use,,,,Operational
 Type of generating process,,255,,Missing,,,,Operational
