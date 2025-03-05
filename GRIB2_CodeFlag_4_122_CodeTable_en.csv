@@ -1,0 +1,7 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Type of additional arguments for verification score,,0,,Fixed threshold value,,,,Operational
+Type of additional arguments for verification score,,1,,Threshold specified as a quantile of the climatology,,,,Operational
+Type of additional arguments for verification score,,2,,Threshold specified as a multiple of the standard deviation,,,,Operational
+Type of additional arguments for verification score,,3-191,,Reserved,,,,Operational
+Type of additional arguments for verification score,,192-254,,Reserved for local use,,,,Operational
+Type of additional arguments for verification score,,255,,Missing,,,,Operational

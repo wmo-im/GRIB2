@@ -8,6 +8,10 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",6,,Normal effective temperature,,,K,Operational
 Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",7,,Standard effective temperature,,,K,Operational
 Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",8,,Physiological equivalent temperature,,,K,Operational
-Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",9-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",9,,UV biologically effective dose,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",10,,"UV biologically effective dose, clear-sky",,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",11,,Excess heat factor,,,K2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",12,,Excess cold factor,,,K2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",13-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 0: health indicators",255,,Missing,,,,Operational
