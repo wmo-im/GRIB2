@@ -110,16 +110,16 @@ Tile classes and groupings,,2502,,High vegetation grouping (EVNE + DENE + DEBR +
 Tile classes and groupings,,2503-3000,,Reserved for tile grouping entries for tile models using the GLCC v2.0 BATS Classification survey,(see Note),139,,Operational
 Tile classes and groupings,,3001,PFIC,Post-flooding or irrigated croplands,,,,Operational
 Tile classes and groupings,,3002,RACR,Rainfed croplands,,,,Operational
-Tile classes and groupings,,3003,MCVE,"Mosaic cropland (50-70%) / vegetation (grassland, shrubland, forest) (20-50%)",,,,Operational
-Tile classes and groupings,,3004,MVCR,"Mosaic vegetation (grassland, shrubland, forest) (50-70%) / cropland (20-50%)",,,,Operational
+Tile classes and groupings,,3003,MCVE,"Mosaic cropland (50-70%)/vegetation (grassland, shrubland, forest) (20-50%)",,,,Operational
+Tile classes and groupings,,3004,MVCR,"Mosaic vegetation (grassland, shrubland, forest) (50-70%)/cropland (20-50%)",,,,Operational
 Tile classes and groupings,,3005,COBS,Closed to open (>15%) broadleaved evergreen and/or semi-deciduous forest (>5m),,,,Operational
 Tile classes and groupings,,3006,CLBD,Closed (>40%) broadleaved deciduous forest (>5m),,,,Operational
 Tile classes and groupings,,3007,OPBD,Open (15-40%) broadleaved deciduous forest (>5m),,,,Operational
 Tile classes and groupings,,3008,CLNE,Closed (>40%) needleleaved evergreen forest (>5m),,,,Operational
 Tile classes and groupings,,3009,ONDE,Open (15-40%) needleleaved deciduous or evergreen forest (>5m),,,,Operational
 Tile classes and groupings,,3010,COBN,Closed to open (>15%) mixed broadleaved and needleleaved forest (>5m),,,,Operational
-Tile classes and groupings,,3011,MFSG,Mosaic forest/shrubland (50-70%) / grassland (20-50%),,,,Operational
-Tile classes and groupings,,3012,MGFS,Mosaic grassland (50-70%) / forest / shrubland (20-50%),,,,Operational
+Tile classes and groupings,,3011,MFSG,Mosaic forest/shrubland (50-70%)/grassland (20-50%),,,,Operational
+Tile classes and groupings,,3012,MGFS,Mosaic grassland (50-70%)/forest/shrubland (20-50%),,,,Operational
 Tile classes and groupings,,3013,COSH,Closed to open (>15%) shrubland (<5m),,,,Operational
 Tile classes and groupings,,3014,COHV,Closed to open (>15%) herbaceous vegetation,,,,Operational
 Tile classes and groupings,,3015,SPVE,"Sparse (<15%) vegetation (woody vegetation, shrubs, grassland)",,,,Operational
@@ -142,7 +142,7 @@ Tile classes and groupings,,4006,TMLCO,"Tree cover, mixed leaftype, closed to op
 Tile classes and groupings,,4007,TCOFF,"Tree cover, closed to open (>15%), regularly flooded, fresh or brackish water: swamp forests",,,,Operational
 Tile classes and groupings,,4008,TCOFS,"Tree cover, closed to open (>15%), regularly flooded, saline water: mangrove forests",,,,Operational
 Tile classes and groupings,,4009,MTVG,Mosaic of tree cover and other natural vegetation (crop component possible),,,,Operational
-Tile classes and groupings,,4010,TBURN,"Tree Cover, burnt (mainly boreal forests)",,,,Operational
+Tile classes and groupings,,4010,TBURN,"Tree cover, burnt (mainly boreal forests)",,,,Operational
 Tile classes and groupings,,4011,SCOE,"Shrubcover, closed to open (>15%), evergreen (broadleaved or needleleaved)",,,,Operational
 Tile classes and groupings,,4012,SCOD,"Shrubcover, closed to open (>15%), deciduous (broadleaved)",,,,Operational
 Tile classes and groupings,,4013,HCCO,"Herbaceous cover, closed to open (>15%)",,,,Operational

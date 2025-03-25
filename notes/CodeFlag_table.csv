@@ -53,7 +53,7 @@ tableNo,tableName,subTableName,noteID,notation
 4.2.0.13,Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 13: aerosols",107,n/a
 4.2.0.14,Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 14: trace gases",,
 4.2.0.15,Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",,
-4.2.0.16,Code table 4.2 - Parameter number by product discipline and parameter category,"Product Discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",41,n/a
+4.2.0.16,Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",41,n/a
 4.2.0.17,Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",,
 4.2.0.18,Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 18: nuclear/radiology",71,3
 4.2.0.19,Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",,
