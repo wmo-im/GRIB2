@@ -40413,7 +40413,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.136 - Probability forecasts of anomalies, significance and other derived products in relation to a reference period with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in at a point in time</Title_en>
 		<OctetNo>13</OctetNo>
-		<Contents_en>Background )generating process identifier (defined by originating centre)</Contents_en>
+		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
