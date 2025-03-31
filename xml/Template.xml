@@ -28023,7 +28023,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.105 - Anomalies, significance and other derived products from an analysis or forecast in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>61+(NT-1)*12</OctetNo>
-		<Contents_en>Number of additional parameter for reference period - NA</Contents_en>
+		<Contents_en>Number of additional parameters for reference period - NA</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
@@ -28033,7 +28033,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.105 - Anomalies, significance and other derived products from an analysis or forecast in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>62+(NT-1)*12+(na-1)*5</OctetNo>
-		<Contents_en>Scale factor of additional parameter for reference period</Contents_en>
+		<Contents_en>Scale factor of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -28053,7 +28053,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.105 - Anomalies, significance and other derived products from an analysis or forecast in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>(63+(NT-1)*12+(na-1)*5)-(66+(NT-1)*12+(na-1)*5)</OctetNo>
-		<Contents_en>Scaled value of additional parameter for reference period</Contents_en>
+		<Contents_en>Scaled value of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -28563,7 +28563,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.106 - Anomalies, significance and other derived products from an individual ensemble forecast, control and perturbed in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>64+(NT-1)*12</OctetNo>
-		<Contents_en>Number of additional parameter for reference period - NA</Contents_en>
+		<Contents_en>Number of additional parameters for reference period - NA</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
@@ -28573,7 +28573,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.106 - Anomalies, significance and other derived products from an individual ensemble forecast, control and perturbed in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>65+(NT-1)*12+(na-1)*5</OctetNo>
-		<Contents_en>Scale factor of additional parameter for reference period</Contents_en>
+		<Contents_en>Scale factor of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -28593,7 +28593,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.106 - Anomalies, significance and other derived products from an individual ensemble forecast, control and perturbed in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>(66+(NT-1)*12+(na-1)*5)-(69+(NT-1)*12+(na-1)*5)</OctetNo>
-		<Contents_en>Scaled value of additional parameter for reference period</Contents_en>
+		<Contents_en>Scaled value of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -29093,7 +29093,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.107 - Anomalies, significance and other derived products from derived forecasts based on all ensemble members in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>63+(NT-1)*12</OctetNo>
-		<Contents_en>Number of additional parameter for reference period - NA</Contents_en>
+		<Contents_en>Number of additional parameters for reference period - NA</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
@@ -29103,7 +29103,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.107 - Anomalies, significance and other derived products from derived forecasts based on all ensemble members in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>64+(NT-1)*12+(na-1)*5</OctetNo>
-		<Contents_en>Scale factor of additional parameter for reference period</Contents_en>
+		<Contents_en>Scale factor of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -29123,7 +29123,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.107 - Anomalies, significance and other derived products from derived forecasts based on all ensemble members in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>(65+(NT-1)*12+(na-1)*5)-(68+(NT-1)*12+(na-1)*5)</OctetNo>
-		<Contents_en>Scaled value of additional parameter for reference period</Contents_en>
+		<Contents_en>Scaled value of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -30893,7 +30893,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.112 - Anomalies, significance and other derived products as probability forecasts in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>74+(NT-1)*12</OctetNo>
-		<Contents_en>Number of additional parameter for reference period - NA</Contents_en>
+		<Contents_en>Number of additional parameters for reference period - NA</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
@@ -30903,7 +30903,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.112 - Anomalies, significance and other derived products as probability forecasts in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>75+(NT-1)*12+(na-1)*5</OctetNo>
-		<Contents_en>Scale factor of additional parameter for reference period</Contents_en>
+		<Contents_en>Scale factor of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -30923,7 +30923,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.112 - Anomalies, significance and other derived products as probability forecasts in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>(76+(NT-1)*12+(na-1)*5)-(79+(NT-1)*12+(na-1)*5)</OctetNo>
-		<Contents_en>Scaled value of additional parameter for reference period</Contents_en>
+		<Contents_en>Scaled value of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -34983,7 +34983,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.123 - Probability forecasts from large ensembles with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>79+(NT-1)*12</OctetNo>
-		<Contents_en>Number of additional parameters for reference period (NA)</Contents_en>
+		<Contents_en>Number of additional parameterss for reference period (NA)</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
@@ -34993,7 +34993,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.123 - Probability forecasts from large ensembles with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>80+(NT-1)*12+(na-1)*5</OctetNo>
-		<Contents_en>Scale factor of additional parameters for reference period</Contents_en>
+		<Contents_en>Scale factor of additional parameterss for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -35013,7 +35013,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.123 - Probability forecasts from large ensembles with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>(81+(NT-1)*12+(na-1)*5)-(84+(NT-1)*12+(na-1)*5)</OctetNo>
-		<Contents_en>Scaled value of additional parameters for reference period</Contents_en>
+		<Contents_en>Scaled value of additional parameterss for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -37183,7 +37183,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.128 - Anomalies, significance and other derived products from an analysis or forecast in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>37</OctetNo>
-		<Contents_en>Number of additional parameter for reference period (NA)</Contents_en>
+		<Contents_en>Number of additional parameters for reference period (NA)</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
@@ -37193,7 +37193,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.128 - Anomalies, significance and other derived products from an analysis or forecast in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>38+(na-1)*5</OctetNo>
-		<Contents_en>Scale factor of additional parameter for reference period</Contents_en>
+		<Contents_en>Scale factor of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -37213,7 +37213,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.128 - Anomalies, significance and other derived products from an analysis or forecast in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>(39+(na-1)*5)-(42+(na-1)*5)</OctetNo>
-		<Contents_en>Scaled value of additional parameter for reference period</Contents_en>
+		<Contents_en>Scaled value of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -37563,7 +37563,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.129 - Anomalies, significance and other derived products from an individual ensemble forecast, control and perturbed in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>40</OctetNo>
-		<Contents_en>Number of additional parameter for reference period (NA)</Contents_en>
+		<Contents_en>Number of additional parameters for reference period (NA)</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
@@ -37573,7 +37573,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.129 - Anomalies, significance and other derived products from an individual ensemble forecast, control and perturbed in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>41+(na-1)*5</OctetNo>
-		<Contents_en>Scale factor of additional parameter for reference period</Contents_en>
+		<Contents_en>Scale factor of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -37593,7 +37593,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.129 - Anomalies, significance and other derived products from an individual ensemble forecast, control and perturbed in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>(42+(na-1)*5)-(45+(na-1)*5)</OctetNo>
-		<Contents_en>Scaled value of additional parameter for reference period</Contents_en>
+		<Contents_en>Scaled value of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -37933,7 +37933,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.130 - Anomalies, significance and other derived products from derived forecasts based on all ensemble members in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>39</OctetNo>
-		<Contents_en>Number of additional parameter for reference period (NA)</Contents_en>
+		<Contents_en>Number of additional parameters for reference period (NA)</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
@@ -37943,7 +37943,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.130 - Anomalies, significance and other derived products from derived forecasts based on all ensemble members in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>40+(na-1)*5</OctetNo>
-		<Contents_en>Scale factor of additional parameter for reference period</Contents_en>
+		<Contents_en>Scale factor of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -37963,7 +37963,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.130 - Anomalies, significance and other derived products from derived forecasts based on all ensemble members in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>(41+(na-1)*5)-(44+(na-1)*5)</OctetNo>
-		<Contents_en>Scaled value of additional parameter for reference period</Contents_en>
+		<Contents_en>Scaled value of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -38353,7 +38353,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.131 - Anomalies, significance and other derived products as probability forecasts in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>50</OctetNo>
-		<Contents_en>Number of additional parameter for reference period (NA)</Contents_en>
+		<Contents_en>Number of additional parameters for reference period (NA)</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
@@ -38363,7 +38363,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.131 - Anomalies, significance and other derived products as probability forecasts in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>51+(na-1)*5</OctetNo>
-		<Contents_en>Scale factor of additional parameter for reference period</Contents_en>
+		<Contents_en>Scale factor of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -38383,7 +38383,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.131 - Anomalies, significance and other derived products as probability forecasts in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>(52+(na-1)*5)-(55+(na-1)*5)</OctetNo>
-		<Contents_en>Scaled value of additional parameter for reference period</Contents_en>
+		<Contents_en>Scaled value of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -38723,7 +38723,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.132 - Quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>41</OctetNo>
-		<Contents_en>Number of additional parameter for reference period (NA)</Contents_en>
+		<Contents_en>Number of additional parameters for reference period (NA)</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
@@ -38733,7 +38733,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.132 - Quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>42+(na-1)*5</OctetNo>
-		<Contents_en>Scale factor of additional parameter for reference period</Contents_en>
+		<Contents_en>Scale factor of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -38753,7 +38753,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.132 - Quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>(43+(na-1)*5)-(46+(na-1)*5)</OctetNo>
-		<Contents_en>Scaled value of additional parameter for reference period</Contents_en>
+		<Contents_en>Scaled value of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -39123,7 +39123,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.133 - Post-processed quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>46</OctetNo>
-		<Contents_en>Number of additional parameter for reference period (NA)</Contents_en>
+		<Contents_en>Number of additional parameters for reference period (NA)</Contents_en>
 		<Note_en>(see Note 6)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
@@ -39133,7 +39133,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.133 - Post-processed quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>47+(na-1)*5</OctetNo>
-		<Contents_en>Scale factor of additional parameter for reference period</Contents_en>
+		<Contents_en>Scale factor of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -39153,7 +39153,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.133 - Post-processed quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo>(48+(na-1)*5)-(51+(na-1)*5)</OctetNo>
-		<Contents_en>Scaled value of additional parameter for reference period</Contents_en>
+		<Contents_en>Scaled value of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -39643,7 +39643,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.134 - Quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>65+(NT-1)*12</OctetNo>
-		<Contents_en>Number of additional parameter for reference period (NA)</Contents_en>
+		<Contents_en>Number of additional parameters for reference period (NA)</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
@@ -39653,7 +39653,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.134 - Quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>66+(NT-1)*12+(na-1)*5</OctetNo>
-		<Contents_en>Scale factor of additional parameter for reference period</Contents_en>
+		<Contents_en>Scale factor of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -39673,7 +39673,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.134 - Quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>(67+(NT-1)*12+(na-1)*5)-(70+(NT-1)*12+(na-1)*5)</OctetNo>
-		<Contents_en>Scaled value of additional parameter for reference period</Contents_en>
+		<Contents_en>Scaled value of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -40193,7 +40193,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.135 - Post-processed quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>70+(NT-1)*12</OctetNo>
-		<Contents_en>Number of additional parameter for reference period (NA)</Contents_en>
+		<Contents_en>Number of additional parameters for reference period (NA)</Contents_en>
 		<Note_en>(see Note 7)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
@@ -40203,7 +40203,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.135 - Post-processed quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>71+(NT-1)*12+(na-1)*5</OctetNo>
-		<Contents_en>Scale factor of additional parameter for reference period</Contents_en>
+		<Contents_en>Scale factor of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -40223,7 +40223,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.135 - Post-processed quantile forecasts of anomalies, significance and other derived products in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>(72+(NT-1)*12+(na-1)*5)-(75+(NT-1)*12+(na-1)*5)</OctetNo>
-		<Contents_en>Scaled value of additional parameter for reference period</Contents_en>
+		<Contents_en>Scaled value of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -40643,7 +40643,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.136 - Probability forecasts of anomalies, significance and other derived products in relation to a reference period with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in at a point in time</Title_en>
 		<OctetNo>55</OctetNo>
-		<Contents_en>Number of additional parameter for reference period (NA)</Contents_en>
+		<Contents_en>Number of additional parameters for reference period (NA)</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>164</noteIDs>
 		<codeTable/>
@@ -40653,7 +40653,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.136 - Probability forecasts of anomalies, significance and other derived products in relation to a reference period with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in at a point in time</Title_en>
 		<OctetNo>56+(na-1)*5</OctetNo>
-		<Contents_en>Scale factor of additional parameter for reference period</Contents_en>
+		<Contents_en>Scale factor of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -40673,7 +40673,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.136 - Probability forecasts of anomalies, significance and other derived products in relation to a reference period with spatiotemporal processing based on focal (moving window) statistics in relation to a reference period at a horizontal level or in at a point in time</Title_en>
 		<OctetNo>(57+(na-1)*5)-(60+(na-1)*5)</OctetNo>
-		<Contents_en>Scaled value of additional parameter for reference period</Contents_en>
+		<Contents_en>Scaled value of additional parameters for reference period</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
