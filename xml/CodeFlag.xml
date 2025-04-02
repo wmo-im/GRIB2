@@ -4821,19 +4821,19 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>20</CodeFlag>
-		<MeaningParameterDescription_en>Standard deviation of sub-gridscale orography</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Standard deviation of scale orography</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>21</CodeFlag>
-		<MeaningParameterDescription_en>Angle of sub-gridscale orography</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Angle of scale orography</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>22</CodeFlag>
-		<MeaningParameterDescription_en>Slope of sub-gridscale orography</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Slope of subgrid-scale orography</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -4845,7 +4845,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>24</CodeFlag>
-		<MeaningParameterDescription_en>Anisotropy of sub-gridscale orography</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Anisotropy of subgrid-scale orography</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -16035,13 +16035,13 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.243 - Tile class</Title_en>
 		<CodeFlag>26</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic cropland (50-70%) - vegetation (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic cropland (50%-70%) - vegetation (20%-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.243 - Tile class</Title_en>
 		<CodeFlag>27</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic vegetation (50-70%) - cropland (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic vegetation (50%-70%) - cropland (20%-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -16071,13 +16071,13 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.243 - Tile class</Title_en>
 		<CodeFlag>32</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic shrubland (50-70%) - grassland (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic shrubland (50%-70%) - grassland (20%-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.243 - Tile class</Title_en>
 		<CodeFlag>33</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic grassland (50-70%) - shrubland (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic grassland (50%-70%) - shrubland (20%-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -17085,13 +17085,13 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
 		<CodeFlag>3003</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic cropland (50-70%)/vegetation (grassland, shrubland, forest) (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic cropland (50%-70%)/vegetation (grassland, shrubland, forest) (20-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
 		<CodeFlag>3004</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic vegetation (grassland, shrubland, forest) (50-70%)/cropland (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic vegetation (grassland, shrubland, forest) (50%-70%)/cropland (20%-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -17133,13 +17133,13 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
 		<CodeFlag>3011</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic forest/shrubland (50-70%)/grassland (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic forest/shrubland (50%-70%)/grassland (20%-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
 		<CodeFlag>3012</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic grassland (50-70%)/forest/shrubland (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic grassland (50%-70%)/forest/shrubland (20%-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>

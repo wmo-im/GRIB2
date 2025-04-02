@@ -802,11 +802,11 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",17,,Meridional flux of gravity wave stress,,,N m-2,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",18,,Planetary boundary layer height,,,m,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",19,,5-wave geopotential height anomaly,,,gpm,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",20,,Standard deviation of sub-gridscale orography,,,m,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",21,,Angle of sub-gridscale orography,,,rad,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",22,,Slope of sub-gridscale orography,,,Numeric,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",20,,Standard deviation of scale orography,,,m,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",21,,Angle of scale orography,,,rad,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",22,,Slope of subgrid-scale orography,,,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",23,,Gravity wave dissipation,,,W m-2,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",24,,Anisotropy of sub-gridscale orography,,,Numeric,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",24,,Anisotropy of subgrid-scale orography,,,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",25,,Natural logarithm of pressure in Pa,,,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",26,,Exner pressure,,,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",27,,Updraught mass flux,,,kg m-2 s-1,Operational
@@ -2671,14 +2671,14 @@ Code table 4.243 - Tile class,,22,,Artificial surface,,,,Operational
 Code table 4.243 - Tile class,,23,,Ocean,,,,Operational
 Code table 4.243 - Tile class,,24,,Irrigated croplands,,,,Operational
 Code table 4.243 - Tile class,,25,,Rainfed croplands,,,,Operational
-Code table 4.243 - Tile class,,26,,Mosaic cropland (50-70%) - vegetation (20-50%),,,,Operational
-Code table 4.243 - Tile class,,27,,Mosaic vegetation (50-70%) - cropland (20-50%),,,,Operational
+Code table 4.243 - Tile class,,26,,Mosaic cropland (50%-70%) - vegetation (20%-50%),,,,Operational
+Code table 4.243 - Tile class,,27,,Mosaic vegetation (50%-70%) - cropland (20%-50%),,,,Operational
 Code table 4.243 - Tile class,,28,,Closed broadleaved evergreen forest,,,,Operational
 Code table 4.243 - Tile class,,29,,Closed needle-leaved evergreen forest,,,,Operational
 Code table 4.243 - Tile class,,30,,Open needle-leaved deciduous forest,,,,Operational
 Code table 4.243 - Tile class,,31,,Mixed broadleaved and needle-leaved forest,,,,Operational
-Code table 4.243 - Tile class,,32,,Mosaic shrubland (50-70%) - grassland (20-50%),,,,Operational
-Code table 4.243 - Tile class,,33,,Mosaic grassland (50-70%) - shrubland (20-50%),,,,Operational
+Code table 4.243 - Tile class,,32,,Mosaic shrubland (50%-70%) - grassland (20%-50%),,,,Operational
+Code table 4.243 - Tile class,,33,,Mosaic grassland (50%-70%) - shrubland (20%-50%),,,,Operational
 Code table 4.243 - Tile class,,34,,Closed to open shrubland,,,,Operational
 Code table 4.243 - Tile class,,35,,Sparse vegetation,,,,Operational
 Code table 4.243 - Tile class,,36,,Closed to open forest regularly flooded,,,,Operational
@@ -2846,16 +2846,16 @@ Code table 4.252 - Tile classes and groupings,,2502,,High vegetation grouping (E
 Code table 4.252 - Tile classes and groupings,,2503-3000,,Reserved for tile grouping entries for tile models using the GLCC v2.0 BATS Classification survey,(see Note),139,,Operational
 Code table 4.252 - Tile classes and groupings,,3001,PFIC,Post-flooding or irrigated croplands,,,,Operational
 Code table 4.252 - Tile classes and groupings,,3002,RACR,Rainfed croplands,,,,Operational
-Code table 4.252 - Tile classes and groupings,,3003,MCVE,"Mosaic cropland (50-70%)/vegetation (grassland, shrubland, forest) (20-50%)",,,,Operational
-Code table 4.252 - Tile classes and groupings,,3004,MVCR,"Mosaic vegetation (grassland, shrubland, forest) (50-70%)/cropland (20-50%)",,,,Operational
+Code table 4.252 - Tile classes and groupings,,3003,MCVE,"Mosaic cropland (50%-70%)/vegetation (grassland, shrubland, forest) (20-50%)",,,,Operational
+Code table 4.252 - Tile classes and groupings,,3004,MVCR,"Mosaic vegetation (grassland, shrubland, forest) (50%-70%)/cropland (20%-50%)",,,,Operational
 Code table 4.252 - Tile classes and groupings,,3005,COBS,Closed to open (>15%) broadleaved evergreen and/or semi-deciduous forest (>5m),,,,Operational
 Code table 4.252 - Tile classes and groupings,,3006,CLBD,Closed (>40%) broadleaved deciduous forest (>5m),,,,Operational
 Code table 4.252 - Tile classes and groupings,,3007,OPBD,Open (15-40%) broadleaved deciduous forest (>5m),,,,Operational
 Code table 4.252 - Tile classes and groupings,,3008,CLNE,Closed (>40%) needleleaved evergreen forest (>5m),,,,Operational
 Code table 4.252 - Tile classes and groupings,,3009,ONDE,Open (15-40%) needleleaved deciduous or evergreen forest (>5m),,,,Operational
 Code table 4.252 - Tile classes and groupings,,3010,COBN,Closed to open (>15%) mixed broadleaved and needleleaved forest (>5m),,,,Operational
-Code table 4.252 - Tile classes and groupings,,3011,MFSG,Mosaic forest/shrubland (50-70%)/grassland (20-50%),,,,Operational
-Code table 4.252 - Tile classes and groupings,,3012,MGFS,Mosaic grassland (50-70%)/forest/shrubland (20-50%),,,,Operational
+Code table 4.252 - Tile classes and groupings,,3011,MFSG,Mosaic forest/shrubland (50%-70%)/grassland (20%-50%),,,,Operational
+Code table 4.252 - Tile classes and groupings,,3012,MGFS,Mosaic grassland (50%-70%)/forest/shrubland (20%-50%),,,,Operational
 Code table 4.252 - Tile classes and groupings,,3013,COSH,Closed to open (>15%) shrubland (<5m),,,,Operational
 Code table 4.252 - Tile classes and groupings,,3014,COHV,Closed to open (>15%) herbaceous vegetation,,,,Operational
 Code table 4.252 - Tile classes and groupings,,3015,SPVE,"Sparse (<15%) vegetation (woody vegetation, shrubs, grassland)",,,,Operational
