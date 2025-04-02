@@ -19,11 +19,11 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",17,,Meridional flux of gravity wave stress,,,N m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",18,,Planetary boundary layer height,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",19,,5-wave geopotential height anomaly,,,gpm,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",20,,Standard deviation of sub-gridscale orography,,,m,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",21,,Angle of sub-gridscale orography,,,rad,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",22,,Slope of sub-gridscale orography,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",20,,Standard deviation of scale orography,,,m,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",21,,Angle of scale orography,,,rad,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",22,,Slope of subgrid-scale orography,,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",23,,Gravity wave dissipation,,,W m-2,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",24,,Anisotropy of sub-gridscale orography,,,Numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",24,,Anisotropy of subgrid-scale orography,,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",25,,Natural logarithm of pressure in Pa,,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",26,,Exner pressure,,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",27,,Updraught mass flux,,,kg m-2 s-1,Operational

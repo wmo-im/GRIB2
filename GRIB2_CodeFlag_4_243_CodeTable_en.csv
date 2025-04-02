@@ -25,14 +25,14 @@ Tile class,,22,,Artificial surface,,,,Operational
 Tile class,,23,,Ocean,,,,Operational
 Tile class,,24,,Irrigated croplands,,,,Operational
 Tile class,,25,,Rainfed croplands,,,,Operational
-Tile class,,26,,Mosaic cropland (50-70%) - vegetation (20-50%),,,,Operational
-Tile class,,27,,Mosaic vegetation (50-70%) - cropland (20-50%),,,,Operational
+Tile class,,26,,Mosaic cropland (50%-70%) - vegetation (20%-50%),,,,Operational
+Tile class,,27,,Mosaic vegetation (50%-70%) - cropland (20%-50%),,,,Operational
 Tile class,,28,,Closed broadleaved evergreen forest,,,,Operational
 Tile class,,29,,Closed needle-leaved evergreen forest,,,,Operational
 Tile class,,30,,Open needle-leaved deciduous forest,,,,Operational
 Tile class,,31,,Mixed broadleaved and needle-leaved forest,,,,Operational
-Tile class,,32,,Mosaic shrubland (50-70%) - grassland (20-50%),,,,Operational
-Tile class,,33,,Mosaic grassland (50-70%) - shrubland (20-50%),,,,Operational
+Tile class,,32,,Mosaic shrubland (50%-70%) - grassland (20%-50%),,,,Operational
+Tile class,,33,,Mosaic grassland (50%-70%) - shrubland (20%-50%),,,,Operational
 Tile class,,34,,Closed to open shrubland,,,,Operational
 Tile class,,35,,Sparse vegetation,,,,Operational
 Tile class,,36,,Closed to open forest regularly flooded,,,,Operational
