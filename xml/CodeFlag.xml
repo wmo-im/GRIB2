@@ -4821,13 +4821,13 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>20</CodeFlag>
-		<MeaningParameterDescription_en>Standard deviation of scale orography</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Standard deviation of subgrid-scale orography</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>21</CodeFlag>
-		<MeaningParameterDescription_en>Angle of scale orography</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Angle of subgrid-scale orography</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
