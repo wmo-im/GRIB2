@@ -170,7 +170,7 @@ if __name__ == "__main__":
     fieldnames=["Title_en","SubTitle_en","CodeFlag","Value","MeaningParameterDescription_en","Note_en","noteIDs","UnitComments_en","Status"]    
     csv_writer = CSVWriter("txt/CodeFlag.txt",fieldnames)
     
-    xml_elements=["Title_en","CodeFlag","MeaningParameterDescription_en","Status"]
+    xml_elements=["Title_en","SubTitle_en","CodeFlag","MeaningParameterDescription_en","Status"]
     xml_writer = XMLWriter("xml/CodeFlag.xml",xml_elements,"GRIB2_CodeFlag_en")
 
     writers = [csv_writer,xml_writer]
