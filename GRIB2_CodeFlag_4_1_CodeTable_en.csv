@@ -81,6 +81,12 @@ Parameter category by product discipline,Product discipline 20 - Health and soci
 Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,1,,Epidemiology,,,,Operational
 Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,2,,Socioeconomic indicators,,,,Operational
 Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,3,,Renewable energy sector,,,,Operational
-Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,4-191,,Reserved,,,,Operational
+Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,4,,Meteorological and hydrological hazard indices,,,,Operational
+Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,5,,Environmental hazard indices,,,,Operational
+Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,6-191,,Reserved,,,,Operational
 Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,192-254,,Reserved for local use,,,,Operational
 Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,255,,Missing,,,,Operational
+Parameter category by product discipline,Product discipline 191 - Computational parameters,0,,Stochastic parametrizations,,,,Operational
+Parameter category by product discipline,Product discipline 191 - Computational parameters,1-191,,Reserved,,,,Operational
+Parameter category by product discipline,Product discipline 191 - Computational parameters,192-254,,Reserved for local use,,,,Operational
+Parameter category by product discipline,Product discipline 191 - Computational parameters,255,,Missing,,,,Operational

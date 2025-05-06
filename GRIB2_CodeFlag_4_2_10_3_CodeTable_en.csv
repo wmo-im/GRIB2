@@ -21,6 +21,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",19,,Sea surface height tendency due to parameterization,,,m s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",20,,Deviation of sea level from mean with inverse barometer correction,,,m,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",21,,Salinity,,,kg kg-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",22-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",22,,Downward short-wave radiation flux,,,W m-2,Operational
+Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",23-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 3: surface properties",255,,Missing,,,,Operational
