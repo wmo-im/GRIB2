@@ -380,10 +380,10 @@ Code table 4.0 - Product definition template number,,109,,"Individual ensemble f
 Code table 4.0 - Product definition template number,,110,,"Average, accumulation, extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for generic optical products",,,,Operational
 Code table 4.0 - Product definition template number,,111,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous interval for generic optical products",,,,Operational
 Code table 4.0 - Product definition template number,,112,,"Anomalies, significance and other derived products as probability forecasts in relation to a reference period at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
-Code table 4.0 - Product definition template number,,113,,Generalised tiles at a horizontal level or horizontal layer at a point in time,,,,Operational
-Code table 4.0 - Product definition template number,,114,,"Average, accumulation, and/or extreme values or other statistically processed values on generalised tiles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
-Code table 4.0 - Product definition template number,,115,,"Individual ensemble forecast, control and perturbed on generalised tiles at a horizontal level or in a horizontal layer at a point in time",,,,Operational
-Code table 4.0 - Product definition template number,,116,,"Individual ensemble forecast, control and perturbed on generalised tiles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
+Code table 4.0 - Product definition template number,,113,,Generalized tiles at a horizontal level or horizontal layer at a point in time,,,,Operational
+Code table 4.0 - Product definition template number,,114,,"Average, accumulation, and/or extreme values or other statistically processed values on generalized tiles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
+Code table 4.0 - Product definition template number,,115,,"Individual ensemble forecast, control and perturbed on generalized tiles at a horizontal level or in a horizontal layer at a point in time",,,,Operational
+Code table 4.0 - Product definition template number,,116,,"Individual ensemble forecast, control and perturbed on generalized tiles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
 Code table 4.0 - Product definition template number,,117,,"Individual large ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,,,Operational
 Code table 4.0 - Product definition template number,,118,,"Individual large ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous interval",,,,Operational
 Code table 4.0 - Product definition template number,,119,,Probability forecasts from large ensembles at a horizontal level or in a horizontal layer at a point in time,,,,Operational
@@ -824,11 +824,11 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",17,,Meridional flux of gravity wave stress,,,N m-2,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",18,,Planetary boundary layer height,,,m,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",19,,5-wave geopotential height anomaly,,,gpm,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",20,,Standard deviation of sub-grid scale orography,,,m,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",21,,Angle of sub-gridscale orography,,,rad,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",22,,Slope of sub-gridscale orography,,,Numeric,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",20,,Standard deviation of subgrid-scale orography,,,m,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",21,,Angle of subgrid-scale orography,,,rad,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",22,,Slope of subgrid-scale orography,,,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",23,,Gravity wave dissipation,,,W m-2,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",24,,Anisotropy of sub-gridscale orography,,,Numeric,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",24,,Anisotropy of subgrid-scale orography,,,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",25,,Natural logarithm of pressure in Pa,,,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",26,,Exner pressure,,,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 3: mass",27,,Updraught mass flux,,,kg m-2 s-1,Operational
@@ -1219,7 +1219,7 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 21: thermodynamic properties",255,,Missing,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",0,,Standard Precipitation Index (SPI),(see Note),147,dimensionless,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",1,,Standardized Precipitation Evapotranspiration Index (SPEI),,,dimensionless,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",2,,Standardized Streamflow index (SSFI),,,dimensionless,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",2,,Standardized Streamflow Index (SSFI),,,dimensionless,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",3,,Standardized Reservoir Supply Index (SRSI),,,dimensionless,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",4,,Standardized Water-level Index (SWI),,,dimensionless,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",5,,Standardized Snowmelt and Rain Index (SMRI),,,dimensionless,Operational
@@ -1283,7 +1283,7 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",8,,"Land cover (0 = water, 1 = land)",,,Proportion,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",9,,Shape factor with respect to salinity profile,,,-,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",10,,Shape factor with respect to temperature profile in thermocline,,,-,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",11,,Attenuation coefficient of water with respect to solar radiation,,,m,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",11,,Attenuation coefficient of water with respect to solar radiation,,,m-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",12,,Salinity,,,kg/kg,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",13,,Cross-sectional area of flow in channel,,,m2,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",14,,Snow temperature,,,K,Operational
@@ -1291,7 +1291,7 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",16,,River depth,,,m,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",17,,Floodplain depth,,,m,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",18,,Floodplain flooded fraction,,,proportion,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",19,,FLoodplain flooded area,,,m2,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",19,,Floodplain flooded area,,,m2,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",20,,River fraction,,,proportion,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",21,,River area,,,m2,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 2: inland water and sediment properties",22,,Fraction of river coverage plus river related flooding,,,proportion,Operational
@@ -1898,24 +1898,24 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",31,,Fresh water flux correction,,,kg m-2 s-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",32,,Virtual salt flux into sea water,,,g kg-1 m-2 s-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",33,,Virtual salt flux correction,,,g kg-1 m-2 s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",34,,Sea water temperature tendency due to Newtonian relaxation,,,K s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",35,,Sea water salinity tendency due to Newtonian relaxation,,,g kg-1 s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",36,,Sea water temperature tendency due to parameterization,,,K s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",37,,Sea water salinity tendency due to parameterization,,,g kg-1 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",34,,Seawater temperature tendency due to Newtonian relaxation,,,K s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",35,,Seawater salinity tendency due to Newtonian relaxation,,,g kg-1 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",36,,Seawater temperature tendency due to parameterization,,,K s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",37,,Seawater salinity tendency due to parameterization,,,g kg-1 s-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",38,,Eastward sea water velocity tendency due to parameterization,,,m s-2,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",39,,Northward sea water velocity tendency due to parameterization,,,m s-2,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",40,,Sea water temperature tendency due to direct bias correction,,,K s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",41,,Sea water salinity tendency due to direct bias correction,,,g kg-1 s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",42,,Sea water meridional volume transport,,,m3 m-2 s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",43,,Sea water zonal volume transport,,,m3 m-2 s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",44,,Sea water column integrated meridional volume transport,,,m3 m-1 s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",45,,Sea water column integrated zonal volume transport,,,m3 m-1 s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",46,,Sea water meridional mass transport,,,kg m-2 s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",47,,Sea water zonal mass transport,,,kg m-2 s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",48,,Sea water column integrated meridional mass transport,,,kg m-1 s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",49,,Sea water column integrated zonal mass transport,,,kg m-1 s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",50,,Sea water column integrated practical salinity,,,g kg-1 m,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",51,,Sea water column integrated salinity,,,kg kg-1 m,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",40,,Seawater temperature tendency due to direct bias correction,,,K s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",41,,Seawater salinity tendency due to direct bias correction,,,g kg-1 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",42,,Seawater meridional volume transport,,,m3 m-2 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",43,,Seawater zonal volume transport,,,m3 m-2 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",44,,Seawater column integrated meridional volume transport,,,m3 m-1 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",45,,Seawater column integrated zonal volume transport,,,m3 m-1 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",46,,Seawater meridional mass transport,,,kg m-2 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",47,,Seawater zonal mass transport,,,kg m-2 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",48,,Seawater column integrated meridional mass transport,,,kg m-1 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",49,,Seawater column integrated zonal mass transport,,,kg m-1 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",50,,Seawater column integrated practical salinity,,,g kg-1 m,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",51,,Seawater column integrated salinity,,,kg kg-1 m,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",52,,Mixed layer depth,,,m,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",53,,Normal component of water velocity,(see Note 3),163,m s-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",54,,Tangential component of water velocity,(see Note 3),163,m s-1,Operational
@@ -2377,13 +2377,13 @@ Code table 4.102 - Statistical processing of reference period,,5-19,,Reserved,,,
 Code table 4.102 - Statistical processing of reference period,,20,,Model Climate,,,,Operational
 Code table 4.102 - Statistical processing of reference period,,21,,Index based on normal distribution,,,,Operational
 Code table 4.102 - Statistical processing of reference period,,22,,Index based on log-normal distribution,,,,Operational
-Code table 4.102 - Statistical processing of reference period,,23,,Index based on generalised log-normal distribution,,,,Operational
+Code table 4.102 - Statistical processing of reference period,,23,,Index based on generalized log-normal distribution,,,,Operational
 Code table 4.102 - Statistical processing of reference period,,24,,Index based on gamma distribution,,,,Operational
 Code table 4.102 - Statistical processing of reference period,,25,,Index based on logistic distribution,,,,Operational
 Code table 4.102 - Statistical processing of reference period,,26,,Index based on log-logistic distribution,,,,Operational
-Code table 4.102 - Statistical processing of reference period,,27,,Index based on generalised logistic distribution,,,,Operational
+Code table 4.102 - Statistical processing of reference period,,27,,Index based on generalized logistic distribution,,,,Operational
 Code table 4.102 - Statistical processing of reference period,,28,,Index based on Weibull distribution,,,,Operational
-Code table 4.102 - Statistical processing of reference period,,29,,Index based on generalised extreme value distribution,,,,Operational
+Code table 4.102 - Statistical processing of reference period,,29,,Index based on generalized extreme value distribution,,,,Operational
 Code table 4.102 - Statistical processing of reference period,,30,,Index based on Pearson III distribution,,,,Operational
 Code table 4.102 - Statistical processing of reference period,,31,,Index based on empirical distribution,,,,Operational
 Code table 4.102 - Statistical processing of reference period,,32-191,,Reserved,,,,Operational
@@ -2392,7 +2392,7 @@ Code table 4.102 - Statistical processing of reference period,,255,,Missing,,,,O
 Code table 4.103 - Spatial vicinity type,,0,,Circle [m],(see Note),152,,Operational
 Code table 4.103 - Spatial vicinity type,,1,,"Rectangle [m,m]",(see Note),152,,Operational
 Code table 4.103 - Spatial vicinity type,,2,,Square [m],(see Note),152,,Operational
-Code table 4.103 - Spatial vicinity type,,3,,"Wedge [m, degree, degree]",(see Note),152,,Operational
+Code table 4.103 - Spatial vicinity type,,3,,"Wedge [m,degree,degree]",(see Note),152,,Operational
 Code table 4.103 - Spatial vicinity type,,4,,"Span of grid boxes centered around grid box i,j [x,y]",(see Note),152,,Operational
 Code table 4.103 - Spatial vicinity type,,5-191,,Reserved,,,,Operational
 Code table 4.103 - Spatial vicinity type,,192-254,,Reserved for local use,,,,Operational
@@ -2787,7 +2787,7 @@ Code table 4.238 - Source or sink,,26,,Road transportation,,,,Operational
 Code table 4.238 - Source or sink,,27,,Off-road transportation,,,,Operational
 Code table 4.238 - Source or sink,,28,,Nuclear power plant,,,,Operational
 Code table 4.238 - Source or sink,,29,,Nuclear weapon,,,,Operational
-Code table 4.238 - Source or sink,,30,,Commercial buildings heating,,,,Operational
+Code table 4.238 - Source or sink,,30,,Commercial building heating,,,,Operational
 Code table 4.238 - Source or sink,,31,,Residential heating,,,,Operational
 Code table 4.238 - Source or sink,,32,,Oil refineries and transformation industry,,,,Operational
 Code table 4.238 - Source or sink,,33,,Gas production,,,,Operational
@@ -2878,14 +2878,14 @@ Code table 4.243 - Tile class,,22,,Artificial surface,,,,Operational
 Code table 4.243 - Tile class,,23,,Ocean,,,,Operational
 Code table 4.243 - Tile class,,24,,Irrigated croplands,,,,Operational
 Code table 4.243 - Tile class,,25,,Rainfed croplands,,,,Operational
-Code table 4.243 - Tile class,,26,,Mosaic cropland (50-70%) - vegetation (20-50%),,,,Operational
-Code table 4.243 - Tile class,,27,,Mosaic vegetation (50-70%) - cropland (20-50%),,,,Operational
+Code table 4.243 - Tile class,,26,,Mosaic cropland (50%-70%) - vegetation (20%-50%),,,,Operational
+Code table 4.243 - Tile class,,27,,Mosaic vegetation (50%-70%) - cropland (20%-50%),,,,Operational
 Code table 4.243 - Tile class,,28,,Closed broadleaved evergreen forest,,,,Operational
 Code table 4.243 - Tile class,,29,,Closed needle-leaved evergreen forest,,,,Operational
 Code table 4.243 - Tile class,,30,,Open needle-leaved deciduous forest,,,,Operational
 Code table 4.243 - Tile class,,31,,Mixed broadleaved and needle-leaved forest,,,,Operational
-Code table 4.243 - Tile class,,32,,Mosaic shrubland (50-70%) - grassland (20-50%),,,,Operational
-Code table 4.243 - Tile class,,33,,Mosaic grassland (50-70%) - shrubland (20-50%),,,,Operational
+Code table 4.243 - Tile class,,32,,Mosaic shrubland (50%-70%) - grassland (20%-50%),,,,Operational
+Code table 4.243 - Tile class,,33,,Mosaic grassland (50%-70%) - shrubland (20%-50%),,,,Operational
 Code table 4.243 - Tile class,,34,,Closed to open shrubland,,,,Operational
 Code table 4.243 - Tile class,,35,,Sparse vegetation,,,,Operational
 Code table 4.243 - Tile class,,36,,Closed to open forest regularly flooded,,,,Operational
@@ -3053,16 +3053,16 @@ Code table 4.252 - Tile classes and groupings,,2502,,High vegetation grouping (E
 Code table 4.252 - Tile classes and groupings,,2503-3000,,Reserved for tile grouping entries for tile models using the GLCC v2.0 BATS Classification survey,(see Note),139,,Operational
 Code table 4.252 - Tile classes and groupings,,3001,PFIC,Post-flooding or irrigated croplands,,,,Operational
 Code table 4.252 - Tile classes and groupings,,3002,RACR,Rainfed croplands,,,,Operational
-Code table 4.252 - Tile classes and groupings,,3003,MCVE,"Mosaic cropland (50-70%) / vegetation (grassland, shrubland, forest) (20-50%)",,,,Operational
-Code table 4.252 - Tile classes and groupings,,3004,MVCR,"Mosaic vegetation (grassland, shrubland, forest) (50-70%) / cropland (20-50%)",,,,Operational
+Code table 4.252 - Tile classes and groupings,,3003,MCVE,"Mosaic cropland (50%-70%)/vegetation (grassland, shrubland, forest) (20-50%)",,,,Operational
+Code table 4.252 - Tile classes and groupings,,3004,MVCR,"Mosaic vegetation (grassland, shrubland, forest) (50%-70%)/cropland (20%-50%)",,,,Operational
 Code table 4.252 - Tile classes and groupings,,3005,COBS,Closed to open (>15%) broadleaved evergreen and/or semi-deciduous forest (>5m),,,,Operational
 Code table 4.252 - Tile classes and groupings,,3006,CLBD,Closed (>40%) broadleaved deciduous forest (>5m),,,,Operational
 Code table 4.252 - Tile classes and groupings,,3007,OPBD,Open (15-40%) broadleaved deciduous forest (>5m),,,,Operational
 Code table 4.252 - Tile classes and groupings,,3008,CLNE,Closed (>40%) needleleaved evergreen forest (>5m),,,,Operational
 Code table 4.252 - Tile classes and groupings,,3009,ONDE,Open (15-40%) needleleaved deciduous or evergreen forest (>5m),,,,Operational
 Code table 4.252 - Tile classes and groupings,,3010,COBN,Closed to open (>15%) mixed broadleaved and needleleaved forest (>5m),,,,Operational
-Code table 4.252 - Tile classes and groupings,,3011,MFSG,Mosaic forest/shrubland (50-70%) / grassland (20-50%),,,,Operational
-Code table 4.252 - Tile classes and groupings,,3012,MGFS,Mosaic grassland (50-70%) / forest / shrubland (20-50%),,,,Operational
+Code table 4.252 - Tile classes and groupings,,3011,MFSG,Mosaic forest/shrubland (50%-70%)/grassland (20%-50%),,,,Operational
+Code table 4.252 - Tile classes and groupings,,3012,MGFS,Mosaic grassland (50%-70%)/forest/shrubland (20%-50%),,,,Operational
 Code table 4.252 - Tile classes and groupings,,3013,COSH,Closed to open (>15%) shrubland (<5m),,,,Operational
 Code table 4.252 - Tile classes and groupings,,3014,COHV,Closed to open (>15%) herbaceous vegetation,,,,Operational
 Code table 4.252 - Tile classes and groupings,,3015,SPVE,"Sparse (<15%) vegetation (woody vegetation, shrubs, grassland)",,,,Operational
@@ -3085,7 +3085,7 @@ Code table 4.252 - Tile classes and groupings,,4006,TMLCO,"Tree cover, mixed lea
 Code table 4.252 - Tile classes and groupings,,4007,TCOFF,"Tree cover, closed to open (>15%), regularly flooded, fresh or brackish water: swamp forests",,,,Operational
 Code table 4.252 - Tile classes and groupings,,4008,TCOFS,"Tree cover, closed to open (>15%), regularly flooded, saline water: mangrove forests",,,,Operational
 Code table 4.252 - Tile classes and groupings,,4009,MTVG,Mosaic of tree cover and other natural vegetation (crop component possible),,,,Operational
-Code table 4.252 - Tile classes and groupings,,4010,TBURN,"Tree Cover, burnt (mainly boreal forests)",,,,Operational
+Code table 4.252 - Tile classes and groupings,,4010,TBURN,"Tree cover, burnt (mainly boreal forests)",,,,Operational
 Code table 4.252 - Tile classes and groupings,,4011,SCOE,"Shrubcover, closed to open (>15%), evergreen (broadleaved or needleleaved)",,,,Operational
 Code table 4.252 - Tile classes and groupings,,4012,SCOD,"Shrubcover, closed to open (>15%), deciduous (broadleaved)",,,,Operational
 Code table 4.252 - Tile classes and groupings,,4013,HCCO,"Herbaceous cover, closed to open (>15%)",,,,Operational

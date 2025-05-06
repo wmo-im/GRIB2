@@ -2289,25 +2289,25 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<CodeFlag>113</CodeFlag>
-		<MeaningParameterDescription_en>Generalised tiles at a horizontal level or horizontal layer at a point in time</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Generalized tiles at a horizontal level or horizontal layer at a point in time</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<CodeFlag>114</CodeFlag>
-		<MeaningParameterDescription_en>Average, accumulation, and/or extreme values or other statistically processed values on generalised tiles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Average, accumulation, and/or extreme values or other statistically processed values on generalized tiles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<CodeFlag>115</CodeFlag>
-		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed on generalised tiles at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed on generalized tiles at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<CodeFlag>116</CodeFlag>
-		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed on generalised tiles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed on generalized tiles at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -4953,19 +4953,19 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>20</CodeFlag>
-		<MeaningParameterDescription_en>Standard deviation of sub-grid scale orography</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Standard deviation of subgrid-scale orography</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>21</CodeFlag>
-		<MeaningParameterDescription_en>Angle of sub-gridscale orography</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Angle of subgrid-scale orography</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>22</CodeFlag>
-		<MeaningParameterDescription_en>Slope of sub-gridscale orography</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Slope of subgrid-scale orography</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -4977,7 +4977,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>24</CodeFlag>
-		<MeaningParameterDescription_en>Anisotropy of sub-gridscale orography</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Anisotropy of subgrid-scale orography</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -7323,7 +7323,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>2</CodeFlag>
-		<MeaningParameterDescription_en>Standardized Streamflow index (SSFI)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Standardized Streamflow Index (SSFI)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -7755,7 +7755,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>19</CodeFlag>
-		<MeaningParameterDescription_en>FLoodplain flooded area</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Floodplain flooded area</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -11397,25 +11397,25 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>34</CodeFlag>
-		<MeaningParameterDescription_en>Sea water temperature tendency due to Newtonian relaxation</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater temperature tendency due to Newtonian relaxation</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>35</CodeFlag>
-		<MeaningParameterDescription_en>Sea water salinity tendency due to Newtonian relaxation</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater salinity tendency due to Newtonian relaxation</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>36</CodeFlag>
-		<MeaningParameterDescription_en>Sea water temperature tendency due to parameterization</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater temperature tendency due to parameterization</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>37</CodeFlag>
-		<MeaningParameterDescription_en>Sea water salinity tendency due to parameterization</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater salinity tendency due to parameterization</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -11433,73 +11433,73 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>40</CodeFlag>
-		<MeaningParameterDescription_en>Sea water temperature tendency due to direct bias correction</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater temperature tendency due to direct bias correction</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>41</CodeFlag>
-		<MeaningParameterDescription_en>Sea water salinity tendency due to direct bias correction</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater salinity tendency due to direct bias correction</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>42</CodeFlag>
-		<MeaningParameterDescription_en>Sea water meridional volume transport</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater meridional volume transport</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>43</CodeFlag>
-		<MeaningParameterDescription_en>Sea water zonal volume transport</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater zonal volume transport</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>44</CodeFlag>
-		<MeaningParameterDescription_en>Sea water column integrated meridional volume transport</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater column integrated meridional volume transport</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>45</CodeFlag>
-		<MeaningParameterDescription_en>Sea water column integrated zonal volume transport</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater column integrated zonal volume transport</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>46</CodeFlag>
-		<MeaningParameterDescription_en>Sea water meridional mass transport</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater meridional mass transport</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>47</CodeFlag>
-		<MeaningParameterDescription_en>Sea water zonal mass transport</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater zonal mass transport</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>48</CodeFlag>
-		<MeaningParameterDescription_en>Sea water column integrated meridional mass transport</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater column integrated meridional mass transport</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>49</CodeFlag>
-		<MeaningParameterDescription_en>Sea water column integrated zonal mass transport</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater column integrated zonal mass transport</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>50</CodeFlag>
-		<MeaningParameterDescription_en>Sea water column integrated practical salinity</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater column integrated practical salinity</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>51</CodeFlag>
-		<MeaningParameterDescription_en>Sea water column integrated salinity</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Seawater column integrated salinity</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -14271,7 +14271,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
 		<CodeFlag>23</CodeFlag>
-		<MeaningParameterDescription_en>Index based on generalised log-normal distribution</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Index based on generalized log-normal distribution</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -14295,7 +14295,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
 		<CodeFlag>27</CodeFlag>
-		<MeaningParameterDescription_en>Index based on generalised logistic distribution</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Index based on generalized logistic distribution</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -14307,7 +14307,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.102 - Statistical processing of reference period</Title_en>
 		<CodeFlag>29</CodeFlag>
-		<MeaningParameterDescription_en>Index based on generalised extreme value distribution</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Index based on generalized extreme value distribution</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -14361,7 +14361,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.103 - Spatial vicinity type</Title_en>
 		<CodeFlag>3</CodeFlag>
-		<MeaningParameterDescription_en>Wedge [m, degree, degree]</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Wedge [m,degree,degree]</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -16731,7 +16731,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.238 - Source or sink</Title_en>
 		<CodeFlag>30</CodeFlag>
-		<MeaningParameterDescription_en>Commercial buildings heating</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Commercial building heating</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -17277,13 +17277,13 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.243 - Tile class</Title_en>
 		<CodeFlag>26</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic cropland (50-70%) - vegetation (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic cropland (50%-70%) - vegetation (20%-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.243 - Tile class</Title_en>
 		<CodeFlag>27</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic vegetation (50-70%) - cropland (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic vegetation (50%-70%) - cropland (20%-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -17313,13 +17313,13 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.243 - Tile class</Title_en>
 		<CodeFlag>32</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic shrubland (50-70%) - grassland (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic shrubland (50%-70%) - grassland (20%-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.243 - Tile class</Title_en>
 		<CodeFlag>33</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic grassland (50-70%) - shrubland (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic grassland (50%-70%) - shrubland (20%-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -18327,13 +18327,13 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
 		<CodeFlag>3003</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic cropland (50-70%) / vegetation (grassland, shrubland, forest) (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic cropland (50%-70%)/vegetation (grassland, shrubland, forest) (20-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
 		<CodeFlag>3004</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic vegetation (grassland, shrubland, forest) (50-70%) / cropland (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic vegetation (grassland, shrubland, forest) (50%-70%)/cropland (20%-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -18375,13 +18375,13 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
 		<CodeFlag>3011</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic forest/shrubland (50-70%) / grassland (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic forest/shrubland (50%-70%)/grassland (20%-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
 		<CodeFlag>3012</CodeFlag>
-		<MeaningParameterDescription_en>Mosaic grassland (50-70%) / forest / shrubland (20-50%)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Mosaic grassland (50%-70%)/forest/shrubland (20%-50%)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -18519,7 +18519,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.252 - Tile classes and groupings</Title_en>
 		<CodeFlag>4010</CodeFlag>
-		<MeaningParameterDescription_en>Tree Cover, burnt (mainly boreal forests)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Tree cover, burnt (mainly boreal forests)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
