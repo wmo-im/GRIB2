@@ -1,7 +1,7 @@
 Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",0,,Standard Precipitation Index (SPI),(see Note),147,dimensionless,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",1,,Standardized Precipitation Evapotranspiration Index (SPEI),,,dimensionless,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",2,,Standardized Streamflow index (SSFI),,,dimensionless,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",2,,Standardized Streamflow Index (SSFI),,,dimensionless,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",3,,Standardized Reservoir Supply Index (SRSI),,,dimensionless,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",4,,Standardized Water-level Index (SWI),,,dimensionless,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 22: drought indices",5,,Standardized Snowmelt and Rain Index (SMRI),,,dimensionless,Operational
