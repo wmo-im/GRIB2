@@ -14709,7 +14709,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.121 - Type of reference dataset for verification</Title_en>
 		<CodeFlag>1</CodeFlag>
-		<MeaningParameterDescription_en>	Analysis with forecast interpolated on analysis grid</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Analysis with forecast interpolated on analysis grid</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>

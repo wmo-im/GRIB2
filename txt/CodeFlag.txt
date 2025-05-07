@@ -2450,7 +2450,7 @@ Code table 4.120 - Verification scores,,106-62999,,Reserved,,,,Operational
 Code table 4.120 - Verification scores,,63000-65534,,Reserved for local use,,,,Operational
 Code table 4.120 - Verification scores,,65535,,Missing,,,,Operational
 Code table 4.121 - Type of reference dataset for verification,,0,,Analysis interpolated on forecast grid,,,,Operational
-Code table 4.121 - Type of reference dataset for verification,,1,,	Analysis with forecast interpolated on analysis grid,,,,Operational
+Code table 4.121 - Type of reference dataset for verification,,1,,Analysis with forecast interpolated on analysis grid,,,,Operational
 Code table 4.121 - Type of reference dataset for verification,,2,,Analysis interpolated on a common grid with the forecast but different to original grid,,,,Operational
 Code table 4.121 - Type of reference dataset for verification,,3,,Gridded observation on forecast grid,,,,Operational
 Code table 4.121 - Type of reference dataset for verification,,4,,Gridded observation with forecast interpolated on observation grid,,,,Operational
