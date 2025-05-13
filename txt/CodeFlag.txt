@@ -64,7 +64,9 @@ Code table 1.3 - Production status of data,,10,,Copernicus regional reanalysis,,
 Code table 1.3 - Production status of data,,11,,Copernicus regional reanalysis test,,,,Operational
 Code table 1.3 - Production status of data,,12,,Destination Earth,,,,Operational
 Code table 1.3 - Production status of data,,13,,Destination Earth test,,,,Operational
-Code table 1.3 - Production status of data,,14-191,,Reserved,,,,Operational
+Code table 1.3 - Production status of data,,14,,Lead Centre for Global Climate Reanalyses (LC-GCR),,,,Operational
+Code table 1.3 - Production status of data,,15,,Lead Centre for Global Climate Reanalyses (LC-GCR) test,,,,Operational
+Code table 1.3 - Production status of data,,16-191,,Reserved,,,,Operational
 Code table 1.3 - Production status of data,,192-254,,Reserved for local use,,,,Operational
 Code table 1.3 - Production status of data,,255,,Missing,,,,Operational
 Code table 1.4 - Type of data,,0,,Analysis products,,,,Operational
