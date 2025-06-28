@@ -6,6 +6,8 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",4,,Reflectivity,,,dB,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",5,,Composite reflectivity,,,dB,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",6,,Precipitation rate,,,kg m-2 s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",7-191,,Reserved,,,,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",7,,Layer-maximum precipitation rate,,,kg m-2 s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",8,,Layer-maximum reflectivity,,,dB,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",9-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",255,,Missing,,,,Operational
