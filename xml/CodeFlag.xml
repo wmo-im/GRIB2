@@ -10772,6 +10772,18 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>101</CodeFlag>
+		<MeaningParameterDescription_en>U component of atmospheric surface momentum flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<CodeFlag>101</CodeFlag>
+		<MeaningParameterDescription_en>V component of atmospheric surface momentum flux</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<CodeFlag>103-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
