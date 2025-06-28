@@ -290,7 +290,13 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 1.2 - Significance of reference time</Title_en>
-		<CodeFlag>6-191</CodeFlag>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>Start of data assimilation</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 1.2 - Significance of reference time</Title_en>
+		<CodeFlag>7-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
