@@ -5,6 +5,7 @@ Significance of reference time,,2,,Verifying time of forecast,,,,Operational
 Significance of reference time,,3,,Observation time,,,,Operational
 Significance of reference time,,4,,Local time,,,,Operational
 Significance of reference time,,5,,Simulation start,(see Note),150,,Operational
-Significance of reference time,,6-191,,Reserved,,,,Operational
+Significance of reference time,,6,,Start of data assimilation,,,,Operational
+Significance of reference time,,7-191,,Reserved,,,,Operational
 Significance of reference time,,192-254,,Reserved for local use,,,,Operational
 Significance of reference time,,255,,Missing,,,,Operational
