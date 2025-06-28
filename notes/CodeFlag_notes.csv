@@ -177,3 +177,7 @@ noteID,note
 180,"Crest-trough correlation is an estimate of the auto-correlation between the crest heights and the trough depths. In narrow-banded seas this parameter is quite high, because crests and troughs are approximately the same size. Gemmrich, J., Cicon, L. Generation mechanism and prediction of an observed extreme rogue wave. Sci Rep 12, 1718 (2022). https://doi.org/10.1038/s41598-022-05671-4"
 181,"This is a metric that quantifies the wave-induced mechanical fatigue on the sea-ice pack (0 means broken, 1 means solid). This metric only makes sense in the presence of sea ice."
 182,"The x- and y- components of the wave radiative stress to sea-ice are not necessarily equivalent to the u- and v- components (eastward/northward). The x- and y- components strictly follow the defined coordinate system which may or may not follow the eastward and northward directions."
+315a,"Water surface elevation in the river and floodplains defined by the model as base elevation."
+315b,"Water flow from the groundwater storage to the main river channel."
+315c,"The amount of water stored in the main river channel and on the floodplain within a grid cell. The term storage refers to the total volume of water. This entry is the sum of entries 11 and 12."
+315d,"River flow velocity computed along the river network. Represents the mean speed of water movement in a cross-section of the river channel."
