@@ -2547,13 +2547,13 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<CodeFlag>154</CodeFlag>
-		<MeaningParameterDescription_en>Individual large ensemble re-forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<CodeFlag>155</CodeFlag>
-		<MeaningParameterDescription_en>Individual large ensemble re-forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
