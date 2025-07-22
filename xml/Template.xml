@@ -46733,7 +46733,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.152 - Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents</Title_en>
 		<OctetNo>21-24</OctetNo>
-		<Contents_en>Forecast time in units defined by octet 18</Contents_en>
+		<Contents_en>Forecast time in units defined by octet 20</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
