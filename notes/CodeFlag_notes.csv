@@ -177,3 +177,5 @@ noteID,note
 180,"Crest-trough correlation is an estimate of the auto-correlation between the crest heights and the trough depths. In narrow-banded seas this parameter is quite high, because crests and troughs are approximately the same size. Gemmrich, J., Cicon, L. Generation mechanism and prediction of an observed extreme rogue wave. Sci Rep 12, 1718 (2022). https://doi.org/10.1038/s41598-022-05671-4"
 181,"This is a metric that quantifies the wave-induced mechanical fatigue on the sea-ice pack (0 means broken, 1 means solid). This metric only makes sense in the presence of sea ice."
 182,"The x- and y- components of the wave radiative stress to sea-ice are not necessarily equivalent to the u- and v- components (eastward/northward). The x- and y- components strictly follow the defined coordinate system which may or may not follow the eastward and northward directions."
+GRIB-312-1,"Mean mass diameter is the diameter of a particle representing the mean mass of the particle size distribution."
+GRIB-312-2,"Estimated maximum diameter is the empirical estimate of the maximum particle size, based on a particle size distribution or its moments."
