@@ -181,3 +181,5 @@ noteID,note
 315b,"Water flow from the groundwater storage to the main river channel."
 315c,"The amount of water stored in the main river channel and on the floodplain within a grid cell. The term storage refers to the total volume of water. This entry is the sum of entries 11 and 12."
 315d,"River flow velocity computed along the river network. It represents the mean speed of water movement in a cross-section of the river channel."
+GRIB-312-1,"Mean mass diameter is the diameter of a particle representing the mean mass of the particle size distribution."
+GRIB-312-2,"Estimated maximum diameter is the empirical estimate of the maximum particle size, based on a particle size distribution or its moments."
