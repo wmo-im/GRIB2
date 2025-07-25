@@ -404,7 +404,19 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 1.3 - Production status of data</Title_en>
-		<CodeFlag>16-191</CodeFlag>
+		<CodeFlag>16</CodeFlag>
+		<MeaningParameterDescription_en>Machine Learning Model Intercomparison Project (MLMIP)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 1.3 - Production status of data</Title_en>
+		<CodeFlag>17</CodeFlag>
+		<MeaningParameterDescription_en>Machine Learning Model Intercomparison Project (MLMIP) test</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 1.3 - Production status of data</Title_en>
+		<CodeFlag>18-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
