@@ -47312,7 +47312,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.153 - Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval for atmospheric chemical constituents</Title_en>
-		<OctetNo>83-nn</OctetNo>
+		<OctetNo>89-nn</OctetNo>
 		<Contents_en>Additional time range specifications, included in accordance with the value of n. Contents as octets 65 to 76, repeated as necessary</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -47972,7 +47972,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.155 - Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval</Title_en>
-		<OctetNo>81-nn</OctetNo>
+		<OctetNo>87-nn</OctetNo>
 		<Contents_en>Additional time range specifications, included in accordance with the value of n. Contents as octets 63 to 74, repeated as necessary</Contents_en>
 		<Note_en/>
 		<noteIDs/>
