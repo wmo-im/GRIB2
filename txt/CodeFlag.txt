@@ -47,7 +47,8 @@ Code table 1.2 - Significance of reference time,,2,,Verifying time of forecast,,
 Code table 1.2 - Significance of reference time,,3,,Observation time,,,,Operational
 Code table 1.2 - Significance of reference time,,4,,Local time,,,,Operational
 Code table 1.2 - Significance of reference time,,5,,Simulation start,(see Note),150,,Operational
-Code table 1.2 - Significance of reference time,,6-191,,Reserved,,,,Operational
+Code table 1.2 - Significance of reference time,,6,,Start of data assimilation,,,,Operational
+Code table 1.2 - Significance of reference time,,7-191,,Reserved,,,,Operational
 Code table 1.2 - Significance of reference time,,192-254,,Reserved for local use,,,,Operational
 Code table 1.2 - Significance of reference time,,255,,Missing,,,,Operational
 Code table 1.3 - Production status of data,,0,,Operational products,,,,Operational
@@ -66,7 +67,9 @@ Code table 1.3 - Production status of data,,12,,Destination Earth,,,,Operational
 Code table 1.3 - Production status of data,,13,,Destination Earth test,,,,Operational
 Code table 1.3 - Production status of data,,14,,Lead Centre for Global Climate Reanalyses (LC-GCR),,,,Operational
 Code table 1.3 - Production status of data,,15,,Lead Centre for Global Climate Reanalyses (LC-GCR) test,,,,Operational
-Code table 1.3 - Production status of data,,16-191,,Reserved,,,,Operational
+Code table 1.3 - Production status of data,,16,,Machine Learning Model Intercomparison Project (MLMIP),,,,Operational
+Code table 1.3 - Production status of data,,17,,Machine Learning Model Intercomparison Project (MLMIP) test,,,,Operational
+Code table 1.3 - Production status of data,,18-191,,Reserved,,,,Operational
 Code table 1.3 - Production status of data,,192-254,,Reserved for local use,,,,Operational
 Code table 1.3 - Production status of data,,255,,Missing,,,,Operational
 Code table 1.4 - Type of data,,0,,Analysis products,,,,Operational
@@ -730,7 +733,9 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",167,,Total column supercooled liquid water,,,kg m-2,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",168,,Saturation specific humidity with respect to water,,,kg m-3,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",169,,Total column integrated saturation specific humidity with respect to water,,,kg m-2,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",170-191,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",170,,Mean mass diameter of hail,(see Note 10),GRIB-312-1,m,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",171,,Estimated maximum diameter of hail,(see Note 11),GRIB-312-2,m,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",172-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 1: moisture",255,,Missing,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",0,,Wind direction (from which blowing),,,degree true,Operational
@@ -1013,7 +1018,8 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",17,,Precipitation rate,,,kg m-2 s-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",18,,Radar data quality index,(see Note 2),175,proportion,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",19,,Radar data quality flag,,,Code Table 4.106,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",20-191,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",20,,Layer-maximum precipitation rate,,,kg m-2 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",21-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",255,,Missing,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",0,,Equivalent radar reflectivity factor for rain,,,mm6 m-3,Operational
@@ -1023,7 +1029,9 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",4,,Reflectivity,,,dB,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",5,,Composite reflectivity,,,dB,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",6,,Precipitation rate,,,kg m-2 s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",7-191,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",7,,Layer-maximum precipitation rate,,,kg m-2 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",8,,Layer-maximum reflectivity,,,dB,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",9-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",255,,Missing,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",0,,Lightning strike density,,,m-2 s-1,Operational
@@ -1117,7 +1125,8 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",49,,Base of persistent contrails,,,m,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",50,,Convectively-induced turbulence (CIT) (eddy dissipation rate),,,m2/3 s-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",51,,Visibility through precipitation,,,m,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",52-191,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",52,,Hail kinetic energy flux,,,J m-2 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",53-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties",255,,Missing,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",0,,Mass density (concentration),,,kg m-3,Operational
@@ -1139,7 +1148,8 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",16,,Mass mixing ratio with respect to dry air,,,kg/kg,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",17,,Mass mixing ratio with respect to wet air,,,kg/kg,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",18,,Potential of hydrogen (pH),,,pH,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",19-49,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",19,,Loss rate due to reaction with hydroxyl radical (OH),,,kg kg-1 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",20-49,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",50,,Amount in atmosphere,,,mol,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",51,,Concentration in air,,,mol m-3,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",52,,Volume mixing ratio (fraction in air),,,mol/mol,Operational
@@ -1265,7 +1275,11 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",18,,Floodplain outflow of water,,,m3 s-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",19,,Floodpath outflow of water,,,m3 s-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",20,,Water on surface,,,kg m-2,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",21-191,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",21,,Water surface elevation,(see Note 5),315a,m,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",22,,Groundwater return flow rate,(see Note 6),315b,m3 s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",23,,River and floodplain storage,(see Note 7),315c,m3,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",24,,Depth averaged river velocity,(see Note 8),315d,m s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",25-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 0: hydrology basic products",255,,Missing,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 1 - Hydrological products, parameter category 1: hydrology probabilities",0,,Conditional per cent precipitation amount fractile for an overall period (Encoded as an accumulation),,,kg m-2,Operational
