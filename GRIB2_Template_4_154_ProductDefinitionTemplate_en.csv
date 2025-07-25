@@ -1,0 +1,25 @@
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",10,1,Parameter category,(see Code table 4.1),,4.1,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",11,1,Parameter number,(see Code table 4.2),,4.2,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",12,1,Type of generating process,(see Code table 4.3),,4.3,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",13,1,Background generating process identifier (defined by originating centre),,,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",14,1,Analysis or forecast generating process identifier (defined by originating centre),,,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",15-16,2,Hours of observational data cut-off after reference time,(see Note 1),33,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",17,1,Minutes of observational data cut-off after reference time,,,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",18,1,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",19-22,4,Forecast time in units defined by octet 18,,,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",23,1,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",24,1,Scale factor of first fixed surface,,,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",25-28,4,Scaled value of first fixed surface,,,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",29,1,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",30,1,Scale factor of second fixed surface,,,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",31-34,4,Scaled value of second fixed surface,,,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",35,1,Type of ensemble forecast,(see Code table 4.6),,4.6,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",36-39,4,Perturbation number,,,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",40-43,4,Number of forecasts in ensemble,,,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",44-45,2,Year of model version date,(see Note 2),127,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",46,1,Month of model version date,,,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",47,1,Day of model version date,,,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",48,1,Hour of model version date,,,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",49,1,Minute of model version date,,,,,Operational
+"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",50,1,Second of model version date,,,,,Operational
