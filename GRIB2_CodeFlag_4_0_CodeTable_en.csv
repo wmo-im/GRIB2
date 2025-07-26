@@ -134,7 +134,11 @@ Product definition template number,,148,,"Verification scores for individual ens
 Product definition template number,,149,,"Verification scores for individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
 Product definition template number,,150,,"Verification scores for derived forecast based on all ensemble members at a horizontal level or in a horizontal layer at a point in time",,,,Operational
 Product definition template number,,151,,"Verification scores for derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
-Product definition template number,,152-253,,Reserved,,,,Operational
+Product definition template number,,152,,"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents",,,,Operational
+Product definition template number,,153,,"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents",,,,Operational
+Product definition template number,,154,,"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,,,Operational
+Product definition template number,,155,,"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
+Product definition template number,,156-253,,Reserved,,,,Operational
 Product definition template number,,254,,CCITT IA5 character string,,,,Operational
 Product definition template number,,255-999,,Reserved,,,,Operational
 Product definition template number,,1000,,Cross-section of analysis and forecast at a point in time,,,,Experimental
