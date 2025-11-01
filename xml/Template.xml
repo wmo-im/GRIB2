@@ -48383,7 +48383,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>78</OctetNo>
-		<Contents_en>Indicator of unit of time for the increment between the successive fields used&quot;</Contents_en>
+		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
 		<Note_en>(see code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
