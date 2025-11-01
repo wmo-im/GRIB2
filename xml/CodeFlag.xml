@@ -3006,7 +3006,42 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<SubTitle_en/>
-		<CodeFlag>156-253</CodeFlag>
+		<CodeFlag>203</CodeFlag>
+		<MeaningParameterDescription_en>Satellite product with channel, bandwidth and polarisation</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>204</CodeFlag>
+		<MeaningParameterDescription_en>Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>205</CodeFlag>
+		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>206</CodeFlag>
+		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>207</CodeFlag>
+		<MeaningParameterDescription_en>Satellite product with or without associated quality values with channel, bandwidth and polarisation</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>208-253</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -21912,6 +21947,69 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.253 - Hazard index</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>65535</CodeFlag>
+		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarisation of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>0</CodeFlag>
+		<MeaningParameterDescription_en>Unpolarised</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarisation of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>Quasi-horizontal (QH)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarisation of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>Quasi-vertical (QV)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarisation of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Horizontal (H)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarisation of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>Vertical (V)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarisation of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>Right-Hand Circular Polarisation (RHCP)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarisation of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>Left-Hand Circular Polarisation (LHCP)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarisation of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>7-65534</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarisation of satellite band</Title_en>
 		<SubTitle_en/>
 		<CodeFlag>65535</CodeFlag>
 		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>

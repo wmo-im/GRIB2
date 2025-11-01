@@ -428,7 +428,12 @@ Code table 4.0 - Product definition template number,,152,,"Individual large ense
 Code table 4.0 - Product definition template number,,153,,"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents",,,,Operational
 Code table 4.0 - Product definition template number,,154,,"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,,,Operational
 Code table 4.0 - Product definition template number,,155,,"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
-Code table 4.0 - Product definition template number,,156-253,,Reserved,,,,Operational
+Code table 4.0 - Product definition template number,,203,,"Satellite product with channel, bandwidth and polarisation",,,,Operational
+Code table 4.0 - Product definition template number,,204,,"Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation",,,,Operational
+Code table 4.0 - Product definition template number,,205,,"Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation",,,,Operational
+Code table 4.0 - Product definition template number,,206,,"Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation",,,,Operational
+Code table 4.0 - Product definition template number,,207,,"Satellite product with or without associated quality values with channel, bandwidth and polarisation",,,,Operational
+Code table 4.0 - Product definition template number,,208-253,,Reserved,,,,Operational
 Code table 4.0 - Product definition template number,,254,,CCITT IA5 character string,,,,Operational
 Code table 4.0 - Product definition template number,,255-999,,Reserved,,,,Operational
 Code table 4.0 - Product definition template number,,1000,,Cross-section of analysis and forecast at a point in time,,,,Experimental
@@ -3130,6 +3135,15 @@ Code table 4.252 - Tile classes and groupings,,65535,,Missing,,,,Operational
 Code table 4.253 - Hazard index,,0,,Undefined,,,,Operational
 Code table 4.253 - Hazard index,,1-65534,,Reserved,(see Note),167,,Operational
 Code table 4.253 - Hazard index,,65535,,Missing,,,,Operational
+Code table 4.254 - Polarisation of satellite band,,0,,Unpolarised,,,-,Operational
+Code table 4.254 - Polarisation of satellite band,,1,,Quasi-horizontal (QH),,,-,Operational
+Code table 4.254 - Polarisation of satellite band,,2,,Quasi-vertical (QV),,,-,Operational
+Code table 4.254 - Polarisation of satellite band,,3,,Horizontal (H),,,-,Operational
+Code table 4.254 - Polarisation of satellite band,,4,,Vertical (V),,,-,Operational
+Code table 4.254 - Polarisation of satellite band,,5,,Right-Hand Circular Polarisation (RHCP),,,-,Operational
+Code table 4.254 - Polarisation of satellite band,,6,,Left-Hand Circular Polarisation (LHCP),,,-,Operational
+Code table 4.254 - Polarisation of satellite band,,7-65534,,Reserved,,,,Operational
+Code table 4.254 - Polarisation of satellite band,,65535,,Missing,,,,Operational
 Code table 4.333 - Transport dispersion model,,1,,DERMA (Danish Emergency Response Model of the Atmosphere),,,,Operational
 Code table 4.333 - Transport dispersion model,,2,,E-EMEP (Emergency EMEP model),,,,Operational
 Code table 4.333 - Transport dispersion model,,3,,FLEXPART (Particle dispersion model),,,,Operational
