@@ -3006,7 +3006,49 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<SubTitle_en/>
-		<CodeFlag>156-253</CodeFlag>
+		<CodeFlag>160</CodeFlag>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>161</CodeFlag>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>162</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>163</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>164</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>165</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>166-253</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
