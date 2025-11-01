@@ -48903,12 +48903,12 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo/>
-		<Contents_en>84- nn These octets are included only if n &gt; 1</Contents_en>
-		<Note_en> where nn = 71+ 12 x n&quot;</Note_en>
+		<Contents_en>84-nn These octets are included only if n &gt; 1, where nn = 71+ 12 x n</Contents_en>
+		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Status/>
+		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
@@ -49303,7 +49303,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>79</OctetNo>
-		<Contents_en>Indicator of unit of time for the increment between the successive fields used&quot;</Contents_en>
+		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
 		<Note_en>(see code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
@@ -49353,12 +49353,12 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo/>
-		<Contents_en>93- nn These octets are included only if n &gt; 1</Contents_en>
-		<Note_en> where nn = 80+ 12 x n&quot;</Note_en>
+		<Contents_en>93-nn These octets are included only if n &gt; 1, where nn = 80+ 12 x n</Contents_en>
+		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Status/>
+		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
@@ -49783,7 +49783,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>88</OctetNo>
-		<Contents_en>Indicator of unit of time for the increment between the successive fields used&quot;</Contents_en>
+		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
 		<Note_en>(see code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
