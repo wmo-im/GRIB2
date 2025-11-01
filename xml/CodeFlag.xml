@@ -6830,7 +6830,7 @@
 		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices</SubTitle_en>
 		<CodeFlag>8</CodeFlag>
 		<MeaningParameterDescription_en>Storm relative helicity</MeaningParameterDescription_en>
-		<Status>Operational</Status>
+		<Status>Deprecated</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
@@ -6933,7 +6933,49 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices</SubTitle_en>
-		<CodeFlag>23-191</CodeFlag>
+		<CodeFlag>23</CodeFlag>
+		<MeaningParameterDescription_en>Storm relative helicity – mean flow</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices</SubTitle_en>
+		<CodeFlag>24</CodeFlag>
+		<MeaningParameterDescription_en>Storm relative helicity – right moving storm</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices</SubTitle_en>
+		<CodeFlag>25</CodeFlag>
+		<MeaningParameterDescription_en>Storm relative helicity – left moving storm</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices</SubTitle_en>
+		<CodeFlag>26</CodeFlag>
+		<MeaningParameterDescription_en>Effective storm relative helicity – mean flow</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices</SubTitle_en>
+		<CodeFlag>27</CodeFlag>
+		<MeaningParameterDescription_en>Effective storm relative helicity – right moving storm</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices</SubTitle_en>
+		<CodeFlag>28</CodeFlag>
+		<MeaningParameterDescription_en>Effective storm relative helicity – left moving storm</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices</SubTitle_en>
+		<CodeFlag>29-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -15242,8 +15284,15 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
 		<SubTitle_en/>
-		<CodeFlag>28-29</CodeFlag>
-		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<CodeFlag>28</CodeFlag>
+		<MeaningParameterDescription_en>Effective inflow layer base (see note)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>29</CodeFlag>
+		<MeaningParameterDescription_en>Effective inflow layer top (see note)</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
