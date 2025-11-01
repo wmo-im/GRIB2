@@ -47993,12 +47993,12 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo/>
-		<Contents_en>83- nn These octets are included only if n &gt; 1</Contents_en>
-		<Note_en> where nn = 70+ 12 x n&quot;</Note_en>
+		<Contents_en>83-nn These octets are included only if n &gt; 1, where nn = 70+ 12 x n</Contents_en>
+		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Status/>
+		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
