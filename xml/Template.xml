@@ -48433,12 +48433,12 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo/>
-		<Contents_en>92- nn These octets are included only if n &gt; 1</Contents_en>
-		<Note_en> where nn = 79+ 12 x n&quot;</Note_en>
+		<Contents_en>92-nn These octets are included only if n &gt; 1, where nn = 79+ 12 x n</Contents_en>
+		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Status/>
+		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
@@ -48853,7 +48853,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>87</OctetNo>
-		<Contents_en>Indicator of unit of time for the increment between the successive fields used&quot;</Contents_en>
+		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
 		<Note_en>(see code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
