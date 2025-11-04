@@ -48573,7 +48573,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
 		<OctetNo/>
-		<Contents_en>(64+19NB)- Repeat the following 12 octets for each time range spec (i = 1, n)</Contents_en>
+		<Contents_en>(64+19(nb-1))- Repeat the following 12 octets for each time range spec (i = 1, n)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -48772,7 +48772,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(43+19NB)</OctetNo>
+		<OctetNo>(43+19(nb-1))</OctetNo>
 		<Contents_en>Type of ensemble forecast</Contents_en>
 		<Note_en>(see Code table 4.6)</Note_en>
 		<noteIDs/>
@@ -48782,7 +48782,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(44+19NB)-(47+19NB)</OctetNo>
+		<OctetNo>(44+19(nb-1))-(47+19(nb-1))</OctetNo>
 		<Contents_en>Perturbation number</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48792,7 +48792,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(48+19NB)-(51+19NB)</OctetNo>
+		<OctetNo>(48+19(nb-1))-(51+19(nb-1))</OctetNo>
 		<Contents_en>Number of forecasts in ensemble</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48802,7 +48802,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(52+19NB)-(53+19NB)</OctetNo>
+		<OctetNo>(52+19(nb-1))-(53+19(nb-1))</OctetNo>
 		<Contents_en>Year of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48812,7 +48812,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(54+19NB)</OctetNo>
+		<OctetNo>(54+19(nb-1))</OctetNo>
 		<Contents_en>Month of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48822,7 +48822,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(55+19NB)</OctetNo>
+		<OctetNo>(55+19(nb-1))</OctetNo>
 		<Contents_en>Day of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48832,7 +48832,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(56+19NB)</OctetNo>
+		<OctetNo>(56+19(nb-1))</OctetNo>
 		<Contents_en>Hour of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48842,7 +48842,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(57+11NB)</OctetNo>
+		<OctetNo>(57+11(nb-1))</OctetNo>
 		<Contents_en>Minute of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48852,7 +48852,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(58+19NB)</OctetNo>
+		<OctetNo>(58+19(nb-1))</OctetNo>
 		<Contents_en>Second of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48862,7 +48862,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(59+19NB)</OctetNo>
+		<OctetNo>(59+19(nb-1))</OctetNo>
 		<Contents_en>n - number of time range specifications describing the time intervals used to calculate the statistically processed field</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48872,7 +48872,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(60+19NB)-(63+19NB)</OctetNo>
+		<OctetNo>(60+19(nb-1))-(63+19(nb-1))</OctetNo>
 		<Contents_en>Total number of data values missing in statistical process</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48882,7 +48882,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(64+19NB+12(i-1))</OctetNo>
+		<OctetNo>(64+19(nb-1)+12(i-1))</OctetNo>
 		<Contents_en>Statistical process used to calculate the processed field from the field at each time increment during the time range</Contents_en>
 		<Note_en>(see Code table 4.10)</Note_en>
 		<noteIDs/>
@@ -48892,7 +48892,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(65+19NB+12(i-1))</OctetNo>
+		<OctetNo>(65+19(nb-1)+12(i-1))</OctetNo>
 		<Contents_en>Type of time increment between successive fields used in the statistical processing</Contents_en>
 		<Note_en>(see Code table 4.11)</Note_en>
 		<noteIDs/>
@@ -48902,7 +48902,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(66+19NB+12(i-1))</OctetNo>
+		<OctetNo>(66+19(nb-1)+12(i-1))</OctetNo>
 		<Contents_en>Indicator of unit of time for time range over which statistical processing is done</Contents_en>
 		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
@@ -48912,7 +48912,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(67+19NB+12(i-1))-(70+19NB+12(i-1))</OctetNo>
+		<OctetNo>(67+19(nb-1)+12(i-1))-(70+19(nb-1)+12(i-1))</OctetNo>
 		<Contents_en>Length of the time range over which statistical processing is done, in units defined by the previous octet</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48922,7 +48922,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(71+19NB+12(i-1))</OctetNo>
+		<OctetNo>(71+19(nb-1)+12(i-1))</OctetNo>
 		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
 		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
@@ -48932,7 +48932,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
-		<OctetNo>(72+19NB+12(i-1))-(75+19NB+12(i-1))</OctetNo>
+		<OctetNo>(72+19(nb-1)+12(i-1))-(75+19(nb-1)+12(i-1))</OctetNo>
 		<Contents_en>Time increment between successive fields, in units defined by the previous octet</Contents_en>
 		<Note_en>(see Notes 3 and 4)</Note_en>
 		<noteIDs>7,98</noteIDs>
