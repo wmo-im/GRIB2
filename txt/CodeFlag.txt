@@ -3142,8 +3142,8 @@ Code table 4.254 - Polarisation of satellite band,,3,,Horizontal (H),,,-,Operati
 Code table 4.254 - Polarisation of satellite band,,4,,Vertical (V),,,-,Operational
 Code table 4.254 - Polarisation of satellite band,,5,,Right-Hand Circular Polarisation (RHCP),,,-,Operational
 Code table 4.254 - Polarisation of satellite band,,6,,Left-Hand Circular Polarisation (LHCP),,,-,Operational
-Code table 4.254 - Polarisation of satellite band,,7-65534,,Reserved,,,,Operational
-Code table 4.254 - Polarisation of satellite band,,65535,,Missing,,,,Operational
+Code table 4.254 - Polarisation of satellite band,,7-254,,Reserved,,,,Operational
+Code table 4.254 - Polarisation of satellite band,,255,,Missing,,,,Operational
 Code table 4.333 - Transport dispersion model,,1,,DERMA (Danish Emergency Response Model of the Atmosphere),,,,Operational
 Code table 4.333 - Transport dispersion model,,2,,E-EMEP (Emergency EMEP model),,,,Operational
 Code table 4.333 - Transport dispersion model,,3,,FLEXPART (Particle dispersion model),,,,Operational
