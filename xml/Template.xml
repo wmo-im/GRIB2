@@ -49093,7 +49093,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
 		<OctetNo>(34+19(nb-1))</OctetNo>
-		<Contents_en>Poralisation</Contents_en>
+		<Contents_en>Polarisation</Contents_en>
 		<Note_en>(see Code table 4.254)</Note_en>
 		<noteIDs/>
 		<codeTable>4.254</codeTable>
