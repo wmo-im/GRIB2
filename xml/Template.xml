@@ -48123,7 +48123,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
 		<OctetNo>(33+19(nb-1))</OctetNo>
-		<Contents_en>Polarisation</Contents_en>
+		<Contents_en>Polarisation of satellite band</Contents_en>
 		<Note_en>(see code table 4.254)</Note_en>
 		<noteIDs/>
 		<codeTable>4.254</codeTable>
@@ -48323,7 +48323,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
 		<OctetNo>(42+19(nb-1))</OctetNo>
-		<Contents_en>Polarisation</Contents_en>
+		<Contents_en>Polarisation of satellite band</Contents_en>
 		<Note_en>(See Code table 4.254)</Note_en>
 		<noteIDs/>
 		<codeTable>4.254</codeTable>
@@ -48523,7 +48523,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
 		<OctetNo>(42+19(nb-1))</OctetNo>
-		<Contents_en>Polarisation</Contents_en>
+		<Contents_en>Polarisation of satellite band</Contents_en>
 		<Note_en>(See Code table 4.254)</Note_en>
 		<noteIDs/>
 		<codeTable>4.254</codeTable>
@@ -48763,7 +48763,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
 		<OctetNo>(42+19(nb-1))</OctetNo>
-		<Contents_en>Polarisation</Contents_en>
+		<Contents_en>Polarisation of satellite band</Contents_en>
 		<Note_en>(see Code table 2.254)</Note_en>
 		<noteIDs/>
 		<codeTable>4.254</codeTable>
@@ -49093,7 +49093,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
 		<OctetNo>(34+19(nb-1))</OctetNo>
-		<Contents_en>Polarisation</Contents_en>
+		<Contents_en>Polarisation of satellite band</Contents_en>
 		<Note_en>(see Code table 4.254)</Note_en>
 		<noteIDs/>
 		<codeTable>4.254</codeTable>
