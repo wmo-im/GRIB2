@@ -47002,7 +47002,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.153 - Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval for atmospheric chemical constituents</Title_en>
-		<OctetNo>21-23</OctetNo>
+		<OctetNo>21-24</OctetNo>
 		<Contents_en>Forecast time in units defined by octet 20</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
 		<noteIDs>111</noteIDs>
@@ -47012,7 +47012,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.153 - Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval for atmospheric chemical constituents</Title_en>
-		<OctetNo>24</OctetNo>
+		<OctetNo>25</OctetNo>
 		<Contents_en>Type of first fixed surface</Contents_en>
 		<Note_en>(see Code table 4.5)</Note_en>
 		<noteIDs/>
@@ -47022,7 +47022,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.153 - Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval for atmospheric chemical constituents</Title_en>
-		<OctetNo>25</OctetNo>
+		<OctetNo>26</OctetNo>
 		<Contents_en>Scale factor of first fixed surface</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -47032,7 +47032,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.153 - Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval for atmospheric chemical constituents</Title_en>
-		<OctetNo>26-30</OctetNo>
+		<OctetNo>27-30</OctetNo>
 		<Contents_en>Scaled value of first fixed surface</Contents_en>
 		<Note_en/>
 		<noteIDs/>
