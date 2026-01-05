@@ -20,4 +20,5 @@ Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Stat
 "Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",41,1,Scale factor of second fixed surface,,,,,Operational
 "Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",42-45,4,Scaled value of second fixed surface,,,,,Operational
 "Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",46,1,Derived forecast,(see Code table 4.7),,4.7,,Operational
-"Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",47-50,1,Number of forecasts in ensemble,,,,,Operational
+"Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range",47-50,4,Number of forecasts in ensemble,,,,,Operational
+
