@@ -138,7 +138,7 @@ Product definition template number,,152,,"Individual large ensemble reforecast, 
 Product definition template number,,153,,"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents",,,,Operational
 Product definition template number,,154,,"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,,,Operational
 Product definition template number,,155,,"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
-Product definition template number,,199,,"Derived products of post-processed  forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time",,,,Operational
+Product definition template number,,199,,"Derived products of post-processed forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time",,,,Operational
 Product definition template number,,200,,"Derived products of post-processed forecasts based on all ensemble members at a horizontal level or in a horizontal layer  in a continuous or non-continuous time interval",,,,Operational
 Product definition template number,,201,,"Probability of post-processed forecast at a horizontal level or in a horizontal layer at a point in time",,,,Operational
 Product definition template number,,202,,"Probability of post-processed forecast at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
