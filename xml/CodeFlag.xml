@@ -3007,7 +3007,7 @@
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<SubTitle_en/>
 		<CodeFlag>199</CodeFlag>
-		<MeaningParameterDescription_en>Derived products of post-processed  forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Derived products of post-processed forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -3028,7 +3028,7 @@
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<SubTitle_en/>
 		<CodeFlag>202</CodeFlag>
-		<MeaningParameterDescription_en>Probability of post-processed forecast at a horizontal level or in a horizontal layer  in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Probability of post-processed forecast at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
