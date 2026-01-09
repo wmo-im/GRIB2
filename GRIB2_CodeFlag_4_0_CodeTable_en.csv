@@ -141,7 +141,7 @@ Product definition template number,,155,,"Individual large ensemble reforecast, 
 Product definition template number,,199,,"Derived products of post-processed  forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time",,,,Operational
 Product definition template number,,200,,"Derived products of post-processed forecasts based on all ensemble members at a horizontal level or in a horizontal layer  in a continuous or non-continuous time interval",,,,Operational
 Product definition template number,,201,,"Probability of post-processed forecast at a horizontal level or in a horizontal layer at a point in time",,,,Operational
-Product definition template number,,202,,"Probability of post-processed forecast at a horizontal level or in a horizontal layer  in a continuous or non-continuous time interval",,,,Operational
+Product definition template number,,202,,"Probability of post-processed forecast at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
 Product definition template number,,203-253,,Reserved,,,,Operational
 Product definition template number,,254,,CCITT IA5 character string,,,,Operational
 Product definition template number,,255-999,,Reserved,,,,Operational
