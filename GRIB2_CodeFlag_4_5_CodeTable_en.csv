@@ -28,7 +28,7 @@ Fixed surface types and units,,25,,Highest level where radar reflectivity exceed
 Fixed surface types and units,,26,,Convective cloud layer base,,,m,Operational
 Fixed surface types and units,,27,,Convective cloud layer top,,,m,Operational
 Fixed surface types and units,,28,,Effective inflow layer base (see note),,,,Operational
-Fixed surface types and units,,29,,Effective inflow layer top (see note),,,,Operational
+Fixed surface types and units,,29,,Effective inflow layer top,(see Note 11),343b,,Operational
 Fixed surface types and units,,30,,Specified radius from the centre of the Sun,,,m,Operational
 Fixed surface types and units,,31,,Solar photosphere,,,,Operational
 Fixed surface types and units,,32,,Ionospheric D-region level,,,,Operational
