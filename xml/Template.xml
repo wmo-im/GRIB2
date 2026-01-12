@@ -49554,7 +49554,7 @@
 		<Title_en>Product definition template 4.171 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents with source or sink</Title_en>
 		<OctetNo>62</OctetNo>
 		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
-		<Note_en>(see 		Code table 4.4)</Note_en>
+		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
