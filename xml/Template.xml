@@ -53083,7 +53083,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.182 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents with source or sink</Title_en>
 		<OctetNo>40-41</OctetNo>
-		<Contents_en>Number of forecasts in ensemble</Contents_en>
+		<Contents_en>Quantile value (between 0 and q)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -53793,7 +53793,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.184 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink</Title_en>
 		<OctetNo>51-52</OctetNo>
-		<Contents_en>Quantile number (between 0 and q)</Contents_en>
+		<Contents_en>Quantile Value (between 0 and q)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -54653,17 +54653,17 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.186 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>59-60</OctetNo>
-		<Contents_en>Derived forecast</Contents_en>
-		<Note_en>(see Code table 4.7)</Note_en>
+		<Contents_en>Total number of quantile q</Contents_en>
+		<Note_en/>
 		<noteIDs/>
-		<codeTable>4.7</codeTable>
+		<codeTable/>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.186 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>61-62</OctetNo>
-		<Contents_en>Number of forecasts in ensemble</Contents_en>
+		<Contents_en>Quantile value (between 0 and q)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -55133,7 +55133,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.187 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>62-63</OctetNo>
-		<Contents_en>Quantile number (between 0 and q)</Contents_en>
+		<Contents_en>Quantile value (between 0 and q)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -57243,12 +57243,12 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.193 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents with source or sink</Title_en>
 		<OctetNo>64-67</OctetNo>
-		<Contents_en/>
+		<Contents_en>Total number of data values missing in statistical process</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
-		<flagTable>Operational</flagTable>
-		<Status/>
+		<flagTable/>
+		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.193 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents with source or sink</Title_en>
@@ -57322,7 +57322,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.193 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents with source or sink</Title_en>
-		<OctetNo>R92nn</OctetNo>
+		<OctetNo>92-nn</OctetNo>
 		<Contents_en>Additional time range specifications, included in accordance with the value of n. Contents as octets 68 to 79, repeated as necessary</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -58132,7 +58132,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.195 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink</Title_en>
-		<OctetNo>82-84</OctetNo>
+		<OctetNo>82-85</OctetNo>
 		<Contents_en>Length of the time range over which statistical processing is done in units defined by the previous octet</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -58142,7 +58142,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.195 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink</Title_en>
-		<OctetNo>85</OctetNo>
+		<OctetNo>86</OctetNo>
 		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
 		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
@@ -58152,7 +58152,7 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.195 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink</Title_en>
-		<OctetNo>86-89</OctetNo>
+		<OctetNo>87-90</OctetNo>
 		<Contents_en>Time increment between successive fields in units defined by the previous octet</Contents_en>
 		<Note_en>(see Notes 3 and 4)</Note_en>
 		<noteIDs>7,110</noteIDs>
