@@ -47981,7 +47981,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarization</Title_en>
 		<OctetNo/>
 		<Contents_en>15- Repeat the following 19 octets for each contributing band (nb = 1, NB)</Contents_en>
 		<Note_en/>
@@ -47991,7 +47991,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarization</Title_en>
 		<OctetNo>10</OctetNo>
 		<Contents_en>Parameter category</Contents_en>
 		<Note_en>(see Code table 4.1)</Note_en>
@@ -48001,7 +48001,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarization</Title_en>
 		<OctetNo>11</OctetNo>
 		<Contents_en>Parameter number</Contents_en>
 		<Note_en>(see Code table 4.2)</Note_en>
@@ -48011,7 +48011,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarization</Title_en>
 		<OctetNo>12</OctetNo>
 		<Contents_en>Type of generating process</Contents_en>
 		<Note_en>(see Code table 4.3)</Note_en>
@@ -48021,7 +48021,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarization</Title_en>
 		<OctetNo>13</OctetNo>
 		<Contents_en>Observation generating process identifier (defined by originating centres)</Contents_en>
 		<Note_en/>
@@ -48031,7 +48031,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarization</Title_en>
 		<OctetNo>14</OctetNo>
 		<Contents_en>Number of contributing spectral bands (NB)</Contents_en>
 		<Note_en/>
@@ -48041,7 +48041,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(15+19(nb-1))-(16+19(nb-1))</OctetNo>
 		<Contents_en>Satellite series of band nb (code table defined by originating/generating centre)</Contents_en>
 		<Note_en>(see Note)</Note_en>
@@ -48051,7 +48051,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(17+19(nb-1))-(18+19(nb-1))</OctetNo>
 		<Contents_en>Satellite numbers of band nb (code table defined by originating/generating centre)</Contents_en>
 		<Note_en>(see Note)</Note_en>
@@ -48061,7 +48061,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(19+19(nb-1))-(20+19(nb-1))</OctetNo>
 		<Contents_en>Instrument types of band nb (code table defined by originating/generating centre)</Contents_en>
 		<Note_en>(see Note)</Note_en>
@@ -48071,7 +48071,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(21+19(nb-1))-(22+19(nb-1))</OctetNo>
 		<Contents_en>Channel number</Contents_en>
 		<Note_en/>
@@ -48081,7 +48081,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(23+19(nb-1))</OctetNo>
 		<Contents_en>Scale factor of central wave number of band nb</Contents_en>
 		<Note_en/>
@@ -48091,7 +48091,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(24+19(nb-1))-(27+19(nb-1))</OctetNo>
 		<Contents_en>Scaled value of central wave number of band nb (units: m-1)</Contents_en>
 		<Note_en/>
@@ -48101,7 +48101,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(28+19(nb-1))</OctetNo>
 		<Contents_en>Scale factor of bandwidth</Contents_en>
 		<Note_en/>
@@ -48111,7 +48111,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(29+19(nb-1))-(32+19(nb-1))</OctetNo>
 		<Contents_en>Scaled value of bandwidth</Contents_en>
 		<Note_en/>
@@ -48121,9 +48121,9 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.203 - Satellite product with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(33+19(nb-1))</OctetNo>
-		<Contents_en>Polarisation of satellite band</Contents_en>
+		<Contents_en>Polarization of satellite band</Contents_en>
 		<Note_en>(see code table 4.254)</Note_en>
 		<noteIDs/>
 		<codeTable>4.254</codeTable>
@@ -48131,7 +48131,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo/>
 		<Contents_en>24-   Repeat the following 19 octets for each contributing band (nb = 1, NB)</Contents_en>
 		<Note_en/>
@@ -48141,7 +48141,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>10</OctetNo>
 		<Contents_en>Parameter category</Contents_en>
 		<Note_en>(see Code table 4.1)</Note_en>
@@ -48151,7 +48151,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>11</OctetNo>
 		<Contents_en>Parameter number</Contents_en>
 		<Note_en>(see Code table 4.2)</Note_en>
@@ -48161,7 +48161,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>12</OctetNo>
 		<Contents_en>Type of generating process</Contents_en>
 		<Note_en>(see Code table 4.3)</Note_en>
@@ -48171,7 +48171,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>13</OctetNo>
 		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
 		<Note_en/>
@@ -48181,7 +48181,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>14</OctetNo>
 		<Contents_en>Analysis or forecast generating process identifier</Contents_en>
 		<Note_en/>
@@ -48191,7 +48191,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>15-16</OctetNo>
 		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
@@ -48201,7 +48201,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>17</OctetNo>
 		<Contents_en>Minutes of observational data cut-off after reference time</Contents_en>
 		<Note_en/>
@@ -48211,7 +48211,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>18</OctetNo>
 		<Contents_en>Indicator of unit of time range</Contents_en>
 		<Note_en>(see Code table 4.4)</Note_en>
@@ -48221,7 +48221,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>19-22</OctetNo>
 		<Contents_en>Forecast time in units defined by octet 18</Contents_en>
 		<Note_en/>
@@ -48231,7 +48231,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>23</OctetNo>
 		<Contents_en>Number of contributing spectral bands (NB)</Contents_en>
 		<Note_en/>
@@ -48241,7 +48241,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(24+19(nb-1))-(25+19(nb-1))</OctetNo>
 		<Contents_en>Satellite series of band nb (Code table defined by originating/generating centre)</Contents_en>
 		<Note_en>(see Note 1)</Note_en>
@@ -48251,7 +48251,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(26+19(nb-1))-(27+19(nb-1))</OctetNo>
 		<Contents_en>Satellite number of band nb (Code table defined by originating/generating centre)</Contents_en>
 		<Note_en>(see Note 1)</Note_en>
@@ -48261,7 +48261,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(28+19(nb-1))-(29+19(nb-1))</OctetNo>
 		<Contents_en>Instrument types of band nb (Code table defined by originating/generating centre)</Contents_en>
 		<Note_en>(see Note 1)</Note_en>
@@ -48271,7 +48271,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(30+19(nb-1))-(31+19(nb-1))</OctetNo>
 		<Contents_en>Channel number</Contents_en>
 		<Note_en/>
@@ -48281,7 +48281,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(32+19(nb-1))</OctetNo>
 		<Contents_en>Scale factor of central wave number of band nb</Contents_en>
 		<Note_en/>
@@ -48291,7 +48291,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(33+19(nb-1))-(36+19(nb-1))</OctetNo>
 		<Contents_en>Scaled value of central wave number of band nb (units: m-1)</Contents_en>
 		<Note_en/>
@@ -48301,7 +48301,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(37+19(nb-1))</OctetNo>
 		<Contents_en>Scale factor of bandwidth</Contents_en>
 		<Note_en/>
@@ -48311,7 +48311,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(38+19(nb-1))-(41+19(nb-1))</OctetNo>
 		<Contents_en>Scaled value of bandwidth</Contents_en>
 		<Note_en/>
@@ -48321,9 +48321,9 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.204 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(42+19(nb-1))</OctetNo>
-		<Contents_en>Polarisation of satellite band</Contents_en>
+		<Contents_en>Polarization of satellite band</Contents_en>
 		<Note_en>(See Code table 4.254)</Note_en>
 		<noteIDs/>
 		<codeTable>4.254</codeTable>
@@ -48331,7 +48331,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo/>
 		<Contents_en>24-   Repeat the following 19 octets for each contributing band (nb = 1, NB)</Contents_en>
 		<Note_en/>
@@ -48341,7 +48341,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>10</OctetNo>
 		<Contents_en>Parameter category</Contents_en>
 		<Note_en>(see Code table 4.1)</Note_en>
@@ -48351,7 +48351,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>11</OctetNo>
 		<Contents_en>Parameter number</Contents_en>
 		<Note_en>(see Code table 4.2)</Note_en>
@@ -48361,7 +48361,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>12</OctetNo>
 		<Contents_en>Type of generating process</Contents_en>
 		<Note_en>(see Code table 4.3)</Note_en>
@@ -48371,7 +48371,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>13</OctetNo>
 		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
 		<Note_en/>
@@ -48381,7 +48381,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>14</OctetNo>
 		<Contents_en>Analysis or forecast generating process identifier</Contents_en>
 		<Note_en/>
@@ -48391,7 +48391,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>15-16</OctetNo>
 		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
 		<Note_en>(see Note)</Note_en>
@@ -48401,7 +48401,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>17</OctetNo>
 		<Contents_en>Minutes of observational data cut-off after reference time</Contents_en>
 		<Note_en/>
@@ -48411,7 +48411,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>18</OctetNo>
 		<Contents_en>Indicator of unit of time range</Contents_en>
 		<Note_en>(see Code table 4.4)</Note_en>
@@ -48421,7 +48421,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>19-22</OctetNo>
 		<Contents_en>Forecast time in units defined by octet 18</Contents_en>
 		<Note_en/>
@@ -48431,7 +48431,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>23</OctetNo>
 		<Contents_en>Number of contributing spectral bands (NB)</Contents_en>
 		<Note_en/>
@@ -48441,7 +48441,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(24+19(nb-1))-(25+19(nb-1))</OctetNo>
 		<Contents_en>Satellite series of band nb (code table defined by originating/generating centre)</Contents_en>
 		<Note_en/>
@@ -48451,7 +48451,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(26+19(nb-1))-(27+19(nb-1))</OctetNo>
 		<Contents_en>Satellite number of band nb (code table defined by originating/generating centre)</Contents_en>
 		<Note_en/>
@@ -48461,7 +48461,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(28+19(nb-1))-(29+19(nb-1))</OctetNo>
 		<Contents_en>Instrument types of band nb (code table defined by originating/generating centre)</Contents_en>
 		<Note_en/>
@@ -48471,7 +48471,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(30+19(nb-1))-(31+19(nb-1))</OctetNo>
 		<Contents_en>Channel number</Contents_en>
 		<Note_en/>
@@ -48481,7 +48481,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(32+19(nb-1))</OctetNo>
 		<Contents_en>Scale factor of central wave number of band nb</Contents_en>
 		<Note_en/>
@@ -48491,7 +48491,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(33+19(nb-1))-(36+19(nb-1))</OctetNo>
 		<Contents_en>Scaled value of central wave number of band nb (units: m-1)</Contents_en>
 		<Note_en/>
@@ -48501,7 +48501,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(37+19(nb-1))</OctetNo>
 		<Contents_en>Scale factor of bandwidth</Contents_en>
 		<Note_en/>
@@ -48511,7 +48511,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(38+19(nb-1))-(41+19(nb-1))</OctetNo>
 		<Contents_en>Scaled value of bandwidth</Contents_en>
 		<Note_en/>
@@ -48521,9 +48521,9 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(42+19(nb-1))</OctetNo>
-		<Contents_en>Polarisation of satellite band</Contents_en>
+		<Contents_en>Polarization of satellite band</Contents_en>
 		<Note_en>(See Code table 4.254)</Note_en>
 		<noteIDs/>
 		<codeTable>4.254</codeTable>
@@ -48531,7 +48531,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(43+19(nb-1))</OctetNo>
 		<Contents_en>Type of ensemble forecast</Contents_en>
 		<Note_en>(see Code table 4.6)</Note_en>
@@ -48541,7 +48541,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(44+19(nb-1))-(47+19(nb-1))</OctetNo>
 		<Contents_en>Perturbation number</Contents_en>
 		<Note_en/>
@@ -48551,7 +48551,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.205 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(48+19(nb-1))-(51+19(nb-1))</OctetNo>
 		<Contents_en>Number of forecasts in ensemble</Contents_en>
 		<Note_en/>
@@ -48561,7 +48561,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo/>
 		<Contents_en>24-   Repeat the following 19 octets for each contributing band (nb = 1, NB)</Contents_en>
 		<Note_en/>
@@ -48571,7 +48571,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo/>
 		<Contents_en>(64+19(nb-1))- Repeat the following 12 octets for each time range spec (i = 1, n)</Contents_en>
 		<Note_en/>
@@ -48581,7 +48581,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>10</OctetNo>
 		<Contents_en>Parameter category</Contents_en>
 		<Note_en>(see Code table 4.1)</Note_en>
@@ -48591,7 +48591,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>11</OctetNo>
 		<Contents_en>Parameter number</Contents_en>
 		<Note_en>(see Code table 4.2)</Note_en>
@@ -48601,7 +48601,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>12</OctetNo>
 		<Contents_en>Type of generating process</Contents_en>
 		<Note_en>(see Code table 4.3)</Note_en>
@@ -48611,7 +48611,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>13</OctetNo>
 		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
 		<Note_en/>
@@ -48621,7 +48621,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>14</OctetNo>
 		<Contents_en>Analysis or forecast generating process identifier</Contents_en>
 		<Note_en/>
@@ -48631,7 +48631,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>15-16</OctetNo>
 		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
 		<Note_en>(see Note 1)</Note_en>
@@ -48641,7 +48641,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>17</OctetNo>
 		<Contents_en>Minutes of observational data cut-off after reference time</Contents_en>
 		<Note_en/>
@@ -48651,7 +48651,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>18</OctetNo>
 		<Contents_en>Indicator of unit of time range</Contents_en>
 		<Note_en>(see Code table 4.4)</Note_en>
@@ -48661,7 +48661,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>19-22</OctetNo>
 		<Contents_en>Forecast time in units defined by octet 18</Contents_en>
 		<Note_en>(see Note 2)</Note_en>
@@ -48671,7 +48671,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>23</OctetNo>
 		<Contents_en>Number of contributing spectral bands (NB)</Contents_en>
 		<Note_en/>
@@ -48681,7 +48681,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(24+19(nb-1))-(25+19(nb-1))</OctetNo>
 		<Contents_en>Satellite series of band nb (code table defined by originating/generating centre)</Contents_en>
 		<Note_en/>
@@ -48691,7 +48691,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(26+19(nb-1))-(27+19(nb-1))</OctetNo>
 		<Contents_en>Satellite number of band nb (code table defined by originating/generating centre)</Contents_en>
 		<Note_en/>
@@ -48701,7 +48701,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(28+19(nb-1))-(29+19(nb-1))</OctetNo>
 		<Contents_en>Instrument types of band nb (code table defined by originating/generating centre)</Contents_en>
 		<Note_en/>
@@ -48711,7 +48711,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(30+19(nb-1))-(31+19(nb-1))</OctetNo>
 		<Contents_en>Channel Number</Contents_en>
 		<Note_en/>
@@ -48721,7 +48721,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(32+19(nb-1))</OctetNo>
 		<Contents_en>Scale factor of central wave number of band nb</Contents_en>
 		<Note_en/>
@@ -48731,7 +48731,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(33+19(nb-1))-(36+19(nb-1))</OctetNo>
 		<Contents_en>Scaled value of central wave number of band nb (units: m-1)</Contents_en>
 		<Note_en/>
@@ -48741,7 +48741,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(37+19(nb-1))</OctetNo>
 		<Contents_en>Scale factor of bandwidth</Contents_en>
 		<Note_en/>
@@ -48751,7 +48751,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(38+19(nb-1))-(41+19(nb-1))</OctetNo>
 		<Contents_en>Scaled value of bandwidth (units: m-1)</Contents_en>
 		<Note_en/>
@@ -48761,9 +48761,9 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(42+19(nb-1))</OctetNo>
-		<Contents_en>Polarisation of satellite band</Contents_en>
+		<Contents_en>Polarization of satellite band</Contents_en>
 		<Note_en>(see Code table 2.254)</Note_en>
 		<noteIDs/>
 		<codeTable>4.254</codeTable>
@@ -48771,7 +48771,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(43+19(nb-1))</OctetNo>
 		<Contents_en>Type of ensemble forecast</Contents_en>
 		<Note_en>(see Code table 4.6)</Note_en>
@@ -48781,7 +48781,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(44+19(nb-1))-(47+19(nb-1))</OctetNo>
 		<Contents_en>Perturbation number</Contents_en>
 		<Note_en/>
@@ -48791,7 +48791,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(48+19(nb-1))-(51+19(nb-1))</OctetNo>
 		<Contents_en>Number of forecasts in ensemble</Contents_en>
 		<Note_en/>
@@ -48801,7 +48801,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(52+19(nb-1))-(53+19(nb-1))</OctetNo>
 		<Contents_en>Year of end of overall time interval</Contents_en>
 		<Note_en/>
@@ -48811,7 +48811,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(54+19(nb-1))</OctetNo>
 		<Contents_en>Month of end of overall time interval</Contents_en>
 		<Note_en/>
@@ -48821,7 +48821,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(55+19(nb-1))</OctetNo>
 		<Contents_en>Day of end of overall time interval</Contents_en>
 		<Note_en/>
@@ -48831,7 +48831,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(56+19(nb-1))</OctetNo>
 		<Contents_en>Hour of end of overall time interval</Contents_en>
 		<Note_en/>
@@ -48841,7 +48841,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(57+11(nb-1))</OctetNo>
 		<Contents_en>Minute of end of overall time interval</Contents_en>
 		<Note_en/>
@@ -48851,7 +48851,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(58+19(nb-1))</OctetNo>
 		<Contents_en>Second of end of overall time interval</Contents_en>
 		<Note_en/>
@@ -48861,7 +48861,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(59+19(nb-1))</OctetNo>
 		<Contents_en>n - number of time range specifications describing the time intervals used to calculate the statistically processed field</Contents_en>
 		<Note_en/>
@@ -48871,7 +48871,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(60+19(nb-1))-(63+19(nb-1))</OctetNo>
 		<Contents_en>Total number of data values missing in statistical process</Contents_en>
 		<Note_en/>
@@ -48881,7 +48881,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(64+19(nb-1)+12(i-1))</OctetNo>
 		<Contents_en>Statistical process used to calculate the processed field from the field at each time increment during the time range</Contents_en>
 		<Note_en>(see Code table 4.10)</Note_en>
@@ -48891,7 +48891,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(65+19(nb-1)+12(i-1))</OctetNo>
 		<Contents_en>Type of time increment between successive fields used in the statistical processing</Contents_en>
 		<Note_en>(see Code table 4.11)</Note_en>
@@ -48901,7 +48901,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(66+19(nb-1)+12(i-1))</OctetNo>
 		<Contents_en>Indicator of unit of time for time range over which statistical processing is done</Contents_en>
 		<Note_en>(see Code table 4.4)</Note_en>
@@ -48911,7 +48911,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(67+19(nb-1)+12(i-1))-(70+19(nb-1)+12(i-1))</OctetNo>
 		<Contents_en>Length of the time range over which statistical processing is done, in units defined by the previous octet</Contents_en>
 		<Note_en/>
@@ -48921,7 +48921,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(71+19(nb-1)+12(i-1))</OctetNo>
 		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
 		<Note_en>(see Code table 4.4)</Note_en>
@@ -48931,7 +48931,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.206 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(72+19(nb-1)+12(i-1))-(75+19(nb-1)+12(i-1))</OctetNo>
 		<Contents_en>Time increment between successive fields, in units defined by the previous octet</Contents_en>
 		<Note_en>(see Notes 3 and 4)</Note_en>
@@ -48941,7 +48941,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo/>
 		<Contents_en>16-   Repeat the following 19 octets for each contributing band (nb = 1,NB)</Contents_en>
 		<Note_en/>
@@ -48951,7 +48951,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo>10</OctetNo>
 		<Contents_en>Parameter category</Contents_en>
 		<Note_en>(see Code table 4.1)</Note_en>
@@ -48961,7 +48961,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo>11</OctetNo>
 		<Contents_en>Parameter number</Contents_en>
 		<Note_en>(see Code table 4.2)</Note_en>
@@ -48971,7 +48971,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo>12</OctetNo>
 		<Contents_en>Type of generating process</Contents_en>
 		<Note_en>(see Code table 4.3)</Note_en>
@@ -48981,7 +48981,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo>13</OctetNo>
 		<Contents_en>Observation generating process identifier (defined by originating centres)</Contents_en>
 		<Note_en/>
@@ -48991,7 +48991,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo>14</OctetNo>
 		<Contents_en>Quality value associated with parameter</Contents_en>
 		<Note_en>(see Code table 4.16)</Note_en>
@@ -49001,7 +49001,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo>15</OctetNo>
 		<Contents_en>Number of contributing spectral bands (NB)</Contents_en>
 		<Note_en/>
@@ -49011,7 +49011,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(16+19(nb-1))-(17+19(nb-1))</OctetNo>
 		<Contents_en>Satellite series of band nb (code table defined by originating/generating centre)</Contents_en>
 		<Note_en>(see Note)</Note_en>
@@ -49021,7 +49021,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(18+19(nb-1))-(19+19(nb-1))</OctetNo>
 		<Contents_en>Satellite numbers of band nb (code table defined by originating/generating centre)</Contents_en>
 		<Note_en>(see Note)</Note_en>
@@ -49031,7 +49031,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(20+19(nb-1))-(21+19(nb-1))</OctetNo>
 		<Contents_en>Instrument types of band nb (code table defined by originating/generating centre)</Contents_en>
 		<Note_en>(see Note)</Note_en>
@@ -49041,7 +49041,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(22+19(nb-1))-(23+19(nb-1))</OctetNo>
 		<Contents_en>Channel number</Contents_en>
 		<Note_en/>
@@ -49051,7 +49051,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(24+19(nb-1))</OctetNo>
 		<Contents_en>Scale factor of central wave number of band nb</Contents_en>
 		<Note_en/>
@@ -49061,7 +49061,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(25+19(nb-1))-(28+19(nb-1))</OctetNo>
 		<Contents_en>Scaled value of central wave number of band nb (units: m-1)</Contents_en>
 		<Note_en/>
@@ -49071,7 +49071,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(29+19(nb-1))</OctetNo>
 		<Contents_en>Scale factor of bandwidth</Contents_en>
 		<Note_en/>
@@ -49081,7 +49081,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(30+19(nb-1))-(33+19(nb-1))</OctetNo>
 		<Contents_en>Scaled value of bandwidth (units:m-1)</Contents_en>
 		<Note_en/>
@@ -49091,9 +49091,9 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarisation</Title_en>
+		<Title_en>Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization</Title_en>
 		<OctetNo>(34+19(nb-1))</OctetNo>
-		<Contents_en>Polarisation of satellite band</Contents_en>
+		<Contents_en>Polarization of satellite band</Contents_en>
 		<Note_en>(see Code table 4.254)</Note_en>
 		<noteIDs/>
 		<codeTable>4.254</codeTable>
