@@ -3070,14 +3070,14 @@
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<SubTitle_en/>
 		<CodeFlag>175</CodeFlag>
-		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<SubTitle_en/>
 		<CodeFlag>176</CodeFlag>
-		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
