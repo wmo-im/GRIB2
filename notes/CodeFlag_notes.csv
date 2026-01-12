@@ -187,4 +187,4 @@ noteID,note
 190,"Mean mass diameter is the diameter of a particle representing the mean mass of the particle size distribution."
 191,"Estimated maximum diameter is the empirical estimate of the maximum particle size, based on a particle size distribution or its moments."
 343a,"Parameter 8 is deprecated. It is recommended to use 23 instead."
-343b,"The effective inflow layer base and top forms the effective inflow layer. The layer is characterized when several critiria on the value of CAPE and CIN are met. A common threshold is when CAPE ≥ 100 J kg-1 and CIN ≥ −250 J kg-1 at the same time. The exact definition and thresholds can vary across the models so it is left to each producer to document how their effective inflow layer is defined."
+343b,"The effective inflow layer base and top form the effective inflow layer. The layer is characterized when several criteria on the value of CAPE and CIN are met. A common threshold is when CAPE ≥ 100 J kg-1 and CIN ≥ −250 J kg-1 at the same time. The exact definition and thresholds can vary across the models, so it is left to each producer to document how their effective inflow layer is defined."
