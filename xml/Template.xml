@@ -48463,7 +48463,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>54</OctetNo>
-		<Contents_en>Day - time of end of overall time interval</Contents_en>
+		<Contents_en>Day of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -48473,7 +48473,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>55</OctetNo>
-		<Contents_en>Hour - time of end of overall time interval</Contents_en>
+		<Contents_en>Hour of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -48483,7 +48483,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>56</OctetNo>
-		<Contents_en>Minute - time of end of overall time interval</Contents_en>
+		<Contents_en>Minute of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -48493,7 +48493,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>57</OctetNo>
-		<Contents_en>Second - time of end of overall time interval</Contents_en>
+		<Contents_en>Second of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
