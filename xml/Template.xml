@@ -48453,7 +48453,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>53</OctetNo>
-		<Contents_en>Month - time of end of overall time interval</Contents_en>
+		<Contents_en>Month of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
