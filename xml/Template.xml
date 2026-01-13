@@ -49203,7 +49203,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>64-65</OctetNo>
-		<Contents_en>Year - time of end of overall time interval</Contents_en>
+		<Contents_en>Year of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -49213,7 +49213,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>66</OctetNo>
-		<Contents_en>Month - time of end of overall time interval</Contents_en>
+		<Contents_en>Month of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -49223,7 +49223,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>67</OctetNo>
-		<Contents_en>Day - time of end of overall time interval</Contents_en>
+		<Contents_en>Day of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -49233,7 +49233,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>68</OctetNo>
-		<Contents_en>Hour - time of end of overall time interval</Contents_en>
+		<Contents_en>Hour of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -49243,7 +49243,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>69</OctetNo>
-		<Contents_en>Minute - time of end of overall time interval</Contents_en>
+		<Contents_en>Minute of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -49253,7 +49253,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>70</OctetNo>
-		<Contents_en>Second - time of end of overall time interval</Contents_en>
+		<Contents_en>Second of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -49823,7 +49823,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>50-51</OctetNo>
-		<Contents_en>Year - time of end of overall time interval</Contents_en>
+		<Contents_en>Year of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -49833,7 +49833,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>52</OctetNo>
-		<Contents_en>Month - time of end of overall time interval</Contents_en>
+		<Contents_en>Month of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -49843,7 +49843,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>53</OctetNo>
-		<Contents_en>Day - time of end of overall time interval</Contents_en>
+		<Contents_en>Day of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -49853,7 +49853,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>54</OctetNo>
-		<Contents_en>Hour - time of end of overall time interval</Contents_en>
+		<Contents_en>Hour of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -49863,7 +49863,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>55</OctetNo>
-		<Contents_en>Minute - time of end of overall time interval</Contents_en>
+		<Contents_en>Minute of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -49873,7 +49873,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
 		<OctetNo>56</OctetNo>
-		<Contents_en>Second - time of end of overall time interval</Contents_en>
+		<Contents_en>Second of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
