@@ -138,13 +138,6 @@ Product definition template number,,152,,"Individual large ensemble reforecast, 
 Product definition template number,,153,,"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents",,,,Operational
 Product definition template number,,154,,"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,,,Operational
 Product definition template number,,155,,"Individual large ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
-<<<<<<< HEAD
-Product definition template number,,199,,"Derived products of post-processed forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time",,,,Operational
-Product definition template number,,200,,"Derived products of post-processed forecasts based on all ensemble members at a horizontal level or in a horizontal layer  in a continuous or non-continuous time interval",,,,Operational
-Product definition template number,,201,,"Probability of post-processed forecast at a horizontal level or in a horizontal layer at a point in time",,,,Operational
-Product definition template number,,202,,"Probability of post-processed forecast at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
-Product definition template number,,203-253,,Reserved,,,,Operational
-=======
 Product definition template number,,156,,"Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol",,,,Operational
 Product definition template number,,157,,"Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol",,,,Operational
 Product definition template number,,158,,"Average, accumulation, extreme values or other statistically processed values at a continuous or non-continuous time interval for optical properties of aerosol with source or sink",,,,Operational
@@ -188,14 +181,16 @@ Product definition template number,,195,,"Probability forecasts at a horizontal 
 Product definition template number,,196,,"Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol",,,,Operational
 Product definition template number,,197,,"Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol",,,,Operational
 Product definition template number,,198,,"Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink",,,,Operational
-Product definition template number,,199-202,,Reserved,,,,Operational
+Product definition template number,,199,,"Derived products of post-processed forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time",,,,Operational
+Product definition template number,,200,,"Derived products of post-processed forecasts based on all ensemble members at a horizontal level or in a horizontal layer  in a continuous or non-continuous time interval",,,,Operational
+Product definition template number,,201,,"Probability of post-processed forecast at a horizontal level or in a horizontal layer at a point in time",,,,Operational
+Product definition template number,,202,,"Probability of post-processed forecast at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval",,,,Operational
 Product definition template number,,203,,"Satellite product with channel, bandwidth and polarization",,,,Operational
 Product definition template number,,204,,"Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization",,,,Operational
 Product definition template number,,205,,"Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization",,,,Operational
 Product definition template number,,206,,"Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization",,,,Operational
 Product definition template number,,207,,"Satellite product with or without associated quality values with channel, bandwidth and polarization",,,,Operational
 Product definition template number,,208-253,,Reserved,,,,Operational
->>>>>>> FT2026-1
 Product definition template number,,254,,CCITT IA5 character string,,,,Operational
 Product definition template number,,255-999,,Reserved,,,,Operational
 Product definition template number,,1000,,Cross-section of analysis and forecast at a point in time,,,,Experimental
