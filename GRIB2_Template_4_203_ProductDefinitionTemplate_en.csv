@@ -1,0 +1,16 @@
+Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
+"Satellite product with channel, bandwidth and polarization",10,1,Parameter category,(see Code table 4.1),,4.1,,Operational
+"Satellite product with channel, bandwidth and polarization",11,1,Parameter number,(see Code table 4.2),,4.2,,Operational
+"Satellite product with channel, bandwidth and polarization",12,1,Type of generating process,(see Code table 4.3),,4.3,,Operational
+"Satellite product with channel, bandwidth and polarization",13,1,Observation generating process identifier (defined by originating centres),,,,,Operational
+"Satellite product with channel, bandwidth and polarization",14,1,Number of contributing spectral bands (NB),,,,,Operational
+"Satellite product with channel, bandwidth and polarization",,,"15- Repeat the following 19 octets for each contributing band (nb = 1, NB)",,,,,Operational
+"Satellite product with channel, bandwidth and polarization",(15+19(nb-1))-(16+19(nb-1)),2,Satellite series of band nb (code table defined by originating/generating centre),(see Note),14,,,Operational
+"Satellite product with channel, bandwidth and polarization",(17+19(nb-1))-(18+19(nb-1)),2,Satellite numbers of band nb (code table defined by originating/generating centre),(see Note),14,,,Operational
+"Satellite product with channel, bandwidth and polarization",(19+19(nb-1))-(20+19(nb-1)),2,Instrument types of band nb (code table defined by originating/generating centre),(see Note),14,,,Operational
+"Satellite product with channel, bandwidth and polarization",(21+19(nb-1))-(22+19(nb-1)),2,Channel number,,,,,Operational
+"Satellite product with channel, bandwidth and polarization",(23+19(nb-1)),1,Scale factor of central wave number of band nb,,,,,Operational
+"Satellite product with channel, bandwidth and polarization",(24+19(nb-1))-(27+19(nb-1)),4,Scaled value of central wave number of band nb (units: m-1),,,,,Operational
+"Satellite product with channel, bandwidth and polarization",(28+19(nb-1)),1,Scale factor of bandwidth,,,,,Operational
+"Satellite product with channel, bandwidth and polarization",(29+19(nb-1))-(32+19(nb-1)),4,Scaled value of bandwidth,,,,,Operational
+"Satellite product with channel, bandwidth and polarization",(33+19(nb-1)),1,Polarization of satellite band,(see code table 4.254),,4.254,,Operational
