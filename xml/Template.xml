@@ -47981,6 +47981,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo/>
 		<Contents_en>71 - 82 Specification of the outermost (or only) time range over which statistical processing is done</Contents_en>
@@ -48002,6 +48003,9 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+>>>>>>> FT2026-1
 		<OctetNo>10</OctetNo>
 		<Contents_en>Parameter category</Contents_en>
 		<Note_en>(see Code table 4.1)</Note_en>
@@ -48011,7 +48015,11 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+>>>>>>> FT2026-1
 		<OctetNo>11</OctetNo>
 		<Contents_en>Parameter number</Contents_en>
 		<Note_en>(see Code table 4.2)</Note_en>
@@ -48021,6 +48029,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
@@ -48034,6 +48043,11 @@
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>14</OctetNo>
 		<Contents_en>Type of interval for first and second size</Contents_en>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>12</OctetNo>
+		<Contents_en>Type of wave period interval</Contents_en>
+>>>>>>> FT2026-1
 		<Note_en>(see Code table 4.91)</Note_en>
 		<noteIDs/>
 		<codeTable>4.91</codeTable>
@@ -48041,9 +48055,15 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>15</OctetNo>
 		<Contents_en>Scale factor of first size</Contents_en>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>13</OctetNo>
+		<Contents_en>Scale factor of lower wave period limit</Contents_en>
+>>>>>>> FT2026-1
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -48051,9 +48071,25 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>16-19</OctetNo>
 		<Contents_en>Scaled value of first size in metres</Contents_en>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>14-17</OctetNo>
+		<Contents_en>Scaled value of lower wave period limit</Contents_en>
+		<Note_en>(see Note 1)</Note_en>
+		<noteIDs>163</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>18</OctetNo>
+		<Contents_en>Scale factor of upper wave period limit</Contents_en>
+>>>>>>> FT2026-1
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -48061,16 +48097,25 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>20</OctetNo>
 		<Contents_en>Scale factor of second size </Contents_en>
 		<Note_en/>
 		<noteIDs/>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>19-22</OctetNo>
+		<Contents_en>Scaled value of upper wave period limit</Contents_en>
+		<Note_en>(see Note 1)</Note_en>
+		<noteIDs>163</noteIDs>
+>>>>>>> FT2026-1
 		<codeTable/>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>21-24</OctetNo>
 		<Contents_en>Scaled value of second size in metres</Contents_en>
@@ -48133,6 +48178,10 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>36</OctetNo>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>23</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Type of generating process</Contents_en>
 		<Note_en>(see Code table 4.3)</Note_en>
 		<noteIDs/>
@@ -48141,8 +48190,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>37</OctetNo>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>24</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48151,6 +48205,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>38</OctetNo>
 		<Contents_en>Analysis or forecast generating process identifier (defined by originating centre)</Contents_en>
@@ -48593,6 +48648,10 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>38</OctetNo>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>25</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Analysis or forecast generating process identifier (defined by originating centre)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48601,18 +48660,30 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>39-40</OctetNo>
 		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
 		<Note_en>(see Note)</Note_en>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>26-27</OctetNo>
+		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
+		<Note_en>(see Note 2)</Note_en>
+>>>>>>> FT2026-1
 		<noteIDs>33</noteIDs>
 		<codeTable/>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>41</OctetNo>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>28</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Minutes of observational data cut-off after reference time</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48621,8 +48692,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>42</OctetNo>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>29</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Indicator of unit of time range</Contents_en>
 		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
@@ -48631,9 +48707,15 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>43-46</OctetNo>
 		<Contents_en>Forecast time in units defined by octet 42</Contents_en>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>30-33</OctetNo>
+		<Contents_en>Forecast time in units defined by previous octet</Contents_en>
+>>>>>>> FT2026-1
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -48641,8 +48723,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>47</OctetNo>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>34</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Type of first fixed surface</Contents_en>
 		<Note_en>(see Code table 4.5)</Note_en>
 		<noteIDs/>
@@ -48651,8 +48738,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>48</OctetNo>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>35</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Scale factor of first fixed surface</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48661,8 +48753,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>49-52</OctetNo>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>36-39</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Scaled value of first fixed surface</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48671,8 +48768,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>53</OctetNo>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>40</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Type of second fixed surface</Contents_en>
 		<Note_en>(see Code table 4.5)</Note_en>
 		<noteIDs/>
@@ -48681,8 +48783,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>54</OctetNo>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>41</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Scale factor of second fixed surface</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48691,8 +48798,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>55-58</OctetNo>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>42-45</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Scaled value of second fixed surface</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48701,16 +48813,26 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>59</OctetNo>
 		<Contents_en>Type of ensemble forecast</Contents_en>
 		<Note_en>(see Code table 4.6)</Note_en>
 		<noteIDs/>
 		<codeTable>4.6</codeTable>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>46</OctetNo>
+		<Contents_en>Derived forecast</Contents_en>
+		<Note_en>(see Code table 4.7)</Note_en>
+		<noteIDs/>
+		<codeTable>4.7</codeTable>
+>>>>>>> FT2026-1
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>60-63</OctetNo>
 		<Contents_en>Perturbation number</Contents_en>
@@ -48723,6 +48845,10 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>64-67</OctetNo>
+=======
+		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>47-50</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Number of forecasts in ensemble</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -48731,9 +48857,15 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>68-69</OctetNo>
 		<Contents_en>Year of end of overall time interval</Contents_en>
+=======
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo/>
+		<Contents_en>63-74   Specification of the outermost (or only) time range over which statistical processing is done</Contents_en>
+>>>>>>> FT2026-1
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -48741,6 +48873,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>70</OctetNo>
 		<Contents_en>Month of end of overall time interval</Contents_en>
@@ -48855,15 +48988,387 @@
 		<OctetNo>87</OctetNo>
 		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
 		<Note_en>(see code table 4.4)</Note_en>
+=======
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo/>
+		<Contents_en>75-nn   These octets are included only if n &gt; 1, where nn = 63 + 12 x n</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>10</OctetNo>
+		<Contents_en>Parameter category</Contents_en>
+		<Note_en>(see Code table 4.1)</Note_en>
+		<noteIDs/>
+		<codeTable>4.1</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>11</OctetNo>
+		<Contents_en>Parameter number</Contents_en>
+		<Note_en>(see Code table 4.2)</Note_en>
+		<noteIDs/>
+		<codeTable>4.2</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>12</OctetNo>
+		<Contents_en>Type of wave period interval</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>13</OctetNo>
+		<Contents_en>Scale factor of lower wave period limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>14-17</OctetNo>
+		<Contents_en>Scaled value of lower wave period limit</Contents_en>
+		<Note_en>(see Note 1)</Note_en>
+		<noteIDs>163</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>18</OctetNo>
+		<Contents_en>Scale factor of upper wave period limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>19-22</OctetNo>
+		<Contents_en>Scaled value of upper wave period limit</Contents_en>
+		<Note_en>(see Note 1)</Note_en>
+		<noteIDs>163</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>23</OctetNo>
+		<Contents_en>Type of generating process</Contents_en>
+		<Note_en>(see Code table 4.3)</Note_en>
+		<noteIDs/>
+		<codeTable>4.3</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>24</OctetNo>
+		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>25</OctetNo>
+		<Contents_en>Analysis or forecast generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>26-27</OctetNo>
+		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
+		<Note_en>(see Note 2)</Note_en>
+		<noteIDs>33</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>28</OctetNo>
+		<Contents_en>Minutes of observational data cut-off after reference time</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>29</OctetNo>
+		<Contents_en>Indicator of unit of time range</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>30-33</OctetNo>
+		<Contents_en>Forecast time in units defined by previous octet</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>34</OctetNo>
+		<Contents_en>Type of first fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>35</OctetNo>
+		<Contents_en>Scale factor of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>36-39</OctetNo>
+		<Contents_en>Scaled value of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>40</OctetNo>
+		<Contents_en>Type of second fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>41</OctetNo>
+		<Contents_en>Scale factor of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>42-45</OctetNo>
+		<Contents_en>Scaled value of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>46</OctetNo>
+		<Contents_en>Derived forecast</Contents_en>
+		<Note_en>(see Code table 4.7)</Note_en>
+		<noteIDs/>
+		<codeTable>4.7</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>47-50</OctetNo>
+		<Contents_en>Number of forecasts in ensemble</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>51-52</OctetNo>
+		<Contents_en>Year - time of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>53</OctetNo>
+		<Contents_en>Month of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>54</OctetNo>
+		<Contents_en>Day of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>55</OctetNo>
+		<Contents_en>Hour of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>56</OctetNo>
+		<Contents_en>Minute of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>57</OctetNo>
+		<Contents_en>Second of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>58</OctetNo>
+		<Contents_en>n - number of time range specifications describing the time intervals used to calculate the statistically processed field</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>59-62</OctetNo>
+		<Contents_en>Total number of data values missing in statistical process</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>63</OctetNo>
+		<Contents_en>Statistical process used to calculate the processed field from the field at each time increment during the time range</Contents_en>
+		<Note_en>(see Code table 4.10)</Note_en>
+		<noteIDs/>
+		<codeTable>4.10</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>64</OctetNo>
+		<Contents_en>Type of time increment between successive fields used in the statistical processing</Contents_en>
+		<Note_en>(see Code table 4.11)</Note_en>
+		<noteIDs/>
+		<codeTable>4.11</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>65</OctetNo>
+		<Contents_en>Indicator of unit of time for time range over which statistical processing is done</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>66-69</OctetNo>
+		<Contents_en>Length of the time range over which statistical processing is done, in units defined by the previous octet</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>70</OctetNo>
+		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+>>>>>>> FT2026-1
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>88-91</OctetNo>
 		<Contents_en>Time increment between successive fields, in units defined by the previous octet</Contents_en>
+=======
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>71-74</OctetNo>
+		<Contents_en>Time increment between successive fields, in units defined by the previous octet</Contents_en>
+		<Note_en>(see Notes 3 and 4)</Note_en>
+		<noteIDs>7,96</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>75-86</OctetNo>
+		<Contents_en>As octets 63 to 74, next innermost step of processing</Contents_en>
+>>>>>>> FT2026-1
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -48871,9 +49376,15 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>92-103</OctetNo>
 		<Contents_en>As octets 80 to 91, next innermost step of processing</Contents_en>
+=======
+		<Title_en>Product definition template 4.161 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>87-nn</OctetNo>
+		<Contents_en>Additional time range specifications, included in accordance with the value of n. Contents as octets 63 to 74, repeated as necessary</Contents_en>
+>>>>>>> FT2026-1
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -48881,6 +49392,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>104-nn</OctetNo>
 		<Contents_en>Additional time range specifications, included in accordance with the value of n. Contents as octets 80 to 91, repeated as necessary</Contents_en>
@@ -48912,6 +49424,9 @@
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+>>>>>>> FT2026-1
 		<OctetNo>10</OctetNo>
 		<Contents_en>Parameter category</Contents_en>
 		<Note_en>(see Code table 4.1)</Note_en>
@@ -48921,7 +49436,11 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+>>>>>>> FT2026-1
 		<OctetNo>11</OctetNo>
 		<Contents_en>Parameter number</Contents_en>
 		<Note_en>(see Code table 4.2)</Note_en>
@@ -48931,6 +49450,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
@@ -48954,6 +49474,11 @@
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>15</OctetNo>
 		<Contents_en>Type of interval for first and second size</Contents_en>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>12</OctetNo>
+		<Contents_en>Type of wave period interval</Contents_en>
+>>>>>>> FT2026-1
 		<Note_en>(see Code table 4.91)</Note_en>
 		<noteIDs/>
 		<codeTable>4.91</codeTable>
@@ -48961,9 +49486,15 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>16</OctetNo>
 		<Contents_en>Scale factor of first size</Contents_en>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>13</OctetNo>
+		<Contents_en>Scale factor of lower wave period limit</Contents_en>
+>>>>>>> FT2026-1
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -48971,9 +49502,25 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>17-20</OctetNo>
 		<Contents_en>Scaled value of first size in metres</Contents_en>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>14-17</OctetNo>
+		<Contents_en>Scaled value of lower wave period limit</Contents_en>
+		<Note_en>(see Note 1)</Note_en>
+		<noteIDs>163</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>18</OctetNo>
+		<Contents_en>Scale factor of upper wave period limit</Contents_en>
+>>>>>>> FT2026-1
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -48981,16 +49528,25 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>21</OctetNo>
 		<Contents_en>Scale factor of second size </Contents_en>
 		<Note_en/>
 		<noteIDs/>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>19-22</OctetNo>
+		<Contents_en>Scaled value of upper wave period limit</Contents_en>
+		<Note_en>(see Note 1)</Note_en>
+		<noteIDs>163</noteIDs>
+>>>>>>> FT2026-1
 		<codeTable/>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>22-25</OctetNo>
 		<Contents_en>Scaled value of second size in metres</Contents_en>
@@ -49053,6 +49609,10 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>37</OctetNo>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>23</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Type of generating process</Contents_en>
 		<Note_en>(see Code table 4.3)</Note_en>
 		<noteIDs/>
@@ -49061,8 +49621,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>38</OctetNo>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>24</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49071,8 +49636,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>39</OctetNo>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>25</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Analysis or forecast generating process identifier (defined by originating centre)</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49081,18 +49651,30 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>40-41</OctetNo>
 		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
 		<Note_en>(see Note)</Note_en>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>26-27</OctetNo>
+		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
+		<Note_en>(see Note 2)</Note_en>
+>>>>>>> FT2026-1
 		<noteIDs>33</noteIDs>
 		<codeTable/>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>42</OctetNo>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>28</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Minutes of observational data cut-off after reference time</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49101,8 +49683,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>43</OctetNo>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>29</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Indicator of unit of time range</Contents_en>
 		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
@@ -49111,9 +49698,15 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>44-47</OctetNo>
 		<Contents_en>Forecast time in units defined by octet 42</Contents_en>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>30-33</OctetNo>
+		<Contents_en>Forecast time in units defined by previous octet</Contents_en>
+>>>>>>> FT2026-1
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -49121,8 +49714,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>48</OctetNo>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>34</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Type of first fixed surface</Contents_en>
 		<Note_en>(see Code table 4.5)</Note_en>
 		<noteIDs/>
@@ -49131,8 +49729,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>49</OctetNo>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>35</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Scale factor of first fixed surface</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49141,8 +49744,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>50-53</OctetNo>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>36-39</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Scaled value of first fixed surface</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49151,8 +49759,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>54</OctetNo>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>40</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Type of second fixed surface</Contents_en>
 		<Note_en>(see Code table 4.5)</Note_en>
 		<noteIDs/>
@@ -49161,8 +49774,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>55</OctetNo>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>41</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Scale factor of second fixed surface</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49171,8 +49789,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>56-59</OctetNo>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>42-45</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Scaled value of second fixed surface</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49181,6 +49804,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>60-61</OctetNo>
 		<Contents_en>Year of end of overall time interval</Contents_en>
@@ -49633,6 +50257,10 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>60</OctetNo>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>46</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Type of ensemble forecast</Contents_en>
 		<Note_en>(see Code table 4.6)</Note_en>
 		<noteIDs/>
@@ -49641,6 +50269,7 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>61-64</OctetNo>
 		<Contents_en>Perturbation number</Contents_en>
@@ -49653,6 +50282,10 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>65-68</OctetNo>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>47-50</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Number of forecasts in ensemble</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49661,8 +50294,393 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>69-70</OctetNo>
+=======
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>51</OctetNo>
+		<Contents_en>Forecast probability number</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>52</OctetNo>
+		<Contents_en>Total number of forecast probabilities</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>53</OctetNo>
+		<Contents_en>Probability type</Contents_en>
+		<Note_en>(see Code table 4.9)</Note_en>
+		<noteIDs/>
+		<codeTable>4.9</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>54</OctetNo>
+		<Contents_en>Scale factor of lower limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>55-58</OctetNo>
+		<Contents_en>Scaled value of lower limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>59</OctetNo>
+		<Contents_en>Scale factor of upper limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.162 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>60-63</OctetNo>
+		<Contents_en>Scaled value of upper limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo/>
+		<Contents_en>76-87   Specification of the outermost (or only) time range over which statistical processing is done</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo/>
+		<Contents_en>88-nn   These octets are included only if n &gt; 1, where nn = 75 + 12 x n</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>10</OctetNo>
+		<Contents_en>Parameter category</Contents_en>
+		<Note_en>(see Code table 4.1)</Note_en>
+		<noteIDs/>
+		<codeTable>4.1</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>11</OctetNo>
+		<Contents_en>Parameter number</Contents_en>
+		<Note_en>(see Code table 4.2)</Note_en>
+		<noteIDs/>
+		<codeTable>4.2</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>12</OctetNo>
+		<Contents_en>Type of wave period interval</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>13</OctetNo>
+		<Contents_en>Scale factor of lower wave period limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>14-17</OctetNo>
+		<Contents_en>Scaled value of lower wave period limit</Contents_en>
+		<Note_en>(see Note 1)</Note_en>
+		<noteIDs>163</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>18</OctetNo>
+		<Contents_en>Scale factor of upper wave period limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>19-22</OctetNo>
+		<Contents_en>Scaled value of upper wave period limit</Contents_en>
+		<Note_en>(see Note 1)</Note_en>
+		<noteIDs>163</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>23</OctetNo>
+		<Contents_en>Type of generating process</Contents_en>
+		<Note_en>(see Code table 4.3)</Note_en>
+		<noteIDs/>
+		<codeTable>4.3</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>24</OctetNo>
+		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>25</OctetNo>
+		<Contents_en>Analysis or forecast generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>26-27</OctetNo>
+		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
+		<Note_en>(see Note 2)</Note_en>
+		<noteIDs>33</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>28</OctetNo>
+		<Contents_en>Minutes of observational data cut-off after reference time</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>29</OctetNo>
+		<Contents_en>Indicator of unit of time range</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>30-33</OctetNo>
+		<Contents_en>Forecast time in units defined by previous octet</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>34</OctetNo>
+		<Contents_en>Type of first fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>35</OctetNo>
+		<Contents_en>Scale factor of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>36-39</OctetNo>
+		<Contents_en>Scaled value of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>40</OctetNo>
+		<Contents_en>Type of second fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>41</OctetNo>
+		<Contents_en>Scale factor of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>42-45</OctetNo>
+		<Contents_en>Scaled value of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>46</OctetNo>
+		<Contents_en>Type of ensemble forecast</Contents_en>
+		<Note_en>(see Code table 4.6)</Note_en>
+		<noteIDs/>
+		<codeTable>4.6</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>47-50</OctetNo>
+		<Contents_en>Number of forecasts in ensemble</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>51</OctetNo>
+		<Contents_en>Forecast probability number</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>52</OctetNo>
+		<Contents_en>Total number of forecast probabilities</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>53</OctetNo>
+		<Contents_en>Probability type</Contents_en>
+		<Note_en>(see Code table 4.9)</Note_en>
+		<noteIDs/>
+		<codeTable>4.9</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>54</OctetNo>
+		<Contents_en>Scale factor of lower limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>55-58</OctetNo>
+		<Contents_en>Scaled value of lower limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>59</OctetNo>
+		<Contents_en>Scale factor of upper limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>60-63</OctetNo>
+		<Contents_en>Scaled value of upper limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>64-65</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Year of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49671,8 +50689,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>71</OctetNo>
+=======
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>66</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Month of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49681,8 +50704,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>72</OctetNo>
+=======
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>67</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Day of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49691,8 +50719,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>73</OctetNo>
+=======
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>68</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Hour of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49701,8 +50734,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>74</OctetNo>
+=======
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>69</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Minute of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49711,8 +50749,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>75</OctetNo>
+=======
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>70</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Second of end of overall time interval</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49721,8 +50764,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>76</OctetNo>
+=======
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>71</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>n - number of time range specifications describing the time intervals used to calculate the statistically processed field</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49731,8 +50779,13 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>77-80</OctetNo>
+=======
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>72-75</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Total number of data values missing in statistical process</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49741,38 +50794,64 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>81</OctetNo>
 		<Contents_en>Statistical process used to calculate the processed field from the field at each time increment during the time range</Contents_en>
 		<Note_en>(see code table 4.10)</Note_en>
+=======
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>76</OctetNo>
+		<Contents_en>Statistical process used to calculate the processed field from the field at each time increment during the time range</Contents_en>
+		<Note_en>(see Code table 4.10)</Note_en>
+>>>>>>> FT2026-1
 		<noteIDs/>
 		<codeTable>4.10</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>82</OctetNo>
 		<Contents_en>Type of time increment between successive fields used in the statistical processing</Contents_en>
 		<Note_en>(see code table 4.11)</Note_en>
+=======
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>77</OctetNo>
+		<Contents_en>Type of time increment between successive fields used in the statistical processing</Contents_en>
+		<Note_en>(see Code table 4.11)</Note_en>
+>>>>>>> FT2026-1
 		<noteIDs/>
 		<codeTable>4.11</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>83</OctetNo>
 		<Contents_en>Indicator of unit of time for time range over which statistical processing is done</Contents_en>
 		<Note_en>(see code table 4.4)</Note_en>
+=======
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>78</OctetNo>
+		<Contents_en>Indicator of unit of time for time range over which statistical processing is done</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+>>>>>>> FT2026-1
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>84-87</OctetNo>
+=======
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>79-82</OctetNo>
+>>>>>>> FT2026-1
 		<Contents_en>Length of the time range over which statistical processing is done, in units defined by the previous octet</Contents_en>
 		<Note_en/>
 		<noteIDs/>
@@ -49781,19 +50860,42 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>88</OctetNo>
 		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
 		<Note_en>(see code table 4.4)</Note_en>
+=======
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>83</OctetNo>
+		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+>>>>>>> FT2026-1
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>89-92</OctetNo>
 		<Contents_en>Time increment between successive fields, in units defined by the previous octet</Contents_en>
+=======
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>84-87</OctetNo>
+		<Contents_en>Time increment between successive fields, in units defined by the previous octet</Contents_en>
+		<Note_en>(see Notes 3 and 4)</Note_en>
+		<noteIDs>7,96</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>88-99</OctetNo>
+		<Contents_en>As octets 76 to 87, next innermost step of processing</Contents_en>
+>>>>>>> FT2026-1
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -49801,9 +50903,15 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>93-104</OctetNo>
 		<Contents_en>As octets 81 to 92, next innermost step of processing</Contents_en>
+=======
+		<Title_en>Product definition template 4.163 - Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>100-nn</OctetNo>
+		<Contents_en>Additional time range specifications, included in accordance with the value of n. Contents as octets 76 to 87, repeated as necessary</Contents_en>
+>>>>>>> FT2026-1
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
@@ -49811,9 +50919,625 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+<<<<<<< HEAD
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>105-nn</OctetNo>
 		<Contents_en>Additional time range specifications, included in accordance with the value of n. Contents as octets 81 to 92, repeated as necessary</Contents_en>
+=======
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>10</OctetNo>
+		<Contents_en>Parameter category</Contents_en>
+		<Note_en>(see Code table 4.1)</Note_en>
+		<noteIDs/>
+		<codeTable>4.1</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>11</OctetNo>
+		<Contents_en>Parameter number</Contents_en>
+		<Note_en>(see Code table 4.2)</Note_en>
+		<noteIDs/>
+		<codeTable>4.2</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>12</OctetNo>
+		<Contents_en>Type of wave period interval</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>13</OctetNo>
+		<Contents_en>Scale factor of lower wave period limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>14-17</OctetNo>
+		<Contents_en>Scaled value of lower wave period limit</Contents_en>
+		<Note_en>(see Note 1)</Note_en>
+		<noteIDs>163</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>18</OctetNo>
+		<Contents_en>Scale factor of upper wave period limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>19-22</OctetNo>
+		<Contents_en>Scaled value of upper wave period limit</Contents_en>
+		<Note_en>(see Note 1)</Note_en>
+		<noteIDs>163</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>23</OctetNo>
+		<Contents_en>Type of generating process</Contents_en>
+		<Note_en>(see Code table 4.3)</Note_en>
+		<noteIDs/>
+		<codeTable>4.3</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>24</OctetNo>
+		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>25</OctetNo>
+		<Contents_en>Analysis or forecast generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>26-27</OctetNo>
+		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
+		<Note_en>(see Note 2)</Note_en>
+		<noteIDs>33</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>28</OctetNo>
+		<Contents_en>Minutes of observational data cut-off after reference time</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>29</OctetNo>
+		<Contents_en>Indicator of unit of time range</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>30-33</OctetNo>
+		<Contents_en>Forecast time in units defined by previous octet</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>34</OctetNo>
+		<Contents_en>Type of first fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>35</OctetNo>
+		<Contents_en>Scale factor of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>36-39</OctetNo>
+		<Contents_en>Scaled value of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>40</OctetNo>
+		<Contents_en>Type of second fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>41</OctetNo>
+		<Contents_en>Scale factor of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>42-45</OctetNo>
+		<Contents_en>Scaled value of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>46-47</OctetNo>
+		<Contents_en>Total number of quantile q</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.164 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
+		<OctetNo>48-49</OctetNo>
+		<Contents_en>Quantile value (between 0 and q)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo/>
+		<Contents_en>62-73   Specification of the outermost (or only) time range over which statistical processing is done</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo/>
+		<Contents_en>74-nn   These octets are included only if n &gt; 1, where nn = 61 + 12 x n</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>10</OctetNo>
+		<Contents_en>Parameter category</Contents_en>
+		<Note_en>(see Code table 4.1)</Note_en>
+		<noteIDs/>
+		<codeTable>4.1</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>11</OctetNo>
+		<Contents_en>Parameter number</Contents_en>
+		<Note_en>(see Code table 4.2)</Note_en>
+		<noteIDs/>
+		<codeTable>4.2</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>12</OctetNo>
+		<Contents_en>Type of wave period interval</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>13</OctetNo>
+		<Contents_en>Scale factor of lower wave period limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>14-17</OctetNo>
+		<Contents_en>Scaled value of lower wave period limit</Contents_en>
+		<Note_en>(see Note 1)</Note_en>
+		<noteIDs>163</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>18</OctetNo>
+		<Contents_en>Scale factor of upper wave period limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>19-22</OctetNo>
+		<Contents_en>Scaled value of upper wave period limit</Contents_en>
+		<Note_en>(see Note 1)</Note_en>
+		<noteIDs>163</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>23</OctetNo>
+		<Contents_en>Type of generating process</Contents_en>
+		<Note_en>(see Code table 4.3)</Note_en>
+		<noteIDs/>
+		<codeTable>4.3</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>24</OctetNo>
+		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>25</OctetNo>
+		<Contents_en>Analysis or forecast generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>26-27</OctetNo>
+		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
+		<Note_en>(see Note 2)</Note_en>
+		<noteIDs>33</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>28</OctetNo>
+		<Contents_en>Minutes of observational data cut-off after reference time</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>29</OctetNo>
+		<Contents_en>Indicator of unit of time range</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>30-33</OctetNo>
+		<Contents_en>Forecast time in units defined by previous octet</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>34</OctetNo>
+		<Contents_en>Type of first fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>35</OctetNo>
+		<Contents_en>Scale factor of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>36-39</OctetNo>
+		<Contents_en>Scaled value of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>40</OctetNo>
+		<Contents_en>Type of second fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>41</OctetNo>
+		<Contents_en>Scale factor of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>42-45</OctetNo>
+		<Contents_en>Scaled value of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>46-47</OctetNo>
+		<Contents_en>Total number of quantile q</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>48-49</OctetNo>
+		<Contents_en>Quantile value (between 0 and q)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>50-51</OctetNo>
+		<Contents_en>Year of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>52</OctetNo>
+		<Contents_en>Month of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>53</OctetNo>
+		<Contents_en>Day of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>54</OctetNo>
+		<Contents_en>Hour of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>55</OctetNo>
+		<Contents_en>Minute of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>56</OctetNo>
+		<Contents_en>Second of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>57</OctetNo>
+		<Contents_en>n - number of time range specifications describing the time intervals used to calculate the statistically processed field</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>58-61</OctetNo>
+		<Contents_en>Total number of data values missing in statistical process</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>62</OctetNo>
+		<Contents_en>Statistical process used to calculate the processed field from the field at each time increment during the time range</Contents_en>
+		<Note_en>(see Code table 4.10)</Note_en>
+		<noteIDs/>
+		<codeTable>4.10</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>63</OctetNo>
+		<Contents_en>Type of time increment between successive fields used in the statistical processing</Contents_en>
+		<Note_en>(see Code table 4.11)</Note_en>
+		<noteIDs/>
+		<codeTable>4.11</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>64</OctetNo>
+		<Contents_en>Indicator of unit of time for time range over which statistical processing is done</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>65-68</OctetNo>
+		<Contents_en>Length of the time range over which statistical processing is done, in units defined by the previous octet</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>69</OctetNo>
+		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>70-73</OctetNo>
+		<Contents_en>Time increment between successive fields, in units defined by the previous octet</Contents_en>
+		<Note_en>(see Notes 3 and 4)</Note_en>
+		<noteIDs>7,96</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>74-85</OctetNo>
+		<Contents_en>As octets 62 to 73, next innermost step of processing</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.165 - Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</Title_en>
+		<OctetNo>86-nn</OctetNo>
+		<Contents_en>Additional time range specifications, included in accordance with the value of n. Contents as octets 62 to 73, repeated as necessary</Contents_en>
+>>>>>>> FT2026-1
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
