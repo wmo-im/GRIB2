@@ -47981,6 +47981,1846 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo/>
+		<Contents_en>71 - 82 Specification of the outermost (or only) time range over which statistical processing is done</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo/>
+		<Contents_en>83-nn These octets are included only if n &gt; 1, where nn = 70+ 12 x n</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>10</OctetNo>
+		<Contents_en>Parameter category</Contents_en>
+		<Note_en>(see Code table 4.1)</Note_en>
+		<noteIDs/>
+		<codeTable>4.1</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>11</OctetNo>
+		<Contents_en>Parameter number</Contents_en>
+		<Note_en>(see Code table 4.2)</Note_en>
+		<noteIDs/>
+		<codeTable>4.2</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>12-13</OctetNo>
+		<Contents_en>Aerosol type</Contents_en>
+		<Note_en>(see Common Code table C-14)</Note_en>
+		<noteIDs/>
+		<codeTable>CCT-14</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>14</OctetNo>
+		<Contents_en>Type of interval for first and second size</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>15</OctetNo>
+		<Contents_en>Scale factor of first size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>16-19</OctetNo>
+		<Contents_en>Scaled value of first size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>20</OctetNo>
+		<Contents_en>Scale factor of second size </Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>21-24</OctetNo>
+		<Contents_en>Scaled value of second size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>25</OctetNo>
+		<Contents_en>Type of interval for first and second wavelength</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>26</OctetNo>
+		<Contents_en>Scale factor of first wavelength</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>27-30</OctetNo>
+		<Contents_en>Scaled value of first wavelength in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>31</OctetNo>
+		<Contents_en>Scale factor of second wavelength</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>32-35</OctetNo>
+		<Contents_en>Scaled value of second wavelength in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>36</OctetNo>
+		<Contents_en>Type of generating process</Contents_en>
+		<Note_en>(see Code table 4.3)</Note_en>
+		<noteIDs/>
+		<codeTable>4.3</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>37</OctetNo>
+		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>38</OctetNo>
+		<Contents_en>Analysis or forecast generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>39-40</OctetNo>
+		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
+		<Note_en>(see Note)</Note_en>
+		<noteIDs>33</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>41</OctetNo>
+		<Contents_en>Minutes of observational data cut-off after reference time</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>42</OctetNo>
+		<Contents_en>Indicator of unit of time range</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>43-46</OctetNo>
+		<Contents_en>Forecast time in units defined by octet 42</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>47</OctetNo>
+		<Contents_en>Type of first fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>48</OctetNo>
+		<Contents_en>Scale factor of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>49-52</OctetNo>
+		<Contents_en>Scaled value of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>53</OctetNo>
+		<Contents_en>Type of second fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>54</OctetNo>
+		<Contents_en>Scale factor of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>55-58</OctetNo>
+		<Contents_en>Scaled value of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>59-60</OctetNo>
+		<Contents_en>Year of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>61</OctetNo>
+		<Contents_en>Month of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>62</OctetNo>
+		<Contents_en>Day of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>63</OctetNo>
+		<Contents_en>Hour of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>64</OctetNo>
+		<Contents_en>Minute of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>65</OctetNo>
+		<Contents_en>Second of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>66</OctetNo>
+		<Contents_en>n - number of time range specifications describing the time intervals used to calculate the statistically processed field</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>67-70</OctetNo>
+		<Contents_en>Total number of data values missing in statistical process</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>71</OctetNo>
+		<Contents_en>Statistical process used to calculate the processed field from the field at each time increment during the time range</Contents_en>
+		<Note_en>(see code table 4.10)</Note_en>
+		<noteIDs/>
+		<codeTable>4.10</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>72</OctetNo>
+		<Contents_en>Type of time increment between successive fields used in the statistical processing</Contents_en>
+		<Note_en>(see code table 4.11)</Note_en>
+		<noteIDs/>
+		<codeTable>4.11</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>73</OctetNo>
+		<Contents_en>Indicator of unit of time for time range over which statistical processing is done</Contents_en>
+		<Note_en>(see code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>74-77</OctetNo>
+		<Contents_en>Length of the time range over which statistical processing is done, in units defined by the previous octet</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>78</OctetNo>
+		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
+		<Note_en>(see code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>79-82</OctetNo>
+		<Contents_en>Time increment between successive fields, in units defined by the previous octet</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>83-94</OctetNo>
+		<Contents_en>As octets 71 to 82, next innermost step of processing</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>95-nn</OctetNo>
+		<Contents_en>Additional time range specifications, included in accordance with the value of n. Contents as octets 71 to 82, repeated as necessary</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo/>
+		<Contents_en>80 - 91 Specification of the outermost (or only) time range over which statistical processing is done</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo/>
+		<Contents_en>92-nn These octets are included only if n &gt; 1, where nn = 79+ 12 x n</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>10</OctetNo>
+		<Contents_en>Parameter category</Contents_en>
+		<Note_en>(see Code table 4.1)</Note_en>
+		<noteIDs/>
+		<codeTable>4.1</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>11</OctetNo>
+		<Contents_en>Parameter number</Contents_en>
+		<Note_en>(see Code table 4.2)</Note_en>
+		<noteIDs/>
+		<codeTable>4.2</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>12-13</OctetNo>
+		<Contents_en>Aerosol type</Contents_en>
+		<Note_en>(see Common Code table C-14)</Note_en>
+		<noteIDs/>
+		<codeTable>CCT-14</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>14</OctetNo>
+		<Contents_en>Type of interval for first and second size</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>15</OctetNo>
+		<Contents_en>Scale factor of first size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>16-19</OctetNo>
+		<Contents_en>Scaled value of first size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>20</OctetNo>
+		<Contents_en>Scale factor of second size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>21-24</OctetNo>
+		<Contents_en>Scaled value of second size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>25</OctetNo>
+		<Contents_en>Type of interval for first and second wavelength</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>26</OctetNo>
+		<Contents_en>Scale factor of first wavelength</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>27-30</OctetNo>
+		<Contents_en>Scaled value of first wavelength in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>31</OctetNo>
+		<Contents_en>Scale factor of second wavelength</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>32-35</OctetNo>
+		<Contents_en>Scaled value of second wavelength in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>36</OctetNo>
+		<Contents_en>Type of generating process</Contents_en>
+		<Note_en>(see Code table 4.3)</Note_en>
+		<noteIDs/>
+		<codeTable>4.3</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>37</OctetNo>
+		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>38</OctetNo>
+		<Contents_en>Analysis or forecast generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>39-40</OctetNo>
+		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
+		<Note_en>(see Note)</Note_en>
+		<noteIDs>33</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>41</OctetNo>
+		<Contents_en>Minutes of observational data cut-off after reference time</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>42</OctetNo>
+		<Contents_en>Indicator of unit of time range</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>43-46</OctetNo>
+		<Contents_en>Forecast time in units defined by octet 42</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>47</OctetNo>
+		<Contents_en>Type of first fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>48</OctetNo>
+		<Contents_en>Scale factor of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>49-52</OctetNo>
+		<Contents_en>Scaled value of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>53</OctetNo>
+		<Contents_en>Type of second fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>54</OctetNo>
+		<Contents_en>Scale factor of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>55-58</OctetNo>
+		<Contents_en>Scaled value of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>59</OctetNo>
+		<Contents_en>Type of ensemble forecast</Contents_en>
+		<Note_en>(see Code table 4.6)</Note_en>
+		<noteIDs/>
+		<codeTable>4.6</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>60-63</OctetNo>
+		<Contents_en>Perturbation number</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>64-67</OctetNo>
+		<Contents_en>Number of forecasts in ensemble</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>68-69</OctetNo>
+		<Contents_en>Year of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>70</OctetNo>
+		<Contents_en>Month of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>71</OctetNo>
+		<Contents_en>Day of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>72</OctetNo>
+		<Contents_en>Hour of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>73</OctetNo>
+		<Contents_en>Minute of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>74</OctetNo>
+		<Contents_en>Second of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>75</OctetNo>
+		<Contents_en>n - number of time range specifications describing the time intervals used to calculate the statistically processed field</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>76-79</OctetNo>
+		<Contents_en>Total number of data values missing in statistical process</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>80</OctetNo>
+		<Contents_en>Statistical process used to calculate the processed field from the field at each time increment during the time range</Contents_en>
+		<Note_en>(see code table 4.10)</Note_en>
+		<noteIDs/>
+		<codeTable>4.10</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>81</OctetNo>
+		<Contents_en>Type of time increment between successive fields used in the statistical processing</Contents_en>
+		<Note_en>(see code table 4.11)</Note_en>
+		<noteIDs/>
+		<codeTable>4.11</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>82</OctetNo>
+		<Contents_en>Indicator of unit of time for time range over which statistical processing is done</Contents_en>
+		<Note_en>(see code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>83-86</OctetNo>
+		<Contents_en>Length of the time range over which statistical processing is done, in units defined by the previous octet</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>87</OctetNo>
+		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
+		<Note_en>(see code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>88-91</OctetNo>
+		<Contents_en>Time increment between successive fields, in units defined by the previous octet</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>92-103</OctetNo>
+		<Contents_en>As octets 80 to 91, next innermost step of processing</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
+		<OctetNo>104-nn</OctetNo>
+		<Contents_en>Additional time range specifications, included in accordance with the value of n. Contents as octets 80 to 91, repeated as necessary</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo/>
+		<Contents_en>72 - 83 Specification of the outermost (or only) time range over which statistical processing is done</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo/>
+		<Contents_en>84-nn These octets are included only if n &gt; 1, where nn = 71+ 12 x n</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>10</OctetNo>
+		<Contents_en>Parameter category</Contents_en>
+		<Note_en>(see Code table 4.1)</Note_en>
+		<noteIDs/>
+		<codeTable>4.1</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>11</OctetNo>
+		<Contents_en>Parameter number</Contents_en>
+		<Note_en>(see Code table 4.2)</Note_en>
+		<noteIDs/>
+		<codeTable>4.2</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>12-13</OctetNo>
+		<Contents_en>Aerosol type</Contents_en>
+		<Note_en>(see Common Code table C-14)</Note_en>
+		<noteIDs/>
+		<codeTable>CCT-14</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>14</OctetNo>
+		<Contents_en>Source or sink</Contents_en>
+		<Note_en>(see Code table 4.238)</Note_en>
+		<noteIDs/>
+		<codeTable>4.238</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>15</OctetNo>
+		<Contents_en>Type of interval for first and second size</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>16</OctetNo>
+		<Contents_en>Scale factor of first size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>17-20</OctetNo>
+		<Contents_en>Scaled value of first size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>21</OctetNo>
+		<Contents_en>Scale factor of second size </Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>22-25</OctetNo>
+		<Contents_en>Scaled value of second size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>26</OctetNo>
+		<Contents_en>Type of interval for first and second wavelength</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>27</OctetNo>
+		<Contents_en>Scale factor of first wavelength</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>28-31</OctetNo>
+		<Contents_en>Scaled value of first wavelength in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>32</OctetNo>
+		<Contents_en>Scale factor of second wavelength</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>33-36</OctetNo>
+		<Contents_en>Scaled value of second wavelength in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>37</OctetNo>
+		<Contents_en>Type of generating process</Contents_en>
+		<Note_en>(see Code table 4.3)</Note_en>
+		<noteIDs/>
+		<codeTable>4.3</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>38</OctetNo>
+		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>39</OctetNo>
+		<Contents_en>Analysis or forecast generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>40-41</OctetNo>
+		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
+		<Note_en>(see Note)</Note_en>
+		<noteIDs>33</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>42</OctetNo>
+		<Contents_en>Minutes of observational data cut-off after reference time</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>43</OctetNo>
+		<Contents_en>Indicator of unit of time range</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>44-47</OctetNo>
+		<Contents_en>Forecast time in units defined by octet 42</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>48</OctetNo>
+		<Contents_en>Type of first fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>49</OctetNo>
+		<Contents_en>Scale factor of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>50-53</OctetNo>
+		<Contents_en>Scaled value of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>54</OctetNo>
+		<Contents_en>Type of second fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>55</OctetNo>
+		<Contents_en>Scale factor of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>56-59</OctetNo>
+		<Contents_en>Scaled value of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>60-61</OctetNo>
+		<Contents_en>Year of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>62</OctetNo>
+		<Contents_en>Month of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>63</OctetNo>
+		<Contents_en>Day of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>64</OctetNo>
+		<Contents_en>Hour of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>65</OctetNo>
+		<Contents_en>Minute of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>66</OctetNo>
+		<Contents_en>Second of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>67</OctetNo>
+		<Contents_en>n - number of time range specifications describing the time intervals used to calculate the statistically processed field</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>68-71</OctetNo>
+		<Contents_en>Total number of data values missing in statistical process</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>72</OctetNo>
+		<Contents_en>Statistical process used to calculate the processed field from the field at each time increment during the time range</Contents_en>
+		<Note_en>(see code table 4.10)</Note_en>
+		<noteIDs/>
+		<codeTable>4.10</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>73</OctetNo>
+		<Contents_en>Type of time increment between successive fields used in the statistical processing</Contents_en>
+		<Note_en>(see code table 4.11)</Note_en>
+		<noteIDs/>
+		<codeTable>4.11</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>74</OctetNo>
+		<Contents_en>Indicator of unit of time for time range over which statistical processing is done</Contents_en>
+		<Note_en>(see code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>75-78</OctetNo>
+		<Contents_en>Length of the time range over which statistical processing is done, in units defined by the previous octet</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>79</OctetNo>
+		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
+		<Note_en>(see code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>80-83</OctetNo>
+		<Contents_en>Time increment between successive fields, in units defined by the previous octet</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>84-95</OctetNo>
+		<Contents_en>As octets 72 to 83, next innermost step of processing</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>96-nn</OctetNo>
+		<Contents_en>Additional time range specifications, included in accordance with the value of n. Contents as octets 72 to 83, repeated as necessary</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo/>
+		<Contents_en>81 - 92 Specification of the outermost (or only) time range over which statistical processing is done</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo/>
+		<Contents_en>93-nn These octets are included only if n &gt; 1, where nn = 80+ 12 x n</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>10</OctetNo>
+		<Contents_en>Parameter category</Contents_en>
+		<Note_en>(see Code table 4.1)</Note_en>
+		<noteIDs/>
+		<codeTable>4.1</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>11</OctetNo>
+		<Contents_en>Parameter number</Contents_en>
+		<Note_en>(see Code table 4.2)</Note_en>
+		<noteIDs/>
+		<codeTable>4.2</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>12-13</OctetNo>
+		<Contents_en>Aerosol type</Contents_en>
+		<Note_en>(see Common Code table C-14)</Note_en>
+		<noteIDs/>
+		<codeTable>CCT-14</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>14</OctetNo>
+		<Contents_en>Source or sink</Contents_en>
+		<Note_en>(see Code table 4.238)</Note_en>
+		<noteIDs/>
+		<codeTable>4.238</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>15</OctetNo>
+		<Contents_en>Type of interval for first and second size</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>16</OctetNo>
+		<Contents_en>Scale factor of first size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>17-20</OctetNo>
+		<Contents_en>Scaled value of first size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>21</OctetNo>
+		<Contents_en>Scale factor of second size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>22-25</OctetNo>
+		<Contents_en>Scaled value of second size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>26</OctetNo>
+		<Contents_en>Type of interval for first and second wavelength</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>27</OctetNo>
+		<Contents_en>Scale factor of first wavelength</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>28-31</OctetNo>
+		<Contents_en>Scaled value of first wavelength in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>32</OctetNo>
+		<Contents_en>Scale factor of second wavelength</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>33-36</OctetNo>
+		<Contents_en>Scaled value of second wavelength in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>37</OctetNo>
+		<Contents_en>Type of generating process</Contents_en>
+		<Note_en>(see Code table 4.3)</Note_en>
+		<noteIDs/>
+		<codeTable>4.3</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>38</OctetNo>
+		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>39</OctetNo>
+		<Contents_en>Analysis or forecast generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>40-41</OctetNo>
+		<Contents_en>Hours of observational data cut-off after reference time</Contents_en>
+		<Note_en>(see Note)</Note_en>
+		<noteIDs>33</noteIDs>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>42</OctetNo>
+		<Contents_en>Minutes of observational data cut-off after reference time</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>43</OctetNo>
+		<Contents_en>Indicator of unit of time range</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>44-47</OctetNo>
+		<Contents_en>Forecast time in units defined by octet 42</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>48</OctetNo>
+		<Contents_en>Type of first fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>49</OctetNo>
+		<Contents_en>Scale factor of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>50-53</OctetNo>
+		<Contents_en>Scaled value of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>54</OctetNo>
+		<Contents_en>Type of second fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>55</OctetNo>
+		<Contents_en>Scale factor of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>56-59</OctetNo>
+		<Contents_en>Scaled value of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>60</OctetNo>
+		<Contents_en>Type of ensemble forecast</Contents_en>
+		<Note_en>(see Code table 4.6)</Note_en>
+		<noteIDs/>
+		<codeTable>4.6</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>61-64</OctetNo>
+		<Contents_en>Perturbation number</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>65-68</OctetNo>
+		<Contents_en>Number of forecasts in ensemble</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>69-70</OctetNo>
+		<Contents_en>Year of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>71</OctetNo>
+		<Contents_en>Month of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>72</OctetNo>
+		<Contents_en>Day of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>73</OctetNo>
+		<Contents_en>Hour of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>74</OctetNo>
+		<Contents_en>Minute of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>75</OctetNo>
+		<Contents_en>Second of end of overall time interval</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>76</OctetNo>
+		<Contents_en>n - number of time range specifications describing the time intervals used to calculate the statistically processed field</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>77-80</OctetNo>
+		<Contents_en>Total number of data values missing in statistical process</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>81</OctetNo>
+		<Contents_en>Statistical process used to calculate the processed field from the field at each time increment during the time range</Contents_en>
+		<Note_en>(see code table 4.10)</Note_en>
+		<noteIDs/>
+		<codeTable>4.10</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>82</OctetNo>
+		<Contents_en>Type of time increment between successive fields used in the statistical processing</Contents_en>
+		<Note_en>(see code table 4.11)</Note_en>
+		<noteIDs/>
+		<codeTable>4.11</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>83</OctetNo>
+		<Contents_en>Indicator of unit of time for time range over which statistical processing is done</Contents_en>
+		<Note_en>(see code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>84-87</OctetNo>
+		<Contents_en>Length of the time range over which statistical processing is done, in units defined by the previous octet</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>88</OctetNo>
+		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
+		<Note_en>(see code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>89-92</OctetNo>
+		<Contents_en>Time increment between successive fields, in units defined by the previous octet</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>93-104</OctetNo>
+		<Contents_en>As octets 81 to 92, next innermost step of processing</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
+		<OctetNo>105-nn</OctetNo>
+		<Contents_en>Additional time range specifications, included in accordance with the value of n. Contents as octets 81 to 92, repeated as necessary</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.160 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</Title_en>
 		<OctetNo>10</OctetNo>
 		<Contents_en>Parameter category</Contents_en>
