@@ -1,0 +1,10 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Polarization of satellite band,,0,,Unpolarized,,,-,Operational
+Polarization of satellite band,,1,,Quasi-horizontal (QH),,,-,Operational
+Polarization of satellite band,,2,,Quasi-vertical (QV),,,-,Operational
+Polarization of satellite band,,3,,Horizontal (H),,,-,Operational
+Polarization of satellite band,,4,,Vertical (V),,,-,Operational
+Polarization of satellite band,,5,,Right-Hand Circular Polarization (RHCP),,,-,Operational
+Polarization of satellite band,,6,,Left-Hand Circular Polarization (LHCP),,,-,Operational
+Polarization of satellite band,,7-254,,Reserved,,,,Operational
+Polarization of satellite band,,255,,Missing,,,,Operational
