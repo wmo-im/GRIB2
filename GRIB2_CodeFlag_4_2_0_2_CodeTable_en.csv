@@ -69,7 +69,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",67,,Northward turbulent surface stress due to surface roughness,,,N m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",68,,Convective gust,,,m s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",69,,Turbulent gust,,,m s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",70,,Wind speed threshold for wind erosion,(see Note 8),341a,m s-1,Operational
+Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",70,,Wind speed threshold for wind erosion,(see Note 8),193,m s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",71-191,,Reserved,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",192-254,,Reserved for local use,,,,Operational
 Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",255,,Missing,,,,Operational

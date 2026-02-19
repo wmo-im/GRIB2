@@ -8508,7 +8508,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents</SubTitle_en>
-		<CodeFlag>21-49</CodeFlag>
+		<CodeFlag>22-49</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>

@@ -864,7 +864,7 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",67,,Northward turbulent surface stress due to surface roughness,,,N m-2,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",68,,Convective gust,,,m s-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",69,,Turbulent gust,,,m s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",70,,Wind speed threshold for wind erosion,(see Note 8),341a,m s-1,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",70,,Wind speed threshold for wind erosion,(see Note 8),193,m s-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",71-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 2: momentum",255,,Missing,,,,Operational
@@ -1214,7 +1214,7 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",19,,Loss rate due to reaction with hydroxyl radical (OH),,,kg kg-1 s-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",20,,Photolysis rate,,,s-1,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",21,,Emisssion potential,,,kg m-2 s-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",21-49,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",22-49,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",50,,Amount in atmosphere,,,mol,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",51,,Concentration in air,,,mol m-3,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents",52,,Volume mixing ratio (fraction in air),,,mol/mol,Operational
@@ -2246,7 +2246,7 @@ Code table 4.5 - Fixed surface types and units,,33,,Ionospheric E-region level,,
 Code table 4.5 - Fixed surface types and units,,34,,Ionospheric F1-region level,,,,Operational
 Code table 4.5 - Fixed surface types and units,,35,,Ionospheric F2-region level,,,,Operational
 Code table 4.5 - Fixed surface types and units,,36,,Stratopause,,,,Operational
-Code table 4.5 - Fixed surface types and units,,37,,Hygropause,(see Note 10),342a,,Operational
+Code table 4.5 - Fixed surface types and units,,37,,Hygropause,(see Note 11),192,,Operational
 Code table 4.5 - Fixed surface types and units,,38-99,,Reserved,,,,Operational
 Code table 4.5 - Fixed surface types and units,,100,,Isobaric surface,,,Pa,Operational
 Code table 4.5 - Fixed surface types and units,,101,,Mean sea level,,,,Operational
