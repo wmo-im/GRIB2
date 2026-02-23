@@ -186,7 +186,7 @@ noteID,note
 189,"River flow velocity computed along the river network. It represents the mean speed of water movement in a cross-section of the river channel."
 190,"Mean mass diameter is the diameter of a particle representing the mean mass of the particle size distribution."
 191,"Estimated maximum diameter is the empirical estimate of the maximum particle size, based on a particle size distribution or its moments."
-343a,"Parameter 8 is deprecated. It is recommended to use 23 instead."
+343a,"Parameters 8, 23–27 have the unit J/kg, which is dimensionally equivalent to m2 s-2."
 343b,"The effective inflow layer base and top form the effective inflow layer. The layer is characterized when several criteria on the value of CAPE and CIN are met. A common threshold is when CAPE ≥ 100 J kg-1 and CIN ≥ −250 J kg-1 at the same time. The exact definition and thresholds can vary across the models, so it is left to each producer to document how their effective inflow layer is defined."
 342a,"The hygropause is a layer in Earth's atmosphere, just above the tropopause, characterized by a minimum in water vapor concentration. It acts as a barrier that limits how much moisture can rise into the stratosphere because cold temperatures cause vapor to freeze out (condense). Essentially, it's the point where water vapor significantly decreases with altitude, preventing large amounts from reaching higher atmospheric levels, a crucial factor in stratospheric dehydration."
 341a,"The wind speed threshold for wind erosion is the minimum sustained wind speed at which soil particles begin to be lifted and transported by the air. This threshold is not a single, universal number; rather, it is highly variable and dependent on local environmental factors."
