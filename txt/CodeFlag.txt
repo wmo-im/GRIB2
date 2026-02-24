@@ -1027,7 +1027,7 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",5,,Sweat index,,,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",6,,Convective available potential energy,,,J/kg,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",7,,Convective inhibition,,,J/kg,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",8,,Storm relative helicity,,,J/kg,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",8,,Storm relative helicity,(see Note 1),343a,J/kg,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",9,,Energy helicity index,,,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",10,,Surface lifted index,,,K,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",11,,Best (4-layer) lifted index,,,K,Operational
@@ -1042,7 +1042,12 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",20,,Thunderstorm intensity index,,,(Code table 4.246),Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",21,,Storm severity index,,,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",22,,Reciprocal Obukhov length,,,m-1,Operational
-Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",23-191,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",23,,Storm relative helicity – right moving storm,(see note 1),343a,m2 s-2,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",24,,Storm relative helicity – left moving storm,(see note 1),343a,m2 s-2,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",25,,Effective storm relative helicity – mean flow,(see note 1),343a,m2 s-2,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",26,,Effective storm relative helicity – right moving storm,(see note 1),343a,m2 s-2,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",27,,Effective storm relative helicity – left moving storm,(see note 1),343a,m2 s-2,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",28-191,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",192-254,,Reserved for local use,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices",255,,Missing,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 13: aerosols",0,,Aerosol type,,,(Code table 4.205),Operational
@@ -2231,7 +2236,8 @@ Code table 4.5 - Fixed surface types and units,,24,,Highest level where air conc
 Code table 4.5 - Fixed surface types and units,,25,,Highest level where radar reflectivity exceeds the specified value (echo top for a given threshold of reflectivity),,,dBZ,Operational
 Code table 4.5 - Fixed surface types and units,,26,,Convective cloud layer base,,,m,Operational
 Code table 4.5 - Fixed surface types and units,,27,,Convective cloud layer top,,,m,Operational
-Code table 4.5 - Fixed surface types and units,,28-29,,Reserved,,,,Operational
+Code table 4.5 - Fixed surface types and units,,28,,Effective inflow layer base,(see Note 11),343b,,Operational
+Code table 4.5 - Fixed surface types and units,,29,,Effective inflow layer top,(see Note 11),343b,,Operational
 Code table 4.5 - Fixed surface types and units,,30,,Specified radius from the centre of the Sun,,,m,Operational
 Code table 4.5 - Fixed surface types and units,,31,,Solar photosphere,,,,Operational
 Code table 4.5 - Fixed surface types and units,,32,,Ionospheric D-region level,,,,Operational
