@@ -48344,7 +48344,7 @@
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>71</OctetNo>
 		<Contents_en>Statistical process used to calculate the processed field from the field at each time increment during the time range</Contents_en>
-		<Note_en>(see code table 4.10)</Note_en>
+		<Note_en>(see Code table 4.10)</Note_en>
 		<noteIDs/>
 		<codeTable>4.10</codeTable>
 		<flagTable/>
@@ -48354,7 +48354,7 @@
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>72</OctetNo>
 		<Contents_en>Type of time increment between successive fields used in the statistical processing</Contents_en>
-		<Note_en>(see code table 4.11)</Note_en>
+		<Note_en>(see Code table 4.11)</Note_en>
 		<noteIDs/>
 		<codeTable>4.11</codeTable>
 		<flagTable/>
@@ -48364,7 +48364,7 @@
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>73</OctetNo>
 		<Contents_en>Indicator of unit of time for time range over which statistical processing is done</Contents_en>
-		<Note_en>(see code table 4.4)</Note_en>
+		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
@@ -48384,7 +48384,7 @@
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>78</OctetNo>
 		<Contents_en>Indicator of unit of time for the increment between the successive fields used</Contents_en>
-		<Note_en>(see code table 4.4)</Note_en>
+		<Note_en>(see Code table 4.4)</Note_en>
 		<noteIDs/>
 		<codeTable>4.4</codeTable>
 		<flagTable/>
