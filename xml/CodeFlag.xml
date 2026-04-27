@@ -3006,7 +3006,371 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<SubTitle_en/>
-		<CodeFlag>156-253</CodeFlag>
+		<CodeFlag>156</CodeFlag>
+		<MeaningParameterDescription_en>Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>157</CodeFlag>
+		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>158</CodeFlag>
+		<MeaningParameterDescription_en>Average, accumulation, extreme values or other statistically processed values at a continuous or non-continuous time interval for optical properties of aerosol with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>159</CodeFlag>
+		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>160</CodeFlag>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>161</CodeFlag>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>162</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>163</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>164</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for waves selected by period range</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>165</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for waves selected by period range</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>166</CodeFlag>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>167</CodeFlag>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>168</CodeFlag>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>169</CodeFlag>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>170</CodeFlag>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>171</CodeFlag>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>172</CodeFlag>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>173</CodeFlag>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>174</CodeFlag>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>175</CodeFlag>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>176</CodeFlag>
+		<MeaningParameterDescription_en>Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>177</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>178</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>179</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>180</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>181</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>182</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>183</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>184</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>185</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>186</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>187</CodeFlag>
+		<MeaningParameterDescription_en>Quantile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>188</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>189</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>190</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>191</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>192</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>193</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>194</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>195</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>196</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>197</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>198</CodeFlag>
+		<MeaningParameterDescription_en>Probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>199</CodeFlag>
+		<MeaningParameterDescription_en>Derived products of post-processed forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>200</CodeFlag>
+		<MeaningParameterDescription_en>Derived products of post-processed forecasts based on all ensemble members at a horizontal level or in a horizontal layer  in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>201</CodeFlag>
+		<MeaningParameterDescription_en>Probability of post-processed forecast at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>202</CodeFlag>
+		<MeaningParameterDescription_en>Probability of post-processed forecast at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>203</CodeFlag>
+		<MeaningParameterDescription_en>Satellite product with channel, bandwidth and polarization</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>204</CodeFlag>
+		<MeaningParameterDescription_en>Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>205</CodeFlag>
+		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data with channel, bandwidth and polarization</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>206</CodeFlag>
+		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous interval for simulated (synthetic) satellite data with channel, bandwidth and polarization</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>207</CodeFlag>
+		<MeaningParameterDescription_en>Satellite product with or without associated quality values with channel, bandwidth and polarization</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>208-253</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -5694,7 +6058,14 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 2: momentum</SubTitle_en>
-		<CodeFlag>70-191</CodeFlag>
+		<CodeFlag>70</CodeFlag>
+		<MeaningParameterDescription_en>Wind speed threshold for wind erosion</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 2: momentum</SubTitle_en>
+		<CodeFlag>71-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -6933,7 +7304,42 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices</SubTitle_en>
-		<CodeFlag>23-191</CodeFlag>
+		<CodeFlag>23</CodeFlag>
+		<MeaningParameterDescription_en>Storm relative helicity – right moving storm</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices</SubTitle_en>
+		<CodeFlag>24</CodeFlag>
+		<MeaningParameterDescription_en>Storm relative helicity – left moving storm</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices</SubTitle_en>
+		<CodeFlag>25</CodeFlag>
+		<MeaningParameterDescription_en>Effective storm relative helicity – mean flow</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices</SubTitle_en>
+		<CodeFlag>26</CodeFlag>
+		<MeaningParameterDescription_en>Effective storm relative helicity – right moving storm</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices</SubTitle_en>
+		<CodeFlag>27</CodeFlag>
+		<MeaningParameterDescription_en>Effective storm relative helicity – left moving storm</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 7: thermodynamic stability indices</SubTitle_en>
+		<CodeFlag>28-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -8081,7 +8487,21 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents</SubTitle_en>
-		<CodeFlag>20-49</CodeFlag>
+		<CodeFlag>20</CodeFlag>
+		<MeaningParameterDescription_en>Photolysis rate</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents</SubTitle_en>
+		<CodeFlag>21</CodeFlag>
+		<MeaningParameterDescription_en>Emisssion potential</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 20: atmospheric chemical constituents</SubTitle_en>
+		<CodeFlag>22-49</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -15242,8 +15662,15 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
 		<SubTitle_en/>
-		<CodeFlag>28-29</CodeFlag>
-		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<CodeFlag>28</CodeFlag>
+		<MeaningParameterDescription_en>Effective inflow layer base</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>29</CodeFlag>
+		<MeaningParameterDescription_en>Effective inflow layer top</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -15298,7 +15725,14 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
 		<SubTitle_en/>
-		<CodeFlag>37-99</CodeFlag>
+		<CodeFlag>37</CodeFlag>
+		<MeaningParameterDescription_en>Hygropause</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>38-99</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -21914,6 +22348,69 @@
 		<Title_en>Code table 4.253 - Hazard index</Title_en>
 		<SubTitle_en/>
 		<CodeFlag>65535</CodeFlag>
+		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarization of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>0</CodeFlag>
+		<MeaningParameterDescription_en>Unpolarized</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarization of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>Quasi-horizontal (QH)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarization of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>Quasi-vertical (QV)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarization of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Horizontal (H)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarization of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>4</CodeFlag>
+		<MeaningParameterDescription_en>Vertical (V)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarization of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>5</CodeFlag>
+		<MeaningParameterDescription_en>Right-Hand Circular Polarization (RHCP)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarization of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>6</CodeFlag>
+		<MeaningParameterDescription_en>Left-Hand Circular Polarization (LHCP)</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarization of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>7-254</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.254 - Polarization of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>255</CodeFlag>
 		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
