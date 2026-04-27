@@ -36,6 +36,7 @@ Code table 1.0 - GRIB master tables version number,,20,,Version implemented on 8
 Code table 1.0 - GRIB master tables version number,,21,,Version implemented on 2 May 2018,,,,Deprecated
 Code table 1.0 - GRIB master tables version number,,22,,Version implemented on 7 November 2018,,,,Deprecated
 Code table 1.0 - GRIB master tables version number,,23,,Pre-operational to be implemented by next amendment,,,,Deprecated
+Code table 1.0 - GRIB master tables version number,,192,,test,,,,TEST
 Code table 1.0 - GRIB master tables version number,,24-254,,Future versions,(see Note),108,,Deprecated
 Code table 1.0 - GRIB master tables version number,,255,,Missing,,,,Deprecated
 Code table 1.1 - GRIB local tables version number,,0,,Local tables not used. Only table entries and templates from the current master table are valid,,,,Operational

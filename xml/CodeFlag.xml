@@ -262,6 +262,13 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 1.0 - GRIB master tables version number</Title_en>
 		<SubTitle_en/>
+		<CodeFlag>192</CodeFlag>
+		<MeaningParameterDescription_en>test</MeaningParameterDescription_en>
+		<Status>TEST</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 1.0 - GRIB master tables version number</Title_en>
+		<SubTitle_en/>
 		<CodeFlag>24-254</CodeFlag>
 		<MeaningParameterDescription_en>Future versions</MeaningParameterDescription_en>
 		<Status>Deprecated</Status>
