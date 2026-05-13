@@ -83,7 +83,8 @@ Code table 1.4 - Type of data,,7,,Processed radar observations,,,,Operational
 Code table 1.4 - Type of data,,8,,Event probability,,,,Operational
 Code table 1.4 - Type of data,,9,,Experimental data,(see Note 2),157,,Operational
 Code table 1.4 - Type of data,,10,,ML based forecast,(see Note 3),158,,Operational
-Code table 1.4 - Type of data,,11-191,,Reserved,,,,Operational
+Code table 1.4 - Type of data,,11,,Multi-model ensemble forecast products,,,,Operational
+Code table 1.4 - Type of data,,12-191,,Reserved,,,,Operational
 Code table 1.4 - Type of data,,192-254,,Reserved for local use,,,,Operational
 Code table 1.4 - Type of data,,255,,Missing,,,,Operational
 Code table 1.5 - Identification template number,,0,,Calendar definition,,,,Operational

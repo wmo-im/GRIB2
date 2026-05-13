@@ -591,7 +591,14 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 1.4 - Type of data</Title_en>
 		<SubTitle_en/>
-		<CodeFlag>11-191</CodeFlag>
+		<CodeFlag>11</CodeFlag>
+		<MeaningParameterDescription_en>Multi-model ensemble forecast products</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 1.4 - Type of data</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>12-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
