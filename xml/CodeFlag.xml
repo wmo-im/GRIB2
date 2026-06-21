@@ -15732,8 +15732,15 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
 		<SubTitle_en/>
-		<CodeFlag>38-99</CodeFlag>
+		<CodeFlag>38-98</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.5 - Fixed surface types and units</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>99</CodeFlag>
+		<MeaningParameterDescription_en>Flight Level</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
