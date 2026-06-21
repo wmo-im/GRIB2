@@ -3370,7 +3370,98 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<SubTitle_en/>
-		<CodeFlag>208-253</CodeFlag>
+		<CodeFlag>208-209</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>210</CodeFlag>
+		<MeaningParameterDescription_en>Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>211</CodeFlag>
+		<MeaningParameterDescription_en>Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>212</CodeFlag>
+		<MeaningParameterDescription_en>Post-processing average, accumulation, extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>213</CodeFlag>
+		<MeaningParameterDescription_en>Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval for atmospheric chemical constituents</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>214</CodeFlag>
+		<MeaningParameterDescription_en>Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>215</CodeFlag>
+		<MeaningParameterDescription_en>Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>216</CodeFlag>
+		<MeaningParameterDescription_en>Post-processing average, accumulation, extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>217</CodeFlag>
+		<MeaningParameterDescription_en>Post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval for aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>218</CodeFlag>
+		<MeaningParameterDescription_en>Post-processing derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>219</CodeFlag>
+		<MeaningParameterDescription_en>Post-processing derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>220</CodeFlag>
+		<MeaningParameterDescription_en>Post-processing derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>221</CodeFlag>
+		<MeaningParameterDescription_en>Post-processing derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>222-253</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
