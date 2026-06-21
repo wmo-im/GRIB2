@@ -576,7 +576,8 @@ Code table 4.1 - Parameter category by product discipline,Product discipline 20 
 Code table 4.1 - Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,3,,Renewable energy sector,,,,Operational
 Code table 4.1 - Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,4,,Meteorological and hydrological hazard indices,,,,Operational
 Code table 4.1 - Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,5,,Environmental hazard indices,,,,Operational
-Code table 4.1 - Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,6-191,,Reserved,,,,Operational
+Code table 4.1 - Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,6,,Agricultural sector,,,,Operational
+Code table 4.1 - Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,7-191,,Reserved,,,,Operational
 Code table 4.1 - Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,192-254,,Reserved for local use,,,,Operational
 Code table 4.1 - Parameter category by product discipline,Product discipline 20 - Health and socioeconomic impacts,255,,Missing,,,,Operational
 Code table 4.1 - Parameter category by product discipline,Product discipline 191 - Computational parameters,0,,Stochastic parametrizations,,,,Operational
@@ -2156,6 +2157,17 @@ Code table 4.2 - Parameter number by product discipline and parameter category,"
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 5: environmental hazard indices",25-190,,Reserved,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 5: environmental hazard indices",191-254,,Reserved for local use,,,-,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 5: environmental hazard indices",255,,Missing,,,-,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 6: agricultural sector",0,,Frost risk category for apple,,(see Code table 4.255),Code table 4.255,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 6: agricultural sector",1,,Exceedance of critical daily minimum temperature for apple,,,K,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 6: agricultural sector",2,,Frost risk category for grapevine,,(see Code table 4.255),Code table 4.255,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 6: agricultural sector",3,,Exceedance of critical daily minimum temperature for grapevine,,,K,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 6: agricultural sector",4,,Frost risk category for apricot,,(see Code table 4.255),Code table 4.255,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 6: agricultural sector",5,,Exceedance of critical daily minimum temperature for apricot,,,K,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 6: agricultural sector",6,,Frost risk category for winter cereals,,(see Code table 4.255),Code table 4.255,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 6: agricultural sector",7,,Exceedance of critical daily minimum temperature for winter cereals,,,K,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 6: agricultural sector",8-191,,Reserved,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 6: agricultural sector",192-254,,Reserved for local use,,,,Operational
+Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 6: agricultural sector",255,,Missing,,,,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 191 - Computational parameters, parameter category 0: stochastic parametrizations",0,,Stochastically Perturbed Parametrization Tendency (SPPT),(see Note 1),169,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 191 - Computational parameters, parameter category 0: stochastic parametrizations",1,,Stochastically Perturbed Parameterizations (SPP),(see Note 2),170,Numeric,Operational
 Code table 4.2 - Parameter number by product discipline and parameter category,"Product discipline 191 - Computational parameters, parameter category 0: stochastic parametrizations",2,,Stochastic Kinetic Energy Backscatter  (SKEB),(see Note 3),171,Numeric,Operational
@@ -3201,6 +3213,10 @@ Code table 4.254 - Polarization of satellite band,,5,,Right-Hand Circular Polari
 Code table 4.254 - Polarization of satellite band,,6,,Left-Hand Circular Polarization (LHCP),,,-,Operational
 Code table 4.254 - Polarization of satellite band,,7-254,,Reserved,,,,Operational
 Code table 4.254 - Polarization of satellite band,,255,,Missing,,,,Operational
+Code table 4.255 - Risk category,Risk category,0,,Undefined,,,,Operational
+Code table 4.255 - Risk category,Risk category,1-191,,Reserved,,,,Operational
+Code table 4.255 - Risk category,Risk category,192-254,,Reserved for local use,,,,Operational
+Code table 4.255 - Risk category,Risk category,255,,Missing,,,,Operational
 Code table 4.333 - Transport dispersion model,,1,,DERMA (Danish Emergency Response Model of the Atmosphere),,,,Operational
 Code table 4.333 - Transport dispersion model,,2,,E-EMEP (Emergency EMEP model),,,,Operational
 Code table 4.333 - Transport dispersion model,,3,,FLEXPART (Particle dispersion model),,,,Operational
