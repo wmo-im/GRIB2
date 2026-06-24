@@ -20,9 +20,9 @@ Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Stat
 "Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",40,1,Type of ensemble forecast,(see Code table 4.6),,4.6,,Operational
 "Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",41-44,4,Perturbation number,,,,,Operational
 "Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",45-48,4,Number of forecasts in ensemble,,,,,Operational
-"Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",49-50,2,Year of Model Version Date,,,,,Operational
-"Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",51,1,Month of Model Version Date,,,,,Operational
-"Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",52,1,Day of Model Version Date,,,,,Operational
-"Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",53,1,Hour of Model Version Date,,,,,Operational
-"Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",54,1,Minute of Model Version Date,,,,,Operational
-"Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",55,1,Second of Model Version Date,,,,,Operational
+"Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",49-50,2,Year of model version date,,,,,Operational
+"Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",51,1,Month of model version date,,,,,Operational
+"Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",52,1,Day of model version date,,,,,Operational
+"Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",53,1,Hour of model version date,,,,,Operational
+"Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",54,1,Minute of model version date,,,,,Operational
+"Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",55,1,Second of model version date,,,,,Operational
