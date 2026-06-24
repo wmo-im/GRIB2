@@ -66663,12 +66663,12 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.209 - Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>71-74</OctetNo>
-		<Contents_en>Length of the time range over which statistical processing is done</Contents_en>
-		<Note_en> in units defined by the previous octet</Note_en>
+		<Contents_en>Length of the time range over which statistical processing is done, in units defined by the previous octet</Contents_en>
+		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Status/>
+		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.209 - Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval</Title_en>
@@ -66683,22 +66683,22 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.209 - Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>76-79</OctetNo>
-		<Contents_en>Time increment between successive fields</Contents_en>
-		<Note_en> in units defined by the previous octet</Note_en>
+		<Contents_en>Time increment between successive fields, in units defined by the previous octet</Contents_en>
+		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Status/>
+		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.209 - Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>80-91</OctetNo>
-		<Contents_en>As octets 68 to 79</Contents_en>
-		<Note_en> next innermost step of processing</Note_en>
+		<Contents_en>As octets 68 to 79, next innermost step of processing</Contents_en>
+		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Status/>
+		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.209 - Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval</Title_en>
