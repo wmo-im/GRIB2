@@ -66026,7 +66026,7 @@
 		<Contents_en>Input originating centre</Contents_en>
 		<Note_en>(see Common Code table C-11)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>CCT-11</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
