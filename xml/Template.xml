@@ -69454,9 +69454,9 @@
 		<Title_en>Product definition template 4.221 - Post-processing derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
-		<Note_en>(see Common Code table C-14)</Note_en>
+		<Note_en>(see Code table 4.233)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>4.233</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
