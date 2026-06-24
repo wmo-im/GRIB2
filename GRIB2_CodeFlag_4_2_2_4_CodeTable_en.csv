@@ -45,7 +45,7 @@ Parameter number by product discipline and parameter category,"Product disciplin
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",43,,Probability of fire detection,(see Note 2),184,%,Operation
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",44,,Probability of ignition from lightning,(see Note 3),185,%,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",45,,Hot-dry windy index,,,Pa m s-1,Operational
-Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",46,,Continuous Haines index,,,numeric,Operational
+Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",46,,Continuous Haines index,,,Numeric,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",47,,Fire combustion rate per unit area,,,kg m-2 s-1,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",48,,Fire radiative power density,,,W m-2,Operational
 Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 4: fire weather products",45-191,,Reserved,,,,Operational
