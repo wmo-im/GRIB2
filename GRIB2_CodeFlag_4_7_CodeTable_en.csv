@@ -10,6 +10,8 @@ Derived forecast,,7,,Interquartile range (range between the 25th and 75th quanti
 Derived forecast,,8,,Minimum of all ensemble members,(see Note 2),63,,Operational
 Derived forecast,,9,,Maximum of all ensemble members,(see Note 2),63,,Operational
 Derived forecast,,10,,Variance of all ensemble members,,,,Operational
-Derived forecast,,11-191,,Reserved,,,,Operational
+Derived forecast,,11,,Median of all ensemble members,,,,Operational
+Derived forecast,,12,,Index based on all ensemble members,(see Note 3),362a,,Operational
+Derived forecast,,13-191,,Reserved,,,,Operational
 Derived forecast,,192-254,,Reserved for local use,,,,Operational
 Derived forecast,,255,,Missing,,,,Operational

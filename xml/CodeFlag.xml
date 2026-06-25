@@ -16327,7 +16327,21 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.7 - Derived forecast</Title_en>
 		<SubTitle_en/>
-		<CodeFlag>11-191</CodeFlag>
+		<CodeFlag>11</CodeFlag>
+		<MeaningParameterDescription_en>Median of all ensemble members</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.7 - Derived forecast</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>12</CodeFlag>
+		<MeaningParameterDescription_en>Index based on all ensemble members</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.7 - Derived forecast</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>13-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
