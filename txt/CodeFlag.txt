@@ -2810,9 +2810,9 @@ Code table 4.223 - Fire detection indicator,,3,,Missing,,,,Operational
 Code table 4.224 - Categorical outlook,,0,,No risk area,,,,Operational
 Code table 4.224 - Categorical outlook,,1,,Reserved,,,,Operational
 Code table 4.224 - Categorical outlook,,2,,General thunderstorm risk area,,,,Operational
-Code table 4.224 - Categorical outlook,,3,,Reserved,,,,Operational
+Code table 4.224 - Categorical outlook,,3,,Marginal risk area,,,,Operational
 Code table 4.224 - Categorical outlook,,4,,Slight risk area,,,,Operational
-Code table 4.224 - Categorical outlook,,5,,Reserved,,,,Operational
+Code table 4.224 - Categorical outlook,,5,,Enhanced risk area,,,,Operational
 Code table 4.224 - Categorical outlook,,6,,Moderate risk area,,,,Operational
 Code table 4.224 - Categorical outlook,,7,,Reserved,,,,Operational
 Code table 4.224 - Categorical outlook,,8,,High risk area,,,,Operational
