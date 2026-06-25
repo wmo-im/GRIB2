@@ -3205,6 +3205,12 @@ Code table 4.254 - Polarization of satellite band,,5,,Right-Hand Circular Polari
 Code table 4.254 - Polarization of satellite band,,6,,Left-Hand Circular Polarization (LHCP),,,-,Operational
 Code table 4.254 - Polarization of satellite band,,7-254,,Reserved,,,,Operational
 Code table 4.254 - Polarization of satellite band,,255,,Missing,,,,Operational
+Code table 4.255 - Conditional Intensity Group Level,,0,,Level 0 (CIG0) as defined by NOAA Storm Prediction Center,,,-,Operational
+Code table 4.255 - Conditional Intensity Group Level,,1,,Level 1 (CIG1) as defined by NOAA Storm Prediction Center,,,-,Operational
+Code table 4.255 - Conditional Intensity Group Level,,2,,Level 2 (CIG2) as defined by NOAA Storm Prediction Center,,,-,Operational
+Code table 4.255 - Conditional Intensity Group Level,,3,,Level 3 (CIG3) as defined by NOAA Storm Prediction Center,,,-,Operational
+Code table 4.255 - Conditional Intensity Group Level,,4-254,,Reserved,,,,Operational
+Code table 4.255 - Conditional Intensity Group Level,,255,,Missing,,,,Operational
 Code table 4.333 - Transport dispersion model,,1,,DERMA (Danish Emergency Response Model of the Atmosphere),,,,Operational
 Code table 4.333 - Transport dispersion model,,2,,E-EMEP (Emergency EMEP model),,,,Operational
 Code table 4.333 - Transport dispersion model,,3,,FLEXPART (Particle dispersion model),,,,Operational
