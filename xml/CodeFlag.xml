@@ -3370,7 +3370,28 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<SubTitle_en/>
-		<CodeFlag>208-253</CodeFlag>
+		<CodeFlag>208-221</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>222</CodeFlag>
+		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed with spatiotemporal processing based on focal (moving window) statistics at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>223</CodeFlag>
+		<MeaningParameterDescription_en>Individual ensemble forecast, control and perturbed with spatiotemporal processing based on focal (moving window) statistics at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>224-253</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
