@@ -14059,14 +14059,7 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<SubTitle_en>Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties</SubTitle_en>
-		<CodeFlag>59</CodeFlag>
-		<MeaningParameterDescription_en>Relative water potential density anomaly (sigma-theta)</MeaningParameterDescription_en>
-		<Status>Operational</Status>
-	</GRIB2_CodeFlag_en>
-	<GRIB2_CodeFlag_en>
-		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
-		<SubTitle_en>Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties</SubTitle_en>
-		<CodeFlag>60-191</CodeFlag>
+		<CodeFlag>59-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
