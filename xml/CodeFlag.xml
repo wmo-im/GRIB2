@@ -8389,7 +8389,35 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
 		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties</SubTitle_en>
-		<CodeFlag>53-191</CodeFlag>
+		<CodeFlag>53</CodeFlag>
+		<MeaningParameterDescription_en>Tornado conditional intensity groups</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties</SubTitle_en>
+		<CodeFlag>54</CodeFlag>
+		<MeaningParameterDescription_en>Hail conditional intensity groups</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties</SubTitle_en>
+		<CodeFlag>55</CodeFlag>
+		<MeaningParameterDescription_en>Wind conditional intensity groups</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties</SubTitle_en>
+		<CodeFlag>56</CodeFlag>
+		<MeaningParameterDescription_en>Total severe conditional intensity groups</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.2 - Parameter number by product discipline and parameter category</Title_en>
+		<SubTitle_en>Product discipline 0 - Meteorological products, parameter category 19: physical atmospheric properties</SubTitle_en>
+		<CodeFlag>57-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -22591,6 +22619,48 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.254 - Polarization of satellite band</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>255</CodeFlag>
+		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.255 - Conditional Intensity Group Level</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>0</CodeFlag>
+		<MeaningParameterDescription_en>Level 0 (CIG0) as defined by NOAA Storm Prediction Center</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.255 - Conditional Intensity Group Level</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>1</CodeFlag>
+		<MeaningParameterDescription_en>Level 1 (CIG1) as defined by NOAA Storm Prediction Center</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.255 - Conditional Intensity Group Level</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>2</CodeFlag>
+		<MeaningParameterDescription_en>Level 2 (CIG2) as defined by NOAA Storm Prediction Center</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.255 - Conditional Intensity Group Level</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>3</CodeFlag>
+		<MeaningParameterDescription_en>Level 3 (CIG3) as defined by NOAA Storm Prediction Center</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.255 - Conditional Intensity Group Level</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>4-254</CodeFlag>
+		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.255 - Conditional Intensity Group Level</Title_en>
 		<SubTitle_en/>
 		<CodeFlag>255</CodeFlag>
 		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
