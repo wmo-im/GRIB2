@@ -6598,7 +6598,6 @@ Product definition template 4.202 - Probability of post-processed forecast at a 
 "Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization",(29+19(nb-1)),Scale factor of bandwidth,,,,,Operational
 "Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization",(30+19(nb-1))-(33+19(nb-1)),Scaled value of bandwidth (units:m-1),,,,,Operational
 "Product definition template 4.207 - Satellite product with or without associated quality values with channel, bandwidth and polarization",(34+19(nb-1)),Polarization of satellite band,(see Code table 4.254),,4.254,,Operational
-<<<<<<< HEAD
 Product definition template 4.210 - Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents,10,Parameter category,(see Code table 4.1),,4.1,,Operational
 Product definition template 4.210 - Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents,11,Parameter number,(see Code table 4.2),,4.2,,Operational
 Product definition template 4.210 - Post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents,12-13,Atmospheric chemical constituent type,(see Code table 4.230),,4.230,,Operational
@@ -6985,7 +6984,6 @@ Product definition template 4.221 - Post-processing derived forecasts based on a
 Product definition template 4.221 - Post-processing derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol,78-81,Time increment between successive fields in units defined by the previous octet,,,,,Operational
 Product definition template 4.221 - Post-processing derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol,82-93,As octets 70 to 81 next innermost step of processing,,,,,Operational
 Product definition template 4.221 - Post-processing derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol,94-nn,Additional time range specifications included in accordance with the value of n. Contents as octets 70 to 81 repeated as necessary,,,,,Operational
-=======
 Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink,10,Parameter category,(see Code table 4.1),,4.1,,Operational
 Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink,11,Parameter number,(see Code table 4.2),,4.2,,Operational
 Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink,12-13,Aerosol type,(see Code table 4.230),,4.230,,Operational
@@ -7112,7 +7110,6 @@ Product definition template 4.228 - Probability forecasts at a horizontal level 
 Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink,58-61,Scaled value of lower limit,,,,,Operational
 Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink,62,Scale factor of upper limit,,,,,Operational
 Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink,63-66,Scaled value of upper limit,,,,,Operational
->>>>>>> a24c715112f2ee220bafd84cb957a4ec561ebb91
 Product definition template 4.254 - CCITT IA5 character string,10,Parameter category,(see Code table 4.1),,4.1,,Operational
 Product definition template 4.254 - CCITT IA5 character string,11,Parameter number,(see Code table 4.2),,4.2,,Operational
 Product definition template 4.254 - CCITT IA5 character string,12-15,Number of characters,,,,,Operational
