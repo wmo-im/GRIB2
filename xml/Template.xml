@@ -66036,7 +66036,7 @@
 		<Contents_en>Input originating centre</Contents_en>
 		<Note_en>(see Common Code table C-11)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-11</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -66226,7 +66226,7 @@
 		<Contents_en>Input originating centre</Contents_en>
 		<Note_en>(see Common Code table C-11)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-11</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -66466,7 +66466,7 @@
 		<Contents_en>Input originating centre</Contents_en>
 		<Note_en>(see Common Code table C-11)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-11</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -66836,7 +66836,7 @@
 		<Contents_en>Input originating centre</Contents_en>
 		<Note_en>(see Common Code table C-11)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-11</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -67196,7 +67196,7 @@
 		<Contents_en>Aerosol type</Contents_en>
 		<Note_en>(see Common Code table C-14)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-14</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -67266,7 +67266,7 @@
 		<Contents_en>Input originating centre</Contents_en>
 		<Note_en>(see Common Code table C-11)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-11</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -67436,7 +67436,7 @@
 		<Contents_en>Aerosol type</Contents_en>
 		<Note_en>(see Common Code table C-14)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-14</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -67506,7 +67506,7 @@
 		<Contents_en>Input originating centre</Contents_en>
 		<Note_en>(see Common Code table C-11)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-11</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -67726,7 +67726,7 @@
 		<Contents_en>Aerosol type</Contents_en>
 		<Note_en>(see Common Code table C-14)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-14</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -67796,7 +67796,7 @@
 		<Contents_en>Input originating centre</Contents_en>
 		<Note_en>(see Common Code table C-11)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-11</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -68146,7 +68146,7 @@
 		<Contents_en>Aerosol type</Contents_en>
 		<Note_en>(see Common Code table C-14)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-14</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -68216,7 +68216,7 @@
 		<Contents_en>Input originating centre</Contents_en>
 		<Note_en>(see Common Code table C-11)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-11</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -68596,7 +68596,7 @@
 		<Contents_en>Input originating centre</Contents_en>
 		<Note_en>(see Common Code table C-11)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-11</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -68826,7 +68826,7 @@
 		<Contents_en>Input originating centre</Contents_en>
 		<Note_en>(see Common Code table C-11)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-11</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -69246,7 +69246,7 @@
 		<Contents_en>Input originating centre</Contents_en>
 		<Note_en>(see Common Code table C-11)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-11</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -69526,7 +69526,7 @@
 		<Contents_en>Input originating centre</Contents_en>
 		<Note_en>(see Common Code table C-11)</Note_en>
 		<noteIDs/>
-		<codeTable/>
+		<codeTable>C-11</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
