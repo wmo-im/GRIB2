@@ -65991,6 +65991,1266 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>10</OctetNo>
+		<Contents_en>Parameter category</Contents_en>
+		<Note_en>(see Code table 4.1)</Note_en>
+		<noteIDs/>
+		<codeTable>4.1</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>11</OctetNo>
+		<Contents_en>Parameter number</Contents_en>
+		<Note_en>(see Code table 4.2)</Note_en>
+		<noteIDs/>
+		<codeTable>4.2</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>12-13</OctetNo>
+		<Contents_en>Aerosol type</Contents_en>
+		<Note_en>(see Code table 4.230)</Note_en>
+		<noteIDs/>
+		<codeTable>4.230</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>14</OctetNo>
+		<Contents_en>Source or sink</Contents_en>
+		<Note_en>(see Code table 4.238)</Note_en>
+		<noteIDs/>
+		<codeTable>4.238</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>15</OctetNo>
+		<Contents_en>Type of interval for first and second sizes</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>16</OctetNo>
+		<Contents_en>Scale factor of first size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>17-20</OctetNo>
+		<Contents_en>Scaled value of first size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>21</OctetNo>
+		<Contents_en>Scale factor of second size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>22-25</OctetNo>
+		<Contents_en>Scaled value of second size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>26</OctetNo>
+		<Contents_en>Type of generating process</Contents_en>
+		<Note_en>(see Code table 4.3)</Note_en>
+		<noteIDs/>
+		<codeTable>4.3</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>27</OctetNo>
+		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>28</OctetNo>
+		<Contents_en>Forecast generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>29-30</OctetNo>
+		<Contents_en>Hours after reference time of data cut-off</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>31</OctetNo>
+		<Contents_en>Minutes after reference time of data cut-off</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>32</OctetNo>
+		<Contents_en>Indicator of unit of time range</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>33-36</OctetNo>
+		<Contents_en>Forecast time in units defined by octet 32</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>37</OctetNo>
+		<Contents_en>Type of first fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>38</OctetNo>
+		<Contents_en>Scale factor of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>39-42</OctetNo>
+		<Contents_en>Scaled value of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>43</OctetNo>
+		<Contents_en>Type of second fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>44</OctetNo>
+		<Contents_en>Scale factor of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.224 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>45-48</OctetNo>
+		<Contents_en>Scaled value of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>10</OctetNo>
+		<Contents_en>Parameter category</Contents_en>
+		<Note_en>(see Code table 4.1)</Note_en>
+		<noteIDs/>
+		<codeTable>4.1</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>11</OctetNo>
+		<Contents_en>Parameter number</Contents_en>
+		<Note_en>(see Code table 4.2)</Note_en>
+		<noteIDs/>
+		<codeTable>4.2</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>12-13</OctetNo>
+		<Contents_en>Aerosol type</Contents_en>
+		<Note_en>(see Code table 4.230)</Note_en>
+		<noteIDs/>
+		<codeTable>4.230</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>14</OctetNo>
+		<Contents_en>Source or sink</Contents_en>
+		<Note_en>(see Code table 4.238)</Note_en>
+		<noteIDs/>
+		<codeTable>4.238</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>15</OctetNo>
+		<Contents_en>Type of interval for first and second sizes</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>16</OctetNo>
+		<Contents_en>Scale factor of first size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>17-20</OctetNo>
+		<Contents_en>Scaled value of first size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>21</OctetNo>
+		<Contents_en>Scale factor of second size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>22-25</OctetNo>
+		<Contents_en>Scaled value of second size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>26</OctetNo>
+		<Contents_en>Type of generating process</Contents_en>
+		<Note_en>(see Code table 4.3)</Note_en>
+		<noteIDs/>
+		<codeTable>4.3</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>27</OctetNo>
+		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>28</OctetNo>
+		<Contents_en>Forecast generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>29-30</OctetNo>
+		<Contents_en>Hours after reference time of data cut-off</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>31</OctetNo>
+		<Contents_en>Minutes after reference time of data cut-off</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>32</OctetNo>
+		<Contents_en>Indicator of unit of time range</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>33-36</OctetNo>
+		<Contents_en>Forecast time in units defined by octet 32</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>37</OctetNo>
+		<Contents_en>Type of first fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>38</OctetNo>
+		<Contents_en>Scale factor of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>39-42</OctetNo>
+		<Contents_en>Scaled value of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>43</OctetNo>
+		<Contents_en>Type of second fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>44</OctetNo>
+		<Contents_en>Scale factor of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>45-48</OctetNo>
+		<Contents_en>Scaled value of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>49</OctetNo>
+		<Contents_en>Type of ensemble forecast</Contents_en>
+		<Note_en>(see Code table 4.6)</Note_en>
+		<noteIDs/>
+		<codeTable>4.6</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>50-53</OctetNo>
+		<Contents_en>Perturbation number</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.225 - Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>54-57</OctetNo>
+		<Contents_en>Number of forecasts in ensemble</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>10</OctetNo>
+		<Contents_en>Parameter category</Contents_en>
+		<Note_en>(see Code table 4.1)</Note_en>
+		<noteIDs/>
+		<codeTable>4.1</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>11</OctetNo>
+		<Contents_en>Parameter number</Contents_en>
+		<Note_en>(see Code table 4.2)</Note_en>
+		<noteIDs/>
+		<codeTable>4.2</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>12-13</OctetNo>
+		<Contents_en>Aerosol type</Contents_en>
+		<Note_en>(see Code table 4.230)</Note_en>
+		<noteIDs/>
+		<codeTable>4.230</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>14</OctetNo>
+		<Contents_en>Source or sink</Contents_en>
+		<Note_en>(see Code table 4.238)</Note_en>
+		<noteIDs/>
+		<codeTable>4.238</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>15</OctetNo>
+		<Contents_en>Type of interval for first and second sizes</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>16</OctetNo>
+		<Contents_en>Scale factor of first size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>17-20</OctetNo>
+		<Contents_en>Scaled value of first size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>21</OctetNo>
+		<Contents_en>Scale factor of second size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>22-25</OctetNo>
+		<Contents_en>Scaled value of second size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>26</OctetNo>
+		<Contents_en>Type of generating process</Contents_en>
+		<Note_en>(see Code table 4.3)</Note_en>
+		<noteIDs/>
+		<codeTable>4.3</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>27</OctetNo>
+		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>28</OctetNo>
+		<Contents_en>Forecast generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>29-30</OctetNo>
+		<Contents_en>Hours after reference time of data cut-off</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>31</OctetNo>
+		<Contents_en>Minutes after reference time of data cut-off</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>32</OctetNo>
+		<Contents_en>Indicator of unit of time range</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>33-36</OctetNo>
+		<Contents_en>Forecast time in units defined by octet 32</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>37</OctetNo>
+		<Contents_en>Type of first fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>38</OctetNo>
+		<Contents_en>Scale factor of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>39-42</OctetNo>
+		<Contents_en>Scaled value of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>43</OctetNo>
+		<Contents_en>Type of second fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>44</OctetNo>
+		<Contents_en>Scale factor of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>45-48</OctetNo>
+		<Contents_en>Scaled value of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>49</OctetNo>
+		<Contents_en>Derived forecast</Contents_en>
+		<Note_en>(see Code table 4.7)</Note_en>
+		<noteIDs/>
+		<codeTable>4.7</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.226 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>50-53</OctetNo>
+		<Contents_en>Number of forecasts in ensemble</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>10</OctetNo>
+		<Contents_en>Parameter category</Contents_en>
+		<Note_en>(see Code table 4.1)</Note_en>
+		<noteIDs/>
+		<codeTable>4.1</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>11</OctetNo>
+		<Contents_en>Parameter number</Contents_en>
+		<Note_en>(see Code table 4.2)</Note_en>
+		<noteIDs/>
+		<codeTable>4.2</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>12-13</OctetNo>
+		<Contents_en>Aerosol type</Contents_en>
+		<Note_en>(see Code table 4.230)</Note_en>
+		<noteIDs/>
+		<codeTable>4.230</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>14</OctetNo>
+		<Contents_en>Source or sink</Contents_en>
+		<Note_en>(see Code table 4.238)</Note_en>
+		<noteIDs/>
+		<codeTable>4.238</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>15</OctetNo>
+		<Contents_en>Type of interval for first and second sizes</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>16</OctetNo>
+		<Contents_en>Scale factor of first size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>17-20</OctetNo>
+		<Contents_en>Scaled value of first size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>21</OctetNo>
+		<Contents_en>Scale factor of second size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>22-25</OctetNo>
+		<Contents_en>Scaled value of second size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>26</OctetNo>
+		<Contents_en>Type of generating process</Contents_en>
+		<Note_en>(see Code table 4.3)</Note_en>
+		<noteIDs/>
+		<codeTable>4.3</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>27</OctetNo>
+		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>28</OctetNo>
+		<Contents_en>Forecast generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>29-30</OctetNo>
+		<Contents_en>Hours after reference time of data cut-off</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>31</OctetNo>
+		<Contents_en>Minutes after reference time of data cut-off</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>32</OctetNo>
+		<Contents_en>Indicator of unit of time range</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>33-36</OctetNo>
+		<Contents_en>Forecast time in units defined by octet 32</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>37</OctetNo>
+		<Contents_en>Type of first fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>38</OctetNo>
+		<Contents_en>Scale factor of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>39-42</OctetNo>
+		<Contents_en>Scaled value of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>43</OctetNo>
+		<Contents_en>Type of second fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>44</OctetNo>
+		<Contents_en>Scale factor of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>45-48</OctetNo>
+		<Contents_en>Scaled value of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>49-50</OctetNo>
+		<Contents_en>Total number of quantile q</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.227 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>51-52</OctetNo>
+		<Contents_en>Quantile value (between 0 and q)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>10</OctetNo>
+		<Contents_en>Parameter category</Contents_en>
+		<Note_en>(see Code table 4.1)</Note_en>
+		<noteIDs/>
+		<codeTable>4.1</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>11</OctetNo>
+		<Contents_en>Parameter number</Contents_en>
+		<Note_en>(see Code table 4.2)</Note_en>
+		<noteIDs/>
+		<codeTable>4.2</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>12-13</OctetNo>
+		<Contents_en>Aerosol type</Contents_en>
+		<Note_en>(see Code table 4.230)</Note_en>
+		<noteIDs/>
+		<codeTable>4.230</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>14</OctetNo>
+		<Contents_en>Source or sink</Contents_en>
+		<Note_en>(see Code table 4.238)</Note_en>
+		<noteIDs/>
+		<codeTable>4.238</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>15</OctetNo>
+		<Contents_en>Type of interval for first and second sizes</Contents_en>
+		<Note_en>(see Code table 4.91)</Note_en>
+		<noteIDs/>
+		<codeTable>4.91</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>16</OctetNo>
+		<Contents_en>Scale factor of first size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>17-20</OctetNo>
+		<Contents_en>Scaled value of first size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>21</OctetNo>
+		<Contents_en>Scale factor of second size</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>22-25</OctetNo>
+		<Contents_en>Scaled value of second size in metres</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>26</OctetNo>
+		<Contents_en>Type of generating process</Contents_en>
+		<Note_en>(see Code table 4.3)</Note_en>
+		<noteIDs/>
+		<codeTable>4.3</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>27</OctetNo>
+		<Contents_en>Background generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>28</OctetNo>
+		<Contents_en>Forecast generating process identifier (defined by originating centre)</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>29-30</OctetNo>
+		<Contents_en>Hours after reference time of data cut-off</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>31</OctetNo>
+		<Contents_en>Minutes after reference time of data cut-off</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>32</OctetNo>
+		<Contents_en>Indicator of unit of time range</Contents_en>
+		<Note_en>(see Code table 4.4)</Note_en>
+		<noteIDs/>
+		<codeTable>4.4</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>33-36</OctetNo>
+		<Contents_en>Forecast time in units defined by octet 32</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>37</OctetNo>
+		<Contents_en>Type of first fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>38</OctetNo>
+		<Contents_en>Scale factor of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>39-42</OctetNo>
+		<Contents_en>Scaled value of first fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>43</OctetNo>
+		<Contents_en>Type of second fixed surface</Contents_en>
+		<Note_en>(see Code table 4.5)</Note_en>
+		<noteIDs/>
+		<codeTable>4.5</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>44</OctetNo>
+		<Contents_en>Scale factor of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>45-48</OctetNo>
+		<Contents_en>Scaled value of second fixed surface</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>49</OctetNo>
+		<Contents_en>Type of ensemble forecast</Contents_en>
+		<Note_en>(see Code table 4.6)</Note_en>
+		<noteIDs/>
+		<codeTable>4.6</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>50-53</OctetNo>
+		<Contents_en>Number of forecasts in ensemble</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>54</OctetNo>
+		<Contents_en>Forecast probability number</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>55</OctetNo>
+		<Contents_en>Total number of forecast probabilities</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>56</OctetNo>
+		<Contents_en>Probability type</Contents_en>
+		<Note_en>(see Code table 4.9)</Note_en>
+		<noteIDs/>
+		<codeTable>4.9</codeTable>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>57</OctetNo>
+		<Contents_en>Scale factor of lower limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>58-61</OctetNo>
+		<Contents_en>Scaled value of lower limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>62</OctetNo>
+		<Contents_en>Scale factor of upper limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
+		<Title_en>Product definition template 4.228 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink</Title_en>
+		<OctetNo>63-66</OctetNo>
+		<Contents_en>Scaled value of upper limit</Contents_en>
+		<Note_en/>
+		<noteIDs/>
+		<codeTable/>
+		<flagTable/>
+		<Status>Operational</Status>
+	</GRIB2_Template_en>
+	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.254 - CCITT IA5 character string</Title_en>
 		<OctetNo>10</OctetNo>
 		<Contents_en>Parameter category</Contents_en>
