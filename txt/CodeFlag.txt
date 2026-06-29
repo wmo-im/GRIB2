@@ -2270,7 +2270,8 @@ Code table 4.5 - Fixed surface types and units,,34,,Ionospheric F1-region level,
 Code table 4.5 - Fixed surface types and units,,35,,Ionospheric F2-region level,,,,Operational
 Code table 4.5 - Fixed surface types and units,,36,,Stratopause,,,,Operational
 Code table 4.5 - Fixed surface types and units,,37,,Hygropause,(see Note 12),192,,Operational
-Code table 4.5 - Fixed surface types and units,,38-99,,Reserved,,,,Operational
+Code table 4.5 - Fixed surface types and units,,38-98,,Reserved,,,,Operational
+Code table 4.5 - Fixed surface types and units,,99,,Flight Level,(see Note 13),363a,-,Operational
 Code table 4.5 - Fixed surface types and units,,100,,Isobaric surface,,,Pa,Operational
 Code table 4.5 - Fixed surface types and units,,101,,Mean sea level,,,,Operational
 Code table 4.5 - Fixed surface types and units,,102,,Specific altitude above mean sea level,,,m,Operational
