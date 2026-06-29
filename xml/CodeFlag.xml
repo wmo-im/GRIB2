@@ -19688,7 +19688,7 @@
 		<Title_en>Code table 4.224 - Categorical outlook</Title_en>
 		<SubTitle_en/>
 		<CodeFlag>3</CodeFlag>
-		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Marginal risk area</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -19702,7 +19702,7 @@
 		<Title_en>Code table 4.224 - Categorical outlook</Title_en>
 		<SubTitle_en/>
 		<CodeFlag>5</CodeFlag>
-		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Enhanced risk area</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
