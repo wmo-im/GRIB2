@@ -66211,8 +66211,10 @@
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
-		<Title_en>Product definition template 4.222 - Individual ensemble forecast, control and perturbed with spatiotemporal processing based on focal (moving window) statistics at a horizontal level or in a horizontal layer at a point in time</Title_en>
-		<OctetNo>50+(nsv-1)*4</OctetNo>
+		<Title_en>Product definition template 4.222 - Individual ensemble forecast, control and perturbed with spatiotemporal processing based on focal
+(moving window) statistics at a horizontal level or in a horizontal layer at a point in
+time</Title_en>
+		<OctetNo>(50+(nsv-1)*4)</OctetNo>
 		<Contents_en>Spatial vicinity processing</Contents_en>
 		<Note_en>(see Code table 4.104)</Note_en>
 		<noteIDs/>
