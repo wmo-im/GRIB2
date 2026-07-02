@@ -66244,7 +66244,7 @@ time</Title_en>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.222 - Individual ensemble forecast, control and perturbed with spatiotemporal processing based on focal (moving window) statistics at a horizontal level or in a horizontal layer at a point in time</Title_en>
-		<OctetNo>55+(nsv-1)*4</OctetNo>
+		<OctetNo>(55+(nsv-1)*4)</OctetNo>
 		<Contents_en>Spatial vicinity missing data</Contents_en>
 		<Note_en>(see Code table 4.105)</Note_en>
 		<noteIDs/>
