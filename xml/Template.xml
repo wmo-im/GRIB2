@@ -65993,7 +65993,7 @@
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.222 - Individual ensemble forecast, control and perturbed with spatiotemporal processing based on focal (moving window) statistics at a horizontal level or in a horizontal layer at a point in time</Title_en>
 		<OctetNo/>
-		<Contents_en>46+(nsv-1)*4 - Repeat the following 4 octets for each spatial vicinity value (nsv = 1, NSV)</Contents_en>
+		<Contents_en>The next entry repeats nsv=1:NSV times</Contents_en>
 		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
