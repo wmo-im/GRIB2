@@ -3370,7 +3370,21 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<SubTitle_en/>
-		<CodeFlag>208-253</CodeFlag>
+		<CodeFlag>208</CodeFlag>
+		<MeaningParameterDescription_en>Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>209</CodeFlag>
+		<MeaningParameterDescription_en>Post-processing individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval</MeaningParameterDescription_en>
+		<Status>Operational</Status>
+	</GRIB2_CodeFlag_en>
+	<GRIB2_CodeFlag_en>
+		<Title_en>Code table 4.0 - Product definition template number</Title_en>
+		<SubTitle_en/>
+		<CodeFlag>210-253</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
