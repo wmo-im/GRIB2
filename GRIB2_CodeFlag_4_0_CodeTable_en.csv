@@ -212,7 +212,6 @@ Product definition template number,,226,,"Derived forecasts based on all ensembl
 Product definition template number,,227,,"Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink",,,,Operational
 Product definition template number,,228,,"Probability forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol with source or sink",,,,Operational
 Product definition template number,,229-253,,Reserved,,,,Operational
->>>>>>> ed76cea832c0cd1720cce4d72762d7fbe238a101
 Product definition template number,,254,,CCITT IA5 character string,,,,Operational
 Product definition template number,,255-999,,Reserved,,,,Operational
 Product definition template number,,1000,,Cross-section of analysis and forecast at a point in time,,,,Experimental
