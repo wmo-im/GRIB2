@@ -1,0 +1,5 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Risk category,Risk category,0,,Undefined,,,,Operational
+Risk category,Risk category,1-191,,Reserved,,,,Operational
+Risk category,Risk category,192-254,,Reserved for local use,,,,Operational
+Risk category,Risk category,255,,Missing,,,,Operational
