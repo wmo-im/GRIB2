@@ -3377,13 +3377,6 @@
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.0 - Product definition template number</Title_en>
 		<SubTitle_en/>
-		<CodeFlag>208-253</CodeFlag>
-		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
-		<Status>Operational</Status>
-	</GRIB2_CodeFlag_en>
-	<GRIB2_CodeFlag_en>
-		<Title_en>Code table 4.0 - Product definition template number</Title_en>
-		<SubTitle_en/>
 		<CodeFlag>254</CodeFlag>
 		<MeaningParameterDescription_en>CCITT IA5 character string</MeaningParameterDescription_en>
 		<Status>Operational</Status>
