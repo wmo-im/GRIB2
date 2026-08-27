@@ -70955,12 +70955,12 @@ time</Title_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.223 - Individual ensemble forecast, control and perturbed with spatiotemporal processing based on focal (moving window) statistics at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>(nn + 8+(nsv-1)*4)-(nn + 9+(nsv-1)*4)</OctetNo>
-		<Contents_en>Spatial vicinity processing argument 1 (e.g.</Contents_en>
-		<Note_en> if previous is quantile)</Note_en>
+		<Contents_en>Spatial vicinity processing argument 1 (e.g. if previous is quantile)</Contents_en>
+		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Status/>
+		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.223 - Individual ensemble forecast, control and perturbed with spatiotemporal processing based on focal (moving window) statistics at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
@@ -70975,12 +70975,12 @@ time</Title_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.223 - Individual ensemble forecast, control and perturbed with spatiotemporal processing based on focal (moving window) statistics at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
 		<OctetNo>(nn + 10+(nsv-1)*4)-(nn + 11+(nsv-1)*4)</OctetNo>
-		<Contents_en>Spatial vicinity processing argument 2 (e.g.</Contents_en>
-		<Note_en> if previous is quantile)</Note_en>
+		<Contents_en>Spatial vicinity processing argument 2 (e.g. if previous is quantile)</Contents_en>
+		<Note_en/>
 		<noteIDs/>
 		<codeTable/>
 		<flagTable/>
-		<Status/>
+		<Status>Operational</Status>
 	</GRIB2_Template_en>
 	<GRIB2_Template_en>
 		<Title_en>Product definition template 4.223 - Individual ensemble forecast, control and perturbed with spatiotemporal processing based on focal (moving window) statistics at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval</Title_en>
