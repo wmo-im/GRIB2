@@ -28,7 +28,7 @@
 		<Title_en>Code table 0.0 - Discipline of processed data in the GRIB message, number of GRIB Master table</Title_en>
 		<SubTitle_en/>
 		<CodeFlag>3</CodeFlag>
-		<MeaningParameterDescription_en>Satellite remote sensing products (formerly "Space products")</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Satellite remote sensing products (formerly &quot;Space products&quot;)</MeaningParameterDescription_en>
 		<UnitComments_en/>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -1860,7 +1860,7 @@
 		<Title_en>Code table 3.11 - Interpretation of list of numbers at end of section 3</Title_en>
 		<SubTitle_en/>
 		<CodeFlag>3</CodeFlag>
-		<MeaningParameterDescription_en>Numbers define the actual latitudes for each row in the grid. The list of numbers are integer values of the valid latitudes in microdegrees (scaled by 10-6) or in unit equal to the ratio of the basic angle and the subdivisions number for each row, in the same order as specified in the "scanning mode flag" (bit no. 2)</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>Numbers define the actual latitudes for each row in the grid. The list of numbers are integer values of the valid latitudes in microdegrees (scaled by 10-6) or in unit equal to the ratio of the basic angle and the subdivisions number for each row, in the same order as specified in the &quot;scanning mode flag&quot; (bit no. 2)</MeaningParameterDescription_en>
 		<UnitComments_en/>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
@@ -4322,7 +4322,7 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
-		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly "Space products")</SubTitle_en>
+		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly &quot;Space products&quot;)</SubTitle_en>
 		<CodeFlag>0</CodeFlag>
 		<MeaningParameterDescription_en>Image format products</MeaningParameterDescription_en>
 		<UnitComments_en/>
@@ -4330,7 +4330,7 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
-		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly "Space products")</SubTitle_en>
+		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly &quot;Space products&quot;)</SubTitle_en>
 		<CodeFlag>1</CodeFlag>
 		<MeaningParameterDescription_en>Quantitative products</MeaningParameterDescription_en>
 		<UnitComments_en/>
@@ -4338,7 +4338,7 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
-		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly "Space products")</SubTitle_en>
+		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly &quot;Space products&quot;)</SubTitle_en>
 		<CodeFlag>2</CodeFlag>
 		<MeaningParameterDescription_en>Cloud properties</MeaningParameterDescription_en>
 		<UnitComments_en/>
@@ -4346,7 +4346,7 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
-		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly "Space products")</SubTitle_en>
+		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly &quot;Space products&quot;)</SubTitle_en>
 		<CodeFlag>3</CodeFlag>
 		<MeaningParameterDescription_en>Flight rule conditions</MeaningParameterDescription_en>
 		<UnitComments_en/>
@@ -4354,7 +4354,7 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
-		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly "Space products")</SubTitle_en>
+		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly &quot;Space products&quot;)</SubTitle_en>
 		<CodeFlag>4</CodeFlag>
 		<MeaningParameterDescription_en>Volcanic ash</MeaningParameterDescription_en>
 		<UnitComments_en/>
@@ -4362,7 +4362,7 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
-		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly "Space products")</SubTitle_en>
+		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly &quot;Space products&quot;)</SubTitle_en>
 		<CodeFlag>5</CodeFlag>
 		<MeaningParameterDescription_en>Sea-surface temperature</MeaningParameterDescription_en>
 		<UnitComments_en/>
@@ -4370,7 +4370,7 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
-		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly "Space products")</SubTitle_en>
+		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly &quot;Space products&quot;)</SubTitle_en>
 		<CodeFlag>6</CodeFlag>
 		<MeaningParameterDescription_en>Solar radiation</MeaningParameterDescription_en>
 		<UnitComments_en/>
@@ -4378,7 +4378,7 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
-		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly "Space products")</SubTitle_en>
+		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly &quot;Space products&quot;)</SubTitle_en>
 		<CodeFlag>7-191</CodeFlag>
 		<MeaningParameterDescription_en>Reserved</MeaningParameterDescription_en>
 		<UnitComments_en/>
@@ -4386,7 +4386,7 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
-		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly "Space products")</SubTitle_en>
+		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly &quot;Space products&quot;)</SubTitle_en>
 		<CodeFlag>192-254</CodeFlag>
 		<MeaningParameterDescription_en>Reserved for local use</MeaningParameterDescription_en>
 		<UnitComments_en/>
@@ -4394,7 +4394,7 @@
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
 		<Title_en>Code table 4.1 - Parameter category by product discipline</Title_en>
-		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly "Space products")</SubTitle_en>
+		<SubTitle_en>Product discipline 3 - Satellite remote sensing products (formerly &quot;Space products&quot;)</SubTitle_en>
 		<CodeFlag>255</CodeFlag>
 		<MeaningParameterDescription_en>Missing</MeaningParameterDescription_en>
 		<UnitComments_en/>
@@ -18037,7 +18037,7 @@
 		<SubTitle_en/>
 		<CodeFlag>104</CodeFlag>
 		<MeaningParameterDescription_en>Sigma level</MeaningParameterDescription_en>
-		<UnitComments_en>"sigma" value</UnitComments_en>
+		<UnitComments_en>&quot;sigma&quot; value</UnitComments_en>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
 	<GRIB2_CodeFlag_en>
@@ -26508,7 +26508,7 @@
 		<Title_en>Code table 6.0 - Bit map indicator</Title_en>
 		<SubTitle_en/>
 		<CodeFlag>254</CodeFlag>
-		<MeaningParameterDescription_en>A bit map defined previously in the same "GRIB" message applies to this product</MeaningParameterDescription_en>
+		<MeaningParameterDescription_en>A bit map defined previously in the same &quot;GRIB&quot; message applies to this product</MeaningParameterDescription_en>
 		<UnitComments_en/>
 		<Status>Operational</Status>
 	</GRIB2_CodeFlag_en>
