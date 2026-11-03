@@ -1,0 +1,7 @@
+Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+Conditional Intensity Group Level,,0,,Level 0 (CIG0) as defined by NOAA Storm Prediction Center,,,-,Operational
+Conditional Intensity Group Level,,1,,Level 1 (CIG1) as defined by NOAA Storm Prediction Center,,,-,Operational
+Conditional Intensity Group Level,,2,,Level 2 (CIG2) as defined by NOAA Storm Prediction Center,,,-,Operational
+Conditional Intensity Group Level,,3,,Level 3 (CIG3) as defined by NOAA Storm Prediction Center,,,-,Operational
+Conditional Intensity Group Level,,4-254,,Reserved,,,,Operational
+Conditional Intensity Group Level,,255,,Missing,,,,Operational
