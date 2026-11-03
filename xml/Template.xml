@@ -12894,9 +12894,9 @@
 		<Title_en>Product definition template 4.48 - analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
-		<Note_en>(see Common Code table C-14)</Note_en>
+		<Note_en>(see Code table 4.233)</Note_en>
 		<noteIDs/>
-		<codeTable>CCT-14</codeTable>
+		<codeTable>4.233</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -13154,9 +13154,9 @@
 		<Title_en>Product definition template 4.49 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
-		<Note_en>(see Common Code table C-14)</Note_en>
+		<Note_en>(see Code table 4.233)</Note_en>
 		<noteIDs/>
-		<codeTable>CCT-14</codeTable>
+		<codeTable>4.233</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -20024,9 +20024,9 @@
 		<Title_en>Product definition template 4.80 - analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
-		<Note_en>(see Common Code table C-14)</Note_en>
+		<Note_en>(see Code table 4.233)</Note_en>
 		<noteIDs/>
-		<codeTable>CCT-14</codeTable>
+		<codeTable>4.233</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -20294,9 +20294,9 @@
 		<Title_en>Product definition template 4.81 - individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
-		<Note_en>(see Common Code table C-14)</Note_en>
+		<Note_en>(see Code table 4.233)</Note_en>
 		<noteIDs/>
-		<codeTable>CCT-14</codeTable>
+		<codeTable>4.233</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -48024,9 +48024,9 @@
 		<Title_en>Product definition template 4.156 - Average, accumulation, extreme values or other statistically processed values at a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
-		<Note_en>(see Common Code table C-14)</Note_en>
+		<Note_en>(see Code table 4.233)</Note_en>
 		<noteIDs/>
-		<codeTable>CCT-14</codeTable>
+		<codeTable>4.233</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -48464,9 +48464,9 @@
 		<Title_en>Product definition template 4.157 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
-		<Note_en>(see Common Code table C-14)</Note_en>
+		<Note_en>(see Code table 4.233)</Note_en>
 		<noteIDs/>
-		<codeTable>CCT-14</codeTable>
+		<codeTable>4.233</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -48934,9 +48934,9 @@
 		<Title_en>Product definition template 4.158 - Analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
-		<Note_en>(see Common Code table C-14)</Note_en>
+		<Note_en>(see Code table 4.233)</Note_en>
 		<noteIDs/>
-		<codeTable>CCT-14</codeTable>
+		<codeTable>4.233</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -49384,9 +49384,9 @@
 		<Title_en>Product definition template 4.159 - Individual ensemble forecast, control and perturbed at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
-		<Note_en>(see Common Code table C-14)</Note_en>
+		<Note_en>(see Code table 4.233)</Note_en>
 		<noteIDs/>
-		<codeTable>CCT-14</codeTable>
+		<codeTable>4.233</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -52614,9 +52614,9 @@
 		<Title_en>Product definition template 4.169 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
-		<Note_en>(see Common Code table C-14)</Note_en>
+		<Note_en>(see Code table 4.233)</Note_en>
 		<noteIDs/>
-		<codeTable>CCT-14</codeTable>
+		<codeTable>4.233</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -53454,9 +53454,9 @@
 		<Title_en>Product definition template 4.172 - Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
-		<Note_en>(see Common Code table C-14)</Note_en>
+		<Note_en>(see Code table 4.233)</Note_en>
 		<noteIDs/>
-		<codeTable>CCT-14</codeTable>
+		<codeTable>4.233</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -56274,9 +56274,9 @@
 		<Title_en>Product definition template 4.180 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for aerosol</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
-		<Note_en>(see Common Code table C-14)</Note_en>
+		<Note_en>(see Code table 4.233)</Note_en>
 		<noteIDs/>
-		<codeTable>CCT-14</codeTable>
+		<codeTable>4.233</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -57114,9 +57114,9 @@
 		<Title_en>Product definition template 4.183 - Quantile forecasts at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
-		<Note_en>(see Common Code table C-14)</Note_en>
+		<Note_en>(see Code table 4.233)</Note_en>
 		<noteIDs/>
-		<codeTable>CCT-14</codeTable>
+		<codeTable>4.233</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -60144,9 +60144,9 @@
 		<Title_en>Product definition template 4.191 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
-		<Note_en>(see Common Code table C-14)</Note_en>
+		<Note_en>(see Code table 4.233)</Note_en>
 		<noteIDs/>
-		<codeTable>CCT-14</codeTable>
+		<codeTable>4.233</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
@@ -61194,9 +61194,9 @@
 		<Title_en>Product definition template 4.194 - Probability forecasts at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink</Title_en>
 		<OctetNo>12-13</OctetNo>
 		<Contents_en>Aerosol type</Contents_en>
-		<Note_en>(see Common Code table C-14)</Note_en>
+		<Note_en>(see Code table 4.233)</Note_en>
 		<noteIDs/>
-		<codeTable>CCT-14</codeTable>
+		<codeTable>4.233</codeTable>
 		<flagTable/>
 		<Status>Operational</Status>
 	</GRIB2_Template_en>
