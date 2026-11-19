@@ -1,22 +1,22 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
-,Statistical processing of reference period,,0,,Average,,,,Operational
-,Statistical processing of reference period,,1,,Accumulation,,,,Operational
-,Statistical processing of reference period,,2,,Maximum,,,,Operational
-,Statistical processing of reference period,,3,,Minimum,,,,Operational
-,Statistical processing of reference period,,4,,Median,,,,Operational
-,Statistical processing of reference period,,5-19,,Reserved,,,,Operational
-,Statistical processing of reference period,,20,,Model Climate,,,,Operational
-,Statistical processing of reference period,,21,,Index based on normal distribution,,,,Operational
-,Statistical processing of reference period,,22,,Index based on log-normal distribution,,,,Operational
-,Statistical processing of reference period,,23,,Index based on generalized log-normal distribution,,,,Operational
-,Statistical processing of reference period,,24,,Index based on gamma distribution,,,,Operational
-,Statistical processing of reference period,,25,,Index based on logistic distribution,,,,Operational
-,Statistical processing of reference period,,26,,Index based on log-logistic distribution,,,,Operational
-,Statistical processing of reference period,,27,,Index based on generalized logistic distribution,,,,Operational
-,Statistical processing of reference period,,28,,Index based on Weibull distribution,,,,Operational
-,Statistical processing of reference period,,29,,Index based on generalized extreme value distribution,,,,Operational
-,Statistical processing of reference period,,30,,Index based on Pearson III distribution,,,,Operational
-,Statistical processing of reference period,,31,,Index based on empirical distribution,,,,Operational
-,Statistical processing of reference period,,32-191,,Reserved,,,,Operational
-,Statistical processing of reference period,,192-254,,Reserved for local use,,,,Operational
-,Statistical processing of reference period,,255,,Missing,,,,Operational
+tmp-id,Statistical processing of reference period,,0,,Average,,,,Operational
+tmp-id,Statistical processing of reference period,,1,,Accumulation,,,,Operational
+tmp-id,Statistical processing of reference period,,2,,Maximum,,,,Operational
+tmp-id,Statistical processing of reference period,,3,,Minimum,,,,Operational
+tmp-id,Statistical processing of reference period,,4,,Median,,,,Operational
+tmp-id,Statistical processing of reference period,,5-19,,Reserved,,,,Operational
+tmp-id,Statistical processing of reference period,,20,,Model Climate,,,,Operational
+tmp-id,Statistical processing of reference period,,21,,Index based on normal distribution,,,,Operational
+tmp-id,Statistical processing of reference period,,22,,Index based on log-normal distribution,,,,Operational
+tmp-id,Statistical processing of reference period,,23,,Index based on generalized log-normal distribution,,,,Operational
+tmp-id,Statistical processing of reference period,,24,,Index based on gamma distribution,,,,Operational
+tmp-id,Statistical processing of reference period,,25,,Index based on logistic distribution,,,,Operational
+tmp-id,Statistical processing of reference period,,26,,Index based on log-logistic distribution,,,,Operational
+tmp-id,Statistical processing of reference period,,27,,Index based on generalized logistic distribution,,,,Operational
+tmp-id,Statistical processing of reference period,,28,,Index based on Weibull distribution,,,,Operational
+tmp-id,Statistical processing of reference period,,29,,Index based on generalized extreme value distribution,,,,Operational
+tmp-id,Statistical processing of reference period,,30,,Index based on Pearson III distribution,,,,Operational
+tmp-id,Statistical processing of reference period,,31,,Index based on empirical distribution,,,,Operational
+tmp-id,Statistical processing of reference period,,32-191,,Reserved,,,,Operational
+tmp-id,Statistical processing of reference period,,192-254,,Reserved for local use,,,,Operational
+tmp-id,Statistical processing of reference period,,255,,Missing,,,,Operational
