@@ -1,48 +1,48 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
-Source or sink,,0,,Other,,,,Operational
-Source or sink,,1,,Aviation,,,,Operational
-Source or sink,,2,,Lightning,,,,Operational
-Source or sink,,3,,Biogenic sources,,,,Operational
-Source or sink,,4,,Anthropogenic sources,,,,Operational
-Source or sink,,5,,Wild fires,,,,Operational
-Source or sink,,6,,Natural sources,,,,Operational
-Source or sink,,7,,Volcanoes,,,,Operational
-Source or sink,,8,,Bio-fuel,,,,Operational
-Source or sink,,9,,Fossil-fuel,,,,Operational
-Source or sink,,10,,Wetlands,,,,Operational
-Source or sink,,11,,Oceans,,,,Operational
-Source or sink,,12,,Elevated anthropogenic sources,,,,Operational
-Source or sink,,13,,Surface anthropogenic sources,,,,Operational
-Source or sink,,14,,Agriculture livestock,,,,Operational
-Source or sink,,15,,Agriculture soils,,,,Operational
-Source or sink,,16,,Agriculture waste burning,,,,Operational
-Source or sink,,17,,Agriculture (all),,,,Operational
-Source or sink,,18,,"Residential, commercial and other combustion",,,,Operational
-Source or sink,,19,,Power generation,,,,Operational
-Source or sink,,20,,Super power stations,,,,Operational
-Source or sink,,21,,Fugitives,,,,Operational
-Source or sink,,22,,Industrial process,,,,Operational
-Source or sink,,23,,Solvents,,,,Operational
-Source or sink,,24,,Ships,,,,Operational
-Source or sink,,25,,Wastes (solid and water),,,,Operational
-Source or sink,,26,,Road transportation,,,,Operational
-Source or sink,,27,,Off-road transportation,,,,Operational
-Source or sink,,28,,Nuclear power plant,,,,Operational
-Source or sink,,29,,Nuclear weapon,,,,Operational
-Source or sink,,30,,Commercial building heating,,,,Operational
-Source or sink,,31,,Residential heating,,,,Operational
-Source or sink,,32,,Oil refineries and transformation industry,,,,Operational
-Source or sink,,33,,Gas production,,,,Operational
-Source or sink,,34,,Vegetation,,,,Operational
-Source or sink,,35,,Biomass burning,,,,Operational
-Source or sink,,36,,Settlements,,,,Operational
-Source or sink,,37,,Soil,,,,Operational
-Source or sink,,38,,Wild animals,,,,Operational
-Source or sink,,39,,Savannah,,,,Operational
-Source or sink,,40,,Tropical forest,,,,Operational
-Source or sink,,41,,Boreal forest,,,,Operational
-Source or sink,,42,,Peatland,,,,Operational
-Source or sink,,43,,Deforestation,,,,Operational
-Source or sink,,44-191,,Reserved,,,,Operational
-Source or sink,,192-254,,Reserved for local use,,,,Operational
-Source or sink,,255,,Missing,,,,Operational
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+tmp-id,Source or sink,,0,,Other,,,,Operational
+tmp-id,Source or sink,,1,,Aviation,,,,Operational
+tmp-id,Source or sink,,2,,Lightning,,,,Operational
+tmp-id,Source or sink,,3,,Biogenic sources,,,,Operational
+tmp-id,Source or sink,,4,,Anthropogenic sources,,,,Operational
+tmp-id,Source or sink,,5,,Wild fires,,,,Operational
+tmp-id,Source or sink,,6,,Natural sources,,,,Operational
+tmp-id,Source or sink,,7,,Volcanoes,,,,Operational
+tmp-id,Source or sink,,8,,Bio-fuel,,,,Operational
+tmp-id,Source or sink,,9,,Fossil-fuel,,,,Operational
+tmp-id,Source or sink,,10,,Wetlands,,,,Operational
+tmp-id,Source or sink,,11,,Oceans,,,,Operational
+tmp-id,Source or sink,,12,,Elevated anthropogenic sources,,,,Operational
+tmp-id,Source or sink,,13,,Surface anthropogenic sources,,,,Operational
+tmp-id,Source or sink,,14,,Agriculture livestock,,,,Operational
+tmp-id,Source or sink,,15,,Agriculture soils,,,,Operational
+tmp-id,Source or sink,,16,,Agriculture waste burning,,,,Operational
+tmp-id,Source or sink,,17,,Agriculture (all),,,,Operational
+tmp-id,Source or sink,,18,,"Residential, commercial and other combustion",,,,Operational
+tmp-id,Source or sink,,19,,Power generation,,,,Operational
+tmp-id,Source or sink,,20,,Super power stations,,,,Operational
+tmp-id,Source or sink,,21,,Fugitives,,,,Operational
+tmp-id,Source or sink,,22,,Industrial process,,,,Operational
+tmp-id,Source or sink,,23,,Solvents,,,,Operational
+tmp-id,Source or sink,,24,,Ships,,,,Operational
+tmp-id,Source or sink,,25,,Wastes (solid and water),,,,Operational
+tmp-id,Source or sink,,26,,Road transportation,,,,Operational
+tmp-id,Source or sink,,27,,Off-road transportation,,,,Operational
+tmp-id,Source or sink,,28,,Nuclear power plant,,,,Operational
+tmp-id,Source or sink,,29,,Nuclear weapon,,,,Operational
+tmp-id,Source or sink,,30,,Commercial building heating,,,,Operational
+tmp-id,Source or sink,,31,,Residential heating,,,,Operational
+tmp-id,Source or sink,,32,,Oil refineries and transformation industry,,,,Operational
+tmp-id,Source or sink,,33,,Gas production,,,,Operational
+tmp-id,Source or sink,,34,,Vegetation,,,,Operational
+tmp-id,Source or sink,,35,,Biomass burning,,,,Operational
+tmp-id,Source or sink,,36,,Settlements,,,,Operational
+tmp-id,Source or sink,,37,,Soil,,,,Operational
+tmp-id,Source or sink,,38,,Wild animals,,,,Operational
+tmp-id,Source or sink,,39,,Savannah,,,,Operational
+tmp-id,Source or sink,,40,,Tropical forest,,,,Operational
+tmp-id,Source or sink,,41,,Boreal forest,,,,Operational
+tmp-id,Source or sink,,42,,Peatland,,,,Operational
+tmp-id,Source or sink,,43,,Deforestation,,,,Operational
+tmp-id,Source or sink,,44-191,,Reserved,,,,Operational
+tmp-id,Source or sink,,192-254,,Reserved for local use,,,,Operational
+tmp-id,Source or sink,,255,,Missing,,,,Operational

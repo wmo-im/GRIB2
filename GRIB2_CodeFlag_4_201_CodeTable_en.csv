@@ -1,19 +1,19 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
-Precipitation type,,0,,No precipitation,,,,Operational
-Precipitation type,,1,,Rain,,,,Operational
-Precipitation type,,2,,Thunderstorm,,,,Operational
-Precipitation type,,3,,Freezing rain,,,,Operational
-Precipitation type,,4,,Mixed/ice,,,,Operational
-Precipitation type,,5,,Snow,,,,Operational
-Precipitation type,,6,,Wet snow,,,,Operational
-Precipitation type,,7,,Mixture of rain and snow,,,,Operational
-Precipitation type,,8,,Ice pellets,,,,Operational
-Precipitation type,,9,,Graupel,,,,Operational
-Precipitation type,,10,,Hail,,,,Operational
-Precipitation type,,11,,Drizzle,,,,Operational
-Precipitation type,,12,,Freezing drizzle,,,,Operational
-Precipitation type,,13,,Hail (less than 5 mm),,,,Operational
-Precipitation type,,14,,Hail (greater than or equal to 5 mm),,,,Operational
-Precipitation type,,15-191,,Reserved,,,,Operational
-Precipitation type,,192-254,,Reserved for local use,,,,Operational
-Precipitation type,,255,,Missing,,,,Operational
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
+tmp-id,Precipitation type,,0,,No precipitation,,,,Operational
+tmp-id,Precipitation type,,1,,Rain,,,,Operational
+tmp-id,Precipitation type,,2,,Thunderstorm,,,,Operational
+tmp-id,Precipitation type,,3,,Freezing rain,,,,Operational
+tmp-id,Precipitation type,,4,,Mixed/ice,,,,Operational
+tmp-id,Precipitation type,,5,,Snow,,,,Operational
+tmp-id,Precipitation type,,6,,Wet snow,,,,Operational
+tmp-id,Precipitation type,,7,,Mixture of rain and snow,,,,Operational
+tmp-id,Precipitation type,,8,,Ice pellets,,,,Operational
+tmp-id,Precipitation type,,9,,Graupel,,,,Operational
+tmp-id,Precipitation type,,10,,Hail,,,,Operational
+tmp-id,Precipitation type,,11,,Drizzle,,,,Operational
+tmp-id,Precipitation type,,12,,Freezing drizzle,,,,Operational
+tmp-id,Precipitation type,,13,,Hail (less than 5 mm),,,,Operational
+tmp-id,Precipitation type,,14,,Hail (greater than or equal to 5 mm),,,,Operational
+tmp-id,Precipitation type,,15-191,,Reserved,,,,Operational
+tmp-id,Precipitation type,,192-254,,Reserved for local use,,,,Operational
+tmp-id,Precipitation type,,255,,Missing,,,,Operational
